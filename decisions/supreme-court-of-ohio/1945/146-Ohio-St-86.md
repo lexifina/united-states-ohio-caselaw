@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+docket: "30360"
+decided: "1945-11-28"
+citations: ["146 Ohio St. 86"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Zimmerman, Bell, Williams, Turner and Hart, JJ., concur."]
+parties: ["The Clark Restaurant Co., Appellee, v. Evatt, Tax Commr., Appellant."]
+source_url: "https://static.case.law/ohio-st/146/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1037146
+cites_cases: ["135 Ohio St., 377"]
+---
+
+# Clark Restaurant Co. v. Evatt
+
+## Majority (Matthias, J.)
+
+Matthias, J.
+The question presented in this appeal is one of limited scope. It is whether the Board of Tax Appeals erred when it found that the unamortized cost of these improvements to the leased properties, which had been capitalized.for the purpose of amortization over the life of the leases on the real estate improved, did not constitute “prepaid items” within the meaning of that term as used in Section 5327, General Code, and therefore should not have been included in determining the taxable credits of the appellee.
+■ The facts of the case are not in dispute and are stipulated. The Clark Restaurant Company, at the beginning’ of the tax year in question, operated various restaurants under leases for periods varying from a month-to-month basis to periods of approximately five years.
+In equipping these leased premises for use as restaurants, the appellee-lessee was either permitted or obligated under the various leases to make certain improvements or alterations. The expense in connection with this work was capitalized by the appellee and was amortized over the life of the leases. The balance of this capitalized expense which remained unamortized as of January 1, 1943, amounted to $192,310, which amount the Tax Commissioner added to the current accounts receivable and other prepaid items, resulting in an increase in the tax assessed in the sum of $576.93.
+The determination of the validity of the assessment as made by the Tax Commissioner and the finding and decision of the Board of Tax Appeals reversing such assessment requires the interpretation of Section 5327, General Code.
+That section reads as follows:
+“The term ‘credits’ as so used, means the excess of the sum of all current accounts receivable and prepaid items used in business when added together estimating every such account and item at its true, value in money, over and above the sum of current accounts payable of the business, other than taxes and assessments. ‘Current accounts’ includes items receivable or payable on demand or within one year from the date of inception, however evidenced. ‘Prepaid items’ does not include tangible property. In making up the sum of such current accounts payable there shall not be taken into account an acknowledgment of indebtedness, unless founded on some consideration actually received, and believed at the time of making such acknowledgment to be a full consideration therefor; nor an acknowledgment for the purpose of diminishing the amount of credits to be listed for taxation. ’ ’
+The assessment by the Tax Commissioner was based on that part of the section which provides for the taxation of prepaid items “used in business,” on the theory that the cost of such improvements made by the lessee and paid by it constituted advance payment of the expense of occupying the leas.ed premises during the term. The assessment was reversed by the Board of Tax Appeals mainly on authority of the provision of Section 5327, General Code, which states' that “ ‘prepaid items’ does not include tangible property.” Both parties concede that legal title to these improvements is in the lessors and that the improvements, for which the expenditures were made by the lessee, are now part of the real estate.
+The primary question presented, then, is whether the sum involved in fact constitutes a prepaid item. The statute does not affirmatively define prepaid items and in such a situation the general rule is well established that the words so used will be given their ordinary and usual meaning.
+In a discussion of the “nature of prepayments” by W. A. Patón, a recognized authority on the subject, in a recent (third) edition of his Accountants’ Handbook, he says at page 444:
+“Prepayments arise in transactions in which the usual credit relationship is reversed: payment is made in advance of the receipt and utilization of goods and services. Insurance premiums, rent, prepaid wages and salaries, deposits on contracts, payments for season tickets, etc., are illustrative. Prepayments should not be classed with the typical receivables in the balance sheet but should be set up under a distinct head, since they usually represent items to be consumed in the conduct of the business. The discussion of these items is included -in this section, however, primarily as a matter of convenience.
+“The term deferred charge is sometimes used to describe prepayments in the balance sheet, but is not, very satisfactory. The cost of any asset which will be consumed in production is a deferred charge to future operations; the more permanent the asset, therefore-, the more appropriate the use of the expression ‘deferred.’ ‘Prepaid expenses’ is sometimes used as a substitute term but this, too, is subject to objection since many of the fixed assets may also be considered, in a sense, to be prepaid expenses.”
+Neither party herein argues that the amount involved is other than some form of a prepaid expense. The appellee, however, contends that since the sum involved was expended for' the labor and materials which went into the improvements and became “tangible property,” it is expressly excluded by the provision in Section 5327, General Code, wherein it is stated that “ ‘prepaid items’ does not include tangible property.”
+The appellant contends that the amount in question is a prepaid item, as the term is generally used in the accounting profession, and therefore the appellee’s interest in the property is an intangible one for which the lessee should be taxed, and that the legal title to the tangible property bought by the money involved being exclusively in the various lessors, a tax on such tangible property is chargeable to them.
+The determination of the issue presented seems to require only the application of clear and explicit statutory provisions to the conceded facts. Whatever the term “prepaid items” may ordinarily comprehend and include, the provision of Section 5327, General Code, in the most concise language conceivable, declares it “does not include tangible property.”
+It is not for the court to construe language of a statute which needs no construction, or to attempt a clarification of that which in the statutory provision is stated in the clearest and most elementary terms. It is contended, however, that if the values of improvements and alterations are not taxable as “prepaid items,” then, by virtue of the provisions of Section 5327-1, General Code, they are taxable as “other taxable intangibles” or “other intangible property.”
+The pertinent portion of that section reads as follows:
+“The terms ‘other taxable intangibles’ and ‘other intangible property’ as so used, include every valuable right, title or interest not comprised within or expressly excluded from any of the other definitions set forth in this chapter.”
+The two sections (Sections 5327 and 5327-1, General Code) are in pari materia and, of course, must be read and construed together. The particular “right, title or interest” involved here, to wit, “prepaid items,” is “expressly excluded” for, by the provisions of Section 5327, General Code, “prepaid items” does not include tangible property. That may not be included by implication which has been expressly excluded.
+If there be any doubt as to the meaning of these statutory provisions, or if any judicial construction be required, then a well established rule would be applicable, i. e., in the construction and application of taxing statutes their provisions cannot be extended beyond the clear import of the language used; nor can their operation be so enlarged as to embrace subjects not specifically enumerated. A strict construction is required, and any doubt must be resolved in favor of the taxpayer and against the taxing authorities. Wat son, Jr., Exr., v. Tax Commission, 135 Ohio St., 377, 21 N. E. (2d), 126, and authorities there cited.
+It follows that the decision of the Board of Tax Appeals is neither unlawful nor unreasonable and is therefore affirmed.
+Decision affirmed.
+Weygandt, C. J., Zimmerman, Bell, Williams, Turner and Hart, JJ., concur.
