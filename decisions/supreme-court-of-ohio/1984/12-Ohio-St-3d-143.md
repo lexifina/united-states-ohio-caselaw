@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+docket: "83-840"
+decided: "1984-07-18"
+citations: ["12 Ohio St. 3d 143"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, Locher, C. Brown and J. P. Celebrezze, JJ., concur.", "Holmes, J., concurs in judgment only."]
+parties: ["Toledo Edison Co., Appellant, v. Public Utilities Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/12/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816310
+cites_cases: ["1 Ohio St. 3d 22", "12 O.O.3d 122", "15 O.O.3d 230", "16 O.O.3d 11", "174 Ohio St. 575", "18 O.O.3d 302", "21 O.O.3d 191", "21 O.O.3d 96", "23 O.O.2d 268", "320 U.S. 591", "390 U.S. 747", "4 Ohio St. 3d 107", "4 Ohio St. 3d 111", "4 Ohio St. 3d 91", "58 Ohio St. 2d 120", "61 Ohio St. 2d 215", "62 Ohio St. 2d 17", "64 Ohio St. 2d 71", "67 Ohio St. 2d 153", "67 Ohio St. 2d 303"]
+---
+
+# Toledo Edison Co. v. Public Utilities Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+R.C. 4909.15(D) requires the commission to fix and determine a just and reasonable rate:
+“(2) With due regard to all such other matters as are proper, according to the facts in each case,
+“(a) Including a fair and reasonable rate of return determined by the commission with reference to a cost of debt equal to the actual embedded cost of debt of such public utility.”
+In its first proposition of law, appellant argues that the commission’s decision to amortize the gain from the debt/equity exchange over twenty years and reduce the annual cost of long-term debt by the annual amortization ($532,250) results in a rate of return based on a hypothetical debt structure in violation of R.C. 4909.15(D)(2)(a).
+Appellant relies on General Telephone Co. v. Pub. Util. Comm. (1963), 174 Ohio St. 575 [23 O.O.2d 268]. That case, however, dealt with allowable operating expenses and not an adjustment which affected only rate of return. Id. at 578-579. Our scope of review with respect to rate of return computations is much more limited. “* * * [T]his court has consistently deferred to the expertise of the commission in determining an appropriate rate of return unless such determination is ‘manifestly against the weight of the evidence and * * * so clearly unsupported by the record as to show misapprehension or mistake or willful disregard of duty.’ C&SOE v. Pub. Util. Comm., supra ([1979], 58 Ohio St. 2d 120 [12 O.O.3d 122]).” Consumers’ Counsel v. Pub. Util. Comm. (1980), 64 Ohio St. 2d 71, 79 [18 O.O.3d 302]. See, also, Ohio Suburban Water Co. v. Pub. Util. Comm. (1980), 62 Ohio St. 2d 17, 21-22 [16 O.O.3d 11]; Consumers’ Counsel v. Pub. Util. Comm. (1981), 67 Ohio St. 2d 303, 310 [21 O.O.3d 191]. As we noted in Consumers’ Counsel v. Pub. Util. Comm. (1980), supra at 79:
+“Limited judicial review of a rate of return determination is sound for reason that while ‘cost of capital analyses * * * have an aura of precision about them, * * * they are fraught with judgments and assumptions.’ Re Dayton Power & Light Co. (March 9, 1979), case No. 78-92-EL-AIR, at page 26. Since the calculation of attrition, and the determination of the appropriateness of an offsetting allowance, are fraught with similar judgments and assumptions, we think it appropriate to apply a similar limited standard of review. See Dayton Power & Light Co. v. Pub. Util. Comm., supra ([1980,] 61 Ohio St. 2d 215 [15 O.O.3d 230]), at page 219 (Paul W. Brown, J., concurring).”
+This rationale applies with equal force to the commission’s treatment of the gain from the debt/equity exchange for purposes of the rate of return calculation. The order of the commission was supported by staff testimony and consistent with the commission’s prior practice with respect to similar exchanges.
+Appellant does not directly challenge the commission’s decision to disallow as an item of expense the costs associated with the cancelled CAPCO nuclear plants. The disallowance of these costs was originally mandated by the court in Consumers’ Counsel v. Pub. Util. Comm. (1981), 67 Ohio St. 2d 153 [21 O.O.3d 96], and subsequently reaffirmed in Consumers’ Counsel v. Pub. Util. Comm. (1982), 1 Ohio St. 3d 22; Cleveland Elec. Illum. Co. v. Pub. Util. Comm. (1983), 4 Ohio St. 3d 107; and Dayton Power & Light Co. v. Pub. Util. Comm. (1983), 4 Ohio St. 3d 91.
+However, appellant argues that the disallowance of these costs as operating expenses and the treatment of the gain from the debt/equity exchange result in a rate of return which is confiscatory in violation of Section 19, Article I of the Ohio Constitution and the Fifth and Fourteenth Amendments to the United States Constitution.
+We recently addressed a similar issue in Dayton Power & Light Co., supra, and Cleveland Elec. Illum. Co., supra. In both cases, we held that the rate orders did not amount to a confiscation of private property. The following was enunciated in Dayton Power & Light Co. and also adopted in Cleveland Elec. Illum. Co., supra, at 109:
+“ ‘* * * Per se confiscation in a utility rate case may exist as an abstract premise, but the constitutional cases make it clear that a successful challenge must demonstrate that the rate order when reviewed in its entirety falls outside the “broad zone of reasonableness.” * * * [Permian Basin Area Rate Cases (1968), 390 U.S. 747, 770] and the “heavy burden” of establishing unreasonableness must be borne by the challenger. * * * [FPC v. Hope Natural Gas Co. (1943), 320 U.S. 591, 602].
+U <* * *
+“ * * The rule is dear: “* * * If the total effect of the rate order cannot be said to be unjust and unreasonable, judicial inquiry * * * is at an end.” * * *’ (Emphasis added.) Moreover, the Constitution imposes no methodological strictures on ratemaking authorities. See Dayton Power & Light, at page 98, fn. 8.”
+The commission approved a range of 12.80 percent to 13.19 percent for rate of return and determined that appellant was entitled to a rate of return of 13.09 percent. Appellant argues that if the allowable return computed on the basis of the 13.09 percent rate of return is reduced by the disallowed expenses, adjusted to reflect a possible writeoff as a result of their disallowance, and the debt is set off by the annual amortization of its gain, it produces an “effective” rate of return of 8.86 percent. Since the “effective” rate of return falls outside of the range approved by the commission, appellant contends that it is outside of the “broad zone of reasonableness” and confiscatory under the standard enunciated in Permian Basin Area Rate Cases, supra.
+This argument is without merit. The “effective” rate of return relied upon by appellant was computed outside Ohio’s ratemaking formula. The computation includes expenses disallowed under Ohio law and liabilities which have not occurred. Appellant may not devise its own ratemaking formula upon appeal, but must confine its arguments to the ratemaking scheme enacted by the General Assembly. As we stated in Cleveland Elec. Illum. Co., supra, at 109: “ ‘* * * [p]ursuant to the statutory ratemaking formula investors are assured a fair and reasonable return on property that is determined to be used and useful, R.C. 4909.15(A)(2), plus the return of costs incurred in rendering the public service, R.C. 4909.15(A)(4), while consumers may not be charged “for utility investments and expenditures that are neither included in the rate base nor properly categorized as costs.[”] [Footnote omitted.] We see no constitutional infirmity in the balance thus struck by the General Assembly. * * *’ ”
+We also note that appellant was granted the same adjustment to the cost of common equity to reflect the perceived increased risk to investors as a result of the cancelled plants case as was granted to CEI in Cleveland Elec. Illum. Co., supra.
+The order of the commission, being neither unreasonable nor unlawful, is affirmed.
+Order affirmed.
+Celebrezze, C.J., W. Brown, Sweeney, Locher, C. Brown and J. P. Celebrezze, JJ., concur.
+Holmes, J., concurs in judgment only.
+Appellant indicates that if the Federal Energy Regulatory Commission (“FERC”) does not approve book amortization of the investment in the cancelled nuclear units, it will face a possible writeoff of $53,934,000. This court approved the book amortization in Consumers’ Counsel v. Pub. Util. Comm. (1983), 4 Ohio St. 3d 111, and appellant concedes disapproval by the FERC is unlikely.
