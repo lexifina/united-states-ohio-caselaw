@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1876-12"
+citations: ["28 Ohio St. 483"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dennis Regan v. Christian Zeeb and Louisa Zeeb."]
+source_url: "https://static.case.law/ohio-st/28/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 894651
+cites_cases: ["14 Ohio St. 300", "15 Ohio St. 279", "9 Ohio St. 589"]
+---
+
+# Regan v. Zeeb
+
+## Majority (Johnson, J.)
+
+Johnson, J.
+Louisa Zeeb, her husband joining, brought an action against Dennis Regan to recover damages sustained by the refusal of Regan, while acting as a constable, with an execution against her husband, levied on a certain butcher’s stall, to set the same off on her demand in lieu of a homestead.
+She alleges that she is a resident of the state; that neither herself nor husband was possessed of a homestead nor any other property, real or personal, except this butcher’s stall, worth less than five hundred dollars.
+The court overruled a general demurrer to the petition and the defendant answered, and upon the issues of fact a verdict was rendered for the plaintiff, assessing damages at four hundred dollars.
+The only substantial question presented by the general demurrer to the petition, was whether, where a family consisting of husband, wife, and one child, owns no homestead and no other property than that levied upon by a constable to satisfy an execution against the husband, the wife may demand, and be entitled to have set off to her, that piece of personal property, it not exceeding five hundred dollars in value, in lieu of a homestead, under the act in force July, 1871 ?
+The third section of the act amending the homestead law (66 Ohio L. 50), in force at that time, provides:
+“ That it shall be lawful for any resident of Ohio, being the head of a family, and not the owner of a homestead, to hold exempt from levy and sale as aforesaid, personal property to be selected by such person, his agent or attorney, at any time before sale, not exceeding five hundred dollars in value, in addition to the amount of chattel property now by law exempted; the value of said property to be estimated and appraised by two disinterested householders of the county, to be selected by the officer holding the execution, who shall be sworn by such officer impartially to make such appraisement.”
+The argument is, that the wife has no right to demand that this piece of property be exempted, because, by this statute, the right to make the selection is limited to the head of a family, his agent or attorney, and is not extended to the wife as it is in section 2 of the homestead act.
+"We do not concur in this view of the wife’s rights under this statute. In Sears v. Hanks, 14 Ohio St. 300, the supreme court has justly said: “The humane policy of the homestead act (S. & C. 1145) seeks not the protection of the debtor; but its object is to protect his family from the inhumanity which would deprive its dependent members of a home.” And, in aid of this wise and humane policy, the whole act should receive as liberal a construction as can be fairly given it. We think its provisions protect the debtor’s family, as against his creditors.
+The homestead act of 1850 was for the benefit of the family, and not of the debtor, except so far as he was .a member of that family. The title of the act shows this.
+It is called, “ an act to exempt the homestead of families from forced sale to pay debts.” It enacts that, “ the family homestead of each head of a family shall be exempt,” etc. It is not a grant of exemption to the debtor, but to the family.
+Section 4 enlarges the meaning of the word “family,” beyond its ordinary signification, so that every widower or widow, having unmarried children residing with them as part of their family, and husband and wife living together, who have no children, shall have the benefit of this act.
+Webster defines a family to be: “1. The collective body of persons who live in one house and under one head or manager; a household, including parents, children, and servants, and, as the case may be, lodgers or boarders.”
+The benefits of the act — that is, of the whole act, including as well the provision in lieu of the homestead, as that for the homestead itself — are extended to the kind of families described in section 4, as well as those covered by the general word family, in sections 1 and 2 of the act.
+If these plaintiffs were living together as husband and wife, but having no child or children, then, by section 4, they were entitled to the benefit of this provision in lieu of a homestead. Will the fact, which appears of record, that they have an infant child, defeat such claim when made by the mother, though if made by the father it would be allowed ?
+By section 2, the wife may make the application to have the homestead assigned, and stress is laid on this fact, as well as the omission of the wife, in section 3 of the act of 1869.
+Section 3 was an amendment of section 8 (2 S. & C. 1146), which was an amendment of the original section 8 of the act of 1850.
+The original section 8 did not contain the clause, “to be selected,” etc. That section provided that it should be lawful for any resident of Ohio, being the head of a family, to hold exempt mechanical tools, or a team and farming utensils, but made no provision as to who should make the demand or selection.
+When the amendment of 1858, extending the exemption in lieu of a homestead to any kind of personal property, and to all heads of families, as well as farmers and mechanics, was passed, this clause, “ to be selected by such person,” was added. Thus depriving the officer of the power to make the selection, where there were several articles, and conferring it on the head of the family.
+By the act of 1869, the right to make this selection was expressly extended to his agent or attorney, although perhaps no one would doubt, that without this amendment the debtor might have authorized an agent or attorney to select for him. When the exemption was extended to all articles of personal property, a necessity arose to prescribe for a selection. Had this not been done, the officer might have claimed that he must make it. Where no selection is to be made, as in the present case, such a clause is unnecessary. The husband could not deprive the family of the benefits of the act by collusion with the creditor or officer. Slanker v. Beardsley, 9 Ohio St. 589.
+There the court said, in speaking of a ease like this, where the property was insufficient to satisfy the exemption: “ It is no longer a case of selection, but one of mere demand.” Of course to make the officer liable, a demand must be made. The object of making the demand is to notify him of the claim so that the officer can perform his duty.
+As by the 4th section the wife is entitled to the benefit of the act, including this provision for the family, we see no reason why she may not make the demand for the benefit of herself and children, as she is their natural guardian for nurture of her children.
+By the act of 1873 (70 Ohio L. 51), amending this section, the word “ wife ” was inserted, thus giving her the right to select personal property. This act did not clothe her with any additional benefits of exemption, but conferred upon her, as well as the husband, the power to select the chattel property, not exceeding the $500. From this amendment, counsel seem to infer that prior to its passage the wife had no interest in the provision made for the family that authorized her to make the demand, and yet when these words, “ to be selected,” etc., were first inserted in the act (2 S. & C. 1146, passed in 1858), there was in force an act (1 S. & C. 639) distinctly recognizing her rights in exempted property, which provided that he could in no manner dispose of it without her consent. And in Slanker v. Beardsley, 9 Ohio St. 589, it was held that this right extended to personal property given in lieu of a homestead.
+These acts must be construed together in determining the wife’s right under this section.
+"While the act of 1857 was in force, it was held, in the case just cited, that where there was only one article, not sufficient to satisfy the exemption, no selection was necessary to authorize the wife to sue; that it was not a ease for selection, but for demand merely.
+The husband could not, by refusing to make the demand, deprive the wife of the right of action, under the act of 1857. Slanker v. Beardsley, 9 Ohio St. 589; Colwell v. Carper, 15 Ohio St. 279.
+The statute by which this act of 1857 was superseded, instead of divesting her of any rights as a wife previously conferred, manifested the tendency of all our recent legislation on this subject, by clothing her with greater privileges.
+But if we concede that, by this amendment of IBÍS, the presumption arises that it gave the wife something she did not before possess, it does not follow that this action can not be maintained. That act only purports to give her the right to make a selection of the property. "Where, as here, there is only one article, there is no case for selection, but for demand only.
+Again, while it may be that a presumption arises that an amendment of this kind creates a new right not conferred by the original act, yet such a presumption is not of general application to all amendments of this kind.
+One of the principal offices and most frequent uses of an amendment in legislation is to make clear and certain existing provisions of law. If the words used are ambiguous, or indefinite, or liable to cause litigation, it is quite a common thing to amend, to relieve the law of these defects. Such remedial amendments confer no new right or remedy, but simply relieve the old law from uncertainty, and so avoid litigation.
+Judgment affirmed.
