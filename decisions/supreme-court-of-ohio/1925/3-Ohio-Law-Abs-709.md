@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19394"
 decided: "1925-10-26"
-citations: ["3 Ohio Law Abs. 709", "3 Abs. 674", "4 Ohio Law Abs. 41", "3 Abs. 674; OS. Pend. 3 Abs 709"]
+citations: ["3 Ohio Law Abs. 709", "3 Abs. 674"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
