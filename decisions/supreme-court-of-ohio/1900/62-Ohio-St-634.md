@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "5885"
+decided: "1900-02-27"
+citations: ["62 Ohio St. 634"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gates et al. v. Moorhouse."]
+source_url: "https://static.case.law/ohio-st/62/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 949101
+---
+
+# Gates v. Moorhouse
+
+## Majority
+
+Judgment affirmed.
