@@ -6,6 +6,7 @@ citations: ["8 Ohio Law Abs. 28"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Marshall, CJ., Robinson, Jones, Matthias, Day and Allen, JJ., concur."]
 parties: ["GOODALL v DETERS"]
 source_url: "https://static.case.law/ohio-law-abs/8/cases/0028-02.json"
@@ -15,4 +16,12 @@ cap_id: 1634236
 
 # Goodall v. Deters
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+GOODALL v DETERS
+Ohio Supreme Court
+No 21689.
+Decided Dec. 11, 1929
+Marshall, CJ., Robinson, Jones, Matthias, Day and Allen, JJ., concur.
