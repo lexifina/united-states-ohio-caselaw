@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "76-1291"
+decided: "1977-12-07"
+citations: ["52 Ohio St. 2d 112"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, W. Brown and Locher, JJ., concur.", "Celebrezze, J., concurs in the judgment.", "Sweeney, J., not participating."]
+parties: ["The State of Ohio, Appellee, v. Graven, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/52/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711859
+cites_cases: ["120 A. L. R. 463", "226 F. 2d 464", "228 F. 2d 906", "29 Ohio St. 635", "32 Ohio St. 215", "336 F. 2d 1003", "373 P. 2d 867", "387 S. W. 2d 396", "424 S. W. 2d 929", "448 F. 2d 64", "48 Ohio St. 2d 270", "51 Ohio St. 2d 112", "58 Cal. 2d 304", "66 Ohio St. 509"]
+---
+
+# State v. Graven
+
+## Majority (Paul W. Bbown, J.)
+
+Paul W. Bbown, J.
+Our allowance of, the: appellant’s motion for leave to appeal concerns only the two pointy, of law hereafter discussed. We have examined other errors assigned in the Court of Appeals and find theim properly disposed of by that court’s opinion. s
+The; ¡appellant argues .that by sending the indictment to the jury for its use during deliberation, the trial eoupt has violated the appellant’s statutory rights under-R. C.-2945.-35, which provides: ...
+“Upon retiring for deliberation, the jury,, at the discretion of. the court, may take with'it all papers, except depositions, and all articles, photographs, and maps yffiich have been offered in evidence. No article or paper identified but not admitted in evidence shall be takeu by .the jury upon its retirement.” , , .
+This statute by its express language authorizes the trial court, within its discretion, to permit the jury to .take with it papers upon retiring for deliberation, except those papers identified but not admitted in evidence. . . Tp read the statute literally, as proposed by appellant, would exclude from the jury room written charges as expressly authorized for jury use by R. C. 2945.10, as well as. verdict forms, note paper, balloting paper, pens, etc. The obvious purpose of the statute is the exclusion from the jury room of that evidence which has. been ruled inadmissible, •
+. Certain evidentiary considerations and the trial court’s instruction, which follows, limited the use and purpose of the paper here in question: • . . ¡ ..
+“* * m this indictment is not evidence in any way and is not to be considered such. * * * I’m going to permit you to have it with you merely for your keeping the counts straight as you consider them as they relate to the evidence that you heard in the last eight or nine days.”
+An examination of the indictment reveals only a detailed statement of the charges against the appellant. No particularized argument of prejudice is presented by the appellant.
+The following cases hold that a paper taken by the jury on its retirement to the jury room and which could not have been prejudicial to the complaining party does not require a reversal. Cleveland, A & C Ry. Co. v. Workman (1902), 66 Ohio St. 509, 546; Neff v. Cincinnati (1877), 32 Ohio St. 215, 223.
+The American Bar Association Standards Relating to Trial by Jury (1968), at page 14, provides as follows:
+“[Section] 5.1 Materials to jury room.
+“(a) The court in its discretion may permit the jury, upon retiring for deliberation, to take to the jury room a copy of the charges against the defendant and exhibits and writings which have been received in evidence, except depositions.’!
+This provision is consistent with the federal rule. See, e. g., United States v. Press (C. A. 2, 1964), 336 F. 2d 1003, at page 1016, where the court stated that it was not improper to read an indictment to a jury, and that “* * * Indeed, in protracted cases involving numerous counts * * * reference to the indictment often serves as a helpful guide in delineating the issues * * *. Similarly, it is not error to give the indictment to the jury for use during its deliberations.” Accord, United States v. Todaro (C. A. 3, 1971), 448 F. 2d 64, 66. See, also, 75 American Jurisprudence 2d, Trial, Section 1027.
+Unless there is some objectionable notation on or prejudicial memorandum or affidavit attached thereto, it is the general rule that it is proper to permit the jury in a criminal case to take with it into the jury room the indictment or information, or that in any event no reversible error can be based on such permission, the trial court having at least a discretion in this regard. Annotation, 120 A. L. R. 463, at page 464.
+Decisions of courts in other jurisdictions are also instructive. In People v. Rosoto (1962), 58 Cal. 2d 304, 373 P. 2d 867, the court held that even in the absence of consent of counsel, it is within the trial court’s discretion, in a criminal case, to permit the jury to take the indictment to the jury room. The court, in Urban v. State (Tex. Crim. App. 1965), 387 S. W. 2d 396, expressed the view that an indictment is an integral part of the state’s pleading and it is a useful and essential guide to the jury in its deliberations to test and weigh the evidence against the allegations contained in the indictment in order to determine if the state’s proof supports the same. See, also, Lacy v. State (Tex. Crim. App. 1967), 424 S. W. 2d 929.
+Appellant’s second argument considered here is that where one is charged with aiding and abetting another to commit theft by deception, there must be proof beyond a reasonable doubt that the principal also violated the statute. This is a claim of error that was not raised in the Court of Appeals, hence was not considered or decided by that court, and therefore would not ordinarily be considered by this court. State v. Williams (1977), 51 Ohio St. 2d 112. However, we chose to discuss and decide it as an important question in this and similar cases.
+The fact that the General Assembly intended to equate the prosecution and punishment of principals, aiders, abettors, and procurers is clear from R. C. 2923.03(B), which provides that it is no defense to a charge of complicity that no person with whom the accused was in complicity has been convicted as a principal offender. R. C. 2923.03(A)(2) and (F) provide that one who aids and abets another in committing an offense is guilty of the crime of complicity, and may be prosecuted and punished as if he were the principal offender. State v. Bell (1976), 48 Ohio St. 2d 270, 278. Aiding and abetting has been characterized as a substantive and independent offense so that aiders and abettors may be prosecuted and convicted as principals without the trial ór Conviction of the principal offender. Hartshorn v. State (1876), 29 Ohio St. 635.
+The federal rule that an aider and abettor is punishable-as a principal is identical. Section 2, Title 18, U. S. Code; Reamer v. United States (C. A. 6, 1955), 228 F. 2d 906; Roberts v. United States (C. A. 6, 1955), 226 F. 2d 464.
+The appellant argues further that the crime of one charged as an aider and abettor is dependent upon the distinct offense of the principal. Each crime is equal in status and punishment, yet separate and distinct in identity. This allows, and even requires, the characterization of the aider and abettor as a principal offender. It is illogical to propose that the prosecution must show that the principal, who is not on trial, violated the statute beyond a reasonable doubt. The issue at trial was not the absent principal’s guilt, but rather the appellant’s .guilt. The appellant has been convicted under R. C. 2921.41 which provides, in part:
+’ :“(A) No public official or party official shall commit any theft offense, when either of the following applies;
+“(1) The offender uses his office, or 'permits,-or assents'to' its use, in aid of committing the offense;”
+It is clear from the evidence that the appellant knowingly used his office to facilitate the commission of a theft and that by his acts, Michael Graven, Kevin Cónroy, and Richard Mercer received paychecks from the state for work they did not do. The evidence discloses that Michael Graven was hired as a boiler inspector trainee in the Department of Industrial Relations by his father, the appellant; that Michael Graven never submitted any reports to this supervisor, nor did he ever attend any training classes'. At the same time and during the hours when he was paid for working for the state, Michael Graven was enrolled at Cuyahoga Community College for the fall'quarter, and he received grades for all those courses in 'which' he was enrolled. Kevin Conroy, whose immediate supervisor was the appellant^ did not realize he was1 ;on the state payroll until he received his first' paycheck. Richard Mercer, who was hired by the appellant, tookmb-tést for his job title, but received a certificate ;of competency certifying tested proficiency in the mail shortly after his hiring.
+In each instance, the evidence discloses that the appellant, as a public official, was behind these acts and occurrences, and used his office for the commission of the theft offense and in the aid of a theft offense as prohibited under E. C. 2921.41 and 2913.02. This evidence is sufficient to sustain the appellant’s conviction. The appellant on trial, whether characterized as an aider and abettor or principal, has been proven guilty by the evidence independently of the absent principal. The appellant’s argument is. not well taken. .■
+The judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+O’Neill, C. J., Herbert, W. Brown and Locher, JJ., concur.
+Celebrezze, J., concurs in the judgment.
+Sweeney, J., not participating.
