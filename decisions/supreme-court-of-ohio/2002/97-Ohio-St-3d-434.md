@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "1999-0570"
 decided: "2002-12-11"
-citations: ["97 Ohio St. 3d 434", "97 Ohio St. 3d 1477"]
+citations: ["97 Ohio St. 3d 434"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
