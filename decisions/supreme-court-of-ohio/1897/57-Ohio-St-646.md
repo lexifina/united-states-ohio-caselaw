@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "5553"
+decided: "1897-11-09"
+citations: ["57 Ohio St. 646"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Railroad Company v. Ziegler."]
+source_url: "https://static.case.law/ohio-st/57/cases/0646-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 939434
+---
+
+# Railroad Co. v. Ziegler
+
+## Majority
+
+Judgment affirmed.
