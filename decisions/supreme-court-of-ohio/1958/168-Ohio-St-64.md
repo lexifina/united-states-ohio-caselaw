@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "35579"
+decided: "1958-05-21"
+citations: ["168 Ohio St. 64"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Zimmerman, Stewart, Taet, Matthias, Bell and Herbert, JJ., concur."]
+parties: ["McCreary; McCreary, Exrx., Substituted Appellant, v. Bowers, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st/168/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1726691
+---
+
+# McCreary v. Bowers
+
+## Majority
+
+The appeal as of right herein is dismissed for the reason that no debatable constitutional question is involved.
+Appeal dismissed.
+Weygandt, C. J., Zimmerman, Stewart, Taet, Matthias, Bell and Herbert, JJ., concur.
