@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["24 Ohio St. 467"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McIlvaine, White, and Rex, JJ., concurring. Welch, J., not sitting."]
+parties: ["John C. Anderson v. William H. McKinney et al."]
+source_url: "https://static.case.law/ohio-st/24/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888431
+cites_cases: ["22 Ohio St. 275"]
+---
+
+# Anderson v. McKinney
+
+## Majority (Day, C. J.)
+
+Day, C. J.
+So far as the plaintiff seeks, by petition iir error, to review the proceedings of the board of county commissioners, it is sufficient to say it does not appeal’, from the certified record before us, that the board have reached a final decision of the matter pending before them. Until that is done, it can not be known that the plaintiff will be prejudiced by the action of the commissioners. They may refuse to establish the proposed alteration of the road; then he will have no ground of complaint. He must, therefore, in accordance with the settled rule, await the-final order of the commissioners, before he can proceed in-error to reverse their proceedings.
+The same remark may be made in reply to what is urged in argument as to the action of the Probate Court, as if the-appeal had been taken from the final order of the commissioners upon the whole matter, under the second section of the act of April 8, 1856. S. & C. 1301. ■
+The appeal was not taken under that section, but was-taken under the tenth section of the act, which provides-for a separate appeal to the Probate Court, from the decision of the commissioners upon the report of the viewers as to damages.
+Granting that the appeal was properly taken under this section, the only question then is, whether the Probate Court erred in dismissing the appeal.
+Doubtless the principal reasons for providing for such appeal, were to secure to the claimant of damages his constitutional right of a jury trial of the question, and a determination of the cost of the road, as an element to be considered on the final decision of the board of commissioners as tO'tbe establishment of the proposed road.
+It is essential to such final action of the board that the commissioners should be definitely informed whether any damages will be claimed; and, if so, that the amount should be determined.
+For this purpose, as well as to preserve the rights of those whose lands riiay be appropriated, it is provided, in the fourth section of the act of January 27, 1853 (S. & C. 1289), that the viewers appointed to view and report upon the proposed establishment or alteration of a road, “ shall also be a jury to assess and determine” the compensation and damages to be paid therefor.
+Again, this duty is imposed upon the viewers by the sixth section, connected with the proviso that they shall not be required to assess such damages to persons notified as required by law, and not being under disability, unless they “ shall have filed a written application with said viewers, giving a, description of the premises, on which, by them, damages or compensation are claimed; ” and “ that all applications for damages shall be barred unless they be presented as provided for by this act.”
+The constitutionality of these provisions, taken in' connection with the right of appeal and jury trial, provided by the amendatory act of April 8, 1856, is settled in Reckner v. Warner, 22 Ohio St. 275.
+The plaintiff, whose land was to be appropriated in the proposed alteration of the road, applied to the viewers to assess his damages, but did not make his application in writing, as required by the statute. For this reason the viewers refused to award him any compensation or damages, and so reported in writing to the commissioners, who approved the report. From this decision the plaintiff appealed.
+The question recurs: Did the Probate Court err in dismissing the appeal ? It is true the section, under which the appeal was taken, requires the court to confine itself to the question of damages presented by the appeal, and forthwith to issue a venire for a jury to determine the matter. But these requirements, a3 well as the right of appeal itself, are based upon the idea that a claim for damages has been made as required by the statute. A right of appeal is given to a “ claimant of damages.” Surely, one who expressly, or within the contemplation of the statute (as held in the ease already referred to), has waived his right to damages, can not be regarded as a claimant of damages within the meaning of the statute granting the appeal. A contrary construction would annul the provision barring claims not presented to the viewers. Both provisions harmonize, however, upon the idea that the right of appeal, conferred upon “ claimants of damages,” refers to those only who have presented their claims to the viewers in the manner prescribed.
+But it is claimed that the plaintiff appeared before the viewers and expressly claimed the assessment of his damages, and therefore cannot be regarded as having waived his claim. Still, he did not present his claim to them ip writing, giving a description of the premises on which he claimed damages, as prescribed by the statute. But the statute absolutely bar’s all applications for damages not presented in that manner. „
+The statute does not debar the owner of land taken for a road from compensation. It only prescribes the mode in which it can be obtained; and, for obvious reasons, precludes a recovery of damages in any other manner, where there exists no sufficient reason why the statutory remedy •may not be pursued; or, as held in the case of Reckner v Warner, tbe statute “ declares a rule of evidence whereby a waiver, on the part of the land-owner, of his right to compensation, may be established.”
+It makes no difference, then, whether the owner appears before the viewers and claims damages, or, having due notice, fails to do so. So long as, in either case, he fails to comply with the essential requirements of the statute, by presenting his claim in writing, the viewers might properly ■disregard it; for the statute not only provides that all other applications shall be barred, but the viewers are required, by the eighth section of the act under which they are appointed, to make a separate report in writing of their assessment of damages, and that “ they shall also file the written applications on wrhich such assessments have been made, with the county auditor.”
+The manifest legislative theory is, that all claims for ■damages, not preferred in writing, are to be regarded as waived, and that only those who “ shall have filed a written application” with the viewers are to be regarded as •“ claimants of damages.” A purpose is thereby evinced to regard both the rights of individuals, and those of the public.
+By tbe twentieth section of the act under which the appeal was taken, authority is conferred upon the Court of Common Pleas to review, by petition in error, the final decision of the Probate Court upon such appeal; but it provides that it “ shall not be reversed for any defect in form, if found to be substantially correct.”
+By the appeal to the Probate Court, the plaintiff was seeking a statutory remedy; but having failed to pursue the statute, we have seen that he was thereby debarred from proceeding under it. The ruling of the Probate ■Court, in dismissing the appeal, was therefore substantially correct. There was, then, no error in affirming its judgment. Motion overruled.
+McIlvaine, White, and Rex, JJ., concurring. Welch, J., not sitting.
