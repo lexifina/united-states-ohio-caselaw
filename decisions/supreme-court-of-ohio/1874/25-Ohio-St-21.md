@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1874-12"
+citations: ["25 Ohio St. 21"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McIlvaine, C. J., White, Rex, and Gilmore, JJ., concurring."]
+parties: ["George Warwick v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-st/25/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 44763
+cites_cases: ["1 Ohio St. 482", "15 Mass. 180", "2 Swan, 87", "21 Ohio St. 610", "7 Ohio St. 546", "7 Ohio St. 556", "9 Ohio, 151", "9 Ohio, 94"]
+---
+
+# Warwick v. State
+
+## Majority (Welch, J.)
+
+Welch, J.
+We agree with the court below in holding that the oath in question was administered by authority of law. In other words, we are of'opinion that the deputy clerk of the Probate Court is authorized to administer the necessary oaths pertaining to applications for mamage licenses, and that there is nothing in the constitution or laws of Ohio rendering a women incompetent to hold the office of such deputy clerk.
+Prior to the creation of a Probate Court, and while the power to issue marriage licenses, and to administer the necessary oaths pertaining thereto, was vested in the clerk of the Court of Common Pleas, it is quite clear that these were regarded as ministerial and not as judicial duties. And we see nothing in the act (S. & C. 1212, sec. 2) transferring this power from the clerk to the Probate Court, or in any other act, to show that the legislature intended to change the legal character of the duties. If they were ministerial in the hands of the clerk, they remained ministerial in the hands of the probate judge. In the absence of a deputy clerk, the probate judge is his own clerk, and responsible for acts done or omitted as such clerk, on the same principles applicable to other ministerial officers. The provision of law authorizing him to appoint a deputy clerk plainly implies that he is his own clerk — that he is both court and clerk; for there can be no deputy where there is no principal. If this be a coi’rect view of the law —and we do not see how it can well be doubted — then it follows that the deputy clerk of the Probate Court is authorized to administer oaths such as the one in question ; the statute authorizing his appointment (S. & C. 1214, sec. 10) provides, that “ said deputy may do and perform any and all the duties appertaining to the office of clerk of said court . . . and administer oaths in all cases in which it is necessary, in the discharge of his duties as such deputy ■clerk.”
+The question whether Ellen Stranahan was a legal deputy clerk depends on the construction to be given to section 4 of .article 15 of the state constitution. This section declares that “ no person shall be elected or appointed to any office in this state unless he possess the qualifications of an elector.” Ellen Stranahan had not the qualifications of an elector, and if this was an “office,” within the meaning of that section of the constitution, then she was not legally appointed. No one will contend that the word “ office ” in this section of the constitution is to have its broadest meaning, so as to make it applicable to everything known by that designation. Surely it does not apply to officers of private corporations, or of churches, or to all the minor and subordinate officers in colleges, academies, and schools, such as professors, teachers, janitors, and the like. Nor can it be applicable to all subordinate officers in the military or legislative departments, to the private secretary of the governor, or numerous other subordinate offices. The provision is disenabling, and should therefore receive a restricted rather than an enlarged interpretation. On this principle, it seems to us, the provision should be held here to apply to the principal- officer alone, the probate judge, and not to his deputy. At common law the officer and his deputy filled but a single office. Anderson’s Lessee v. Brown, 9 Ohio, 151. The acts of the deputy are in law the acts of the principal, and he is responsible for them. The deputy is appointed by the principal, can be appointed by no one else, and is removable at his pleasure. The appointment of deputy clerk of the Probate Court need not be approved by any other person or court; he is entitled to no salary or compensation, except what may be allowed him by his principal; and he can lawfully do no act against the will of his principal. Such an office does not seem to come within the definition laid down by the judge delivering the opinion of this court in the case of The State v. Kennon, 7 Ohio St. 546 — namely, “ an employment on behalf of the government, in a station or public trust, not merely transient, occasional, or incidental." Without undertaking to decide upon the correctness or incorrectness of this definition, as applicable to the present case, we all unite in the opinion that the office in question here is not within the purview of the constitutional prohibition named.
+There are other assignments of error in the ease, but we deem it unnecessary to notice them in the report, further than to say that in our judgment they are not sustained.
+Judgment affirmed.
+McIlvaine, C. J., White, Rex, and Gilmore, JJ., concurring.
