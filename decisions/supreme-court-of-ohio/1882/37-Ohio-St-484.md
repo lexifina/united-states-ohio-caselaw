@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1882-01"
-citations: ["37 Ohio St. 484", "37 Ohio St. 660"]
+decided_precision: "month"
+citations: ["37 Ohio St. 484"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
