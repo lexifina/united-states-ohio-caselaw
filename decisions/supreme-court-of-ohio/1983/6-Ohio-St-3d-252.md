@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+docket: "82-1223"
+decided: "1983-08-24"
+citations: ["6 Ohio St. 3d 252"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["W. Brown, Sweeney, Locher, Holmes and C. Brown, JJ., concur.", "Celebrezze, C.J., and J. P. Celebrezze, J., dissent.", "J. P. Celebrezze, J., concurs in the foregoing dissenting opinion."]
+parties: ["Pakulski et al.; Pheils, Appellant, v. Garber et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/6/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813087
+cites_cases: ["1 Ohio St. 3d 231", "100 Ohio St. 348", "43 Ohio St. 2d 53", "72 O.O.2d 30"]
+---
+
+# Pakulski v. Garber
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The basis for appellant’s claim is that he was induced by fraud to extend a loan to the Garber-Lawrence Publishing Group, Inc. and that such fraud was perpetrated by Ronald J. McCracken, a member of the law firm of Shumaker, Loop & Kendrick. Appellant asserts that he should be able to recover damages which flow from this alleged fraud even though Mc-Cracken was never directly involved with Duane Pheil’s proposal that prompted appellant’s extension of credit. McCracken was involved in the negotiations which resulted in the drafting of the releases which the appellant signed, releasing certain persons involved in the Garber-Lawrence Publishing Group and the Garber Publishing Company from all claims which the appellant may have been able to pursue against them.
+Appellant’s claims against appellees McCracken and Shumaker, Loop & Kendrick were determined by summary judgment for these two appellees based upon the ground that there is no existing duty owed by McCracken to a non-client such as appellant. However, the validity of the releases signed by appellant was still presented to the jury as against the five other appellees. The jury found the releases were validly executed agreements enforceable against the appellant and barred his action against the five remaining appellees.
+The language of the releases creates the legal issue for review. The purpose of the agreement was to provide a settlement of possible legal claims which existed between parties. In return for monetary consideration the appellant agreed to surrender any claims he had against the appellees which arose prior to the date of the signing of the releases. The releases discharged liability against the appellees, Corey D. Garber, Kathryn Garber, Garber Publishing Co., and the Garber-Lawrence Publishing Group, Inc., and “their •successors, assigns, officers, directors, agents, employees * *
+Appellee McCracken, as legal representative of the Garbers in their publishing company, was their agent and employee. This relationship was within the language of the releases and contemplated by the parties. This court has decided that when a party enters into a written release the release is presumed to be a release for the benefit of all wrongdoers. See Whitt v. Hutchison (1975), 43 Ohio St. 2d 53 [72 O.O.2d 30], paragraph one of the syllabus; Adams Express Co. v. Beckwith (1919), 100 Ohio St. 348, paragraph one of the syllabus.
+This court in Beck v. Cianchetti (1982), 1 Ohio St. 3d 231, held that a general, unqualified release with words such as “all other persons” was not sufficient to be enforcible against the signor by other unnamed tortfeasors. Beck is factually distinguishable. Beck concerned a plaintiff, a motorcycle passenger, in a motorcycle-automobile accident who was induced to sign a general, unqualified release from liability of her motorcycle driver, Michael Cotrufo. The release named only one person, Michael Cotrufo, while containing a general clause, much as the one noted above, releasing “her * * * agents, servants, * * * and all other persons, * * Cianchetti, the alleged tortfeasor driving the automobile which collided with Cotrufo, claimed he was released from liability as an unnamed person under the phrase “all other persons.” Cianchetti was not and did not claim to be an agent or employee of the releasee, Cotrufo. Such is not the case here. Appellee Shumaker, Loop & Kendrick and appellee McCracken were “agents” and “employees” of the named releasees to whom specific reference as “agents” and “employees” was made in the releases. Appellant, an attorney with knowledge of the legal implication of releases, reviewed and revised the releases before signing them. Such releases evince an intention of all parties to release McCracken and Shumaker, Loop & Kendrick as well as the appellees specifically named in the releases. The release of McCracken and Shumaker, Loop & Kendrick does not hinge on the phrase “all other persons” as it did in Beck, supra.
+Although the Ohio General Assembly in R.C. 2307.32 (F)(1) decided the release of one tortfeasor does not release other tortfeasors “unless its terms otherwise provide,” the parties here, unlike those in Beck, supra, understood the terminology and did “otherwise provide” to express an intention to release the unnamed tortfeasors, appellees McCracken and Shumaker, Loop & Kendrick.
+Given the jury’s factually supported finding that the releases were valid, such releases apply to all appellees.
+For the foregoing reasons the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+W. Brown, Sweeney, Locher, Holmes and C. Brown, JJ., concur.
+Celebrezze, C.J., and J. P. Celebrezze, J., dissent.
+Whitt v. Hutchison, supra, holds that “a written release in general and unqualified terms, on advice of counsel, made and executed upon legal consideration between a party wronged and one or more of the persons charged with the commission of the wrong, is presumed at law to be a release for the benefit of all the wrongdoers. (Paragraph one of the syllabus of Adams Express Co. v. Beckwith, 100 Ohio St. 348, followed.)”
+Beck v. Cianchetti (1982), 1 Ohio St. 3d 231, provides in paragraph one of the syllabus:
+“R.C. 2307.32 requires that a release expressly designated by name or otherwise specifically identify or describe any tortfeasor to be discharged. The phrase ‘all other persons’ is not sufficient to satisfy this statutory requirement.”
+In Beck, supra, the applicable portion of R.C. 2307.32 which is analyzed provides:
+“(F) When a release or covenant not to sue or not to enforce a judgment is given in good faith to one of two or more persons liable in tort for the same injury or the same wrongful death:
+“(1) It does not discharge any of the other tortfeasors from liability for the injury or wrongful death unless its terms otherwise provide, but it reduces the claim against the other to the extent of any amount stipulated by the release or the covenant, or in the amount of the consideration paid for it, whichever is the greater.”
+
+## Dissent (Celebrezze, C.J.,)
+
+Celebrezze, C.J.,
+dissenting. Because I feel summary judgment was improperly granted in favor of appellees McCracken and Shumaker, Loop & Kendrick, I dissent.
+Civ. R. 56 (C) provides that summary judgment shall be rendered if there is no genuine issue as to any material fact; if the moving party is entitled to judgment as a matter of law; and if it appears from the evidence that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence construed most strongly in his favor.
+In this case, summary judgment was granted on issues other than the validity of the releases. The Supplemental Findings of Fact and Conclusions of Law of the trial court concern whether misrepresentations, fraud or duress induced appellant to sign the releases.
+However, the case presents other questions which also deserve a hearing. Three documents were involved: an agreement, a settlement agreement and the releases executed on the same date. In both agreements, the language specifically named appellees Corey and Kathryn Garber, Garber-Lawrence Publishing Group, Inc. and Garber Publishing Company, Inc. [The settlement agreement states, in Paragraph 1, that appellant Pheils agreed to execute a release for claims against any other party, if demanded. Thus, the release is based upon the agreement in which the parties were specifically named.] Releases were executed which discharged the individuals named in the agreements. However, they included a general clause discharging “successors, assigns, officers, directors, agents, employees, their ancestors, siblings, heirs, personal representatives, successors and assigns,” which is at issue. Therefore, a question arises as to whether the agreement and releases should be read and construed together.
+Furthermore, there is a question of whether the releases were intended to apply only to the parties named or whether appellees McCracken and Shumaker, Loop & Kendrick were included within the general clause of the releases. As stated in the majority opinion, “[we] held that a general, unqualified release” is “not sufficient to be enforceable against the signor by other unnamed tortfeasors.” Beck v. Cianchetti (1982), 1 Ohio St. 3d 231. The majority concedes that the releases in this case contained a general clause similar to the unenforceable one in Beck. Although the facts differ, the validity of general terms in a release should be determined in light of the policy set forth in Beck, which was decided after both the lower courts considered the case.
+Construing the evidence most strongly in favor of appellant, reasonable minds could come to different conclusions on these questions. For these reasons, summary judgment was improperly granted and I dissent.
+J. P. Celebrezze, J., concurs in the foregoing dissenting opinion.
