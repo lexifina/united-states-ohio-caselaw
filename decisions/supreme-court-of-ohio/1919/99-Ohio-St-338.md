@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+docket: "16009"
+decided: "1919-04-02"
+citations: ["99 Ohio St. 338"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, C. J., Jones, Matthias and Wanamaker, JJ., concur.", "Robinson, J., not participating."]
+parties: ["The Home Telephone Co. et al. v. Meyers, Admr."]
+source_url: "https://static.case.law/ohio-st/99/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 959167
+---
+
+# Home Telephone Co. v. Meyers
+
+## Majority (By the Court.)
+
+By the Court.
+The Plain City Home Telephone Company and the village of Plain City jointly used a pole line on the west side of Chillicothe street in said village, the former for its. telephone wires and the latter for its high-tension electric light wires. One of these poles was in front of the home of the deceased, Lee Schoby, who was killed as a result of coming in contact with one of said telephone wires, which was charged with electricity from said high-tension electric wire.
+Plaintiff averred that said telephone wire had theretofore broken and was permitted to remain hanging on one side of said pole to within five feet of the ground, and alleged negligence on the part of the company and the village in maintaining a defective and insecure telephone wire, and in permitting it to hang on and along said pole and failing to repair and restore it.
+A demurrer to the petition having been overruled, issue was made by answer, which contained a general denial and a charge of negligence on the part of the decedent in that he himself hung said broken telephone wire on the side of the telephone pole and had subsequently come in contact therewith while attempting to hitch his horse to the pole, and further averred that an ordinance was then in force and effect in said village making unlawful the hitching of a horse to any telephone pole. The trial of the case resulted in a verdict for the plaintiff, and the judgment rendered thereon in the common pleas was affirmed by the court of appeals.
+It is disclosed by the record that ten days prior to the morning on which he met his death by coming in contact with this telephone wire, which had .become charged with electric current, plaintiff’s decedent had observed such wire sagging down to within a foot or so of the ground, and that he and perhaps two others who were with him had rolled it up and hung it on the side of the telephone pole, the top of the coil being five or six and the bottom about three feet from the ground. It was the contention of the defendants that Schoby hung that wire in such manner as to bring it in contact with the electric light wire supported on the same pole. Evidence was introduced tending to show that because of the proximity of the telephone wire to the electric light wire Schoby knew it would be dangerous when the current was on, s.uch matter having been discussed by Schoby and the two or three others who were present at the time the wire was hung on the pole, at which time the electric lights were off.
+This telephone pole was near Schoby’s residence, and evidence was introduced tending to show that on occasions theretofore he had used this pole for a hitching post for his horse. The record also discloses evidence tending to show that about five o’clock on the morning in question, the street lights still burning, Schoby had driven his horse to a point in front of his house near this pole; that after he had been felled by the electric current his horse was standing about two feet from the pole, with his head toward it, and the body of the decedent was on the ground near the pole, and on the side opposite the coil of telephone wire, and also that the hitching rope was under his body and in the right hand. The burns were on the left hand.
+In view of this evidence the contention of the defendants, that language used by the trial court in the general charge was. erroneous and prejudicial, is well founded, for the court there stated to the jury that “the evidence failed entirely to show that at the time the deceased received the injury complained of he was hitching his horse to the telephone or telegraph pole.” This instruction was given in connection with the statement that the pleading of the defense as to a violation of the ordinance was immaterial and that the ordinance need not be considered by the jury because the evidence did not disclose that it had been violated. We find that it was not error to exclude the ordinance, yet the language used completely and effectually took from the consideration of the jury facts and circumstances disclosed by the record which tend to show that Schoby at the time he was injured was hitching his horse to the telephone pole. Such instruction was equivalent to saying to the jury that they should take it as an established and uncontradicted fact that Schoby was not hitching his horse to the pole whereon this wire had been previously hung. It must be borne in mind in this connection that Schoby had assisted in coiling the wire and hanging it on that pole. The evidence to which we have referred was clearly admissible. Indeed the trial court had recognized the competency thereof and the right of the defense to have it considered by the jury; not only by permitting it to be given, but by thereafter overruling a motion of the plaintiff to strike out the evidence of the principal witness for the defense on that subject. The weight and probative effect of such evidence, as well as the inference to be drawn therefrom, were for the jury. We find no other error prejudicial to the plaintiffs in error.
+The answer did not aver nor did the evidence disclose a violation of the ordinance above referred to and for that reason there was no error in sustaining an objection to the introduction of the ordinance in evidence; nor was. there error in giving the special instruction before argument relative thereto.
+For the reasons above stated the judgment of the court of appeals affirming the common pleas is- reversed, and the case is remanded to the court of common pleas for further proceeding.
+Judgment reversed.
+Nichols, C. J., Jones, Matthias and Wanamaker, JJ., concur.
+Robinson, J., not participating.
