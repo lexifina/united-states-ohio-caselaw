@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "13759"
+decided: "1913-06-24"
+citations: ["88 Ohio St. 603"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Donahue, Newman and Wilkin, JJ., concur."]
+parties: ["Lamkin v. Robinson et al."]
+source_url: "https://static.case.law/ohio-st/88/cases/0603-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987588
+---
+
+# Lamkin v. Robinson
+
+## Majority
+
+Judgment affirmed.
+Donahue, Newman and Wilkin, JJ., concur.
