@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "81-960"
+decided: "1982-05-19"
+citations: ["70 Ohio St. 2d 82"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["W. Brown, Acting C. J., Reilly, Sweeney, Locher, Holmes, C. Brown and Krupansky, JJ., concur.", "Reilly, J., of the Tenth Appellate District, sitting for Celebrezze, C. J."]
+parties: ["Champion Spark Plug Company, Appellant, v. Lindley, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/70/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6693736
+cites_cases: ["140 Ohio St. 325", "62 Ohio St. 2d 283"]
+---
+
+# Champion Spark Plug Co. v. Lindley
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+R. C. 5733.04(1) provides that net income for purposes of the Ohio corporate franchise tax generally consists of the taxpayer’s income which must be included under the Internal Revenue Code, subject to several adjustments. The adjustment which the parties agree is determinative in this appeal is contained in R. C. 5733.04(I)(2), which provides:
+“Deduct any amount included in net income by application of section 78 or 951 of the Internal Revenue Code, amounts received for royalties, technical or other services derived from sources outside the United States, and dividends received from a subsidiary, associate, or affiliated corporation that neither transacts any substantial portion of its business nor regularly maintains any substantial portion of its assets within the United States.” (Emphasis added.)
+“The statutory prerequisites to the application of this deduction are that the amount to be deducted must have been (1) for technical or other services and (2) derived from sources outside the United States.” Rio Indal v. Lindley (1980), 62 Ohio St. 2d 283, 284. With this standard in mind our initial inquiry is whether the subject income was “derived from sources outside the United States.”
+Regarding the interest received on the monetary loan to its Venezuelan subsidiary, appellant argues the funds were transferred and utilized outside the United States and, consequently, the interest received thereon was derived from property situated outside the United States. Likewise, with respect to interest received on delinquent inter-company accounts, appellant argues the service is sitused abroad since subsidiaries are extended the use of the merchandise outside the United States in return for the payment of interest. We find this contention to be without merit.
+In Rio Indal we observed that “the objective of the franchise tax can be best achieved by allocating service income to the place where the services are actually performed. In this manner, the franchise tax is imposed on income representing business activities performed in Ohio and thus best reflects the fair value of doing business in this state.” Id. at 285.
+In construing the phrase “derived from sources outside the United States,” we held “[t]he situs of the service performed governs the source of the income. The place of payment for the service is irrelevant. By analogy, the source of the income derived under the Ohio franchise tax scheme is determined by the place where the service is performed. The key word is ‘source’. Depending upon the nature of the income, its source will differ, with the location of the source determinative of whether a taxpayer qualifies for the deduction. * * * [Emphasis added.] There is no inconsistency in finding the meaning of ‘source’ to be relative to the nature of the income produced. Our objective is to best effectuate the purpose of the legislation to tax the fair value of business transacted in Ohio. We believe this construction achieves this objective.” Id. at 286.
+Application of our holding in Rio Indal indicates the nature of the income received, i.e., interest on the Venezuelan note and delinquent inter-company accounts, is such that its source is sitused in Ohio. Clearly, the note, which represents the act of lending money to a foreign subsidiary was a service, the situs of which occurred in Ohio. The record reveals that the note was executed in Ohio, the money was then channeled to Venezuela, the provisions of the note state that its terms are to be construed under Ohio law and, additionally, both the principal and interest due thereon are to be forwarded to Toledo, Ohio.
+Similarly, the same principle applies to the interest income received by appellant on delinquent inter-company accounts. Essentially, appellant is loaning its subsidiaries the monetary value of the products distributed in exchange for eventual payment plus interest. Again, as with the note, the nature of this service is such as to qualify for an Ohio situs. This conclusion is buttressed by the fact that the income is derived from the manufacture, sale and shipment of the spark plugs, which produce the resulting interest income, all of which occurs in Toledo, Ohio. Moreover, to accept appellant’s argument regarding these two sources of foreign income “ ‘not only ignores the object of the Ohio franchise tax to tax business done in Ohio; it undermines and subverts that object by providing a means whereby a taxpayer may engage in business in Ohio and avoid the tax imposed on that privilege.’ ” Rio Indal, at pages 285-286.
+Conversely, the commissions received from appellant’s English subsidiary, the Champion Sparking Plug Company, are devoid of an Ohio situs. In 1946, appellant allowed this subsidiary to take over sales in Europe and the Middle East. The English affiliate manufactures and ships its spark plugs and collects payment thereon exclusive of any situs which could fairly be attributed to Ohio. In return, appellant receives a ten percent commission for having developed those markets. Accordingly, we view these commissions as being “derived from sources outside the United States.”
+Our inquiry does not cease with this finding since, as stated earlier, appellant claims entitlement to a deduction under R. C. 5733.04(I)(2) which contains two prerequisites, the other being that the amount to be deducted must have been for “technical or other services.” After careful examination of the entire record, we find, with reference to the commissions received from the Champion Sparking Plug Company, that any “technical or other services” which may have been rendered by appellant to this subsidiary in the past, have long since ceased. The burden rests upon the party claiming entitlement to a deduction to affirmitively establish a right thereto. Rio Indal, supra; Higbee Co. v. Evatt (1942), 140 Ohio St. 325. Appellant has failed to sustain this burden.
+For the foregoing reasons, we conclude that the decision of the Board of Tax Appeals is reasonable and lawful and, accordingly, it is hereby affirmed.
+Decision affirmed.
+W. Brown, Acting C. J., Reilly, Sweeney, Locher, Holmes, C. Brown and Krupansky, JJ., concur.
+Reilly, J., of the Tenth Appellate District, sitting for Celebrezze, C. J.
