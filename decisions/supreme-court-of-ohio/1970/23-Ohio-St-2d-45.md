@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "69-212"
+decided: "1970-08-05"
+citations: ["23 Ohio St. 2d 45"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Duncan and Coeeigan, JJ., concur.", "Heebeet, J., dissents.", "Matthias, J., not participating."]
+parties: ["State Farm Mutual Automobile Ins. Co., Appellee, v. Home Indemnity Ins. Co., Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/23/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710958
+cites_cases: ["1 Ohio St. 2d 105", "103 F. 2d 345", "105 S. E. 866", "124 F. 2d 717", "138 Ohio St. 488", "152 S. E. 2d 436", "157 Ohio St. 385", "161 F. 2d 62", "166 So. 2d 920", "168 N. W. 2d 322", "171 N. W. 2d 176", "184 So. 2d 750", "195 F. 2d 958", "216 N. E. 2d 665", "220 Tenn. 120", "262 F. 2d 239", "269 N. C. 341", "278 Minn. 218", "34 Ill. 2d 424", "39 Wis. 2d 64", "409 F. 2d 392", "415 S. W. 2d 581", "437 S. W. 2d 390", "74 So. 2d 367", "75 Ohio Law Abs. 79", "94 F. 2d 710"]
+---
+
+# State Farm Mutual Automobile Ins. v. Home Indemnity Ins.
+
+## Majority (SchneideR, J.)
+
+SchneideR, J.
+State Farm Mutual Automobile Insurance Company (State Farm) insured Helen Moore as the owner of a station wagon. However, while driving-another car with the permission of its owner, she was involved in a collision, as a result of which certain losses were sustained for which she was liable.
+State Farm satisfied the claims, the total of which was within its policy’s monetary limits, and commenced the present action in the Court of Common Pleas to recover its payments from Home Indemnity Insurance Company (Home Indemnity) under a policy issued by the latter to the owner of the borrowed car.
+The cause was tried to the court upon an agreed statement of facts and judgment was entered for State Farm. The Court of Appeals affirmed.
+The question is, which of the two insurers is to be held liable for the loss occasioned by the single insured. It is conceded that the driver would be covered under each policy were it not for the “other insurance” language contained in each.
+It is also patent that if all the provisions of each policy are to be given full effect, without reference to the other, neither policy would cover the loss.
+The State Farm policy, insuring the driver, provides: “the insurance with respect to a temporary substitute automobile . . . shall be excess over other collectible insurance.” That language is generally referred to as an “excess” provision.
+■ The Home Indemnity policy, insuring the borrowed car, provides coverage to a person using the automobile with the permission of the named insured, “but only if no other valid and collectible automobile liability insurance, either primary or excess ... is available to such person.” The latter clause is commonly termed a “no liability” provision, but is more properly referred to as an “escape” provision. See Leach, J., in Continental Casualty Co. v. Buckeye Union Casualty Co. (1957), 75 Ohio Law Abs. 79, 85.
+Although the dilemma caused by a direct confrontation between exculpatory phrases identical to those involved here has produced frequent litigation and a conflicting variety of results in other jurisdictions, it appears before us squarely in this case for the first time.
+We find no irreconcilable contradiction, although it was the apparent intent of the scriveners of both of the phrases to minimize the ambit of liability of the policy to which each is appended.
+The “excess” clause concedes no basic or primary liability on the part of the (State Farm) policy of which it is a part. It simply limits liability to the excess over other collectible insurance. But before the policy can ride as excess insurance, the other policy must be made to walk as primary insurance. Can it?
+The “escape” insurance proviso of the other (Home Indemnity) policy is innately obligatory. We construe it as if it read that its policy -would insure the loss “but only if either no other valid and collectible primary automobile insurance or no other valid and collectible excess automobile insurance is available to the insured. ’ ’ There being no other “primary,” in contrast to “excess,” insurance available to the driver, the clause is insufficient to prevent liability from attaching to the insurer who designed it. The courts below were, therefore, not in error and we affirm; Accord: Zurich General Accident & Liability Ins. Co. v. Clamor, 124 F. 2d 717.
+On the contrary, if the reference to other primary insurance had been omitted, but the reference to other excess insurance retained, an irreconcilable conflict would have been presented in that each policy would have excluded itself from liability by reason of the existence of the “excess ’ ’ provision of the other. But that is another case with which we are not here concerned. Cf. Continental Casualty Co. v. Buckeye Union Casualty Co., supra (75 Ohio Law Abs. 79).
+Nor were we concerned with it in Motorists Mutual Ins. Co. v. Lumbermens Mutual Ins. Co. (1965), 1 Ohio St. 2d 105, or in Trinity Universal Ins. Co. v. General Accident, Fire & Life Assur. Corp. (1941), 138 Ohio St. 488.
+In both of those cases, the conflict was between an “excess” insurance clause in one policy and a provision in the other policy to the effect that if there was other insurance. against the loss the insurer would not be liable for a greater proportion of the loss than the ratio of the policy limits to the total limits of all insurance against the loss. The latter provision is commonly characterized as a “pro-rata” provision. It was, in each case, held ineffective to prevent liability on the policy in which it appeared, for the reason that the “excess” insurance provided by the other policy was not “other insurance.” The rationale is similar, if not identical, to that which we have adopted here.
+Finally, it is of more than passing interest to note that Aetna Casualty & Surety Co. v. Buckeye Union Casu alty Co. (1952), 157 Ohio St. 385, involved apparently conflicting language virtually identical to that in the case at bar. However, it appears not to have been disputed that the “excess” provision in the driver’s policy excused the insurer from primary liability, which, the court held, fell upon the policy insuring the vehicle which contained the “standard ‘other insurance’ provision.” (157 Ohio St. at page 388.)
+The sole issue which that case resolved was that the driver’s insurer (here, State Farm), although not primarily liable for the loss, is not a volunteer in effecting settlement and payment of the loss, after reasonable notice to the insurer of the car (here, Home Indemnity) and may recover from the latter the amount so expended. That is another question not present in this case.
+Judgment affirmed.
+O’Neill, C. J., Duncan and Coeeigan, JJ., concur.
+Heebeet, J., dissents.
+Matthias, J., not participating.
+Most courts have given effect to the “excess" provision and imposed full liability for the loss upon the other policy involved despite the “escape” (no liability) provision contained therein. Bituminous Casualty Corp. v. Andersen (Neb. 1969), 171 N. W. 2d 176; Federal Ins. Co. v. Prestemon (1967), 278 Minn. 218, 153 N. W. 2d 429; Hardware Dealers Mutual Fire Ins. Co. v. Farmers Ins. Exchange (Tex. Civ. App. 1969), 437 S. W. 2d 390; New Amsterdam Casualty Co. v. Certain Underwriters at Lloyds (1966), 34 Ill. 2d 424, 216 N. E. 2d 665; Employers’ Liability Assurance Corp. v. Fireman’s Fund Ins. Group (1958), 262 F. 2d 239; Zurich General Accident & Liability Ins. Co. (1941), 124 F. 2d 717; Michigan Alkali Co. v. Bankers Indemnity Ins. Co. (1939), 103 F. 2d 345; Continental Casualty Co. v. Curtis Pub. Co. (1938), 94 F. 2d 710.
+On the other hand, a number of courts have given effect to the “escape” (no liability) provision, and imposed the full liability for the loss upon the other policy involved despite the “excess” provision contained therein. Indiana Lumbermens Mutual Ins. Co. v. Mitchell (1969), 409 F. 2d 392; Faltersack v. Vanden Boogaard (1968), 39 Wis. 2d 64, 168 N. W. 2d 322; Government Employees Ins. Co. v. Globe Indemnity Co. (Ky. 1967), 415 S. W. 2d 581; Continental Casualty Co. v. Weekes (Fla. 1954), 74 So. 2d 367; Allstate Ins. Co. v. Shelby Mutual Ins. Co. (1967), 269 N. C. 341, 152 S. E. 2d 436; American Automobile Ins. Co. v. Penn Mutual Indemnity Co. (1947), 161 F. 2d 62 (policy containing “excess” provision insured person primarily liable).
+Other courts have refused to recognize either clause and have prorated the loss between the insurance companies. State Farm Mutual Auto Ins. Co. v. Travelers Ins. Co. (La. 1966), 184 So. 2d 750; Lincombe v. State Farm Mutual Auto Ins. Co. (La. 1964), 166 So. 2d 920; Oregon Auto. Ins. Co. v. United States Fidelity and Guaranty Co. (1952), 195 F. 2d 958; United Services Auto. Assn. v. Hartford Accident & Indemnity Co. (1967), 220 Tenn. 120, 414 S. W. 2d 836.
+Hartford Steam Boiler Inspection & Ins. Co. v. Cochran Oil Mill and Ginnery Co. (1921 Ga. App.), 105 S. E. 866.
