@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19220"
 decided: "1925-06-20"
-citations: ["3 Ohio Law Abs. 566", "3 Abs. 401", "4 Ohio Law Abs. 73", "OS. Pend. 3 Abs. 566", "OA. 3 Abs. 586"]
+citations: ["3 Ohio Law Abs. 566", "3 Abs. 401"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
