@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1871-12"
+citations: ["22 Ohio St. 227"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Cincinnati and Zanesville Railroad Company v. Richard Smith."]
+source_url: "https://static.case.law/ohio-st/22/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 887124
+cites_cases: ["10 Iowa, 270", "11 Barb. 112", "13 Ohio St. 66", "13 Ohio St. 69", "18 Cal. 351", "19 Johns. 385", "19 Penn. 298", "2 Mich. 250", "21 Vt. 129", "24 Vt. 487", "25 Iowa, 139", "25 Vt. 150", "27 Conn. 393", "28 Ind. 244", "3 Bush, 149", "3 Ohio St. 172", "3 Ohio St. 183", "4 N. Y. 349", "4 Ohio St. 424", "4 Ohio St. 432", "4 Ohio St. 433", "4 Ohio St. 474", "4 Ohio St. 476", "41 N. Y. 428", "42 Vt. 375", "43 Ill. 77", "46 Ill. 494", "47 Ill. 295", "5 Am. Law Reg. 49", "5 Denio, 55", "62 Penn. 353", "7 Gray, 467", "8 Ohio St 581"]
+---
+
+# Cincinnati & Zanesville Railroad v. Smith
+
+## Majority ("White, J.)
+
+"White, J.
+The plaintiff below, Richard Smith, sues the defendant below, the Cincinnati and Zanesville Railroad Company, to recover the value of two horses alleged to have been killed through the negligence of the servants of the defendant in operating oue of its trains. The inclosure of the plaintiff' adjoined the railroad of the defendant; and from this inclosure, on the night on which the horses were killed, they escaped onto the railroad.
+On the trial, questions arose as to the breachy character of the horses, and as to the insufficiency of the fence separating the inclosure from the railroad. The defendant claimed that considering the character of the horses, and the character of the fence, the plaintiff was guilty of contributory negligence, and therefore could not recover. But these questions were properly submitted to the jury, who must have found that the plaintiff was not guilty of the negligence imputed to him.
+The whole charge is set out in the bill of exceptions. Considering its several parts in connection, and giving to the whole a fair construction, we deem it necessary only to notice two particulars, in which it is objected to.
+These are: 1. Whether the fact that the horses were trespassing on the track excused the servants of the defendant from the exercise of ordinary care; and, 2. Whether that fact, and the additional one that the road was fenced, excused the engineer, as respects the owner of stray animals, from looking ahead to see whether such animals were on the track or not.
+In regard to the first of these particulars, it is contended, on behalf of the railroad company, that, as the horses were trespassing on the railroad, the company was exempt from using ordinary care to save them, and that it was only liable for what is called gross negligence.
+The court instructed the jury that the defendant had the right to the free and unobstructed use of its railroad track, and that the paramount duty of its employes was the protection of the passengers and property in the train, and the train itself. But this being their paramount duty, they were bound to use ordinary care and diligence so as not unnecessarily to injure the property of others.
+We think the charge stated the law correctly. We see no good reason, in principle, why a party, so far as may be consistent with the full enjoyment of his own rights, ought not to use ordinary care so as not unnecessarily to injure the property of others.
+It is true, the rule contended for by the counsel of the plaintiff in error, is sustained by a number of authorities. But the later and better considered eases are to the contrary. Illinois Central R. R. Co. v. Middlesworth, 46 Ill. 494; Bemis v. Conn., etc., R. R., 42 Vt. 375; Isbul v. N. Y. R. R. Co., 27 Conn. 393; Redfield’s Amer. Railway Cases, 355, 356.
+The rule contended for has "never been adopted in this state. It is, moreover, as respects railroad companies, inconsistent with our statute law on the subject. S. & C. 331.
+The facts in the case of the C. H. & D. R. R. Co. v. Waterson & Kirk, 4 Ohio St. 424, cited and relied upon by the « counsel of the plaintiff in error, were different from those in the case now before us, and we do not regard the rule —there laid down, as to the liability of the company in that case, as applicable to this.
+From what ha3 been said of the charge in the first particular named, it would seem to follow that it is unobjectionable as respects the second. If it was the duty of the servants of the company, so far as was consistent with their other and paramount duties, to use ordinary care to avoid injuring animals on the track, they were, of course, bound to adopt the ordinary precautions to discover danger, as well as to avoid its consequences after it became known.
+The fact that the road was fenced, at the place of collision with the horses, was a circumstance to be considered in connection with the other circumstances of the case, in determining whether the engineer was guilty of negligence in not looking ahead and discovering the danger in time to avoid it. The fact that the road was fenced rendered it less probable that wandering animals would be on the track; but it can not be said that the engineer, as a matter of law, by reason of the fences, was wholly excused from keeping a lookout ahead of the train.
+If the servants of the company, in charge of the train, having due regard to their duties for the safety of the persons and property in their charge, could, by the exercise of ordinary care, have seen and saved the horses, we think they were bound to have done so. Bemis v. Conn., etc., R. R., supra, 381; Louis. and Nash. R. R. Co. v. Wainscott, 3 Bush, 149.
+John Millikan was called as a witness by the plaintiff below and was interrogated as an expert. He had been, prior to being called as a witness, in the employment of the defendant, several years, in different capacities, from brakeman to conductor of a passenger train; he was engineer on the day freight, and well acquainted with the defendant’s road at the place where the horses were killed. After testifying as to the number of brakemen usually on the trains run by him on defendant’s road, and in regard to the number of brakemen required on a train of ten or twelve cars, and their proper positions respectively, the plaintiff’s counsel asked him the following question:
+If a loaded train of ten or twelve cars is running at the rate of twelve or fifteen miles per hour between stations, and two brakemen are all that are on and allowed to the train, and both of them are in the passenger car at the rear end of the train, what sort of a position is that for them to be in, in order to have the proper use and benefit of the brakes in case of sudden danger, or emergency, requiring the train to be stopped or its speed checked ?”
+The answer was : “ It is not the proper place.”
+We see no objection to this evidence, nor any substantial objection to the form of the question. What is a proper and what an improper place for the brakemen on the train, may be shown by a witness skilled in the business. The evidence tended to prove the state of fact assumed, in the question. If the jury should find the facts to be as they were assumed, the testimony of an expert might be used to show that the brakemen, under the state of fact, were not in the proper place for the prompt and efficient discharge of their duty.
+In regard to the claim that the verdict is against the evidence, it is only necessary to say, we find no sufficient ground to warrant our interfering with the action of the court below.
+Judgment affirmed.
