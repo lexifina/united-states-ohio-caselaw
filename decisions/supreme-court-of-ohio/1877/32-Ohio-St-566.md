@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1877-12"
+citations: ["32 Ohio St. 566"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Railroad Company v. Miami County Infirmary."]
+source_url: "https://static.case.law/ohio-st/32/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 901171
+cites_cases: ["10 Ind. 38", "10 Ind. 502", "12 Ind. 552", "16 Ind. 84", "20 Am. Rep. 698", "20 Ill. 221", "22 Ohio St. 227", "23 Ind. 340", "27 Conn. 479", "27 Ohio St. 341", "29 Ind. 40", "32 Vt. 43", "35 N. H. 169", "35 N. H. 356", "35 N. Y. 641", "37 Cal. 409", "37 Cal. 417", "44 Ill. 76", "46 Ill. 494", "47 Mo. 246", "60 Ill. 295", "65 Maine 332", "66 Penn. St. 164", "8 Barb. 358", "8 Barb. 390", "98 Mass. 560"]
+---
+
+# Railroad v. Miami County Infirmary
+
+## Majority (Ashburn, J.)
+
+Ashburn, J.
+The part of the charge appearing in the record is quite as favorable to the defendant as the facts of the case would authorize, but we do not feel warranted in saying the verdict of the jury was against the law of the case.
+We think, however, that the verdict is clearly against the evidence, and that a new trial should have been granted for that reason.
+It appears from the evidence, that defendant’s track ran directly through the inclosed lands of the county infirmary of Miami county. There was a fence on1 each side of the railroad track, where it passed through plaintiff’s inclosure, which had been built exclusively by the plaintiff below. The fence served the purpose, in fact, of a partition fence between the inclosed fields of plaintiff and the lands of defendant used as a track. No division of the fence, as a partition fence, had ever been made.
+The fence was, at the time the stock was killed, out of repair. This condition of the fence must have been' known to the defendant from the daily use of that portion of its track. Plaintiff’s lands were in charge of its agent, the superintendent, and he knew, when he ordered the horses, on the evening of September 6, 1869, to be put into that inclosure, that the fence, abutting on the railroad track, was out of repair. He testifies in chief: “I told the boy to turn them into this field on that Sunday evening. Had some talk about it being safe to do so; had some fears about doing so on account of condition of the fence; but finally, thinking that there were no trains over the railroad on that night, I concluded to risk it, and consequently ordered them in. The fence was in about the same condition as when I went there.” And, on cross-examination, says: “Did not consider the fence first class, but thought there was no danger, as there were no trains that night. Was a stake and rider fence, but needed repairs where the horses got out. There was no stake to the fence at that point.”
+Charges Wilson, an inmate of the infirmary, testifies : “ Pence where horses got out six to seven rails high; it was not staked ; the fence looked as if the top rails had been shoved off. The fence in the adjoining pasture lot was generally like the one in the lot from which they broke out.”
+The proof showing that the fence was defective is clear and uncontradicted. The horses could pass over it and upon the railroad track, and this plaintiff knew, through its agent, at the time the stock was killed.
+The evidence does not show negligence on the part of the railroad company in ninqing its train on that occasion, but rather that its train was conducted with skill and care. When the agents of the railroad company discovered the horses on the track, the proper efforts were used to avoid, if possible, killing the horses.
+The superintendent knowing the fence was out of repair, but thinking no trains would pass over the road that night, took the risk of the horses going over the defective fence and upon the railroad track. Plaintiff had put the superintendent in charge of its lands and horses, so that his judgment was its judgment, and plaintiff was chargeable with the risk he took in ordering the horses into the inclosure with fences out of repair — took the risk of a train passing over the track on that night.
+By the act of March 25, 1859 (S. & C. 381), all railroads in this state are required to construct and maintain fences on each side of the railroad track, which become partition fences, when serving that purpose.
+This statute is constitutional, founded in a sound public policy, and equally obligatory upon railroad companies, whether organized under charters granted prior, or laws enacted since the constitution of 1851 went into operation.
+Where the railroad track passes, as it does in this case, through any inclosed field or fields, the proprietor thereof is required to construct one-half the fences necessary to partition such inclosed lands from the railroad track. The construction of such fences may be enforced as are partition fences between individual owners. “ Where such fences are duly made, they shall be kept in repair in all respects as partition fences are now by law required to be kept in repair.” (S. & 0. 332, § 3.)
+When this division fence is constructed, whether by the railroad company or individual abutting proprietor, it becomes, in all respects, a partition fence. Each adjacent landowner is required to keep up and maintain in good repair all partition fences between their own and the next adjoining inclosure, iu equal shares, so long as both parties continue to occupy the same. (S. & C. 649, § 2.)
+This fence, separating the inclosure of the plaintiff from the land of the defendant, though constructed by the plaintiff', was a partition fence, and under the provisions of the statute, it was alike incumbent upon defendant and plaintiff' to see that it was maintained and kept in good repair. Failing to keep this partition fence in proper repair, the parties were each negligent in the discharge of a statutory duty. By reason of this negligence with respect to keeping the fence in repair, if plaintiff’s horses had gone upon the railroad track and been killed by defendant’s cars, and the plaintiff was free from fault, defendant, although its trains were run free from negligence, would be liable in damages for the value of the horses killed.
+This partition fence being undivided, the adjacent proprietors were each under obligations to keep the fence in good repair. While this duty was cast upon the defendant, a like duty was cast upon the plaintiff. Its agent put the' horses in the inclosure abutting upon the railroad track, knowing the fence was out of repair, aud that the horses could, as indicated by the superintendent’s apprehensions, pass over the fence and upon the railroad track. This, we think, was negligence on the part of plaintiff', such negligence as contributed to the loss.
+In principle, this case comes directly within the ruling of the court in The Sandusky & Cleveland Railroad Company v. Sloan, 27 Ohio St. 341.
+The judgments of the district and common pleas courts are reversed, and case remanded for further proceedings.
