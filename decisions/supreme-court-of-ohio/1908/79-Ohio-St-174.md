@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+docket: "11329 and 11576"
+decided: "1908-12-22"
+citations: ["79 Ohio St. 174"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Price, C. J., Shauck, Crew, Summers and Spear, JJ., concur. Summers, J., does not concur in the judgment in the Sunday Creek case."]
+parties: ["Mirick v. Gims, Treasurer, etc. Sunday Creek Company v. Woodworth, Treasurer, etc., et al."]
+source_url: "https://static.case.law/ohio-st/79/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 975116
+cites_cases: ["1 Ohio St, 77", "14 C. C, 370", "152 U. S., 133", "163 U. S., 550", "169 U. S., 366", "17 Ohio St., 666", "184 U. S., 540", "199 U. S., 16", "199 U. S., 306", "3 Ohio St., 1", "39 Ohio St., 340", "42 Neb, 5", "43 Ohio St., 548", "44 Ohio St., 576", "47 Am. St. Rep, 684", "47 Neb, 549", "49 Ohio St., 447", "49 Ohio St., 623", "5 Ohio St., 246", "5 Ohio St., 590", "53 Am. St. Rep, 557", "53 Ohio St, 77", "55 Ohio St, 423", "6 Ind, 501", "62 Ohio St, 132", "63 Am. Dec, 391", "67 Ohio St, 197", "77 Ohio St, 438", "98 N. Y., 98"]
+---
+
+# Mirick v. Gims
+
+## Majority (Davis, J.)
+
+Davis, J.
+These cases are alike in the particular that in both the landowner claims -to have had no knowledge of the fact that dogs were kept or harbored on his premises; and they chailenge the validity of the statute which charges the tax upon the land notwithstanding the owner may not have had such knowledge. They differ somewhat in the claim that, in the one case, the real estate was leased before the enactment of the present statute and that the land has never since been within the possession or control of the owner; and that, in the other case, if dogs were kept and harbored on the land, it was done contrary to the express orders of the owner.
+It may be and - is conceded, at least for the purposes of this case, that a tax on dogs having for its object the protection of the sheep industry, is within the legitimate .exercise of the police power. Holst v. Roe, 39 Ohio St., 340. The question which is raised in these cases is a narrower one. Here, it is not whether dogs may be taxed for such a purpose; but whether the tax may be made a charge on the land where the dogs are kept, when they -are kept there without the knowledge or consent of the landowner.
+There is no express limitation in the constitution of this state upon that branch of legislative power which is commonly called police power. Such limitations as are recognized arise by construction from the nature of the power itself and from the declaration of pights contained in Article I, as well as the limitation contained in Section 28 of Article II; and in considering these the first clause of Section 20,- Article I, must not be overlooked, viz: “This enumeration of rights shall not be construed to impair or deny others retained by the people.”
+The police power is an attribute of sovereignty and has its origin, purpose and scope in the general welfare, or as it is often expressed, the public' safety, public health and public morals. These terms indicate its field, yet its boundaries are necessarily vague and indefinable. The broad discretion thus vested in the state is fraught with dangers to the personal and property rights of private persons; and therefore the courts have always asserted the right to restrain the exercise of the power to the extent that private rights may not be arbitrarily or unreasonably infringed. Such cases are within the rights reserved by the Bill of Rights and are therefore the unconstitutional, or rather extra-constitutional, exercise of police power and void.
+Section 2833, Revised Statutes, was amended into its present form and took effect from April 4, 1906. 98 O. L., 87. Here for the first time appears in our statutes a provision that a “per capita tax on dogs” shall be collected, not from the owner or the. keeper and harborer of the dogs, but from the owner of the land on which they are kept or harbored. The statute provides, “which per capita tax shall be levied upon and entered against the real estate upon which said dog is kept or harbored and collected as are other taxes upon real estate,” etc. There does not appear to be any way of avoiding, by construction, the conclusion that by this enactment the landowner, and the landowner alone, must bear' the penalty, although he may not be the owner, or keeper or harborer of the dogs and may be ignorant of their existence, and even though he may have done all in his power to prevent the occurrence of such an offense; yet the real offender is subjected to no penalty at all, unless the payment of a trifling property tax, measured by the value of the dogs, is a penalty. Thus the property of an innocent person may be taken without notice and without due process of law, to recompense an injur)'- to another, committed by a third person who holds no relation to the landowner except that of tenant under a lease. While we recognize and approve the doctrine that every man holds his property subject to the condition that he must so use it as not to injure others, we are not persuaded to accept the view that the general welfare, or even the protection of a favored class of industries, justifies such drastic legislation as this appears to be. To us it seems to be inequitable, arbitrary and unreasonable, unnecessarily infringing upon the natural and inalienable rights of citizens, and therefore void.
+The case of Mirick might be disposed of on another ground. His land at and before the passage of this act was under lease and in the control of tenants, and has been so ever since. If there were no other sufficient objection to the statute, it could not apply to Mirick’s case without a violation of Section 28, Article II, of the constitution.
+The judgments of the circuit courts and those of the courts of common pleas are
+Reversed.
+Price, C. J., Shauck, Crew, Summers and Spear, JJ., concur. Summers, J., does not concur in the judgment in the Sunday Creek case.
