@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20150"
 decided: "1926-11-02"
-citations: ["4 Ohio Law Abs. 818", "4 Abs. 743", "4 Ohio Law Abs. 743"]
+citations: ["4 Ohio Law Abs. 818", "4 Abs. 743"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
