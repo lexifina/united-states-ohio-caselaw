@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1878-12"
+citations: ["34 Ohio St. 610"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Boynton, J., dissented from the third proposition of the .syllabus."]
+parties: ["Crooks et al. v. Crooks."]
+source_url: "https://static.case.law/ohio-st/34/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 904818
+cites_cases: ["10 Minn. 50", "10 Ohio, 371", "10 Ohio, 373", "12 Ohio, 371", "12 Wend. 105", "13 Cal. 9", "13 Johns. 285", "13 Vt. 296", "13 Vt. 297", "14 Ohio, 310", "15 Vt. 537", "15 Wend. 656", "18 Conn. 257", "2 Mass. 447", "20 Ohio, 518", "22 Ind. 36", "23 Ark. 507", "24 Tex. 305", "26 Conn. 26", "28 Conn. 446", "28 Miss. 717", "30 Wis. 644", "34 N. H. 460", "34 N. Y. 92", "35 Barb. 341", "35 Ind. 181", "35 Miss. 638", "35 Miss. 664", "35 Vt. 47", "39 Ind. 528", "4 Abb. 315", "4 Bay, 66", "41 Ind. 339", "44 N. Y. 27", "44 Penn. St. 43", "45 N. H. 505", "56 Ill. 93", "66 Ill. 24", "9 Mass. 307"]
+---
+
+# Crooks v. Crooks
+
+## Majority (MoIlvaine, J.)
+
+MoIlvaine, J.
+In respect to contracts between husband' and wife, the doctrine of the common law, that the legal-existence of the wife is merged in that of the husband,. operates, with all its consequences, in this state, notwithstanding our statutes, which, to some extent, enlarges the capacity and rights of married women. Wherefore, a deed for the conveyance of land executed by a husband to his wife, without the intervention of a trustee, is void at law; nor can a court of equity regard it as effectual to transfer the legal title. And further, it may be said, that where such deed is intended as a pure gift, it is wholly invalid, even in equity, for the reason that equity will not complete an unexecuted gift, on the ground that, being unsupported by a consideration, it is devoid of equity.
+But where such deed of conveyance is fouuded upon a good and sufficient consideration, a court of equity will enforce it according to the intention of the parties,'where the .same can be done without prejudice to the rights of others. Huber v. Huber, 10 Ohio, 371; Brookbank v. Kernard, 41 Ind. 339; Cardell v. Ryder, 35 Vt. 47; Tyler on Infancy and Coverture, § 357, et seq. And, in such eases, it is sufficient that the consideration be a meritorious one ; as, for instance, where the conveyance is in the nature of a settlement, and was intended to be a reasonable provision for the support of the wife. Wells v. Wells, 35 Miss. 664; Hunt v. Johnson, 44 N. Y. 27 ; Wilder v. Brooks, 10 Minn. 50 ; Hills v. Downton, 5 Vesey, Jr., 557; Shepard v. Shepard, 7 Johns. Oh. 57 ; Sims v. Rickets, 35 Ind. 181; Thompson v. Mills, 39 Ind. 528.
+Upon such consideration, however, the conveyance will . not be perfected by a court of equity to the injury of creditors or to the prejudice of children for whom no provision has been made. But if any provision be made for a child, though by a stranger, and, if a daughter, by her marriage, it would seem that such child could not be heard to complain against the settlement.
+In the case before us, some of the complainants are married daughters of the grantor, and all are well advanced in life — the youngest being more than thirty-five years of age at the death of the grantor — and, although unadvised as to their pecuniary circumstances, when the fact, that they were all maintained, and provided for, in infancy, upon the land in dispute, is considered in connection with the interest which the wife of the grantor had in the land before her marriage with the grantor, and the manner in which he acquired his title, we doubt whether the equities of the children, although unprovided for, are equal to those of the wife. But however that may be, a majority -of the court are satisfied that a child, who complains against such settlement on the wife, must show that he or she has not been provided for. And on this point, the record before us being silent, we can not assume that the grantor, in making this settlement upon his wife, failed in his duty toward any of his children.
+The theory upon which courts of equity afford relief in ■cases of this kind is this : It being clearly shown that the husband intended to make a reasonable provision for his wife, as it was his duty to do, and having, as he believed, accomplished that purpose by executing and delivering the ■deed, equity will treat him as trustee of the legal title for the wife’s benefit; and, consequently, the heir upon whom such legal title may be cast by descent, must also be regarded as trustee upon the same trust.
+It is also contended, on the part of plaintiffs in error, that, aside from the question of the incapacity of the parties by reason of the relation, of husband and wife, .the deed in dispute is void for want of delivery, end, being without a valuable consideration, as distinguished from a meritorious one, can not be enforced as a covenant to convey. The grantor, without reserving or intending to retain any control over the instrument, delivered it to a third person, to be by him delivered to the grantee at the death of the grantor. The depositary accepted the deed for the grantee, and at the death of the grantor delivered it to the grantee. "We think this was a good delivery to the grantee, whereby the title passed by relation, as of the date when the deed was delivered to the depositary. Hatch v. Hatch, 9 Mass. 307; Foster v. Mansfield, 3 Met. (Mass.) 412; Hathaway v. Payne, 34 N. Y. 92; Morse v. Slason, 13 Vt. 297; Merrills v. Swift, 18 Conn. 257 ; Church v. Gilman, 15 Wend. 656.
+While we do not approve of the form of the decree be low, vve do not find any error in the record for which it should be reversed.
+Judgment affirmed.
+Boynton, J., dissented from the third proposition of the .syllabus.
