@@ -1,0 +1,70 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-619 and 80-620"
+decided: "1981-07-08"
+citations: ["67 Ohio St. 2d 91"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Holmes and C. Brown, JJ., concur."]
+parties: ["Insurance Company of North America et al. v. Automatic Sprinkler Corporation of America, Appellee; The Ansul Company, Appellant. Youngstown Steel and Alloy Corporation et al. v. Automatic Sprinkler Corporation of America, Appellee; The Ansul Company, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/67/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806658
+cites_cases: ["154 S.E. 2d 140", "192 Mich. 62", "207 Va. 972", "23 Ohio St. 2d 99", "24 A.L.R. 3d 465", "26 Ohio St. 2d 85", "28 Ga. App. 684", "33 App. Div. 2d 17", "33 Ohio St. 2d 1", "33 Ohio St. 2d 37", "395 U. S. 921", "402 S.W. 2d 429", "404 F. 2d 505", "41 Ohio App. 2d 150", "499 F. 2d 709", "58 A.L.R. 1181", "64 Cornell L. Rev. 30", "9 Conn. 107"]
+---
+
+# Insurance Co. of North America v. Automatic Sprinkler Corp. of America
+
+## Majority (Locher, J.)
+
+Locher, J.
+This case presents three issues: (1) whether Ansul has effectively disclaimed all implied warranties with Automatic Sprinkler; (2) whether Ansul has effectively excluded all liability for consequential damages; and (3) whether Automatic Sprinkler must indemnify Ansul against all claims arising in this litigation. Resolving each of these issues requires an interpretation of paragraph 9.
+We hold that Ansul has neither disclaimed its liability for implied warranties nor excluded its liability for consequential damages.
+I.
+Ansul attempted to disclaim all liability to Automatic Sprinkler for breach of implied warranties by including the following language in paragraph 9: “This warranty is in lieu of all other warranties express or implied.” Automatic Sprinkler argues that this language fails as a disclaimer because it does not mention merchantability and is not conspicuous as required by R. C. 1302.29(B). Ansul, on the other hand, suggests that the “in lieu of” language is similar to “as is” under R. C. 1302.29(C)(1). Under Ansul’s view, the disclaimer is effective regardless of whether it is conspicuous or whether it mentions merchantability.
+We hold that the “in lieu of” language is not similar to “as is” under R. C. 1302.29(C)(1). The effort to disclaim liability for all' implied warranties fails because paragraph 9 is not conspicuous and because the disclaimer does not mention merchantability.
+“As is” language describes the quality of the goods sold. As an example of “as is” language, R. C. 1302.29(C)(1) expressly includes “with all faults.” See footnote 3, supra. Official Comment 7 to R. C. 1302.29 further explains the intent of the drafters:
+“Paragraph (1) of division (C) deals with general items such as ‘as is,’ ‘as they stand,’ ‘with all faults,’ and the like. Such terms in ordinary commercial usage are understood to mean that the buyer takes the entire risk as to the quality of the goods involved. * * * ” (Emphasis added.)
+R. C. 1302.29(C)(1) also codifies the holdings of the cases which antedate the Uniform Commercial Code. See, e.g., West v. Anderson (1831), 9 Conn. 107 (seller is not liable for unsoundness of horse sold “sound or unsound”); Washington & Lincolnton Railroad Co. v. Southern Iron & Equipment Co. (1922), 28 Ga. App. 684 (all warranties are waived where vendee accepted locomotive engine “in its present condition”); Detroit Trust Co. v. Engel (1916), 192 Mich. 62 (implication of a warranty is forbidden where automobiles were “sold as they are of this date”); Covas v. Bingham (Q.B., 1853), 118 Eng. Rep. 980 (“as it stands” expressed agreement as to the quality of the ship’s cargo); Baglehole v. Walters (K.B. 1911), 170 Eng. Rep. 1338 (a sale “with all faults as they now lie” is wdthout a warranty of “soundness”); Pickering v. Dowson (C.P., 1813), 128 Eng. Rep. 537 (there is no warranty for a ship and stores purchased “with all faults, in the condition they now lie”). See, also, Annotation, 58 A.L.R. 1181. Cf. Annotation, 24 A.L.R. 3d 465.
+We recognize that the courts have held that “in lieu of” language eliminates implied warranties. See, e.g., Sterner Aero AB v. Page Airmotive, Inc. (C.A. 10, 1974), 499 F. 2d 709; Construction Aggregates Corp. v. Hewitt-Robins, Inc. (C.A. 7, 1969), 404 F. 2d 505, certiorari denied, 395 U. S. 921; Cox Motor Car Co. v. Castle (Ky. 1966), 402 S.W. 2d 429; Marshall v. Murray Oldsmobile Co., Inc. (1967), 207 Va. 972, 154 S.E. 2d 140. We reject this conclusion.
+Under R. C. 1302.29(C)(1), “other language which, in common understanding, calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty” must be language which is consistent with the intention of the drafters and the General Assembly. This language must describe the quality of the goods.
+Accordingly, the “in lieu of” language in paragraph 9 falls outside R. C. 1302.29(C)(1).
+This “in lieu of” provision does not qualify, therefore, as a disclaimer of implied warranties under R. C. 1302.29(B). There is no mention of merchantability. In addition, we have held that paragraph 9 is inconspicuous.
+R. C. 1301.01(J) defines “conspicuousness” as follows:
+“ ‘ Conspicuous’: A term or clause is conspicuous when it is so written that a reasonable person against whom it is to operate ought to have noticed it. A printed heading in capitals (as: NON-NEGOTIABLE BILL OF LADING) is conspicuous. Language in the body of a form is ‘conspicuous’ if it is in larger or other contrasting type or color. But in a telegram any stated term is ‘conspicuous.’ Whether a term or clause is ‘conspicuous’ or not is for decision by the court.”
+Paragraph 9 appears among 15 other paragraphs on the back of the last page of the Proposal. This is the only page with writing on the back and is unnumbered. None of these paragraphs has a heading, extraordinary capitalization or contrasting type. Furthermore, Ansul alone executed the Proposal which contained paragraph 9 approximately two months before Automatic Sprinkler submitted its purchase order. In light of all these circumstances, therefore, it is clear that paragraph 9 is inconspicuous.
+Accordingly, we hold that the “in lieu of” provision in paragraph 9 does not disclaim all implied warranties.
+II.
+Ansul argues that, even if the purported disclaimer fails, paragraph 9 excludes “liability for consequential or other loss or damage***.” We disagree.
+R. C. 1302.93(C) and 1302.29(D) 6permit parties to exclude consequential damages without expressly requiring that the exclusion be conspicuous. Nevertheless, courts and commentators have read R. C. 1302.93(C) (U.C.C. 2-719[3]) and R. C. 1302.29(D) (U.C.C. 2-316[4]) in pari materia. See e.g., Avenell v. Westinghouse Electric Corp. (Cuyahoga Cty., 1974), 41 Ohio App. 2d 150; Zicari v. Joseph Harris Co., Inc. (1969), 33 App. Div. 2d 17, 304 N.Y. Supp. 2d 918; Nordstrom, Law of Sales, at 276; Special Project—Article Two Warranties in Commercial Transactions, 64 Cornell L. Rev. 30, 224. Nordstrom, supra, explains why these two statutes should be read together, as follows:
+“The requirement that the agreement contain the alteration of basic Code remedies brings into play those ideas discussed in the prior section of this text [dealing with disclaimers of implied warranties]. The limitation [or exclusion of remedies] must be a part of the parties’ bargain in fact. If it is contained in a printed clause which was not conspicuous or brought to the buyer’s attention, the seller had no reasonable expectation that the buyer understood that his remedies were being restricted to repair and replacement. As such, the clause cannot be said to be a part of the bargain (or agreement) of the parties.” (Citation omitted.)
+Any other reading of these provisions would permit inconspicuous provisions excluding or limiting damage recovery to circumvent the protection for buyers in R. C. 1302.29(B). Footnote 2, supra.
+Paragraph 9 is inconspicuous in its entirety. The attempt to exclude liability for consequential damages, therefore, is also inconspicuous. Accordingly, Automatic Sprinkler may recover consequential damages from Ansul.
+III.
+The Court of Common Pleas ordered Automatic Sprinkler to indemnify Ansul in both of the consolidated cases. The Court of Appeals, however, reversed and remanded the cause to the Court of Common Pleas for further proceedings on this issue.
+In the Court of Appeals, Automatic Sprinkler asserted that the indemnity provision is unconscionable under R. C. 1302.15(A). Automatic Sprinkler had not raised the issue directly in the trial court. Ansul argues, therefore, that the issue of unconscionability is not properly before this court. Nevertheless, this issue was assigned as error and briefed in the Court of Appeals.
+Under App. R. 12(A) and the rulings of this court, the Court of Appeals was required to review and decide this issue. Smith v. Jaggers (1973), 33 Ohio St. 2d 1; Lumbermen’s Alliance v. American Excelsior Corp. (1973), 33 Ohio St. 2d 37. Furthermore, both this court and the Court of Appeals have discretion to reverse, vacate or modify an order of a court of record when questions of law are raised on appeal.* * Unconscionability is a question of law. See footnote 6, supra. Therefore, this court will uphold discretionary review by the Court of Appeals unless there is an abuse of discretion. See, e.g., State, ex rel. Pistillo, v. Shaker Heights (1971), 26 Ohio St. 2d 85; Carrothers v. Hunter (1970), 23 Ohio St. 2d 99.
+There was no unconscionability hearing in the Court of Common Pleas. Rather than decide this issue on a limited record, the Court of Appeals remanded the cause to the Court of Common Pleas for futher proceedings. This decision permits both sides to be heard and may prevent a substantial injustice. There was no abuse of discretion.
+We, therefore, affirm the judgment of the Court of Appeals and remand for further proceedings consistent with this opinion.
+Judgment affirmed.
+Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Holmes and C. Brown, JJ., concur.
+R. C. 1302.29(B) provides:
+“Subject to division (C) of this section, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states for example, that ‘There are no warranties which extend beyond the description on the face hereof.’ ”
+R. C. 1302.29(C)(1) provides:
+“(C) Notwithstanding division (B) of this section:
+“(1) unless the circumstances indicate otherwise all implied warranties are excluded by expressions like ‘as is,’ ‘with all faults,’ or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty* * *.”
+R. C. 1302.93(C) provides:
+“Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.”
+R. C. 1302.29(D) provides:
+“Remedies for breach of warranty can be limited in accordance with the provisions of sections 1302.92 and 1302.93 of the Revised Code on liquidation or limitation of damages and on contractual modification of remedy.”
+R. C. 1302.15(A) provides:
+“If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.”
+App. R. 12(A) reads:
+“In every appeal from a trial court of record to a court of appeals, not dismissed, the court of appeals shall review and affirm, modify, or reverse the judgment or final order of the trial court from which the appeal is taken. The appeal shall be determined on its merits on the assignments of error set forth in the briefs required by Rule 16, on the record on appeal as provided by Rule 9, and, unless waived, on the oral arguments of the parties, or their counsel, as provided by Rule 21. Errors not specifically pointed out in the record and separately argued by brief may be disregarded. All errors assigned and briefed shall be passed upon by the court in writing, stating the reasons for the court’s decision as to each such error.”
+R. C. 2505.27 provides:
+“A judgment rendered or final order made by a court of common pleas, a probate court, or by any other court of record, or by a judge of any of such courts, may be reversed, vacated, or modified for errors appearing on the record, upon an appeal on questions of law, by the court of appeals having jurisdiction in the county wherein such court of record is located.”
+R. C. 2505.28 provides:
+“A judgment rendered or a final order made by a court of appeals or a judge thereof, court of common pleas or a judge thereof, or probate court may be reversed, vacated, or modified by the supreme court by an appeal on questions of law, except cases in which the judgment of the court of appeals is final, as provided by Section 6 of Article IV, Ohio Constitution, and such judgment shall not be subject to modification, vacation, or reversal.”
+R. C. 1302.15(B) provides:
+“When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect to aid the court in making the determination.”
