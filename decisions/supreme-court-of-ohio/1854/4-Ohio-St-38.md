@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1854-12"
+citations: ["4 Ohio St. 38"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Charles Trowbridge v. Oliver T. Holcomb et al."]
+source_url: "https://static.case.law/ohio-st/4/cases/38, 39-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6034683
+cites_cases: ["1 Black. 342", "1 McLean, 118", "1 Serg. & R. 445", "10 N. H. 445", "12 Mass. 120", "12 Mass. 121", "12 Sm. & M. 495", "19 Conn. 217", "2 Johns. 235", "22 Vt. 301", "3 Conn. 58", "5 Ohio, 349", "5 Wend. 393", "6 Humph. 336", "7 Conn. 324", "7 Cow. 212", "8 Conn. 390", "9 Humph. 33"]
+---
+
+# Trowbridge v. Holcomb
+
+## Majority (Thurman, C. J.)
+
+Thurman, C. J.
+March 11, 1847, Oliver T. Holcomb, in consideration of the sale and conveyance by Philander Parr to him, of a farm in Geauga county, made his seven promissory notes, payable in wool to Parr or bearer on July 1st, in the years 1848 to and including 1854, respectively; the first two being for 1,000 pounds each, and the remaining five for 1,100 pounds each. These notes are alike in form, the only difference being in the amounts and times of payment, as above stated. The following is a copy of one of them:
+“ For value received, I promise to pay Philander Parr or bearer, 1,000 of wool the 1st of that this note and the payments are to be on all the conditions and stipulations in a mortgage given by said Holcomb to said Earr, to secure the payment of this and other wool notes, dated the 11th day .of March, 1847; this wool to be delivered at my house.
+(Signed,) “ Oliver T. Holcomb.
+“ Chardon, March 11,1854.”
+At the same time and upon the same consideration, Holcomb reconveyed the farm to Earr by the mortgage deed referred to in the notes, the condition of the mortgage being in these words :
+“ Whereas, Oliver T. Holcomb is indebted to the said Earr in the sum of $1,500, to be paid in wool at the times and in the manner following, to wit: 1,000 pounds by the 1st day of July, 1848: 1,000 pounds by the 1st day of July, 1849; and 1,100 pounds payable each year for five years from said 1st day of July, 1849 — and said payments are not to draw interest — making in all 7,500 pounds of wool. It is always understood between the parties to this instrument that the said Earr is not to have the right to sue the said Holcomb upon any of the above ^payments, or to foreclose this mortgage, provided one-half of each note is paid when due, until the last payment becomes due (should said Holcomb fail to pay the same as they become due). And it is further agreed by the said parties, that if said Holcomb shall not have wool enough to pay the full amount of each payment as they become due, that the said Earr shall receive whatever wool he (said Holcomb) may have to turn out on each payment when it becomes due, at twenty cents per pound, and cancel so much of said indebtedness as said wool will come to at that price. Now, if said Oliver T. Holcomb, Ms heirs, assigns, etc., shall well and truly pay the aforesaid' amount of wool, according to the terms of this instrument, to said Philander Earr, or assigns, then the above deed to be void.”
+April 6,1847, Earr sold and assigned the notes and mortgage to one Searls, who/ion September 27, 1847, sold and assigned the same to the complainant.
+July 1, 1848, the first note fell due and was paid in wool.
+July 31, 1848, Holcomb and wife, by quitclaim deed, released all their interest in the farm to Earr.
+December 8, 1848, Earr and wife conveyed it to Rodney B. Dutton, subject to the mortgage.
+November 22,1849, Dutton conveyed it to Levi Cushman, subject to the mortgage.
+April 18, 1851, Cushman and wife conveyed all but twenty-five acres to Lansing Richmond.
+When the notes payable July 1, 1849,1850, and 1851, matured, they were respectively presented for payment, and payment in wool demanded, which was refused,-and á right asserted to pay in money one-half of each note at the rate of twenty cents for each pound of wool, viz., $100 on each note. This claim the complainant denied, but he agreed to and did receive the money offered, with the understanding, however, that he should not be thereby prejudiced in his right, if such right he had, to recover the excess which might exist by estimating the wool at the then current market price of wool.
+*This bill is filed to foreclose the mortgage, the complainant contending that one-half of the matured notes has not been paid, and that consequently he is entitled to foreclose for the full amount of these notes less the sums paid. This position rests upon the assumption, that the debt could be discharged only by the payment of wool, or the current market value of wool. If it could be discharged by the payment of money, at the rate of twenty cents for each pound of wool, then, as one-half of the notes, thus estimated, was duly paid, it is admitted that the bill can not be sustained; the terms of the condition of the mortgage forbidding it.
+The notes and mortgage must be construed together. They refer to each other, and are but parts of one contract. This is more plainly the ease than is usual in such transactions, since very important provisions contained in the condition of the mortgage are made parts of the notes by their very terms. Thus construed, we are of the opinion that the legal effect of the contract is an undertaking to pay $1,500 in money, or in wool at twenty cents per pound, to wit, 7,500 pounds, at the option of the payer. Upon no other construction can certain terms of the moi'tgage-condition be accounted for. Thus it is therein recited that “ Holcomb is indebted to the said Earr in the sum of $1,500 to be paid in wool,” etc. Now, if the complainant is right, this recital is worse than useless; it is a falsehood. Upon the complainant’s construction, Holcomb did not owe Earr $1,500, but owed him 7,500 pounds of wool, the nondelivery of which might create a liability for more or less than according to what might be the market price of wool at the matiuity of the notes.
+Again, “ It is further agreed by the said parties,” says the condition, “that if said Holcomb shall not have wool enough to pay the full amount of each payment as they become due, that the said Farr shall receive whatever wool he (said Holcomb) may have to turn out on each payment when it becomes due, at twenty cents per pound, and cancel so much of said indebtedness *as said wool will come to at that price.” "Why this mention of “ twenty cents per pound,” this reference to “ said indebtedness ” — to wit, the before-mentioned indebtedness of $1,500 — and these words, “ that price,” if it was not the understanding of the parties that the debt was $1,500, to be discharged either by the payment of money or of wool at the rate of twenty cents per pound ?
+In any other view these expressions ought not to be in the instrument, and we would be forced to disregard their plain import, and to decide that they were inserted without any object. This we are not at liberty, upon any just principle of construction, to do.
+That an agreement to pay $1,500 in wool, at twenty cents per pound, may be discharged by the payment of that sum in money, that that sum is the measure of damages if the wool be not delivered, is, we think, the law, both on reason and authority. We are aware that there are decisions that'the market value of the wool is the measure of damages, but we do not think they are sound. Upon this question, the rule of the civil law is thus stated in Pothier on Obligations, No. 497 : “All agreements to pay in specific articles are presumed to be made in favor of the debtor, and he may, in all cases, pay the amount of the debt in money in lieu of the articles which, by the terms of the contract, the creditor had agreed to receive, instead of money.”
+With perhaps some qualification of the generality of this language, this is also the rule of the common law.
+In Ohipman on Contracts, 35, it is said: “ If A give B a note for $100, payable at a future day, in wheat at 75 cents per bushel, and wheat on the day of payment be $1 per bushel, A may, at his election, pay in wheat at 75 cents per bushel, or $100 in money.”
+To the same effect are Perry v. Smith, 22 Vt. 301; Smith v. Smith, 2 Johns. 235 ; Pinney v. Gleason, 5 Wend. 393; Brooks v. Hubbard, 3 Conn. 58; Baber v. Mair, 12 Mass. 121; Mettler v. Moore, 1 Black. 342.
+*A collection of the authorities on both sides of this ques tion may be found in 2 Parsons on Contracts, 490.
+In this state, we tbink that the rule to which we hold has always prevailed.
+BUI dismissed.
