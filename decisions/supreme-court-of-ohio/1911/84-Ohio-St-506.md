@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+docket: "13118"
+decided: "1911-06-30"
+citations: ["84 Ohio St. 506"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear, C. J., Davis, Shauck, Price, Johnson and Donahue, JJ., concur."]
+parties: ["The State, ex rel. City of Toledo, v. Sanzenbacher, Auditor."]
+source_url: "https://static.case.law/ohio-st/84/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 982141
+---
+
+# State ex rel. City of Toledo v. Sanzenbacher
+
+## Majority
+
+This cause came on for hearing and trial on the pleadings, and was argued by counsel. On consideration whereof, the. court, construing Section 5649-2, Section 5649-3 and Section 5649-3a, of the Act of June 2, 1911, limiting tax rates, find that by the provisions of these sections levies may be made as follows:
+1. The taxing authorities of any taxing district may levy taxes not exceeding the aggregate of ten mills on each dollar of the tax valuation of the property of such taxing district for state, county, township, school and municipal purposes, subject to the further limitation of the paragraphs following.
+2. In addition thereto levies may be made for sinking fund and interest purposes necessary to provide for any indebtedness incurred before the passage of said act, and any indebtedness that may be incurred after the passage of said act by a vote of the people.
+3. In case such levy for the year 1911 shall produce ail amount greater than the amount of taxes levied in the year 1910, then such levy of ten mills on the dollar must be reduced to such a rate as will produce no more money than the taxes levied for the year 1910.
+4. A municipal corporation may levy for municipal purposes as provided in preceding paragraphs 1, 2 and 3, an aggregate of five mills on the taxable property within such corporation only in the event that such levy of five mills, when added to the levy of state, county, township and school purposes, shall not exceed in the aggregate ten mills on the dollar,' of the taxable property within such taxing district exclusive of levies for sinking fund and interest purposes necessary to provide for any indebtedness incurred before the passage of said act and any indebtedness that may be incurred after the passage of said act by a vote of the people, and provided further, that such levy of ten mills on the dollar of taxable property shall not produce for the year 1911 an amount greater than the amount of taxes levied in the year 1910, and whenever such levy exceeds either of said limitations, then it is the duty of the budget commission to revise and reduce said levies in manner and form as directed and authorized by Section 5649-3c, General Code, as enacted June 2, 1911, having due regard to the proportions of the total amount that each taxing board or taxing officers are authorized to levy, so that such aggregate of all taxes for all purposes in each taxing district shall not exceed ten mills on the dollar exclusive of sinking fund and interest purposes as aforesaid, and shall not produce for the year 1911 a greater amount of taxes than levied in the year 1910, as provided in paragraph three of this entry. But whenever any levy for township, county, school or municipal purposes exceeds the maximum amount that may be levied for such purpose as provided by Section 5649-3a, General Code, then such excessive levy must first be reduced by the budget commission to the maximum amount provided in such section before said budget commission proceeds to revise and reduce all the levies certified for such taxing district to bring the aggregate of all within the limitations above referred to, to-wit: ten mills on each dollar of taxable property and to an amount not greater than the taxes levied in the year 1910.
+5. The right to levy five mills on the taxable property, within such corporation is further limited by the provision that if said levy of ten mills for the year 1911 will produce more taxes than were levied in the year 1910, then such levy should again be scaled by the budget commission until the same will produce no larger revenue than the taxes levied in the year 1910.
+6.. The five mills, which, subject to the qualifications hereinbefore defined, may be levied by a municipal corporation for corporation purposes, are exclusive of such levies for interest and sinking fund purposes as are or may be necessary to provide for any municipal indebtedness incurred prior to the passage of the act of June 2, 1911, and any indebtedness thereafter incurred by a vote of the people.
+This court, therefore, finds that the relator is entitled to a peremptory writ of mandamus commanding the auditor of Lucas county, defendant herein, to ascertain the rate of taxes necessary to produce the amounts to him certified by the budget commission of Lucas county, provided that the aggregate, (exclusive of the levy for the sinking fund and interest purposes, for indebtedness heretofore incurred, and indebtedness that may have been incurred by a vote of the people), shall not exceed the rate of ten mills and the total fund raised thereby including the amount necessary for the sinking fund and interest as aforesaid shall not exceed the amount raised in the year 1910, then to enter the same upon the tax duplicate of Lucas county.
+Also, that he ascertain the rate of the levy necessary for sinking fund and interest purposes to provide for indebtedness incurred before the passage of said act and any indebtedness that may have been incurred since the passage of the act by a vote of the people, if any, and add such levy to the tax duplicate in addition to said ten mills, but the total of both levies not to exceed the total sum levied in the year 1910.
+It is therefore ordered, adjudged and decreed that a peremptory writ of mandamus issue against the defendant, as auditor of Lucas county, commanding him to make levies as provided herein.
+Spear, C. J., Davis, Shauck, Price, Johnson and Donahue, JJ., concur.
