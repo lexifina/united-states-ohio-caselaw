@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1871-12"
+citations: ["21 Ohio St. 248"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Welch, C. J., and White, McIlvaine and West, JJ., concurred."]
+parties: ["Emanuel Phifer v. John Cox."]
+source_url: "https://static.case.law/ohio-st/21/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 885697
+cites_cases: ["1 Denio, 533", "10 Ohio St. 557", "11 Ohio, 544", "12 Ohio St. 90", "12 Ohio, 527", "13 Ohio St. 47", "14 Conn. 311", "14 Ohio, 502", "14 Wend. 250", "15 Johns. 447", "15 Ohio, 514", "2 Mass. 143", "2 Ohio St. 63", "20 Ohio, 376", "35 N. H. 257", "37 Barb. 301", "4 N. H. 520", "4 Ohio St. 259", "6 Munf. 308", "6 Ohio St. 294", "6 Pick. 56", "7 Johns. 106", "8 Ohio St. 145", "8 Ohio St. 373", "9 Paige Ch. 217", "9 Wend. 584", "9 Wend. 590"]
+---
+
+# Phifer v. Cox
+
+## Majority (Day, J.)
+
+Day, J.
+The action was brought to recover damages for the wrongful destruction of part of a hedge fence standing and growing on the premises of the plaintiff. It appears, that a county road had been established, embracing within its limits the hedge in question. It does not therefore follow that the plaintiff had no right of action for the destruction of the hedge, for the establishment of the road did not extinguish his title in the land over which it passed. The public acquired thereby a mere easement — a right of way, with the powers and privileges incident to that right. The owner of the fee still retained his exclusive right in the trees and herbage growing on the land, for every purpose not incompatible with the public right of way, and he may maintain an action in respect to them, when not taken for the purpose of making or repairing the road, or lawfully abated as a hindrance or annoyance to travelers thereon. Jackson v. Hathaway, 15 Johns. 447 ; Adams v. Emerson, 6 Pick. 56 ; Washburn’s Eas. and Ser. [* 159]
+These, then, being the general rights of the public and the owner of land appropriated to a highway, to what extent may an individual, not acting under statutory or official authority, be justified in destroying trees and shrubs standing and growing in a public highway ? This is the principal question in the case, and must not be confounded with the right of the public in such cases acting through its officers or by appropriate judicial proceedings. An individual can not needlessly and wantonly destroy them, for that would be inconsistent with the rights of the proprietor of the soil, and transcend the bounds of the easement acquired by the public, when not necessary to the enjoyment of a right of way. So long as that is unobstructed, there is no reason why the easement of a highway should afford a justification to an individual for the needless destruction of properly belonging to the owner of the land, merely because it happens to be within the bounds of the road as laid out and established. But whenever such property works an annoyance, hindrance or inconvenience to travelers, it becomes a public nuisance, and may be abated or removed by any one who wants to use the road in a lawful way. Aug. on Highways, sec 274 ; 8 Black. Com. 5. “ But it is a general rule, that the abatement must be limited to its necessity, and-no wanton or unnecessary injury must be commited. 2 Salk. 458.” 3 Cooley’s Black. 5, note ; and 15 Ad. & El. N. S. 283. “And the reason,” says Blackstono, “ why the law allows this private and summary method of doing one’s-self justice, is because injuries of this kind, which obstruct or annoy such things as are of daily convenience and use, require an immediate remedy, and cannot wait for the slow forms of justice.” It would seem, then, that the remedy by summary abatement ought to be tolerated only where' there is an annoyance bringing the injury within the reason-of the rule which allows it. The right of an individual to abate an obstruction in a highway, therefore, must depend upon the fact whether it is a hindrance or annoyance to-travelers, that is, whether it is a public nuisance, and, of necessity, is a question in every case to bo decided by a jury..
+This view of the case is sustained by authority as well as reason.
+Angelí in his treatise on highways (sec. 274), says: “ Neither does this right of abatement, as has been held, go to the extent of justifying the removal of every encroachment upon the highway, unless such encroachment at the-same time annoys and obstructs its lawful use.”
+So in Evans v. The City of Cincinnati (2 Handy, 236), it was held that in no case, unless the obstruction impedes-the free use of the street, can an individual resort to the summary remedy of abatement.
+So in Harrower v. Ritson (37 Barb. 301), it was held that the jurisdiction of a defendant, who had torn down a fence extending into the highway, was limited by the necessity of tbe case, and if the use of the road was not interfered with, he was a trespasser in removing the fence.
+In Hopkins v. Crombie (4 N. H. 520), where a building extended about ten feet into the highway, but did not cover or obstruct any of the traveled part therof, the court held the encroachment not to be such a nuisance as could be abated by an individual unless it actually obstructed his passage.
+The same principle was upheld in Graves v. Shattuck, 35 N. H. 257 ; and in Mayor of Colchester v. Brooke, 7 Ad. & El., N. S. 339 ; and in Dimes v. Petley, 15 Ad. & El., N. S. 276.
+So in Burnham v. Hotchkiss (14 Conn. 311), the court held that whether an obstruction is a nuisance or not, is a question of fact for the jury, and that a summary abatement would not be justifiable unless the public travel was thereby actually obstructed, hindered or endangered. And this we think is the correct doctrine, both on principle and authority.
+We therefore conclude that the charge of the court in the case in hand, and its refusals to charge as requested, were fully warranted and justified. The charge was, to say the least, as favorable as the defendant could properly ask ; nor do we think any seeming inconsistencies in the charge could have operated to his prejudice ; on the contrary, they were decidedly in his favor.
+Nor do we think the court erred in overruling the motion for a new trial; for the evidence clearly sustained the jury ' in finding that the hedge of the plaintiff1 was no obstruction, hindrance or annoyance to travelers, or to the defendant, in the lawful use of the road, there being ample space left for them for that purpose.
+It follows that the judgment of the court of common pleas must be affirmed.
+Welch, C. J., and White, McIlvaine and West, JJ., concurred.
