@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19071"
 decided: "1925-04-13"
-citations: ["3 Ohio Law Abs. 345", "3 Abs. 249", "4 Ohio Law Abs. 129", "OS. Pend. 3 Abs. 345"]
+citations: ["3 Ohio Law Abs. 345", "3 Abs. 249"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
