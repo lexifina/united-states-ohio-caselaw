@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "77-350"
+decided: "1978-02-15"
+citations: ["53 Ohio St. 2d 108"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, W. Brown, P. Brown and Strausbaugh, JJ., concur.", "Celebrezze, J., dissents.", "Strausbaugh, J., of the Tenth Appellate District, sitting for Sweenet, J.", "Whiteside, J., of the Tenth Appellate District, sitting for Locher, J."]
+parties: ["Surety Savings & Loan Company, Appellee, v. Kanzig et al; Wayne Savings & Loan Association, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/53/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1800676
+---
+
+# Surety Savings & Loan Co. v. Kanzig
+
+## Majority (Whiteside, J.)
+
+Whiteside, J.
+The issue in this cause is whether Surety can enforce its financing agreement with G-latt’s as against Wayne and the Kanzigs. Wayne has raised no issue with respect to indemnification of the Kanzigs, acceding thereto, and thus essentially stands in place of the Kanzigs.
+The modular home ,in question, not having wheels or runners, is not a motor vehicle as defined by R. C. 4505.01 since it does not appear to be a vehicle as defined by R. C. 4511.01(A), and thus not a house trailer as defined by E. C. 4501.01 (L). The parties, however, agree that the result in this case is not dependent upon whether the modular home in question is a motor vehicle and concede that this case is governed by the provisions of the Uniform Commercial Code. Similarly, although a factual issue might arise, Wayne concedes that in its communications with Surety it acted as agent for the Kanzigs. Surety, on the other hand, concedes that it no longer has a security interest in the modular home, but contends that it has a security interest in the proceeds of the sale of the home, the contract right, or account, and that Wayne and the Kanzigs were required to malee payment to it, rather than Glatt’s, after notification to Wayne of the existence of Surety’s security interest.
+Since the modular home constitutes consumer goods sold in the ordinary course of business by Glatt’s, the Kanzigs took the modular home free of the security interest of Surety pursuant to E. C. 1309.26(A), which provides that: “A buyer in ordinary course of business * * * takes free of a security interest created by his seller even though the security interest is perfected and even though the buyer knows of its existence.”
+Even though E. C. 1309.26(0) provides that the section does not apply to security interests in motor vehicles (and even assuming the modular home to be such), Glatt’s was authorized by the security agreement to sell its inventory in the ordinary course of its business so that the Kanzigs took free of Surety’s security interest in the modular home pursuant to E. C. 1309.25(B). This subsection provides that: “* * * a security interest continues in collateral notwithstanding sale, exchange or other disposition thereof by the debtor unless his action was authorized by the secured party in the security agreement or otherwise, and also continues in any identifiable proceeds including collections received by the debtor'. ”
+Surety contends that it had a security interest in the proceeds of the sale of the modular home and was entitled to have payment made to it, rather than Glatt’s (or Holmes), pursuant to R. C. 1309,37(0) and 1309.45(A) by virtue of the communications sent to Wayne.
+R. O. 1309.37(C) states that: “The account debtor is authorized to pay the assignor until the account debtor receives notification that the account has been assigned and that payment is to be made to the assignee. A notification which does not reasonably identify the rights assigned is ineffective. * * In order to obligate the account debtor to make payment to the assignee, rather than the assignor, the notification must set forth: (1) an indication that the account has been assigned; (2) a specific direction that payment is to be made to the assignee, rather than the assignor; and (3) a reasonable identification of the rights assigned. The notification must be in such form as to enable the ordinary consumer, or account debtor, to understand from the notification received that the account has been assigned and that payment is to be made to the assignee, rather than the assignor.
+The notifications sent by Surety to Wayne failed to-meet the statutory standard. The first notification merely stated that “the floor plan due on this unit is $9,204.30. # * *” It is neither indicated (1) that the account had been assigned by Glatt’s to Surety; (2) that payment was-to be made to Surety, rather than Glatt’s; nor (3) identified in any way the rights assigned, merely referring to-a floor plan. Likewise, the second notification did not state that the account had been assigned, -nor did it reasonably identify the rights assigned, even if it could be construed as a request that payment be made to Surety, rather than Glatt’s. At best, the second communication was ambiguous-because it did not specify to whom the check should be-made payable and it indicated that payments were being made on the floor plan by Glatt’s since the amount stated to be due in the notification was less than that stated due in the first notification.
+Surety relies further upon R. C. 1309.45(A), which provides: “When so agreed and in any event on default, the secured party is entitled to notify an account debtor or the obligor on an instrument to make payment to him whether or not the assignor was theretofore making collections on the collateral, and also to take control of any proceeds to which he is entitled under section 1309.25 of the Revised Code.” R. C. 1309.45(A) establishes when the secured party is entitled to notify an account debtor to malee payment to him, rather than the assignor, and must be read in pari materia with R. C. 1309.37(C), which prescribes the manner of making such notification.
+Although there is some question as to whether Surety was entitled to the benefit of R. C. 1309.45(A), inasmuch as there is no indication of an agreement between Glatt’s and Surety that payments were to be made to Surety, rather than Glatt’s, and it does not appear that Surety treated Glatt’s as being in default, Surety’s failure to comply with R. C. 1309.37 (C) precludes it from being entitled to direct payment from the Kanzigs or Wayne. R. C. 1309.37(C) expressly provides that: “A notification which does not reasonably identify the rights assigned is ineffective.” The notifications sent by Surety to Wayne did not reasonably identify the rights assigned and, therefore, were ineffective in accordance with the statute.
+Accordingly, the judgment of the Court of Appeals must be reversed.
+Judgment reversed.
+O’Neill, C. J., Herbert, W. Brown, P. Brown and Strausbaugh, JJ., concur.
+Celebrezze, J., dissents.
+Strausbaugh, J., of the Tenth Appellate District, sitting for Sweenet, J.
+Whiteside, J., of the Tenth Appellate District, sitting for Locher, J.
