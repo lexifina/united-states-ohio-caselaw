@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19329"
 decided: "1925-08-15"
-citations: ["3 Ohio Law Abs. 595", "3 Abs. 530", "4 Ohio Law Abs. 73", "3 Abs. 530; OS. Pend. 3 Abs. 595; OA. 3 Abs. 528", "4 Ohio Law Abs. 26", "3 Abs. 530. OA. 3 Abs. 528; OS. Pend. 3 Abs. 595.", "3 Abs. 530. OA. 3 Abs. 528; OS. Pend. 3 Abs. 595"]
+citations: ["3 Ohio Law Abs. 595", "3 Abs. 530"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
