@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "17450"
 decided: "1923-01-02"
-citations: ["1 Ohio Law Abs. 104", "1 Ohio Law Abs. 102"]
+citations: ["1 Ohio Law Abs. 104"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
