@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1857-12"
+citations: ["7 Ohio St. 336"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartley, O. J., and Swan, Brinkerhoee, and Sutliee, JJ., concurred."]
+parties: ["David Johnston, Administrator of David Lyons, deceased, v. The Cleveland and Toledo Railroad."]
+source_url: "https://static.case.law/ohio-st/7/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 512097
+cites_cases: ["21 Barb. 247"]
+---
+
+# Johnston v. Cleveland & Toledo Railroad
+
+## Majority (Scott, J.)
+
+Scott, J.
+This case, by the reservation of the district court, comes before us on demurrer to the plaintiff’s petition, which read» as follows:
+“ David Johnston comes and says he is the administrator of David Lyons, late of said county of Lucas, deceased, duly apj>ointcd ^according to law; that said David Lyons, while in life, to-wit, on the 30th day of January, 1855, and before that time, was in the employ of the Cleveland and Toledo Railroad Company, the defendant aforesaid, in the county of Lucas aforesaid, and on the day and year aforesaid, was employed as a laborer in the employ of said company on the steam ferry-boat, then and there used by said defendant in connection with the railroad of said defendant, in the carriage and transportation of passengers and freight across the Maumee river at Toledo; and while said David Lyons, now deceased, was so engaged under the dh’ections of the agents and superintendents of said defendant, the said David Lyons, by the wrongful act, neglect, and default of the said agents and superintendents of the defendant aforesaid, while they were concerned in managing and conducting the business of said defendant, was bruised and mangled by the machinery of said boat, and was thereby thrown into the water, and he, the said David Lyons, became and was drowned, and so the plaintiff says the death of said David Lyons was caused by the wrongful act, neglect, and default of said defendant, and without the fault of said Lyons.
+“And the plaintiff further says, that Thomas Lyons, Maurice Lyons, Catharine Mulverhill, Cornelius Lyons, Margaret Lyons,. Ann Lyons, and James Lyons are next of kin and brothers and; Bisters of said David Lyons, deceased; the said David Lyons-leaving no widow, and having no children or child, left the said-brothers and sisters aforesaid, the heirs at law of him, the said' David Lyons, deceased; and that they, the next of kin of him the* said David Lyons, deceased, have suffered damages, by reason off the aforesaid wrongful act, neglect, and default of the said defendant, its servants and agents, in the sum of five thousand dollars. Wherefore the plaintiff says he has a right to recover said sum of five thousand dollars, and asks judgment therefor.”
+The action is founded upon a statute of this state, entitled “ an-act requiring compensation for causing death by wrongful act,, neglect, or default,” passed March 25,1851, which is in the following terms:
+*“ Seo. 1 Whenever the death of a person shall be caused by wrongful act, neglect, or default, and the act, neglect, or default is such as would (if death had not ensued) have entitled the party injured to maintain an action and recover damages, in respect, thereof; then, and in every such case, the person who, or the corporation which would have been liable, if death had not ensued,, shall be liable to an action for damages, notwithstanding the death, of the person injured, and although the death shall have been caused under such circumstances as amount in law to murder in the-first or second degree, or manslaughter.
+“ Seo. 2. Every such action shall be brought by and in the name of the personal representative of the- deceased person, and the-, amount recovered in every such action shall be for the exclusive-benefit of the widow and next of kin of such deceased person, and. shall be distributed to such widow and next of kin in the proportions provided by law in relation to the distribution of personal-estates left by persons dying intestate; and in every such action, the jury may give such damages as they shall deem fair and just, not exceeding five thousand dollars, with reference to the pecuniary injury resulting from such death to the wife and next of kin to such deceased person. Provided, that every such action shall be commenced within two years from the death of such deceased person.”' Swan’s Rev. Stat. 707, 708.
+The question presented by the demurrer is whether, under this, statute, an action can be maintained for the sole benefit of the brothers and sisters of a deceased person, who leaves no widow,, without an allegation in the petition of such special circumstances as would render the death a pecuniary injury to them.
+A right of action is given by this statute to the personal representative of the deceased merely as a trustee, and for the exclusive benefit of the widow and next of kin. Hence, it would seem to be clear that, in order to the maintenance of the action, there must bo a widow or next of kin, to whom the amount recovered could be distributed. And so it was held, under a similar statute of New York, in Lucas v. N. Y. Cent. R. R. Co., 21 Barb. 247.
+But if there be persons in whom the beneficial interest in the judgment to be recovered can vest, then the only other conditions to which the right of action is subjected by the terms of the statute, are, 1. That the death shall have been caused by such wrongful act, neglect, or default, as would (if death had not ensued) have entitled the party injured to maintain an action against the defendant, and recover damages in respect thereof; 2. That the action be brought by and in the name of the personal ^representative of the deceased; and, 3. That it be commenced within two years from the time of his death.
+Subject to these conditions, the statute gives a right of action ; .and seems to regard the widow and next of kin as sustaining, at least, a nominal pecuniary injury, in all such cases, from the wrongful act of the defendant. Quin v. Moore, 15 N. Y. (1 Smith) 432.
+Questions jnay arise, upon the trial of this cause, as to the construction of the rule of damages furnished by the second section of this statute ; but no such questions are properly before us. The -question raised by the demurrer does not relate to the amount of the recovery, but is simply can an action be maintained on the case •stated in the petition ? We think it can.
+Demurrer overruled.
+Bartley, O. J., and Swan, Brinkerhoee, and Sutliee, JJ., concurred.
