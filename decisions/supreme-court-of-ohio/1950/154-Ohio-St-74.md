@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "32119"
+decided: "1950-06-28"
+citations: ["154 Ohio St. 74"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Zimmerman, Stewart and Turner, JJ., concur.", "Taet, J., not participating."]
+parties: ["The State, ex rel. The National City Bank of Cleveland, Trustee, Appellee, v. Court of Common Pleas of Cuyahoga County et al., Appellants."]
+source_url: "https://static.case.law/ohio-st/154/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1051773
+cites_cases: ["112 Ohio St., 526", "114 Ohio St., 702", "146 Ohio St., 348", "147 N. E., 808", "152 N. E., 656", "307 U. S., 161", "40 N. E., 201", "47 N. E., 560", "49 Am. St. Rep., 725", "52 Ohio St., 487", "56 Ohio St., 675"]
+---
+
+# State ex rel. National City Bank v. Court of Common Pleas
+
+## Majority (By the Court.)
+
+By the Court.
+This action in prohibition originated in the Court of Appeals for Cuyahoga county. It was brought by The National City Bank of Cleveland, successor trustee, as relator, against the Court of Common Pleas of Cuyahoga County and the judges thereof, as respondents. The petition prayed for a writ prohibiting respondents from proceeding to hear and determine an application filed in such Court of Common Pleas for an allowance of expenses and attorney fees in connection with the prosecution of several described cases in various courts of this state and in the Supreme Court of the United States to test the validity of a certain agreement and declaration of trust, dated August 15, 1924, between the now defunct Union Trust Company of Cleveland and the holders of land trust certificates of equitable ownership to premises in the city of Cleveland, known as the Citizens Building.
+It was alleged in the petition that on May 13, 1949, Cary R. Alburn, trustee, and others filed such application for expenses and attorney fees in such Court of Common Pleas and a motion to refer such application to a referee; that shortly thereafter relator filed motions asking that such application and the motion to refer be dismissed for the reason that the court had no jurisdiction over the subject matter or the person of relator; and that one of the respondent judges overruled the relator’s motions, thereby assuming jurisdiction contrary to law.
+Paragraph 10 of the petition reads as follows:
+“10. In each of the cases described in paragraphs 5 through 9 hereof:
+“(a) Said applicants unsuccessfully attempted to destroy the trust of which relator is trustee, by having it declared invalid, or placing its validity in question;
+“ (b) Relator successfully opposed the attack of the applicants, and the trust was not declared invalid;
+“(c) Applicants made no reference to expenses or fees, and asked no relief with respect thereto;
+“(d) There was no reservation of jurisdiction for any purpose whatsoever;
+“(e) The judgment[s] had become final and the terms of court in which said judgments were entered had expired prior to the filing of said application, on May 13,1949, and the court was without jurisdiction to hear said application.”
+After hearing, the Court of Appeals unanimously allowed the writ of prohibition and stated in its judgment entry:
+“The court further finds that in none of the above [described] actions was there a claim made for said attorneys’ fees or expenses; that in none of the above actions was jurisdiction reserved by said court; that in none of the above actions was there any fund created by applicants, or any fund or res in or under the control of said court at any time; that said applications and motion for reference to a referee were filed after the terms of court in which the final orders in all of said actions had been entered, and at a time when said court had lost jurisdiction of the persons and subject matter in each of the above cases originating in that court and was and is destitute of jurisdiction of either the persons or subject matter.
+‘ ‘ The court further finds that the relator has no adequate remedy at law or by appeal from the attempted exercise of jurisdiction in said matter, by said respondent court, and is entitled to a writ of prohibition herein. ’ ’
+We believe the general rule to be that where a judgment has become final and the term of court during which it became so has terminated, there is no jurisdiction of the court to reopen the proceedings to consider the matter of an allowance for expenses and attorney fees, particularly where no fund was created by the litigation from which such allowance could be made, where no such allowance was suggested before judgment, and where there was no reservation of jurisdiction by the court to make such allowance. Compare City of Cincinnati v. Cincinnati Inclined Plane Ry. Co., 56 Ohio St., 675, 47 N. E., 560; Reinbolt v. Reinbolt, 112 Ohio St., 526, 147 N. E., 808.
+In the course of the opinion in the case of Cleveland Leader Printing Co. v. Green, 52 Ohio St., 487, 40 N. E., 201, 49 Am. St. Rep., 725, Judge Bradbury remarked :
+“Doubtless a court retains jurisdiction of its records, and may correct them so as to make them set forth whatever act the court performed in a cause, at a prior term; but in the absence of some statutory provision its jurisdiction of the cause terminates with the term at which a final judgment is entered. Were the rule otherwise, the stability of judgments would be destroyed * *
+Most of the authorities are to the effect that, in the absence of a statutory or constitutional provision to the contrary, a court loses control of its judgments at the end of each term, and, with the expiration of the term at which a judgment was rendered, there expires the authority to vacate, open or modify the judgment, notwithstanding an application for relief might have been granted had it been made during the term of the rendition of the judgment. 31 American Jurisprudence, 273, 274, Section 727.
+It has frequently been held that a writ of prohibition is the appropriate remedy “to prevent an inferior court or other tribunal from assuming jurisdiction with which it is not vested.” See State, ex rel. Firestone Tire & Rubber Co., v. Duffy et al., Industrial Commission, 114 Ohio St., 702, 705, 152 N. E., 656, 657; 32 Ohio Jurisprudence, 585, Section 23; and 42 American Jurisprudence, 162, Section 25.
+Upon oral argument of this cause to this court, an attorney for respondents insisted that the several cases, for the prosecution of which the allowance for expenses and attorney fees is sought, were instituted in the interests of the trust to establish the validity of the agreement and declaration of trust referred to above. Such is not the understanding of this court. Reference is made to the case of State, ex rel. Stanley, v. Cook, Supt. of Banks, 146 Ohio St., 348, 66 N. E. (2d), 207, wherein it is stated in substance that the purpose of certificate holders, who now seek an allowance for expenses and attorney fees from the trust estate, was to void the trust to the end that they might become general creditors of the Union Trust Company, then in the process of liquidation, in the expectation that they would thereby place themselves in a more favorable pecuniary position.
+In seeking a reversal of the judgment of the Court of Appeals herein, respondents place much reliance on the case of Sprague v. Ticonic National Bank, 307 U. S., 161, 83 L. Ed., 1184, 59 S. Ct., 777. However, that case is quite different from the instant one in several respects. There the application by petition for an allowance of counsel fees and expenses, at a term of court after final judgment had been rendered, was made by a winning litigant who had been successful in having a trust impressed on certain funds in a defunct national bank, which not only worked to the applicant’s advantage but to the advantage of 14 other trusts in a like position. In other words, a fund was* established for the benefit of a number of people, which otherwise they might not have enjoyed, and it was only fair and just that counsel fees and expenses should be paid from such fund. Moreover, the fund was still in the control of the court at the time the application was made and the allowance was recognized as proper under procedure and upon a basis which may not be invoked in a situation like the one which faced respondents.
+Here, the object of certificate holders who seek expenses and attorney fees from the trust estate was to nullify the trust, and their attempts to do so resulted in no gain to themselves or to other Certificate holders. In fact, the majority of certificate holders did not attack the trust.
+A majority of this court is of the opinion that the Court of Appeals correctly disposed of this case, not only from a legal standpoint but upon practical considerations as well, and that its judgment should not be disturbed. Such judgment is therefore affirmed.
+Judgment affirmed.
+Weygandt, C. J., Zimmerman, Stewart and Turner, JJ., concur.
+Taet, J., not participating.
