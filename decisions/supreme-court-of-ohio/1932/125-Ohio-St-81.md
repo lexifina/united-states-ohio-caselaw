@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "23191"
+decided: "1932-03-23"
+citations: ["125 Ohio St. 81"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Jones, Matthias, Allen, Kinkade and Stephenson, JJ., concur."]
+parties: ["The Lake Shore Electric Ry. Co. v. The State, ex rel. Martin, Pros. Atty."]
+source_url: "https://static.case.law/ohio-st/125/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1002915
+cites_cases: ["106 Ohio St., 489", "107 Ohio St., 442", "121 Ohio St., 628", "140 N. E., 410", "140 N. E., 87", "172 N. E., 379", "30 A. L. R., 429"]
+---
+
+# Lake Shore Electric Ry. Co. v. State ex rel. Martin
+
+## Majority (Day, J.)
+
+Day, J.
+The question decided by the Court of Appeals was whether the Lake Shore Electric Railway Company, which was operating without a franchise or any agreement with the city (the franchise under which the tracks were originally placed in the street having expired and having been granted prior to the passage of the Miller Act, Sections 504-2 and 504-3, General Code), could be ousted without the consent of the Public Utilities Commission, as provided in such sections. The Court of Appeals held that there should be a judgment of ouster and granted the same.
+The city of Bellevue claims that, since the franchise has expired, it is entitled to the immediate cessation by the interurban company of its use and occupancy of Main street.
+The plaintiff in error contends that the instant case is to be distinguished from the ordinary case of quo warranto where only a local situation is affected, and that not only is a material portion of the security of bondholders involved, but the rights of the general public, as well as the duty of the defendant in its capacity as a public utility to render such service, are also involved.
+The paramount claim of the company, therefore, is that the Miller Act, so-called, precludes the right of plaintiff to compel defendant to vacate Main street in the city of Bellevue until application therefor has been made to the Public Utilities Commission, and its consent thereto obtained. It is apparent, therefore, that the relative rights of these parties must be measured by the applicability of the Miller Act (Sections 504-2 and 504-3, General Code), which was passed by the General Assembly of Ohio on March 21,1917. The act was amended April 15, 1919 (108 Ohio Laws, 372).
+Section 504-2, in so far as the parts material to this controversy are concerned; reads as follows: “No railroad [which is defined to include an interurban railroad by Section 501, General Code] operating any railroad in the state of Ohio * * * shall * * * be required to abandon or withdraw any main track or tracks * * * of a railroad # * * or the service rendered thereby, which has once been laid, constructed, opened and used for public business, * * * except as provided in Section 504-3.”
+Section 504-3, in so far as the material parts relative to this controversy are concerned, reads as follows:
+“Any political subdivision desiring to * * * have abandoned, withdrawn or closed for traffic or service all or any part of such main track or tracks * * * shall first make application to' the public utilities commission in writing.”
+The Court of Appeals denied the applicability of the Miller Act, basing its conclusion on the holding in this court in East Ohio Gas Co. v. City of Cleveland, 106 Ohio St., 489, 140 N. E., 410. In that case there were involved, first, two indeterminate franchises which were claimed to be terminable at the will of either party; second, there was a franchise contract entered into in 1912 which expired February 1, 1921, the date upon which the company proposed to discontinue service in Cleveland. Now the Miller Act was in effect, as amended in 1919, prior to the expiration of the franchise contract of 1912, which contract was still in effect when the action involved in that case was brought. The question decided with reference to Sections 504-2 and 504-3 was whether their application to the existing contract of 1912 would violate the provisions of the Ohio and the Federal Constitutions as to retroactive legislation, impairing the obligations of the contract, and the court held that it would. This is the announcement of the law applicable to that case, as contained in the fifth paragraph of the syllabus:
+“The legislature in the enactment of Sections 504-2 and 504-3, General Code, in so far as it attempted to make the provisions thereof applicable ‘to all such service now rendered and facilities furnished’ was without power in that respect for the reason that application of the act to existing contracts violates the provision of Section 28, Article II of the Constitution of Ohio, ‘The general assembly shall have no power to pass retroactive laws, or laws impairing the obligation of contracts,’ and the provision of Section 10, Article I of the Constitution of the United States, ‘No State shall * * * pass any * * * ]aw impairing the Obligation of Contracts.’ ”
+However, in the case at bar no contract is involved, as the same had expired in 1925 and this action was begun in 1930. Hence we do not regard the case of East Ohio Gas Co. v. City of Cleveland, supra, as controlling in this case.
+"We have reached the conclusion that, after the expiration of a franchise acquired prior to the enactment of Sections 504-2 and 504-3, General Code, to use the streets of a municipality to operate an interurban railroad thereon, the company, continuing to operate its cars over the tracks in the streets without objection from the municipality, serving the general public of that and other municipalities of the state through which its line passes, cannot be compelled to abandon such service unless the Public Utilities Commission has consented thereto, as provided in Sections 504-2 and 504-3, General Code. These sections of the statute, commonly denominated the “Miller Act,” are a valid exercise of the police power of the state in regulating public utilities. A discussion of the constitutionality of these sections is found in the case of Commissioners of Franklin County v. Public Utilities Commission, 107 Ohio St., 442, at page 451 et seq., 140 N. E., 87, 30 A. L. R., 429.
+This court, in East Ohio Gas Co. v. City of Cleveland, 121 Ohio St., 628, 172 N. E., 379, refused to certify the judgment of the Court of Appeals holding that the Miller Act, requiring public utilities seeking to withdraw from or to abandon service to first apply to the Public Utilities Commission, and empowering the commission to refuse such permission, was a valid exercise of police power under the Constitution, holding that no debatable constitutional question was involved.
+Being of opinion that there is no question of the impairment of the obligation of an existing contract, our conclusion is that there should have been no judgment of ouster without a submission of the matter to the Public Utilities Commission of Ohio, in which jurisdiction of the matter is vested, subject to review by this court. The judgment of the Court of Appeals is therefore reversed.
+Judgment reversed.
+Marshall, C. J., Jones, Matthias, Allen, Kinkade and Stephenson, JJ., concur.
