@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+docket: "24914"
+decided: "1934-11-27"
+citations: ["129 Ohio St. 36"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephenson, Jones, Matthias, Bevis, Zimmerman and Wilkin, JJ., concur."]
+parties: ["Gumley, Admr., v. Cowman."]
+source_url: "https://static.case.law/ohio-st/129/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1009715
+cites_cases: ["127 Ohio St., 69", "186 N. E., 722", "216 Iowa, 170", "248 N. W., 504"]
+---
+
+# Gumley v. Cowman
+
+## Majority (Weygandt, C. J.)
+
+Weygandt, C. J.
+The lower courts were agreed that on the single question as to the negligence of the defendant there was evidence requiring submission to the jury. The basis for this view was the testimony of several witnesses to the effect that the light on the rear of the truck was not burning. They also quoted the defendant, Cowman, as admitting that he had stopped because the rear light was out of repair. This was denied by the defendant who insisted that he had stopped for the purpose of inspecting his load.
+However, on the question of contributory negligence the lower courts held that the plaintiff’s evidence was susceptible of no other reasonable interpretation than that the decedent was himself a factor1 in the collision by violating the provision of Section 12603, General Code, which requires that no person shall drive any motor vehicle in and upon any public road or highway at a speed greater than will permit him to bring it to a stop within the assured clear distance ahead. The plaintiff insists that not only the question of the decedent’s negligence but also the matter of proximate cause should have been submitted to the jury.
+Did the decedent violate this statute? If so, was this violation a contributing cause of the collision and death?
+The courts below relied upon the rule of law announced by this court in the case of Skinner v. Pennsylvania Rd. Co., 127 Ohio St., 69, 186 N. E., 722, to the effect that the foregoing provision is a specific requirement of law, a violation of which constitutes negligence per se. It is urged by the plaintiff that the cases are distinguishable on the facts. However, an examination discloses an interesting and inescapable parallel.
+Each collision occurred at night. Each was upon a straight, unlighted highway in open country. Each involved “rainy, misty, foggy” weather. The rates of speed did not vary greatly; the Skinner car was traveling approximately forty miles per hour, while in the instant case the speed was thirty or thirty-five miles per hour. The distances at which the objects were suddenly discovered were almost the same; in the Skinner case 'the freight train was not seen until the automobile was within four or five feet of it, while in this case the truck was but five or ten feet ahead. In the Skinner case the freight train was standing, while in the instant case there is the difference that the truck was moving very slowly. In the Skinner case the train was across the entire highway, but this case differs in that the truck occupied only a part of the right side of the highway, and the left side was open, thus affording the decedent an opportunity to pass. In the Skinner case there was no traffic moving in the opposite direction, while in the instant case the decedent’s automobile passed another just before the collision. However, in this case Dehan testified that he could at all times see at least two hundred feet ahead even when their lights had been dimmed. Then, too, the second amended petition does not allege that the lights of the passing automobile interfered with the decedent’s view of the highway; nor is there testimony to this effect.
+From the foregoing summary it is readily apparent that in certain respects the instant ease presents even stronger evidence of negligence on the part of the driver than does the Skinner case. To say that one can see at least two hundred feet ahead but does not in fact see in his path a discernible object such as the defendant’s truck until within five or ten feet of it, presents a situation utterly irreconcilable with any theory except negligence of the plainest and simplest sort. Likewise, the question of proximate cause seems to require an answer too obvious to justify extended discussion. With the foregoing facts in mind how could it reasonably be concluded that the negligence of the decedent was not a contributing, proximate cause of the collision?
+However, the plaintiff contends that the foregoing mews give the statute an interpretation under which there could never be a recovery by a driver of an automobile that collides with an object in its path. In other words, the single fact, that an automobile collides with anything ahead of it would be considered as evidence of negligence on the part of the driver. This court entertains no such views as to the intention of the Legislature in enacting this amendment. In attempting to assist in lowering the constantly increasing number of automobile collisions, undoubtedly the Legislature did not intend to require drivers to do the impossible, Collisions of this sort may still occur despite the exercise of due care on the part of the driver of the colliding automobile in attempting to observe the statute, and under proper circumstances the questions of proximate cause and negligence on the part of such driver must be submitted to the jury. Without attempting to indulge in an inflexible or all-inclusive definition it is sufficient for the scope of this case to observe that the present legislative requirement establishes a subjective test whereby a driver is prohibited from operating any motor vehicle in and upon any public road or highway át a rate of speed greater than will permit him to bring it to a stop within the distance at which he can see a discernible object obstructing his path. Lindquist v. Thierman, 216 Iowa, 170, 248 N. W., 504.
+In conformity with the foregoing views the judgments of the lower courts are affirmed.
+Judgment affirmed.
+Stephenson, Jones, Matthias, Bevis, Zimmerman and Wilkin, JJ., concur.
