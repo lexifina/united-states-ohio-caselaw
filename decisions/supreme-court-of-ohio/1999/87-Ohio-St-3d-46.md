@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "99-154"
+decided: "1999-10-13"
+citations: ["87 Ohio St. 3d 46"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, Pfeifer, Cook and Lundberg Stratton, JJ., concur.", "F.E. Sweeney, J., dissents and would reverse the judgment of the court of appeals."]
+parties: ["The State ex rel. Somerville, Appellant, v. Conrad, Admr., et al.; Industrial Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/87/cases/0046-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 176392
+---
+
+# State ex rel. Somerville v. Conrad
+
+## Majority
+
+The judgment of the court of appeals is affirmed consistent with the opinion the court of appeals.
+Moyer, C.J., Douglas, Resnick, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
+F.E. Sweeney, J., dissents and would reverse the judgment of the court of appeals.
