@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20142"
 decided: "1926-10-28"
-citations: ["5 Ohio Law Abs. 76", "4 Ohio Law Abs. 746", "4 Ohio Law Abs. 742", "4 Ohio Law Abs. 834", "4 Abs. 742"]
+citations: ["5 Ohio Law Abs. 76", "4 Ohio Law Abs. 746"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
