@@ -1,0 +1,54 @@
+---
+court: "Supreme Court of Ohio"
+docket: "90-942"
+decided: "1991-05-15"
+citations: ["59 Ohio St. 3d 197"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Holmes, Wright and Resnick, JJ., concur.", "Sweeney and Douglas, JJ., dissent.", "Sweeney, J., concurs in the foregoing dissenting opinion."]
+parties: ["Goralsky v. Taylor et al.; Huntington National Bank, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/59/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1429106
+cites_cases: ["10 O.O. 303", "104 N.E. 2d 182", "107 N.E. 2d 884", "12 N.E. 2d 782", "122 Ohio St. 1", "129 Ohio St. 323", "149 Ohio St. 133", "157 Ohio St. 94", "170 N.E. 439", "195 N.E. 557", "2 O.O. 326", "25 Ohio Law Abs. 550", "36 O.O. 477", "47 O.O. 85", "48 O.O. 308", "57 Ohio App. 168", "78 N.E. 2d 167", "91 Ohio App. 200"]
+---
+
+# Goralsky v. Taylor
+
+## Majority (H. Brown, J.)
+
+H. Brown, J.
+For the reasons which follow, we hold that the bank was under no obligation to disclose the existence of the trust account, and reverse the finding of contempt.
+I
+A judgment creditor may collect the amount of the judgment owed from the personal property of the debtor other than earnings through a proceeding commenced by the filing of an affidavit as provided by R.C. 2716.11. A written notice of garnishment is then delivered to the garnishee pursuant to R.C. 2716.13(B). The garnishee is required by R.C. 2716.21(B) to answer this notice within five days, disclosing “* * * the amount owed by him to the judgment debtor, whether due or not * * *,” and may be held in contempt of court pursuant to R.C. 2716.21(E) for failure to answer satisfactorily.
+Thus, in order to decide if the finding of contempt was proper, we must determine if the trust account funds were owed by Huntington to the Taylors. We begin with an examination of the legal relationships involved.
+II
+In a trust, the trustee (and not the beneficiary) holds legal title to the trust corpus. The beneficiary’s interest — sometimes called the “equitable title” — consists of a right to the beneficial enjoyment of the corpus enforceable against the trustee. Ulmer v. Fulton (1935), 129 Ohio St. 323, 339, 2 O.O. 326, 332, 195 N.E. 557, 564; Douglas v. Hubbard (1951), 91 Ohio App. 200, 204, 48 O.O. 308, 310, 107 N.E. 2d 884, 886, appeal dismissed (1952), 157 Ohio St. 94, 47 O.O. 85, 104 N.E. 2d 182; 1 Bogert & Bogert, The Law of Trusts and Trustees (2 Ed. 1984) 4-6, Section 1; 1 Scott & Fratcher, The Law of Trusts (4 Ed. 1987) 48, Section 2.6.
+The relationship between a bank and its depositor is a debtor-creditor relationship. “* * * [MJoney deposited in a bank becomes the property of the bank and is available for use by the bank in its business. The depositor becomes a creditor of the bank in the amount of the deposit with the right to have this debt repaid in whole or in part on demand,” 1 Natter, Schlichting, Rice & Cooper, Banking Law (1991) 9-19, Section 9.05, subject to the terms of the depositary agreement between the bank and the depositor, Fourth & Central Trust Co. v. Rowe (1930), 122 Ohio St. 1, 170 N.E. 439, paragraph two of the syllabus; Gall v. Central Trust Co. (1937), 57 Ohio App. 168, 25 Ohio Law Abs. 550, 10 O.O. 303, 12 N.E. 2d 782. Thus, where the depositor is a judgment debtor and the bank is a garnishee, the property being garnished is, strictly speaking, not the funds themselves, but the debtor’s contractual right to receive them.
+It follows that, where the trust corpus is money deposited in a bank by the trustee, it is the trustee, and not the beneficiary, who is the bank’s creditor. The trustee owns the right to have the deposit repaid. Under ordinary circumstances, the beneficiary cannot directly collect the deposit from the bank.
+Accordingly, we hold that, under R.C. 2716.21(B), a garnishee bank is not required to disclose the existence of a trust account established for the benefit of the judgment debtor where the debtor is not a depositor or otherwise able to demand payment of the sum deposited.
+Ill
+Applying this analysis to the instant case, it becomes clear that Huntington was not required to list the trust account in its answer. The depositors of the trust account funds were Donna Caputo and John Bever, the trustees, and not the Taylors. It was the trustees who owned the right to have the deposit repaid, not the Taylors. Since Huntington was not obligated by R.C. 2716.21(B) to report the trust account in its answer, the trial court erred in finding Huntington in contempt.
+The judgment of the court below is reversed and the finding of contempt against Huntington is vacated.
+Judgment reversed.
+Moyer, C.J., Holmes, Wright and Resnick, JJ., concur.
+Sweeney and Douglas, JJ., dissent.
+Under R.C. 1107.07(A), where the trustee of a so-called Totten trust is deceased, the beneficiary may collect the amount of the deposit directly from the bank. Also, where the bank has knowingly aided the trustee in a breach of the trust, the bank is directly liable to the beneficiary for the amount of the loss. Schofield v. Cleveland Trust Co. (1948), 149 Ohio St. 133, 36 O.O. 477, 78 N.E. 2d 167. The instant case does not fall into either of these exceptions.
+The courts below were, understandably, concerned with a judgment creditor’s ability to obtain full satisfaction in situations where most of the judgment debtor’s assets are in the possession of trustees. While a judgment debtor’s equitable interest in a trust is not subject "to garnishment, R.C. 2333.01 permits a creditor to execute upon an equitable interest by filing a “creditor’s bill.” However, it is often difficult for a creditor to discover these interests through reasonable investigation. Accordingly, the General Assembly may wish to consider legislation to address this problem.
+
+## Dissent (Douglas, J.,)
+
+Douglas, J.,
+dissenting. I respectfully dissent from the judgment of the majority. I would affirm the well reasoned decision of the court of appeals. While I may have found, if I had been the trial judge, based upon the facts of this case, differently as to the amount of the fine levied against appellant for contempt, that is not the key issue now before us. Further, on this point, it has long been held that the power to punish for contempt is an inherent power of a court and it would be improper and difficult, if not impossible, to second-guess a trial judge and find an abuse of discretion especially when the trial judge has seen the parties, knows the facts, and has dealt with the case on a first person basis.
+The more important issue before us is the question of the appellant’s failure to report, as a garnishee, a trust account in its possession. A facial reading of the majority opinion could very well lead a reader to the conclusion that the majority’s decision is correct. However, there are three specific factors, not discussed by the majority in any depth, that lead me to a conclusion contrary to that of the majority.
+The majority fails to specifically mention that the exact number of the trust account was provided to appellant-garnishee in the judgment creditor’s affidavit of garnishment. Upon receipt of the affidavit, the garnishee’s employee found the account and saw that it was an account being held on behalf of the judgment debtors. At this point, it was the obligation of the garnishee to report that fact to the court pursuant to R.C. 2716.21.
+R.C. 2716.21(B) provides, in pertinent part, that: “* * * [t]he garnishee shall truly disclose the amount owed by him to the judgment debtor whether due or not * * (Emphasis added.) Surely it cannot be argued that the funds in this naked trust were the property of the designated trustees. The funds were the property of the judgment debtors and had the trustees withdrawn the funds for their own use or benefit, that would have been an unlawful act. Just because the funds in the trust were not directly (and presently) due the judgment debtors, without a withdrawal order by the trustees, does not remove the legal and/or beneficial ownership of the funds from the debtors. The statute says that they must be reported whether “due or not.” Further, the lawful status of the funds is a decision for the court — not each garnishee which might take it upon itself (himself or herself) to determine who has the legal right to the funds and whether the funds are due or not. Our decision today encourages the placing, by judgment debtors, of their funds in naked trusts, thereby placing those funds beyond the reach of lawful judgment creditors. Our decision also now permits persons or institutions holding such funds under such arrangements to summarily ignore an order of a court to report such holdings by simply saying that the funds are held in trust.
+While not directly on point, R.C. 1107.07(A) should also be considered. That section provides that under a trust relationship, such as we have in the case now before us, the funds really are the property of the beneficiary and may be paid directly to the beneficiary upon the death of the “trustee.” This is yet another reason that appellant should have reported to the court the existence of the funds.
+Finally, the garnishment notice contained a court order which instructed the appellant-garnishee on how to proceed. Section B of the notice provided, in part:
+“ 1. That he has money, property, or credits, other than personal earnings of the indicated judgment debtor under his control and in his possession.
+"* * *
+“5. If the answer to line 1 is ‘YES’ but the money, property, or credits are of such a nature that they cannot be delivered to the Clerk of this Court, indicate that by placing an ‘X’ in the box provided. Do not dispose of that money, property, or credits or give them to anyone else until further order of the Court.” (Emphasis added.)
+It must be noted that the appellant knew that the funds in trust were those of “the indicated judgment debtors]”; that those funds were under the control of appellant; and that appellant was not to give the funds “to anyone else” (not just the judgment debtors) until further order of the court. Notwithstanding these explicit instructions, appellant did not report the existence of the funds. Appellant was clearly on notice concerning these funds because it sought advice from its attorney on whether or not to report them.
+One must now wonder how many creditor’s judgments in the past have gone unsatisfied because of similar actions of other garnishees. By today’s majority decision, this safe haven for judgment debtors has now been given the stamp of judicial approval. The learned trial judge and the learned court of appeals (unanimously) saw these problems and their judgments should be upheld.
+Sweeney, J., concurs in the foregoing dissenting opinion.
