@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1880-01"
+citations: ["35 Ohio St. 648"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Farmers’ College v. Cary."]
+source_url: "https://static.case.law/ohio-st/35/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 906837
+---
+
+# Farmers' College v. Cary
+
+## Majority (Boynton, J.)
+
+Boynton, J.
+We are of the opinion that the court erred in overruling the motion for a new trial, and in giving judgment for the defendant. The act of March 7,1889 (1 Cur-wen, 544), to which the act incorporating the plaintiff is made subject except so far as changed by the latter act, contains no provision restricting the right of the plaintiff to engage to furnish tuition, and to issue certificates of perpetual scholarship therefor. Nor is the right of the plaintiff to issue certificates of scholarship affected in the least by the act of February 6, 1847. (45 Ohio L. 67). The only purpose of that act was to authorize the establishment of such number of professorships, one of which was to be a professorship of agriculture, as the trustees might, from time to time, deem conducive to the interests and welfare of the institution. The act had no other aim or object.
+The fund to be derived through subscriptions made under the second and third sections, was required to be invested in securities yielding an annual income of at least six per cent., and was expressly restricted to the use specified in the act, which was to aid in creating the professorships for the establishment of which the act_ provided. And it was made the duty of the trustees, when entering into any agreement with persons subscribing money under the provisions of the act, to bind themselves to a compliance with the provisions of the agreement under which the subscription was made :■ namely, that the fund should be used for no other purpose than to create and support the professorships established. The act was not designed to be, and in no sense is, a regulation of, or restriction upon, the right of the college to bind itself to furnish instruction in the future.
+But we think the act by which the plaintiff was incorporated conferred ample authority upon the college, within certain limitations, to receive money, in advance of instruction to be furnished, and to issue certificates of perpetual scholarship therefor. It is true, that such power is not expressly granted by the charter, but it is a rule governing the construction of all statutes, that what is fairly to be implied from the language used is as fully granted as that which, in terms, is expressed. And on looking into the statute, we find the declared object of the association to be, to direct and cultivate the minds of its students in a thorough and scientific course of studies, particularly adapted to agricultural pursuits. The per-sons named in the charter, and their associates and successors, were incorporated with perpetual succession, and invested “ with all the powers and privileges necessary zo carry into effect the object of the association.” To furnish Instruction, by supplying the means of education, was the •sole object for which the college was created; and that it was entirely within its power, to engage to give instruction to one or more students for a definite period of time, or through its course of study, no one doubts or denies. If it were otherwise, the object of the association could not be carried into effect. And where the limit fixed by the charter to the amount of capital which the association may hold, is not exceeded, it seems to us equally within its power, to receive contributions to an -endowment fund and to bind the college to furnish tuition therefor, to one or more students, perpetually. The powers conferred by the charter are of perpetual duration. The ■object of the association must forever remain the same; .and to carry such object into effect, by securing to the public the means of education which the college was created .and expected to provide, provision for its future support and maintenance was as necessary as for its present.
+The right to insure such support, and to place the college on a substantial financial foundation, by the creation of a fund in consideration of an agreement by the college to furnish tuition perpetually, as well as for a less period of time, we think clearly embraced within the power with which, the college, by its charter, was invested.
+The proceedings by which the capital stock of the college was increased to $150,000 seem in strict conformity to the statute. 1 S. & C. 268. The amount of stock taken, together with the amount received for scholarships, does not exceed $125,000. The action by which the stock was increased did not impair the powers granted by the charter to
+issue certificates of scholarship. The only limitation upon: the power is, that the authorized capital be not exceeded.
+The circumstance, that after the cause was reserved for decision here, it was inadvertently omitted from the docket, does not oust the jurisdiction of the court, although it remained off the docket for several years.
+Having been reserved, and the papers properly filed, the case remains in court until disposed of by some affirmative action upon the part of the court.
+Judgment reversed, and cause remanded.
