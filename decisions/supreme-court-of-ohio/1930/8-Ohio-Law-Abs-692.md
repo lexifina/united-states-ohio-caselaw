@@ -6,6 +6,7 @@ citations: ["8 Ohio Law Abs. 692"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Marshall, CJ, Kinkade, Robinson, Jones, Matthias and Allen, JJ, concur."]
 parties: ["FLEMING, Ex Parte"]
 source_url: "https://static.case.law/ohio-law-abs/8/cases/0692-01.json"
@@ -15,4 +16,12 @@ cap_id: 1634436
 
 # Ex parte Fleming
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+FLEMING, Ex Parte
+Ohio Supreme Court
+No 22507.
+Decided Oct. 29, 1930
+Marshall, CJ, Kinkade, Robinson, Jones, Matthias and Allen, JJ, concur.
