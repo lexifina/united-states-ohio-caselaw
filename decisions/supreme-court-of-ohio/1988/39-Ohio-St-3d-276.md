@@ -1,0 +1,65 @@
+---
+court: "Supreme Court of Ohio"
+docket: "D.D. 84-25"
+decided: "1988-11-09"
+citations: ["39 Ohio St. 3d 276"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Locher, Holmes, Wright and H. Brown, JJ., concur.", "Sweeney and Douglas, JJ., dissent.", "Sweeney, J., concurs in the foregoing dissenting opinion."]
+parties: ["Office of Disciplinary Counsel v. Bell."]
+source_url: "https://static.case.law/ohio-st-3d/39/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1414416
+cites_cases: ["36 Ohio St. 3d 177", "36 Ohio St. 3d 179", "37 Ohio St. 3d 42", "522 N.E. 2d 542", "522 N.E. 2d 543", "523 N.E. 2d 513"]
+---
+
+# Office of Disciplinary Counsel v. Bell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Having thoroughly reviewed the entire record before us, we agree with the board’s recommendation. While petitioner has already been precluded from practicing law for four years, the gravity of his misconduct continues to persuade us that he is unworthy of the public’s trust. The petition for reinstatement is denied.
+Petition denied.
+Moyer, C.J., Locher, Holmes, Wright and H. Brown, JJ., concur.
+Sweeney and Douglas, JJ., dissent.
+Petitioner was initially suspended from practicing law on August 23, 1983, due to his conviction for violating R.C. 2921.13 (falsification).
+
+## Dissent (Douglas, J.,)
+
+Douglas, J.,
+dissenting. Since I cannot concur in the majority’s judgment denying petitioner’s request for reinstatement to the practice of law, I respectfully dissent.
+Gov. Bar R. V(28) states in part:
+“No person shall be reinstated unless he has established by clear and convincing evidence to the satisfaction of the panel hearing the petition for reinstatement that he has made appropriate restitution to the persons who were harmed by his misconduct and that he possesses all of the qualifications, mental, educational and moral, which would have been a requirement of an applicant for admission to the Bar of Ohio at the time of his original admission, and that he is now a proper person to be readmitted to the Bar of Ohio, notwithstanding the previous disciplinary action taken against the Petitioner. * * *” (Emphasis added.)
+This is the rule of this court that governs applications for reinstatement. We might not like the rule and if that be the case, we should proceed to change the rule — not ignore it as though it does not exist.
+In denying petitioner’s request for reinstatement, the majority states only that “the gravity of his [petitioner’s] misconduct continues to persuade us that he is unworthy of the public’s trust.” Added to this is the opposition to reinstatement of the Cleveland Bar Association “* * * because of the seriousness of the wrongful acts that led to [Petitioner’s] indefinite suspension.” Disciplinary Counsel also opposes reinstatement “[b]ased upon the gravity of Petitioner’s misconduct involving moral turpitude * * among other reasons. The Probate Court of Cuyahoga County opposes reinstatement on the same basis. The Probate Court of Summit County opposes reinstatement and wrote, “[i]n regard to Irving Bell, I believe Mr. Bell’s conduct involving the adoption matters before this Court to be reprehensible, and demonstrate a serious character fault.” I have great respect for each of the organizations and persons opposing reinstatement. I understand their concerns and, in fact, had I been a member of this court at the time petitioner’s disciplinary case was heard, I likely would have voted for disbarment. Petitioner’s conduct was inexcusable and constituted a blot not only on him personally, but also on our entire profession.
+The seriousness of the original offense is not, however, the primary consideration at this juncture. According to our rule, the salient question in reinstatement cases is whether the petitioner has undergone rehabilitation such that he is once again fit to practice law in this state. In this regard, what does the record reflect?
+The question of restitution, per Gov. Bar R. V(28), is not a consideration in this case. The record reflects that no restitution is owed nor is any outstanding. The record also reflects, by verification which has not been objected to by any of the parties opposing reinstatement or contradicted by evidence, that petitioner’s conduct has been exemplary from the date of his suspension; that he never before, or since, committed any crime or engaged in any unlawful conduct; that he had no other professional misconduct in twenty-four years of active practice; that he has fully complied with all orders of this court with respect to his suspension; that since his suspension, he has been employed by several attorneys who are members of the Cuyahoga County Bar Association doing legal research and brief writing for them; that during the last three years, he has taught a variety of courses in government contracting; that he has remained active on the board of trustees of his synagogue and has rendered volunteer legal-related services working under the supervision of the synagogue’s attorney; that during his suspension, he has remained abreast of current developments in the law; that over the past three years, he has been a volunteer instructor tutoring high school juniors and seniors at a magnet school of the Cleveland Public School District; and that he has expressed remorse and regret for his improper conduct.
+Added to the foregoing, the record contains a number of letters from persons in support of petitioner’s petition. Examples and excerpts include a letter from attorney Gerald A. Messerman, a respected Cleveland attorney, who writes:
+“Irv Bell is, in my opinion, a man capable of making substantial contributions as an attorney. He possesses the intelligence, energy, commitment, and sensitivities to perform the role of attorney. He has been deeply affected by his suspension from the practice of law.
+“* * * Irv Bell is a good man who can be a good lawyer. I enthusiastically endorse his application for readmission to practice.”
+Phillip A. Contreras, Esq., says that:
+“I have always known Mr. Bell to be a sensitive and concerned individual about social and community interests, including his active role in Soviet dissident activities. He has struck me as a man in love with the law * * *.
+“I have absolutely no reservation with respect to Mr. Bell’s discharging his legal responsibilities consistent and in keeping with the traditions of the Bar. Accordingly, I respectfully recommend, without reservation, Mr. Bell’s petition be favorably considered by the Honorable Court.”
+Attorneys Jacob A.H. Kronenberg and Joshua J. Kancelbaum attest to the research abilities of the petitioner and his legal scholarship.
+David S. Perelman, Magistrate, United States District Court, Northern District of Ohio, says that petitioner has maintained his legal skills during his suspension and stayed abreast of current developments in the law. Magistrate Perelman also writes that: “I believe that both the punitive and rehabilitative ends of the suspension imposed upon Mr. Bell have been accomplished, and support any consideration which could be given to reinstatement at this time.”
+From the academic field, Robert L. Bogomolny, Dean of the Cleveland-Marshall College of Law of the Cleveland State University, tells us of the work of petitioner in helping to obtain release of dissidents from Soviet prisons and places of exile. The dean also states:
+“I am also personally aware of the fact that Mr. Bell has an abiding love of the law, and has kept current in several phases of it during his period of suspension. Further, I know that he has written scholarly articles on various tax matters, thus contributing to the body of jurisprudence.
+“* * * I have discussed the matter [suspension] with him, and am convinced that if he is reinstated, he will pursue the practice of law with the highest degree of integrity and ethical propriety.
+“I would therefore unequivocally urge his reinstatement at the earliest possible moment.”
+The petitioner’s rabbi, Daniel Schur, wrote to this court on behalf of petitioner and also appeared at the hearing on reinstatement and testified on behalf of petitioner. The rabbi, in his letter, discusses many of the petitioner’s activities on behalf of his synagogue, Soviet dissidents and service as a member of the board of trustees. This letter of love and compassion is revealing, but of special interest to me is the portion of the rabbi’s testimony at the hearing. The rabbi testified that he had had a number of counseling sessions with the petitioner. The chairman of the hearing panel, Bruce E. Pence, asked the rabbi a number of questions. The transcript reflects the following:
+“Did he seek your counseling concerning his conduct that involved the reason for his discipline? Was that why he was seeking counseling?
+“THE WITNESS: If I understand your question correctly, his seeking for counseling was due to the fact that I think he felt he did something wrong, and I was father confessor somehow and he was seeking from me a sense of help to be able to reestablish himself and reinstate himself.
+“CHAIRMAN PENCE: Have you formed an opinion as to whether or not Mr. Bell was remorseful concerning his previous conduct?
+“THE WITNESS: I’m convinced he is.
+“CHAIRMAN PENCE: What’s your opinion of that?
+“THE WITNESS: Are you asking me whether he would repeat what he did before? I don’t believe so.
+“CHAIRMAN PENCE: Does he feel regret?
+“THE WITNESS: Very much so. Very much so. Very much so. I think this is the basic purpose of counseling. When I said father confessor, I think this is basically where the area comes in.”
+The majority opinion reveals that the matter of petitioner’s rehabilitation was not even a factor in the majority’s decision to deny the request for reinstatement. The sole reason set forth for the denial is the gravity of petitioner’s offense. Given the language of the rule that reinstatement should be considered “notwithstanding the previous disciplinary action taken against the Petitioner,” I cannot agree with the “analysis” of the majority.
+With regard to the seriousness of petitioner’s offense, it is interesting that the majority considers it appropriate to prolong petitioner’s suspension, already of nearly four years’ duration, when we have seen fit in other cases to impose lighter penalties for misconduct of at least equal gravity. For example, in Disciplinary Counsel v. Hock (1988), 36 Ohio St. 3d 177, 522 N.E. 2d 543, the respondent was suspended for only-two years for misconduct which included the conversion of $16,000 from a one-hundred-year-old nursing home resident, and of over $10,000 from an estate. In Dayton Bar Assn. v. Callahan (1988), 36 Ohio St. 3d 179, 522 N.E. 2d 542, the respondent, a convicted felon who had been incarcerated in a federal penitentiary, was suspended for only a year. See, also, Disciplinary Counsel v. Soucek (1988), 37 Ohio St. 3d 42, 523 N.E. 2d 513, where the respondent was convicted of a federal narcotics violation stemming from his attempted illegal sale of $200,000 worth of cocaine and Quaaludes. For this offense, the respondent suffered the same penalty imposed on petitioner herein: an indefinite suspension from the practice of law.
+While the misconduct committed by the petitioner herein was not insignificant, the length of his punishment, already long and now made longer, seems disproportionate, to say the least. Although I concurred in the penalties imposed in Soucek, Hock and Callahan as appropriate sanctions given the facts in each of those cases, I cannot join in the inordinately harsh judgment handed down today, which lengthens an already protracted suspension without even considering whether petitioner has been rehabilitated.
+I know none of the politics of this case if, in fact, there are any. I do not know Mr. Bell — nor would it make a difference if I did. My only concern is that people look to this court for ultimate justice. If it cannot be obtained here, where else can one go?
+The rule provides for reinstatement if certain conditions are met. The record clearly exhibits that the requirements for reinstatement have been met in this case. In addition, the three-person hearing panel, the only group in this entire adjudicatory process that heard the testimony and observed the demeanor of the witnesses, recommended by a majority vote that petitioner be reinstated. Finally, petitioner testified that if he is reinstated to the practice of law, he will not again engage in any kind of adoption work.
+Accordingly, I find it my duty to vote for reinstatement recognizing that it would be much easier to just go along with the majority in denying reinstatement. I keep thinking that if I were a petitioner, I would hope that somebody in a position to decide my fate would read the record and fairly apply the rules. I have — and, therefore, I must respectfully dissent.
+Sweeney, J., concurs in the foregoing dissenting opinion.
