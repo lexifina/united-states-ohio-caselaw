@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "8426"
 decided: "1904-02-02"
-citations: ["69 Ohio St. 486", "69 Ohio St. 578"]
+citations: ["69 Ohio St. 486"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["Lewis, Auditor of Hamilton County, v. The State ex rel. Harris, Exrx.
 source_url: "https://static.case.law/ohio-st/69/cases/0486-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 55192
-cites_cases: ["69 Ohio St., 473"]
 ---
 
 # Lewis v. State ex rel. Harris
