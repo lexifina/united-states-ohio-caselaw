@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-787"
+decided: "1980-06-18"
+citations: ["62 Ohio St. 2d 399"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., Herbert, W. Brown, P. Brown, Sweeney, Locher and Holmes, JJ., concur."]
+parties: ["The State, ex rel. Grinnell Communications Corp. et al., v. Love, Judge."]
+source_url: "https://static.case.law/ohio-st-2d/62/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804403
+cites_cases: ["165 Colo. 322", "366 So. 2d 64", "370 So. 2d 764", "381 U.S. 532", "421 U.S. 794", "427 U.S. 539", "439 F. Supp. 862", "470 F. 2d 785", "48 U.S.L.W. 3672"]
+---
+
+# State ex rel. Grinnell Communications Corp. v. Love
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent judge found the provisions of the Rules of Superintendence and Code of Judicial Conduct relating to broadcasting of court proceedings to be directory in nature rather than mandatory. His analysis can be summarized as follows:
+Sup. R. 11, relating to “Conditions for Broadcasting and Photographing Court Proceedings,” uses the mandatory language that “[t]he judge presiding at the trial* * * shall permit the broadcasting***in court proceedings open to the public as provided in Canon 3 A (7) of the Code of Judicial Conduct.” (Emphasis added.)
+However, Canon 3 A(7) qualifies Sup. R. 11 and uses the directory language that “***a trial judge or appellate court should permit***” broadcasting under certain conditions. (Emphasis added.)
+Respondent found that Canon 3 thus reposes discretion in the trial court as to when broadcast coverage will be permitted. The court’s duty, according to respondent, is “to exercise its discretion to determine, on a case by case basis, whether the defendant can receive a fair and impartial trial if cameras are permitted during the proceeding.”
+From this theoretical underpinning for the court’s exercise of discretion, the respondent judge found that:
+(1) Since the effect of television cameras in the courtroom is virtually unknown, television coverage of a sensational murder trial may present an external pressure which is an insurmountable barrier to the achievement of a fair trial;
+(2) the court is not convinced that broadcast coverage has no psychological effect on all of the trial’s participants “***until valid emperical [sic] data shows otherwise,” and since such an effect is outside the control of the trial judge, “this court is of the opinion that it must choose on the side of caution until the Supreme Court of the United States reverses the Estes decision by finding that television coverage is not inconsistent with the fundamental right to a fair trial”; and
+(3) based on the foregoing, the court concluded that “the presence of cameras in the courtroom will materially interfere with the court’s duty to protect the defendants’ constitutionally protected right to a fair and impartial trial, free from external influences.”
+The trial court misconstrues the nature of its duties under the Code of Judicial Conduct and Rules of Superintendence, particularly in its holding that use of the word “should” in Canon 3 vests the court with discretionary power. This interpretation is belied by the introductory paragraph of the Code which states that the Canons are “norms” and the “accompanying text [such as Canon 3 A(7)] set[s] forth specific rules* * *. The canons and text establish mandatory standards unless otherwise indicated.” (Emphasis added.)
+Thus, the Canons are mandatory in nature, not directory. Under Canon 3 A(7)(c) the trial judge shall permit broadcasting in the courtroom, pursuant to permission obtained in advance in writing and under conditions prescribed by the court and Rules of Superintendence, 3 A(7)(c)(i), only if the court determines that such broadcasting would not distract participants, impair the dignity of the proceedings, or otherwise materially interfere with the achievement of a fair trial or hearing, 3 A(7)(c)(ii). In other words, unless one of these disqualifying factors is found to be present, broadcasting is to be permitted. Further, exposure of victims or witnesses who object thereto may be prohibited “if the court determines that there is reasonable cause for such objection,” 3 A(7)(c)(iii).
+The reason advanced by the respondent for not permitting media coverage is that the effect of television coverage is unknown and, until evidence is available to the contrary, the court will assume that it has a psychological effect on the participants and, therefore, adversely affects the achievement of a fair trial.
+This reasoning completely ignores a necessary, albeit tacit, presumption underlying the adoption by this court of the Canon and Rule of Superintendence concerning media coverage. By adopting them in their present form, this court has posited that it is presumed that news coverage of a court proceeding is not per se inconsistent with a fair and impartial trial. This is a sine qua non for this court to have approved such coverage. On the other hand, it is precisely this presumption of fairness that the lower court has questioned and found to be lacking. However, since this court has already given credence to this presumption of regularity, it is not within the prerogative of a trial court to call the validity of this presumption into question, but it is its responsibility to scrutinize the case before it to see if any of the factors which rebut this presumption is present. A failure to make a specific determination of the existence of a disqualifying factor falling within the purview of Canon 3 A(7)(c)(ii) or (iii) dictates that media coverage be permitted.
+The trial court’s reliance upon Estes v. Texas (1965), 381 U.S. 532, is understandable, but misplaced, since it is often cited for the proposition that electronic media coverage of courtroom proceedings is per se a denial of due process under the Fourteenth Amendment to the United States Constitution. Actually, the holding in Estes is more circumscribed, as delineated by Justice Harlan in his concurring opinion, at pages 590-591, as follows:
+“The Estes trial was a heavily publicized and highly sensational affair. I therefore put aside all other types of cases* * *. The resolution of those further questions should await an appropriate case; the Court should proceed only step by step in this unplowed field. The opinion of the Court necessarily goes no farther, for only the four members of the majority who unreservedly join the Court’s opinion would resolve those questions now.”
+Moreover, even the majority opinion directed its pronouncements to the state of the art at that time. Id. at page 540.
+The United States Supreme Court has in subsequent opinions affirmed the narrow scope of the Estes holding. Nebraska Press Assn. v. Stuart (1976), 427 U.S. 539; Murphy v. Florida (1975), 421 U.S. 794. In addition, several other courts have concluded that televised coverage of a criminal trial is not per se a denial of a defendant’s right to due process. See, in particular, Petition of Post-Newsweek Stations, Florida, Inc. (Fla. 1979), 370 So. 2d 764. See, also, Bradley v. Texas (C.A. 5, 1972), 470 F. 2d 785; CBS, Inc., v. Lieberman (N.D. Ill. 1976), 439 F. Supp. 862; Gonzales v. People (1968), 165 Colo. 322, 438 P. 2d 686.
+By granting certiorari in Chandler v. Florida (No. 79-1260, April 21, 1980), 48 U.S.L.W. 3672 (Fla. Ct. App., 366 So. 2d 64, below), the Supreme Court has practically obligated itself to re-examine Estes and the issue of electronic media coverage vis-a-vis due process and fair trial. However, until there is a pronouncement on the federal constitutional issues by that court contrary to the tacit presumption of fairness underpinning Sup. R. 11 and Canon 3 as espoused by this court, the Canon and Rule are the law of this state.
+A limited writ of mandamus shall issue directing respondent to permit the requested coverage within reasonable parameters absent a determination by respondent of a disqualifying factor under Canon 3 A(7)(c)(ii) or (iii).
+Judgment accordingly.
+Celebrezze, C. J., Herbert, W. Brown, P. Brown, Sweeney, Locher and Holmes, JJ., concur.
