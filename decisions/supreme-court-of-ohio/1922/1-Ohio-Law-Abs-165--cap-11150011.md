@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "17804"
+decided: "1922-02-02"
+citations: ["1 Ohio Law Abs. 165"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward C. Herring v. D. H. Wysong;"]
+source_url: "https://static.case.law/ohio-law-abs/1/cases/0165-15.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11150011
+---
+
+# Herring v. Wysong
+
+## Majority
+
+motion to certify record, Montgomery county.
