@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19985"
 decided: "1926-07-16"
-citations: ["4 Ohio Law Abs. 638", "4 Abs. 493", "4 Ohio Law Abs. 834", "OS. Pend. 4 Abs. 638"]
+citations: ["4 Ohio Law Abs. 638", "4 Abs. 493"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
