@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-2160"
+decided: "1998-08-12"
+citations: ["82 Ohio St. 3d 585"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer and Lundberg Stratton, JJ., concur.", "Cook, J., dissents."]
+parties: ["The State ex rel. Thompson, Appellant, v. Industrial Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/82/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1323542
+cites_cases: ["26 OBR 149", "26 Ohio St.3d 173", "497 N.E.2d 720", "640 N.E.2d 815", "687 N.E.2d 437", "689 N.E.2d 951", "70 Ohio St.3d 649", "80 Ohio St.3d 470", "81 Ohio St.3d 158"]
+---
+
+# State ex rel. Thompson v. Industrial Commission
+
+## Majority (Douglas, J.)
+
+Douglas, J.
+The record in the case at bar contains several “C-19” fee billing forms submitted by Thompson’s attending doctor, Dr. Palkowski, to the Bureau of Workers’ Compensation. The billing forms contain checked boxes indicating that Thompson was not disabled. The commission, relying exclusively on these forms, denied Thompson temporary total disability compensation for the period beginning on October 26,1986 and running through July 8,1988.
+Thompson contends that the C-19 fee billing forms do not constitute evidence upon which a denial for temporary total disability compensation can be based. In support, Thompson relies on this court’s decision in State ex rel. Riggs v. Oak Lake Farms, Inc. (1986), 26 Ohio St.3d 173, 176, 26 OBR 149, 151, 497 N.E.2d 720, 722-723. We agree with Thompson’s contention, if not his analysis of Riggs, and find that the commission erred in relying on the C-19 billing forms to deny his claim.
+In Riggs, the commission denied the claimant’s request for permanent total disability compensation and attempted to defend its order by discrediting a doctor’s report that this court concluded was definitive evidence of the claimant’s permanent and total disability. The doctor in Riggs opined in the medical report that the claimant was permanently and totally disabled. However, the doctor had also submitted C-19 fee billing forms that contained checked boxes indicating that the claimant’s disability was “temporary total,” not “permanent total.” Relying on the C-19 billing forms, the commission argued that the doctor’s medical report was unreliable evidence of the description of the claimant’s disability. We rejected the commission’s argument, setting forth three reasons:
+“First, the ‘C-19’ form is designated a ‘fee bill.’ Its purpose is to allow the treating physician to be reimbursed for services rendered — not to provide a medical record of the claimant’s condition or history, or to state an opinion of the claimant’s level of disability. Second, such forms are often filled out by secretaries or bookkeepers, who simply report the claimant’s legal status (in terms of disability) according to the determination of the bureau. Last, the description of the appellant’s disability on Dr. Korb’s ‘C-19’ forms as ‘temporary total’ is accurate, because, at the time the forms were submitted, the appellant’s last legally recognized disability was that of ‘temporary total’; and, even though Dr. Korb was of the opinion that the appellant had a permanent total disability, it would have been inaccurate to state on his ‘fee bill’ that the appellant’s disability was ‘permanent.’ ” (Emphasis sic.) Id., 26 Ohio St.3d at 176, 26 OBR at 151, 497 N.E.2d at 722-723.
+As correctly urged by Thompson, Riggs establishes that the purpose of a C-19 fee billing form is not to provide a medical record of the claimant’s condition or history, or to set forth an opinion of the claimant’s level of disability. Rather, the purpose of such a form is simply to apprise the Bureau of Workers’ Compensation of the amount the treating physician is seeking for services rendered. In this regard, a C-19 fee billing form cannot be used as evidence by the commission to impeach a report designed to advise of a claimant’s medical condition. Riggs, and our holding today, accurately reflect the realities of the workers’ compensation system. Accordingly, any reliance by the commission on the C-19 fee billing forms as evidence of Thompson’s disability was clearly an abuse of discretion.
+Thompson also contends that a finding by this court that the commission abused its discretion in relying on the C-19 fee billing forms to deny his claim necessitates the issuance of a full writ ordering the commission to award him temporary total disability compensation for the period in question. According to Thompson, returning the cause to the commission to review his claim “for the third time is an exercise in futility.”
+We agree with Thompson that the record in this case contains ample medical evidence to support an award of temporary total disability compensation for the period in question. The record contains an “Attending Physician’s Questionnaire” and numerous C-84 medical forms submitted by Dr. Palkowski that support Thompson’s claim. We also agree with the court of appeals that “the C-84 form is a long standing and commonly used form for the reporting by physicians regarding the condition and extent of disability of a claimant.” Notwithstanding, in our continuing deference to the commission, we believe that the commission should be given a chance to review Thompson’s claim without consideration of Dr. Palkowski’s C-19 fee billing forms.
+Accordingly, the judgment of the court of appeals is affirmed, and a limited writ is issued that returns the cause to the commission for further consideration and amended order.
+Judgment affirmed and limited writ allowed.
+Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer and Lundberg Stratton, JJ., concur.
+Cook, J., dissents.
+
+## Dissent (Cook, J.,)
+
+Cook, J.,
+dissenting. I respectfully dissent. Pursuant to Section 35, Article II of the Ohio Constitution, the commission is charged with administering the State Insurance Fund. As a part of that function, the commission asks physicians to include more information in the “attending physician’s fee bill” (C-19) than just amounts sought for medical services. If requesting and obtaining the information is within the province of the commission, this court usurps the authority of the commission by limiting the use of that information without proper reason.
+The reasons given in State ex rel. Riggs v. Oak Lake Farms, Inc. (1986), 26 Ohio St.3d 173, 26 OBR 149, 497 N.E.2d 720, for declaring C-19 fee bills to be unreliable evidence are unpersuasive. Each reason actually represents the sort of factor that affects the weight to be given to C-19 responses, which is a function exclusively within the province of the commission. State ex rel. Binegar v. Indus. Comm. (1997), 80 Ohio St.3d 470, 474, 687 N.E.2d 437, 440.
+C-19 fee bills are documents like any other that might be offered as proof. They are not intrinsically untrustworthy. Riggs makes much of the. fact that secretaries or bookkeepers fill out the C-19 forms, but the same could be said of any form completed by a doctor’s office — including the C-84’s supporting Thompson’s position. Notably, Thompson’s doctor signed and certified that the C-19 fee bills here were accurate.
+The commission, as trier-of-fact, should have had authority to consider the C-19 form representation that Thompson had no disability due to his injury. That consideration is assessed with the C-84 form representations that Thompson did have such a disability. And under established precedent, the commission was entitled to disregard both sets of forms on the ground that they were too equivocal to constitute credible evidence of Thompson’s temporary total disability. State ex rel. Eberhardt v. Flxible Corp. (1994), 70 Ohio St.3d 649, 657, 640 N.E.2d 815, 821; State ex rel. Chrysler Corp. v. Indus. Comm. (1998), 81 Ohio St.3d 158, 164, 689 N.E.2d 951, 956. Thus, the commission did not abuse its discretion in finding that no evidence proved Thompson’s eligibility for temporary total disability compensation or in denying this relief.
+I would reverse the court of appeals’ judgment and deny the writ of mandamus, leaving the commission’s order undisturbed.
