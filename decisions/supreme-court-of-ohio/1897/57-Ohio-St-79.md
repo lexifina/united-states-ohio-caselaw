@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1897-10-26"
+citations: ["57 Ohio St. 79"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen v. Lake Shore & Michigan Southern Railway Company."]
+source_url: "https://static.case.law/ohio-st/57/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 939294
+cites_cases: ["52 Ohio St., 1"]
+---
+
+# Allen v. Lake Shore & Michigan Southern Railway Co.
+
+## Majority (Burket, C. J.)
+
+Burket, C. J.
+The journal entry of the circuit court shows that the court found error in the record, to the prejudice of the plaintiff in error (the railway company), in this to-wit: “The court
+erred in its charg’e to the jury; the court erred in its construction of the statute under consideration. ”
+The statute in question is as follows:
+“Section 3375a. Physicians in the discharge of their duty; and sheriffs and deputy sheriffs, in the performance of their official duties, shall be permitted to ride, at their own risk, and take a prisoner or prisoners, upon freight trains, between stations where such trains stop, paying therefor a regular passenger fare.”
+The charge of the court as to the construction of the statute held to be erroneous by the circuit court, is as follows:
+“The act of the legislature, which we have copied into these instructions, permits a sheriff, while engaged in the discharge of his official duties,- to ride upon freight trains between stations where such freight trains stop. We hold and instruct you, that if said freight train had stopped at Jefferson, and was standing- upon the track, before the plaintiff entered the caboose, that in that event, while the plaintiff’s claim, in this case, may not fall within the exact letter of the statute, yet we hold that it comes within the spirit of the statute; although you should find that Jefferson was not a regular stopping place for that train.
+“On the other hand, in this case, we instruct you, that if you find that it has been proven, that said freight train had stopped at Jefferson station, and was then standing there upon the track, and you find that it has been proven, that the plaintiff entered said caboose car, while it was so standing upon said track, and that he was then engaged in the performance of his official duties, which required him. to pass over the defendant’s line of road, from Jefferson to Ashtabula, on his way to Conneaut, in said county, to make service upon parties at Conneaut, of a summons, or other papers, which he then had with him for that purpose; that he then made known to the conductor, that he was such sheriff, and was then engaged in the discharge of his official duties, which required him to pass over said road, from Jefferson to Ashtabula; then we say to you that he had the right, as such sheriff, in the discharge of the duties of his office, to enter said car, upon the payment of the regular fare from Jefferson to Ashtabula, and to require the defendant to carry him, from Jefferson to Ashtabula, upon said train, and if you find that it has been so proven, that he thus informed the conductor, and the conductor, after he had been so informed by the plaintiff, refused to carry him to Ashtabula, and allow him to ride upon said train, but then and there ordered the plaintiff to leave said car, and the plaintiff in pursuance of said order of the conductor, did leave said car, to avoid being forcibly expelled therefrom, then we say to you, you would be authorized to return a verdict in favor of the plaintiff.”
+The common pleas also charged the jury, over the objection of the railway company, that sheriffs and their deputies, while in the performance of their official duties, have a right to ride upon freight, trains, at their own risk, whether they have a prisoner with them or not. The circuit court held this part of the charge to be correct, and this court concurs in that holding.". The right to ride upon such trains is given to sheriffs and their deputies, while in the performance of their official duties,, whether accompanied by a prisoner or not.
+The charge of the common pleas, and the reversal by the circuit court, raises, the question, whether the right of sheriffs and their deputies to ride on freight trains under the statute, extends only to riding on such trains between stations at which the trains regularly stop, as held by the circuit court, or whether the right extends to trains which have in fact stopped at the station and are standing there when the sheriff or his deputies get aboard, even though such trains do not regularly stop at such station, as charged by the common pleas.
+We think the common pleas was right, and the circuit court wrong, in the construction of the statute upon this question.
+The words of the statute are, “between stations where such trains stop. ” This does not say, and does not mean, “between stations where such trains regularly stop, or are scheduled to stop,” as claimed by the railway company, and held by the circuit court. To so construe the statute would be to add additional words, and an additional meaning to the statute by construction.
+This can not be done. The words, 4 ‘where such trains stop,” mean where they in fact stop; at least such is the meaning when applied to the stop of the train at the station where a sheriff or his deputies get aboard. When the sheriff got to the station he found a freight train there, and found that it had stopped, and that it would stop at Ashtabula where he desired to go. With this information’, being in the performance of his official duties, he had the statutory right to go upon the train, and it was the duty of the railway company to carry him upon such train at his own risk, by his paying the usual fare, either in money or by proper ticket. The fact that the freight train had on that day stopped, and was then standing at the station, was sufficient to authorize the sheriff, in the performance of his official duties, to go aboard the train, and he need not inquire or concern himself as to whether said train regularly stopped at that station, or was scheduled to stop there.
+True, the sheriff in his petition avers that “said train stopped regularly, as well as on said day, "both at Jefferson and Ashtabula;” but this averment could not broaden or change the provisions of the statute. The construction of a statute can not be changed or affected by an averment in a pleading. State ex rel v. Archibald, 52 Ohio St., 1.
+The averment in the petition, to the effect that the train regidarh/ stopped at the station, was surplusage, because it was sufficient to aver and prove that it stopped there on the day in question.
+A petition which contains all the facts necessary to bring the plaintiff within the rights granted by statute, is good, even though it avers other, but not contradictory, facts, not necessary to the right of recovery. In such cases the additional facts will be regarded as surplusage, and need not be established on the trial.
+It follows that the judgment of the circuit court should be reversed, and that of the common pleas affirmed.
+Judgment accordingly.
