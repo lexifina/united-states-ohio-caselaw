@@ -1,0 +1,53 @@
+---
+court: "Supreme Court of Ohio"
+docket: "88-1499"
+decided: "1990-02-21"
+citations: ["49 Ohio St. 3d 67"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Res-nick, JJ., concur.", "Holmes, J., dissents."]
+parties: ["Tower City Properties et al.; Mutual Holding Company, Appellant, v. Cuyahoga County Board of Revision et al.; Cleveland Board of Education, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/49/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422539
+cites_cases: ["14 O.O. 3d 310", "15 O.O. 3d 283", "21 O.O. 3d 81", "23 O.O. 3d 232", "24 O.O. 3d 237", "344 N.E. 2d 327", "397 N.E. 2d 770", "400 N.E. 2d 1352", "423 N.E. 2d 177", "431 N.E. 2d 660", "435 N.E. 2d 1114", "45 Ohio St. 2d 262", "60 Ohio App. 2d 348", "61 Ohio St. 2d 277", "67 Ohio St. 2d 129", "69 Ohio St. 2d 222", "70 Ohio St. 2d 131", "74 O.O. 2d 422"]
+---
+
+# Tower City Properties v. Cuyahoga County Board of Revision
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant challenges the court of appeals’ determination that Civ. R. 41(A)(1)(a), pursuant to which the appellant dismissed its common pleas court proceedings, does not apply to appeals under R.C. 5717.05. Appellant urges, rather, that it should be able to dismiss its appeals to common pleas court unilaterally. We agree with the court of appeals and affirm its judgment.
+R.C. 5717.05, for the tax years at issue, provided:
+“As an alternative to the appeal provided for in section 5717.01 of the Revised Code, an appeal from the decision of a county board of revision may be taken directly to the court of common pleas of the county by the person in whose name the property is listed or sought to be listed for taxation. Such appeal shall be taken by the filing of a notice of appeal with the court and with the board within thirty days after notice of the decision by the board is mailed as provided in section 5715.20 of the Revised Code. The county auditor and all persons who were parties to the proceeding before the board, other than the appellant filing the appeal in the court, shall be made appellees, and notice of the appeal shall be served upon them by registered or certified mail unless waived. * * *
+“When such appeal has been perfected by the filing of a notice thereof as required by this section, any appeal from the same decision of the county board of revision theretofore filed under section 5717.01 of the Revised Code with the board of tax appeals shall be dismissed. No appeal shall be taken to the board of tax appeals from the decision of a county board of revision under such section after an appeal from the same decision of the county board of revision has been perfected in the court under this section.
+a* * *
+“The court * * * shall determine the taxable value of the property whose valuation or assessment for taxation by the county board of revision is complained of * *
+Thus, a property owner may appeal the board of revision’s decision to the BTA or the court of common pleas, but a board of education may appeal only to the BTA. R.C. 5717.01 and 5717.05. According to former R.C. 5717.05, a property owner had to make all other parties to the board of revision proceeding appellees in the common-pleas-court appeal. If a property owner appealed to the court of common pleas, any appeal to the BTA had to be dismissed, and no appeal could thereafter be taken to the BTA.
+Civ. R. 41(A)(1) provides:
+“Subject to the provisions of Rule 23(E) and Rule 66, an action may be dismissed by the plaintiff without order of the court (a) by filing a notice of dismissal at any time before the commencement of trial unless a counterclaim which cannot remain pending for independent adjudication by the court has been served by the defendant * *
+First, appellant argues that the court of appeals did not have jurisdiction, apparently contending that its voluntary dismissal with prejudice was not an adjudication upon the merits from which an appeal could be taken.
+In Hensley v. Henry (1980), 61 Ohio St. 2d 277, 15 O.O. 3d 283, 400 N.E. 2d 1352, syllabus, we stated:
+“Unless plaintiff’s Civ. R. 41(A)(1) (a) notice of dismissal operates as an adjudication upon the merits under Civ. R. 41(A)(1), it is not a final judgment, order or proceeding, within the meaning of Civ. R. 60(B).”
+Conversely, if the notice of dismissal operates as an adjudication on the merits, the dismissal is a final judgment, order, or proceeding. In Chadwick v. Barba Lou, Inc. (1982), 69 Ohio St. 2d 222, 226, 23 O.O. 3d 232, 234, 431 N.E. 2d 660, 663, we quoted the Staff Note to Civ. R. 41 for guidance in treating dismissals with prejudice:
+“ ‘* * * [Civ. R. 41] provides that voluntary or involuntary dismissal, depending upon the particular circumstances, may be with or without prejudice. If the dismissal is with prejudice, the dismissed action in effect has been adjudicated upon the merits, and an action based on or including the same claim may not be retried.’ (Emphasis added.)
+“Thus, an- action dismissed ‘with prejudice’ is vulnerable to the defense of res judicata. * * *”
+Under this reasoning, a dismissal with prejudice is an adjudication on the merits and appealable under R.C. 2505.03. Thus, the court of appeals had jurisdiction in the instant case.
+Second, appellant maintains that it may dismiss an appeal under R.C. 5717.05 because it has a unilateral right to do so and because the General Assembly did not authorize a board of education to appeal under any other statute but R.C. 5717.01. The board, agreeing with the court of appeals, responds that Civ. R. 41(A)(1)(a) is, under Civ. R. 1(C)(7), inapplicable to the special proceeding provided by R.C. 5717.05. Appellant concedes that the R.C. 5717.05 appeal is a special statutory proceeding.
+Civ. R. 1(C) provides:
+“These rules, to the extent that they would by their nature be clearly inapplicable, shall not apply to procedure * * * (7) in all other special statutory proceedings * * *.”
+Price v. Westinghouse Elec. Corp. (1982), 70 Ohio St. 2d 131, 24 O.O. 3d 237, 435 N.E. 2d 1114, recited several principles previously announced by this court concerning this rule. We called it a rule of inclusion rather than exclusion. We noted that we had found some of the Civil Rules applicable to special statutory proceedings and inapplicable to others. In Price, at 133, 24 O.O. 3d at 239, 435 N.E. 2d at 1116, we quoted the statement of philosophy from State, ex rel. Millington, v. Weir (1978), 60 Ohio App. 2d 348, 349, 14 O.O. 3d 310, 311, 397 N.E. 2d 770, 772:
+“ ‘The civil rules should be held to be clearly inapplicable only when their use will alter the basic statutory purpose for which the specific procedure was originally provided in the special statutory action.’ ”
+We have implicitly applied this statement of philosophy in other decisions in which we reviewed an entire statutory scheme to decide whether a Civil Rule was inapplicable. E.g., State, ex rel. Civil Rights Comm., v. Gunn (1976), 45 Ohio St. 2d 262, 74 O.O. 2d 422, 344 N.E. 2d 327 (Civil Rules inapplicable to subpoena duces tecum proceedings under civil rights statutes); and Cuyahoga Metro. Housing Auth. v. Jackson (1981), 67 Ohio St. 2d 129, 21 O.O. 3d 81, 423 N.E. 2d 177 (Civ. R. 53[E] and 54[B] inapplicable in forcible entry and detainer proceedings).
+Thus,- we should determine whether Civ. R. 41(A)(1)(a) alters the basic statutory purpose for which the specific procedure was originally provided in a special statutory action. If it does, the rule is clearly inapplicable to the specific statutory procedure.
+Turning to that task, we note that the funding for educating our society depends on tax revenues which are directly related to the value of property in the school district. A board of education, thus, has an interest in the correct value of this property, and the General Assembly has given it a right to seek out this value. Under R.C. 5715.19, a property owner and a board of education, among others, may complain about an auditor’s valuation of property to a board of revision. A board of education has a special right to countercomplain if a property owner asks for a decrease in value in excess of $17,500 in assessed value. R.C. 5717.01 authorizes a board of education and a property owner to appeal the board of revision’s determination to the BTA. The BTA then determines the taxable value of the contested property under R.C. 5717.03.
+Accordingly, the statutory design grants a board of education the right to seek the correct value of property in its district, including the appeal of a board of revision decision. Giving a property owner unilateral ability to dismiss its appeal pursuant to Civ. R. 41(A)(1)(a) would alter this statutory design because it would render ineffective the board of education’s right to review of a board of revision’s valuation. A board of education’s right to pursue a correct value would then be left to the whim of the property owner, even though the board may have first filed the real property tax complaint and even though the board is, under R.C. 5717.05, made an appellee to the proceeding.
+In the instant case, the board manifested its disagreement with the board of revision’s decision by appealing to the BTA. Appellant’s strategic dismissal, if allowed, would leave the board without a forum to pursue its disagreement. Thus, Civ. R. 41(A)(1) (a) alters the basic statutory design set forth in the statutes regarding tax valuations, and it is clearly “inapplicable” to appeals under R.C. 5717.05.
+Appellant also argues that the General Assembly established this scheme and that the General Assembly need not give a board of education any right to appeal. However, the General Assembly, by statute, enabled a board of education to contest a tax value determination. Appellant would alter this statutory scheme by using a court-adopted Civil Rule. Civ. R. 1(C) relegates the scope of the Civil Rules to those special statutory proceedings to which the rules are applicable. An appeal under R.C. 5717.05 is not such a proceeding.
+Consequently, we affirm the court of appeals’ judgment. *
+Judgment affirmed.
+Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Res-nick, JJ., concur.
+Holmes, J., dissents.
+Effective March 17, 1989, the General Assembly amended R.C. 5717.05 to grant exclusive jurisdiction to the forum, the court of common pleas or the BTA, in which the first notice of appeal was filed if the parties file in both forums. (142 Ohio Laws, Part III, 5544-5545.)
