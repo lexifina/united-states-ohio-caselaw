@@ -1,0 +1,58 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1996-06-17"
+citations: ["78 Ohio Misc. 2d 32"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JUDICIAL CAMPAIGN COMPLAINT AGAINST EMRICH."]
+source_url: "https://static.case.law/ohio-misc-2d/78/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711169
+cites_cases: ["120 N.E.2d 118", "161 Ohio St. 469", "24 Ohio St.2d 70", "263 N.E.2d 567", "53 O.O. 361", "53 O.O.2d 116", "569 N.E.2d 447", "58 Ohio St.3d 103", "602 N.E.2d 615", "614 N.E.2d 1123", "65 Ohio St.3d 167", "658 N.E.2d 1158", "74 Ohio Misc.2d 81", "83 Ohio App.3d 357"]
+---
+
+# In re Judicial Campaign Complaint Against Emrich
+
+## Majority
+
+Order of the Commission of Judges.
+This matter involves a review by a commission of five judges of a panel determination that respondent, Martin W. Emrich, violated Canon 7(B)(2)(f), Canon 7(D)(1) and Canon 7(E)(1) of the Ohio Code of Judicial Conduct. The commission members are as follows: Judges William G. Lauber, Chair; Cheryl S. Earner; James W. Kirsch; Cynthia C. Lazarus; and Mark A. Wiest.
+The complainant, Denise Felt, filed a complaint with the Board of Commissioners on Grievances and Discipline of the Supreme Court of Ohio, contending that respondent, Martin W. Emirch, had knowingly disseminated materials, literature, signs and buttons which used the title of judge, in violation of Canon 7(B)(2)(f), Canon 7(D)(1) and Canon 7(E)(1) of the Ohio Code of Judicial Conduct (Count One).
+Respondent is a judge of the Mahoning County Court, who was campaigning for the position of Mahoning County Court of Common Pleas, Probate Division. The complaint alleged that respondent had used billboards and yard signs that used the title of judge to imply that he is the current Probate Judge of Mahoning County.
+Count Two of the complaint alleged that respondent had violated Canon 7(B)(6) of the Code of Judicial Conduct by failing to timely file a statement of judicial qualifications with the clerk of the probate court within thirty days of becoming a judicial candidate. The Secretary of the board reviewed the complaint, and a formal complaint was filed on March 6,1996.
+A panel of the Board of Commissioners of Grievances and Discipline held a hearing on March 12, 1996. The panel determined that the complainant had demonstrated that the respondent had violated Canons 7(B)(2)(f), 7(D)(1), 7(E)(1), and 7(B)(6) of the Ohio Code of Judicial Conduct, as alleged in the complaint. The panel found that the billboard and yard signs in question did not specify that respondent was a judge of the Mahoning County Court, as opposed to the Mahoning County Court of Common Pleas, Probate Division.
+The panel recommended that a cease and desist order be issued as to the use of the billboard and yard signs in question, and all other billboards and yard signs of a similar nature. The panel also recommended that respondent be fined two hundred fifty dollars for the violations found as to Count One, and one hundred dollars for the violation found as to Count Two, and that respondent be assessed the costs of the matter, exclusive of attorney fees.
+The panel’s report was filed on March 18, 1996, and on March 27, 1996, the Ohio Supreme Court appointed a five-judge commission to review the panel’s report pursuant to Gov.Jud.R. II(5)(E)(1) and R.C. 2701.11. The five-judge commission was provided with written briefs by the parties, as well as the transcript of the hearing, exhibits submitted, and the panel’s report.
+The commission finds that the respondent has raised one assignment of error for our consideration, as follows:
+“1.) The hearing panel erred in concluding that respondent’s billboards and yard signs violated Judicial Canons 7(B)(2)(F), 7(D)(1) and 7(E)(1).”
+Initially, we note that respondent does not contest the panel’s findings with regards to Count Two of the Complaint. Accordingly, we need not address the panel’s findings with respect to the violation of Canon 7(B)(6) of the Code of Judicial Conduct, and we hereby adopt the panel’s recommendation as to Count Two.
+Court One alleged violations of Canon 7(B)(2)(f), 7(D)(1) and Canon 7(E)(1) of the Ohio Code of Judicial Conduct. Canon 7(B)(2)(f) provides as follows:
+“(2) A judge or judicial candidate shall not do any of the following:
+U $ $ $
+“(f) Knowingly misrepresent his or her identity, qualifications, present position, or other fact or the identity, qualifications, present position, or other fact of an opponent[.]” (Emphasis added.)
+Canon 7(D)(1) provides:
+“(D) Campaign Standards. During the course of any campaign for nomination or election to judicial office, a judicial candidate, by means of campaign materials, including sample ballots, an advertisement on radio or television or in a newspaper or periodical, a public speech, press release, or otherwise, shall not knowingly or with reckless disregard do any of the following:
+“(1) Use the title of an office not currently held by a judicial candidate in a manner that implies that the judicial candidate does currently hold that office, or use the term ‘re-elect’ when the judicial candidate has never been elected at a general or special election to the office for which he or she is a judicial candidate[.]”
+Canon 7(E)(1) provides:
+“(E) Campaign Communications. During the course of any campaign for nomination or election to judicial office, a judicial candidate, by means of campaign materials, including sample ballots, an advertisement on radio or television or in a newspaper or periodical, a public speech, press release, or otherwise, shall not knowingly or with reckless disregard do any of the following:
+“(1) Post, publish, broadcast, transmit, circulate, or distribute information concerning a judicial candidate or an opponent, either knowing the information to be false or with a reckless disregard of whether or not it was false or, if true, that would be deceiving or misleading to a reasonable person.” (Emphasis added.)
+In the instant action, respondent argues that the panel’s finding that he violated the Judicial Canons, and that he did so knowingly or with reckless disregard, is contrary to law. Respondent also argues that the evidence at the hearing did not constitute “clear and convincing evidence” to support the panel’s findings.
+In a similar case involving a judicial panel, a commission adopted the definition of “knowingly” set forth in R.C. 2901.22(B) as follows:
+“A person acts knowingly, regardless of his purpose, when he is aware that his conduct will probably cause a certain result or will probably be of a certain nature. A person has knowledge of circumstances when he is aware that such circumstances probably exist.”
+The commission in In re Judicial Campaign Complaint Against Carr (1995), 74 Ohio Misc.2d 81, 658 N.E.2d 1158, also cited the following standard of set forth in State v. Edwards, (1992), 83 Ohio App.3d 357, 614 N.E.2d 1123, as follows:
+“If the result is probable, the person acts ‘knowingly’; if it is not probable, but only possible, the person acts ‘recklessly’ if he chooses to ignore the risk.” Id. at 361, 614 N.E.2d at 1125.
+Other courts, in other contexts, have held that “knowingly” simply means that one is “aware of existing facts.” See State ex rel. Citizens for Responsible Taxation v. Scioto Cty. Bd. of Elections (1992), 65 Ohio St.3d 167, at 174, 602 N.E.2d 615, at 621; State ex rel, Carson v. Jones (1970), 24 Ohio St.2d 70, at 71-72, 53 O.O.2d 116, at 117, 263 N.E.2d 567, at 567-568 (holding that a party’s actual intent was irrelevant, and that knowledge merely required that one be aware of existing facts).
+In the instant action, respondent testified that he reviewed and approved all of the ads, billboards, and yard signs before he used them. Respondent also testified that he was aware of Opinion 89-15, issued by Board of Commissioners on Discipline and Grievances, and, in fact, had provided this case to Samuel G. Amendolara of the Mahoning County Bar Association. The syllabus of Opinion 89-15 provides in pertinent part:
+“In judicial campaigns, use of the title ‘judge’ without indicating that the candidate sits in a court different from the one that is the subject of the campaign is misleading and therefore should be avoided.”
+The opinion further states:
+“In our opinion, an advertisement that mentions the new office sought and identifies the non-incumbent candidate as a judge without specifying the particular court that he or she currently holds is the type of situation to which Canon 7C(1) applies.”
+In the instant action, the billboard and yard sign in question simply state “Elect Judge Martin W. Emrich to Probate Court” and “Elect Judge Emrich to Probate Court,” respectively. The billboard and yard sign do not specify the particular judgeship that respondent currently holds.
+“Clear and convincing evidence” has been defined as:
+“[T]hat measure or degree of proof which is more than a mere ‘preponderance of the evidence,’ but not to the extent of such certainty as is required ‘beyond a reasonable doubt’ in criminal cases, and which will produce in the mind of the trier of facts a firm belief or conviction as to the facts sought to be established.” In re Election of November 6, 1990 for the Office of Attorney General of Ohio (1991), 58 Ohio St.3d 103, 106 [569 N.E.2d 447, 450], citing Cross v. Ledford (1954), 161 Ohio St. 469, 53 O.O. 361, 120 N.E.2d 118, paragraph three of the syllabus.
+Given a review of Opinion 89-15, which respondent had knowledge of, respondent’s own testimony, the hearing transcript and exhibits presented, the commission finds that the hearing panel did not abuse its discretion in finding that respondent, by approving the billboard and yard sign had violated Canon 7(B)(2)(f), Canon 7(D)(1) and Canon 7(E)(1) of the Code of Judicial Conduct.
+Complainant also argues that the attorney fees incurred as a result of bringing this complaint should not constitute an expenditure for the purposes of the limits prescribed by Canon 7. Complainant makes a valid point, insofar as treating such attorney fees as expenditures may discourage candidates from bringing complaints for violations of the Ohio Code of Judicial Conduct. However, we find that such a determination and/or amendment to the rule of expenditures should be made by the Supreme Court. Accordingly, we hereby adopt the recommendations of the hearing panel in all respects. Costs assessed to respondent.
+So ordered.
+. Denise Felt is the Treasurer for the campaign of Timothy Maloney, who was running against respondent for the. position on the Mahoning County Court of Common Pleas, Probate Division.
+. The hearing panel found that a television advertisement for respondent did not violate Canon 7(B)(2)(f), Canon 7(D)(1) or Canon 7(E)(1). The panel also found that a proffered radio commercial was not violative of Canon 7, insofar as no evidence was presented that the commercial was ever broadcast.
+. What was previously Canon 7(C)(1) is now found at Canon 7(D)(1).
