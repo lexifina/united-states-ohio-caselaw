@@ -1,0 +1,70 @@
+---
+court: "Supreme Court of Ohio"
+docket: "91-1106"
+decided: "1992-06-10"
+citations: ["63 Ohio St. 3d 766"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.", "Cacioppo and Cook, JJ., concur."]
+parties: ["Harrison, Health Commissioner, et al., Appellees, v. Judge, Mayor, et al., Appellees; Ohio Council 8, American Federation of State, County and Municipal Employees, AFL-CIO, et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-3d/63/cases/0766-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1714575
+cites_cases: ["137 Ohio St. 1", "17 O.O. 298", "19 Ohio St.2d 49", "249 N.E.2d 888", "27 N.E.2d 773", "305 N.E.2d 805", "36 Ohio St.3d 180", "37 Ohio St.2d 17", "48 O.O.2d 57", "49 Ohio App.3d 125", "522 N.E.2d 532", "550 N.E.2d 982", "567 N.E.2d 1018", "58 Ohio St.3d 28", "66 O.O.2d 9"]
+---
+
+# Harrison v. Judge
+
+## Majority
+
+The cause is affirmed on authority of the court of appeals’ opinion below, rendered April 10, 1991, and attached as an appendix to this entry.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.
+APPENDIX
+Quillin, Presiding Judge. The city of Barberton (“Barberton”) is a charter city. By charter amendment, Barberton created a board of health (“board”).
+On May 17, 1987, Joseph Harrison, Health Commissioner of the city of Barberton, filed a taxpayer’s action requesting declaratory judgment on behalf of the board against Barberton and various public officials in the city of Barberton. Ohio Council 8, American Federation of State, County and Municipal Employees, AFL-CIO (“AFSCME”), subsequently intervened in the action as an interested party. The trial court determined that Section 6.04(a) of the Charter of the city of Barberton was unconstitutional. This issue was immediately appealed. In Harrison v. Judge (1989), 49 Ohio App.3d 125, 128, 550 N.E.2d 982, 984, we held that Section 6.04(a) of the Charter of the city of Barberton was constitutional and remanded the case for further proceedings.
+The remaining issues on remand were submitted to the trial court on stipulated facts and briefs of counsel. The trial court found that the board and Barberton are separate political entities, and the board may choose to negotiate with employees under its control separate from Barberton, join in the labor contract previously entered into by Barberton on April 24, 1987, or conduct joint labor negotiations with Barberton. The trial court, however, refused to void the April 24, 1987 agreement on equitable grounds, as the loss to AFSCME and the employees would be substantial compared to the benefit gained through the voiding of the labor contract.
+The trial court also determined that AFSCME is the certified bargaining unit representative of both Barberton employees and the board employees, and will continue in the relationship until changed by the State Employment Relations Board (“SERB”). In addition, the trial court denied attorney fees to Harrison for legal fees incurred in bringing the taxpayer’s action. Both the board and AFSCME now appeal from the trial court’s order, and Barberton cross-appeals.
+AFSCME’s Assignments of Error
+“I. The lower court erred in concluding the BBH [Barberton Board of Health] employees are not employees of the City.
+“II. The lower court erred in concluding there are two (2) units.”
+The trial court correctly determined that the board and Barberton are separate entities. In Harrison, supra, we held that pursuant to R.C. 3709.05, Barberton may create a board different in structure from the structure set forth in R.C. 3709.05 under its home rule authority in the Ohio Constitution. Id. at 127-128, 550 N.E.2d at 984. Nevertheless, Barberton’s home rule authority extends only to powers the state legislature allows. Id. at 127, 550 N.E.2d at 984; see Ohio Assn. of Pub. School Emp., Chapter No. 471 v. Twinsburg (1988), 36 Ohio St.3d 180, 182, 522 N.E.2d 532, 534-535.
+Generally, a health district, and the board of health formed thereunder, are state agencies. Johnson’s Markets, Inc. v. New Carlisle Dept. of Health (1991), 58 Ohio St.3d 28, 33, 567 N.E.2d 1018, 1023-1024; Bd. of Health of St. Bernard v. St. Bernard (1969), 19 Ohio St.2d 49, 48 O.O.2d 57, 249 N.E.2d 888, paragraph two of the syllabus. As employees of state agencies, the employees of the health district and board of health formed thereunder are governed by state law. State, ex rel. Mowrer, v. Underwood (1940), 137 Ohio St. 1, 17 O.O. 298, 27 N.E.2d 773.
+We have previously held that R.C. 3709.05 allows Barberton to create the board pursuant to Barberton’s home rule powers. However, in regard to negotiations with employees of the board, there is no legislative authority which allows Barberton to control the employees of the board. Therefore, the board is a separate entity from Barberton and the board’s employees are subject to state law. See, e.g., R.C. 4117.10(D). Accordingly, the trial court did not err in determining that the board and Barberton are separate employer entities. AFSCME’s first and second assignments of error are overruled.
+AFSCME’s Assignments of Error
+“HI. The lower court erred in concluding there are two (2) deemed certified unit [sic].
+“IV. The lower court erred in concluding that AFSCME has represented two (2) units in the past.
+“V. The lower court erred by allowing the BBH to determine whether it wished to negotiate separately or jointly with the City.
+“VI. The lower court erred by allowing the City to determine whether it wished to negotiate separately or jointly with the BBH.
+“VIII. The lower court erred in not dismissing paragraph^] 21, 22, 23, 24, 26 and 27-35 of the complaint for failure to state a claim upon which relief may be granted.”
+Board of Health’s Assignments of Error
+“I. The trial court erred to the prejudice of plaintiffs-appellants in holding that the Barberton Board of Health, as an employer, does not have the right or the obligation to negotiate an agreement with its employees without interference from a second employer, the city of Barberton.
+“A. This decision by the trial court violates the mandate of the legislature and public policy, as evidenced by Chapter 3709 of the Ohio Revised Code.
+“B. This decision by the trial court creates a conflict of interest in violation of R.C. 4117.20.
+“HI. The trial court erred in ordering the board to choose from the three options outlined.”
+Barberton’s Cross-Assignment of Error
+“The trial court erred to the prejudice of defendants-cross-appellants William Judge and the city of Barberton by ordering the Barberton Board of Health, not a party to this action, to choose from the options stated in the judgment. All successor negotiations should take place in accordance with the practice of the City and Ohio Council 8, AFSCME and consistent with the City Charter’s administration of the Barberton Board of Health. In all other respects, the trial court’s judgment should be affirmed.”
+The trial court determined that the board has the option of (1) negotiating a new labor contract with its employees without participation from Barberton, (2) joining in the April 24, 1987 labor contract already negotiated by Barber-ton, or (3) entering into joint labor negotiations with Barberton. The board, Barberton and AFSCME assert that the trial court’s order allowing a choice of these three options is in error.
+At the time of the filing of this action, the employees of both the board and Barberton were members of a single bargaining unit. In addition, AFSCME was the certified exclusive employee representative of this combined employee bargaining unit. AFSCME negotiated with Barberton without participation from the board and entered into the April 24, 1987 agreement.
+R.C. 4117.06(A) provides:
+“The state employment relations board shall decide in each case the unit appropriate for the purposes of collective bargaining. The determination is final and conclusive and not appealable to the court.”
+There are two methods in which the appropriate employee bargaining unit may be established. First, a petition for election or request for recognition may be filed with SERB by either the proposed exclusive employee representative or the employee unit which seeks to be represented. R.C. 4117.05; 4117.07. In such petition or request for recognition, the composition of the bargaining unit seeking representation must be set forth. Id. SERB must then determine if the proposed bargaining unit is the appropriate bargaining unit for that particular group of employees. R.C. 4117.06. Having determined that the proposed bargaining unit is appropriate, SERB then certifies the proposed employee representative for that particular bargaining unit. R.C. 4117.05; 4117.07.
+In the absence of a question of majority representation, such as here, a petition for clarification of an existing bargaining unit or a petition for amendment of certification may be filed by the exclusive employee representative or by the employer. Ohio Adm.Code 4117-5-01(E).
+In our case, the employee bargaining unit and the certified exclusive employee representative have already been established. The bargaining unit consists of employees from both the board and Barberton, and the certified exclusive employee representative of this unit is AFSCME. SERB is the exclusive channel through which the existing employee bargaining unit may be changed. R.C. 4117.05; 4117.06; 4117.07.
+The trial court properly determined that the board and Barberton are separate political entities. However, the trial court did not have the power to alter the existing employee bargaining unit, as the structure of a bargaining unit may be altered only by SERB. We cannot find, nor are we directed to, any authority which prohibits the board and Barberton from entering into joint negotiations with AFSCME and the existing bargaining unit. The trial court erred in determining that the board may engage in exclusive negotiations with its employees. Until the board, Barberton, AFSCME, or the employees in the existing bargaining unit request that SERB change the structure of the present bargaining unit and/or the exclusive representative, the board and Barberton must jointly observe the status quo with regard to the existing employee bargaining unit with AFSCME as the exclusive representative of such unit.
+The board alleges that joint negotiations on behalf of Barberton and the board would be a prohibited conflict of interest pursuant to R.C. 4117.20. However, R.C. 4117.20 prohibits persons from being involved with the organizations on both sides of the bargaining table. There is no legal conflict between those negotiating on the same side for the benefit of both the board and Barberton against the certified exclusive employee representative. We hold that the trial court erred in granting the board options from which to choose its method of negotiation, because one of those options included allowing the board to negotiate separately with its employees. The board’s first assignment of error is overruled. The board’s third assignment of error, AFSCME’s third, fourth, fifth and sixth assignments of error, and Barberton’s cross-assignment of error are sustained.
+Board of Health’s Assignment of Error II
+“The trial court erred in failing to render the existing collective bargaining agreement void as it pertains to the board.”
+All parties agree that this question has become moot. The board’s second assignment of error is overruled.
+AFSCME’s Assignment of Error VII
+“The lower court erred in not dismissing the complaint for failure to exhaust administrative remedies (before SERB) and under the doctrine of primary jurisdiction.”
+AFSCME asserts that the trial court erred in failing to dismiss the board’s action under the doctrine of primary jurisdiction and for failure to exhaust administrative remedies prior to filing the action. Harrison, on behalf of the board, filed an action for declaratory judgment, and the trial court properly found that the board and Barberton are separate political entities. Although some of the board’s claims were within the exclusive jurisdiction of SERB, this particular claim was not within the jurisdiction of SERB. Therefore, the trial court did not err in failing to dismiss the action. AFSCME’s seventh assignment of error is overruled.
+Board of Health’s Assignment of Error IV
+“The trial court abused its discretion in not granting attorney fees to plaintiffs-appellants.”
+The board contends that the trial court erred in failing to grant Harrison attorney fees. R.C. 733.61 provides:
+“If the court hearing a case under section 733.59 of the Revised Code is satisfied that the taxpayer had good cause to believe that his allegations were well founded, or if they are sufficient in law, it shall make such order as the equity of the case demands. In such case the taxpayer shall be allowed his costs, and, if judgment is finally ordered in his favor, he may be allowed, as part of the costs, a reasonable compensation for his attorney.”
+The allowance of attorney fees in a taxpayer’s action is entirely within the sound discretion of the trial court. Billington v. Cotner (1974), 37 Ohio St.2d 17, 18, 66 O.O.2d 9, 10, 305 N.E.2d 805, 807. Attorney fees may be proper when benefit is bestowed upon the public, either tangible or intangible, such as the prevention of illegal government activity. Id. at paragraph one of the syllabus.
+In the case subjudice, Harrison prevailed in determining that the board is a separate political entity from Barberton. The trial court denied attorney fees, stating that Harrison’s action has brought little, if any, benefit to the community. We cannot say the court was wrong. The board’s fourth assignment of error is overruled.
+The judgment of the trial court is affirmed in part and reversed in part.
+Judgment affirmed in part and reversed in part.
+Cacioppo and Cook, JJ., concur.
