@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "74-488"
+decided: "1975-04-23"
+citations: ["42 Ohio St. 2d 133"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Nexll, C. J., Stern, Celebrezze, W. Brown and P. Brown, JJ., concur."]
+parties: ["Brown, Appellant, v. Donders; Liberty Mutual Insurance Co., Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/42/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1794959
+cites_cases: ["118 Ohio St. 237", "138 Ohio St. 352", "32 Ohio St. 2d 101", "62 Ohio St. 529"]
+---
+
+# Brown v. Donders
+
+## Majority (Corrigan, J.)
+
+Corrigan, J.
+We reverse the judgment of the Court of Appeals.
+Liberty Mutual’s standard automobile liability insurance policy provides, as one of the conditions precedent, that:
+“If claim is made or suit is brought against the insured,.he shall immediately forward to the company every demand, notice, summons, or other process received by him or his representative.”
+• Liberty Mutual contends that it is not required to satisfy the judgment against Donders because he failed to comply with that condition of the policy, specifically paragraph 5 thereof, which is designated, “Notice.”
+Attention should be invited at this point to E. C. 3929.-05 and 3929.06. E. C. 3929.05 provides that: “Whenever *■ * * damage occurs on account of a casualty covered by a contract of insurance made between an insurance company and any person * * * by which contract such person * * * is insured against * * * damage on account of the bodily injury * * * by accident of any person for which loss such person * * * is responsible, the liability of the insurance company is absolute * * *.”
+E. C. 3929.06 provides, in part:
+“•* * * If the judgment is not satisfied within thirty days after it is rendered, the judgment creditor * * * to reach and apply the insurance money to the satisfaction of the judgment, may file a supplemental petition in the action in which such judgment was rendered, in which the insurer is made new party defendant in said action, and whereon service of summons upon the insurer shall be made and returned as in the commencement of an action at law. Thereafter the action shall proceed as to the insurer as in an original action.”
+So, the liability of Liberty Mutual is absolute unless, under the contract of insurance, the assured, Donders, did not forward to the company every demand, notice, summons or other process received by him or his representative. Donders did not receive any demand, notice, summons or other process, personally or through a representative, of a claim against him or a suit brought against him, as a result of this accident. He was constructively served by publication and had no actual notice of suit or claim. For that reason, it was impossible for him to comply with the notice provisions of the policy covering Mm.
+Service of the original complaint was effectuated on defendant, Donders, by publication under the provisions of R. C. 2703.14(E). The affidavit for service by publication was sworn to by plaintiff’s attorney and filed on February 9,1971. On March 19,1971, an affidavit in proof of publication was filed. Both of these documents are part of the court file in the ease and the filing of each is entered in the court journal. On March 22, 1971, the court, by journal entry, noted the filing of the proof of publication and notice of the pendency and object of the action, and approved same as being in all respects regular and according to law.
+At the trial on the supplemental petition, two exhibits were introduced—the certificate of judgment, and the insurance contract. It seems a redundancy to introduce the certificate of judgment because it is before the court as a judgment entry dated December 29, 1971, regardless, as part of the record in the case and the trial court could take judicial notice of such entry.
+The Court of Appeals, in reaching its decision, relied on Heller v. Standard Accident Ins. Co. (1928), 118 Ohio St. 237. Heller is not strictly analogous to our instant case. In Heller, the insured was sued for damages arising out of an automobile accident and was served by residence service. Insured was out of the city at the time and the petition and summons were delivered by insured’s daughter to his attorney, who apparently was unaware of his client’s automobile liability insurance policy. The attorney then proceeded to take steps to defend the insured and filed an answer. Some time later (four months), the assured and his attorney awakened to their situation and gave notice of the suit to the insurer, which disclaimed liability for the reason that no immediate notice of the suit had been given as required by the policy. In a separate suit to recover the amount of the judgment against Mm, the judgment for the insurance company was affirmed. In answer to the contention of the insured that he could not be expected to give notice to the insurer until he, himself, had received it, and that by reason of his absence from the city and subsequent illness, he had never actually received such notice of the suit, thus resulting in an impossibility of performance by the insured, which excused it, this court said in paragraphs two and three of the Heller syllabus:
+“2. The assured cannot justify his delay in failing to comply with the policy condition, by claiming want of and impossibility of knowledge of such claim or suit, if he has failed to use due diligence in ascertaining their existence.
+“3. Upon the issue of his impossibility of performance, or of his exercise of due diligence in complying with the policy conditions, the burden of proof rests upon the assured.”
+The Court of Appeals then pointed out in its opinion, herein, that “here the appellee rested after offering the original complaint and judgment into evidence; nothing was adduced to satisfy the appellee’s burden of showing the impossibility of performance or exercise of due diligence by the insured in complying with the notice condition. There was, therefore, nothing before the trial court to excuse the failure of insured, and appellee through him, of complying with the notice requirement, a condition precedent to appellant’s liability.”
+However, this is not our case. In this case, Liberty Mutual did have actual notice of the accident and that its insured had been convicted of a criminal traffic violation arising out of the accident, and Liberty Mutual did close its file on the accident its policy covered before the running of the statute of limitations. It apparently made no further investigation than an appearance in traffic court to observe the criminal trial; the plaintiff, Anna Mae Brown, was not contacted as part of Liberty Mutual’s investigation after the actual notice to it of the accident.
+In our case, the impossibility of performance is set forth in the affidavit for service by publication which is part of the court file and was sworn to by plaintiff’s attorney. That document reads:
+“Now comes Harry H. Mcllwain, being first duly cautioned and sworn, says that the service of summons cannot be made on the defendant, as the defendant has moved from his last known address without leaving a forwarding address, that his address is unknown, to the affiant and cannot with reasonable diligence be ascertained, and that this is an action subject to service by publication under Ohio Revised Code 2703.14, Paragraph (L).”
+Clearly, the requirements of paragraph three of the syllabus in Heller have been met. The trial court in the trial on the supplemental petition could properly take judicial notice of this affidavit in its case file, reflecting the diligence of Anna Mae Brown through her attorney and the impossibility of actual notice of the suit.
+Obviously, paragraph 5 of the insurance policy contemplates situations other than notice of service by publication. It makes mandatory on the insured to forward to the company every demand, notice, summons or other process received by him or his representative. Nothing by way of process was received by Liberty Mutual’s assured, Donders. He could not forward any demand to Liberty Mutual beh cause he had no knowledge of constructive service of any demand, claim or suit against him. It is unquestioned that, under the law of Ohio, the right of Anna Mae Brown to proceed against Liberty Mutual is a right “* # * subject to the limitations and conditions of the insurance contract entered into between the insurance company and the insured, including conditions subsequent to be performed by the insured after an injury covered by the policy occurs, which conditions become conditions precedent to a right of action on the policy.” Conold v. Stern (1941), 138 Ohio St. 352, 358; Travelers’ Ins. Co. v. Myers & Co. (1900), 62 Ohio St. 529. Donders fulfilled the condition of giving notice of the accident to Liberty Mutual and he did not fail to comply with the condition of forwarding to Liberty Mutual any notice or process “received by him,” because nothing of that nature was received by him, and, so, the latter condition was impossible of performance and such a defense to the supplemental petition, under the circumstances, is invalid.
+Accordingly, the judgment of the Court of Appeals is reversed, and the judgment of the Court of Common Pleas is reinstated.
+Judgment reversed.
+O’Nexll, C. J., Stern, Celebrezze, W. Brown and P. Brown, JJ., concur.
+
+## Concurrence (Herbert, J.,)
+
+Herbert, J.,
+concurs in the opinion and judgment for the reason expressed in his concurring opinion in State v. Reynolds (1972), 32 Ohio St. 2d 101, 106.
