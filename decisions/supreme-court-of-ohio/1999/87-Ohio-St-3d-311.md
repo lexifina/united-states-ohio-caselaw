@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+docket: "98-2336"
+decided: "1999-12-22"
+citations: ["87 Ohio St. 3d 311"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State of Ohio, Appellant, v. Hawkins, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/87/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 176154
+cites_cases: ["173 Ohio St. 227", "181 N.E.2d 39", "19 O.O.2d 46", "2 OBR 11", "2 Ohio App.3d 11", "36 Ohio St.3d 100", "440 N.E.2d 1199", "522 N.E.2d 489"]
+---
+
+# State v. Hawkins
+
+## Majority (Alice Robie Resnick, J.)
+
+Alice Robie Resnick, J.
+In this case, the dispositive issue is whether R.C. 2945.401(J)(1)(b) operates retrospectively when applied to a post-July 1, 1997 recommitment hearing involving a person who was found not guilty by reason of insanity prior to July 1,1997.
+Prior to the enactment of R.C. 2945.401, there was no temporal limitation on the continued commitment of a person found not guilty by reason of insanity. A defendant who was found not guilty by reason of insanity and committed to a psychiatric hospital remained indefinitely subject to the jurisdiction of the trial court to order continued periodic recommitments. See former R.C. 2945.39, 2945.40, and 5122.15.
+R.C. 2945.401, enacted by the 121st General Assembly as part of Am.Sub.S.B. No. 285, effective July 1,1997, provides that:
+“(A) * * * [A] person found not guilty by reason of insanity and committed pursuant to section 2945.40 of the Revised Code shall remain subject to the jurisdiction of the trial court pursuant to that commitment, and to the provisions of this section, until the final termination of the commitment as described in division (J)(1) of this section. If the jurisdiction is terminated under this division because of the final termination of the commitment resulting from the expiration of the maximum prison term or term of imprisonment described in division (J)(1)(b) of this section, the court or prosecutor may file an affidavit for the civil commitment of the defendant or person pursuant to Chapter 5122. or 5123. of the Revised Code.
+“ * * *
+“(J)(l) * * * For purposes of division (J) of this section, the final termination of a commitment occurs upon the earlier of one of the following:
+“ * * *
+“(b) The expiration of the maximum prison term or term of imprisonment that the defendant or person could have received if the defendant or person had been convicted of the most serious offense with which the defendant or person is charged or in relation to which the defendant or person was found not guilty by reason of insanity.”
+In State v. Jackson (1981), 2 Ohio App.3d 11, 2 OBR 11, 440 N.E.2d 1199, the Court of Appeals for Franklin County faced a similar situation involving the application of former Am.Sub.S.B. No. 297 enacted by the 113th General Assembly, effective April 30, 1980. The court held that the provisions of that Act were properly applied to a post-April 30, 1980 recommitment hearing involving a defendant who was found not guilty by reason of insanity prior to April 30, 1980. In so holding, the court explained:
+“The new procedures do not make the punishment for a crime more burdensome, as defendant contends. Defendant is not being punished for a crime[,] for he was acquitted by reason of insanity; and, under R.C. 2945.40, he is being treated for his illness. Am.Sub.S.B. No. 297 is therefore not ex post facto legislation.
+“Neither is application of the new procedures to defendant’s situation prevented by reason of their being retroactive legislation, as prohibited by Section 28, Article II of the Ohio Constitution. Instead, the questioned provisions of Am.Sub.S.B. No. 297 are prospective in nature, since they are intended to govern treatment and discharge procedures after the law’s effective date. The new provisions of law do not take away any vested rights and do not attach any new obligations. See General Industries Co. v. Leach (1962), 173 Ohio St. 227 [19 O.O.2d 46, 181 N.E.2d 39]. It cannot be presumed that holding the hearing before the trial court, rather than before the Probate Court for Allen County, will result in prejudice to defendant.” Id., 2 Ohio App.3d at 13-14, 2 OBR at 14-15, 440 N.E.2d at 1202.
+Appellant argues that the Jackson court’s “analytical approach is fatally flawed” because it “omits any reference to R.C. 1.48 in its analysis of the retroactive application of law.” Similarly, appellant argues that “[i]n the instant case the court of appeals erred when it failed to conduct a statutory analysis under R.C. 1.48. * * * The court below made but a passing reference to this maxim of statutory construction that did not factor into the ultimate decision.” (Citation omitted.) Relying on Van Fossen v. Babcock & Wilcox Co. (1988), 36 Ohio St.3d 100, 522 N.E.2d 489, appellant contends that it was improper for both appellate courts to proceed to the constitutional issue under Section 28, Article II without first ascertaining whether the General Assembly intended retrospective application.
+The flaw in appellant’s argument lies in its misunderstanding of these decisions. In determining that the questioned provisions of Am.Sub.S.B. No. 297 and Am.Sub.S.B. No. 285 were not violative of Section 28, Article II of the Ohio Constitution, the appellate courts did not conclude that those statutory provisions may be applied retrospectively. To the contrary, they concluded that the challenged application of these statutes did not, in the first instance, cause their provisions to operate retrospectively. In so doing, these courts never reached the constitutional question, which involves an analysis of whether the statutes are substantive or remedial in their operation on preexisting rights. Instead, the courts determined that- the statutes, as applied, affect nothing past, neither right nor remedy. R.C. 1.48 and Section 28, Article II serve to guard against the unjustness of retrospective legislation. They are by no means designed to prevent a statute from operating prospectively; nor is their function to ascertain legislative intent other than with regard to retroactivity. By definition, these sections do not come into play where the challenged application of a statute is determined to be prospective in nature. In such a situation, the most that can be accomplished under Van Fossen or R.C. 1.48 is to force the very application at issue. Thus, we find no error on the part of either appellate court in failing to conduct a statutory analysis under R.C. 1.48.
+This case involves a straightforward application of R.C. 2945.401(J)(1)(b) to a recommitment hearing that arose subsequent to the effective date of the statute. The issue of retroactivity arises only artificially in this case, by virtue of appellant’s contention that R.C. 2945.401 becomes retrospective in its operation when applied to persons found not guilty by reason of insanity prior to July 1, 1997. However, that finding and the considerations pertinent thereto, although already past, remain unaffected by the application of R.C. 2945.401(J)(1)(b). Commitment is neither punishment nor sentence for a crime of which the defendant has been acquitted. Having found that the challenged application of R.C. 2945.401 is prospective in nature, there is no need to conduct a statutory analysis under R.C. 1.48.
+Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
