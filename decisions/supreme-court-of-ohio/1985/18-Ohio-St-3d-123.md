@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+docket: "84-1075"
+decided: "1985-07-03"
+citations: ["18 Ohio St. 3d 123"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., O’Neill, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.", "O’Neill, J., of the Seventh Appellate District, sitting for Sweeney, J."]
+parties: ["The State of Ohio, Appellant, v. Coombs, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/18/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1819194
+cites_cases: ["14 O.O.3d 416", "18 Ohio St. 2d 13", "24 O.O.3d 150", "47 O.O.2d 82", "60 Ohio St. 2d 183", "70 Ohio St. 2d 79"]
+---
+
+# State v. Coombs
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The sole question before this court is whether the trial court, as trier of fact, erred in failing to find defendant not guilty by reason of insanity. The court of appeals held that the lower court did so err. We reverse.
+The standard for demonstrating legal insanity in a criminal case was enunciated in State v. Staten (1969), 18 Ohio St. 2d 13 [47 O.O.2d 82], paragraph two of the syllabus:
+“In order to establish the defense of insanity where raised by plea in a criminal proceeding, the accused must establish by a preponderance of the evidence that disease or other defect of his mind had so impaired his reason that, at the time of the criminal act with which he is charged, either he did not know that such act was wrong or he did not have the ability to refrain from doing that act.”
+At the trial of the instant cause, the expert witness for the defense, Dr. Warren L. Richards, a psychiatrist, testified that the defendant, at the time of the crimes, was suffering from a mental disorder which impaired his ability to conform his conduct to the requirements of right. This testimony clearly attempts to establish legal insanity as that term is defined in Staten. The court of appeals determined that the trial judge failed to properly consider this evidence within the context of Staten, and that he disregarded the testimony as legally insufficient to establish insanity. The court of appeals so concluded on the basis of two excerpts from the record, the first of which involved a series of three questions by the trial judge to the defendant’s expert witness, Dr. Richards, as to whether the defendant’s disorder could be characterized as either a psychosis or a neurosis. Dr. Richards answered in the negative. A portion of the second excerpt consists of the following statement by the judge at the conclusion of the trial: “The evidence offered by the defense does not provide the appropriate measure of proof to meet the burden required. The defendant, whatever his emotional problems are, and were on that night, does not have a psychosis or even a neurosis by the testimony of his own expert witness.” From these passages in the record, the court of appeals concluded that the trial judge was laboring under the misapprehension that Ohio law requires that a criminal defendant, in order to prove legal insanity, must establish that he was suffering from a psychosis or neurosis at the time of the acts in question. We disagree.
+If the trial judge had actually utilized a standard whereby the defendant must prove psychosis or neurosis, this clearly would have been error warranting reversal. The law of this state does not require such a showing. However, for the following reasons, we are convinced by the record taken as a whole that the trial judge was cognizant of the Staten insanity test, that he duly considered the evidence in light of that test, and that he did not in fact rely on any erroneous standard.
+A close examination of the record before us reveals that the Staten standard was the central subject of inquiry during the considerable portion of the trial proceedings which related to the insanity defense. That standard was repeatedly referred to during questioning of the expert witnesses for both sides in an effort to establish whether or not defendant’s alleged mental disorder met the level required in Staten. The defendant’s ability to appreciate the wrongfulness of his actions at the time of the offenses, or to restrain himself from so acting, was the subject of substantial examination by both sides. The record contains page after page of testimony on whether the defendant had a mental disease or defect, whether he had the capacity to conform his conduct to the law, and whether his alcohol consumption on the night in question was the true cause of his alleged loss of self-control. The Staten test was accurately and repeatedly articulated by counsel for both parties in their closing arguments. Clearly, the trial as a whole was conducted with a view towards determining whether defendant’s mental condition constituted legal insanity under Staten.
+A reviewing court must presume that the trial court applied the law correctly. State v. Eubank (1979), 60 Ohio St. 2d 183 [14 O.O.3d 416]. This requirement is violated when the reviewing court isolates two brief extracts from a lengthy transcript and infers therefrom that the trial judge did not understand the law. The first incident relied upon by the court of appeals, i.e., the trial judge’s questions concerning whether defendant suffered from a psychosis or neurosis, simply does not by itself indicate a misunderstanding of the Staten test. The second incident, the trial judge’s comment in his final ruling from the bench that the defendant did not have a psychosis or neurosis, also fails to establish clear error when viewed in the context of the record as a whole.
+Nor is there a basis for challenging the judge’s findings as being against the manifest weight of the evidence. “The weight to be given the evidence and the credibility of the witnesses concerning the establishment of the defense of insanity in a criminal proceeding are primarily for the trier of the facts.” State v. Thomas (1982), 70 Ohio St. 2d 79 [24 O.O.3d 150], syllabus. The testimony in the instant cause on the issue of defendant’s legal insanity was conflicting. The trial judge obviously placed his belief in the state’s evidence, and the court’s judgment will not be disturbed.
+Accordingly, for the foregoing reasons, the judgment of the court of appeals is reversed, and defendant’s convictions on all counts are reinstated.
+Judgment reversed.
+Celebrezze, C.J., O’Neill, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.
+O’Neill, J., of the Seventh Appellate District, sitting for Sweeney, J.
