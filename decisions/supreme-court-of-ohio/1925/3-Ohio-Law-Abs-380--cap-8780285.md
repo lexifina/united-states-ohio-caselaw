@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19126"
 decided: "1925-05-10"
-citations: ["3 Ohio Law Abs. 380", "3 Abs. 313", "4 Ohio Law Abs. 161", "3 Abs. 313. OS. Pend. 3 Abs. 380"]
+citations: ["3 Ohio Law Abs. 380", "3 Abs. 313"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["AMERICAN MORTGAGE CO. v. ROSENBAUM"]
 source_url: "https://static.case.law/ohio-law-abs/3/cases/0380-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8780285
-cites_cases: ["62 OS. 189", "62 Ohio St., 189"]
+cites_cases: ["62 OS. 189"]
 ---
 
 # American Mortgage Co. v. Rosenbaum
