@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1887-01"
+citations: ["44 Ohio St. 641"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ratterman v. The State."]
+source_url: "https://static.case.law/ohio-st/44/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 923274
+cites_cases: ["27 Md. 240", "31 Me. 272", "52 Cal. 198"]
+---
+
+# Ratterman v. State
+
+## Majority (By the Court.)
+
+By the Court.
+Error is prosecuted here by the treasurer of Hamilton county against the state on relation of the treasurer of the city of Cincinnati, to reverse the judgment of the circuit court of Hamilton county awarding a writ of peremptory mandamus.
+It appears by the petition in the court below that the relator is the treasurer of the city of Cincinnati, and the defendant the treasurer of Hamilton county. As such treasurer the defendant, previous to and on the 20th day of December, 1886, collected from persons carrying on the business of trafficking in intoxicating liquors a large amount of money under the provisions of the statute passed 'May 14, 1886, entitled “An act providing against the evils resulting from the sale of intoxicating liquors.” Under the provisions of that act, three-fourths of the money so collected is payable to the treasurer of the city of Cincinnati. On the 30th day of December, 1886, the auditor of Hamilton county, at request of relator, drew his warrant on the treasurer of Hamilton county (defendant), for the sum of one thousand dollars, a sum much less than two-thirds of the amount which would be payable to the city from the sum so collected. This warrant was presented to the defendant and payment demanded, which was refused.
+The answer admits the collection, on and before the 20th of December, of an amount not less than four hundred thousand dollars, and sets up a defense that “ all of said money was paid under protest and to avoid the distraint provided by said law; that in many cases the protests were in writing, and in others they were verbal; that no grounds for said protests were given, and defendant does not know in any case what the ground of protest is; that he believes in many cases said ground of protest is the unconstitutionality of said law, but whether it is the sole ground in any case, and if so in what cases, he is unable to state, and has no means of knowing.”
+To this answer the relator demurred.
+The answer is clearly insufficient. Waiving the objection that it does not contain facts showing that the payments were involuntary, another objection exists which is fatal to the pleading. The defendant is sued in his official capacity as treasurer. He admits that as treasurer he made the collection of taxes. The money thus obtained was, therefore, in the treasury. The defendant makes the ob- , jection that he can not safely pay over the money because he will be liable to suits in his individual capacity on the part of the protesting tax-payers, and must retain the money until such liability is determined. The tax-payer has one year in which to sue, and the cause may remain undisposed of an indefinite time. This claim is without merit.
+The law (see sections 1115 to 1128, Revised Statutes) makes it the duty of the county treasurer on or before the 15th day of February, and on or before the 10th day of August of each year, to settle with the auditor for all taxes collected at the time of making such settlement, and immediately after each settlement, on demand and presentation of proper warrant, pay to the township treasurer, city treasurer, or other proper officer, all moneys in the county treasury belonging to any township, city, village, hamlet, or school district. And when the local authorities so request, the auditor may draw, and the treasurer shall pay, on such draft to township or city treasurers, any sum not exceeding two-thirds of the current collection of taxes for such local authorities respectively, in advance of the semi-annual settlement. If the treasurer fails to make any settlement required by law, or to pay over any money at the time and in the manner required by law, suit shall be instituted against him and his sureties for the amount due and ten per cent penalty, and the commissioners may then forthwith remove such treasurer and appoint some person to fill the vacancy. And such treasurer, on such removal, shall deliver to his successor all moneys, books, papers, and other property in his possession as treasurer.
+Having received this money as treasurer, the defendant must pay it out according to law. Any other course on the part of county treasurers would work infinite embarrassment to the state and to the several counties, municipalities, towns, and school districts entitled to portions of the public moneys. They might be left without funds during the litigation, and the administration of the public affairs be greatly, if not wholly, obstructed, while the money to which they were entitled was lying idle in the hands of the treasurer subject to the perils as to safety incident to such situation. O’Neall v. Commissioners, 27 Md. 240; Smyth v. Titcomb, 31 Me. 272; Evans v. Trenton, 24 N. J. Law (4 Zab.), 764; San Francisco v. Ford, 52 Cal. 198.
+If the duty to pay over, notwithstanding the possibility of being held personally for taxes paid under protest, works a hardship on the treasurer, it is one which he must be held to have anticipated. He took the office voluntarily. Office-holding is not compulsory. If a treasurer so circumstanced finds the risks of the position too great or the burdens too heavy there is no legal obstacle in the way of his avoiding the one and relieving himself of the other by a resignation.
+The demurrer was properly sustained.
+Judgment affirmed.
