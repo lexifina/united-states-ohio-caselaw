@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2003-1115"
+decided: "2004-04-14"
+citations: ["102 Ohio St. 3d 10"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Resnick, F.E. Sweeney, Lundberg Stratton, O’Connor and O’Donnell, JJ., concur.", "Moyer, C. J., dissents and would suspend respondent for six months."]
+parties: ["Cleveland Bar Association v. Smith."]
+source_url: "https://static.case.law/ohio-st-3d/102/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2207791
+cites_cases: ["2004-Ohio-1582", "Registration No. 0023694,"]
+---
+
+# Cleveland Bar Ass'n v. Smith
+
+## Majority (Pfeifer, J.)
+
+Pfeifer, J.
+{¶ 1} Respondent, Cynthia D. Smith of Cleveland, Ohio, Attorney Registration No. 0023694, was admitted to the Ohio bar in 1983. On January 15, 2003, relator, Cleveland Bar Association, charged respondent in an amended complaint with three counts of professional misconduct. A panel of the Board of Commissioners on Grievances and Discipline heard the cause and made findings of fact, conclusions of law, and a recommendation.
+{¶ 2} As to the first count, the panel found that a former Cleveland police officer retained respondent in May 1990, approximately eight months after his probationary discharge, to sue the city of Cleveland and a medical clinic for what he alleged to be his unlawful dismissal based on a false-positive urinalysis. The client paid respondent $1,000 and thought that she filed his suit in the Cuyahoga County Court of Common Pleas soon thereafter. Respondent, however, did not file an action on the client’s behalf until September 6, 1996, almost seven years after the discharge. The defendants responded with a motion to dismiss the cause as untimely, and respondent did not reply. On March 31, 1997, the common pleas court dismissed the client’s suit because it had been filed outside the statute of limitations.
+{¶ 3} Respondent explained in her answer that she had mistakenly thought that a seven-year statute of limitations applied. Respondent, who carried no malpractice insurance, had conceded her error and agreed, prior to the client’s grievance, to pay $30,000 in installments to compensate him for her mistake. Respondent did not advise her client prior to their negotiations to seek independent counsel.
+{¶ 4} When respondent’s check for the first installment was returned for insufficient funds, the client retained new counsel and negotiated a $50,000 settlement. Respondent delivered the first installment of $7,500 and gave her former client a total of $14,000, as well as some more bad checks, before she had to file for bankruptcy. The bankruptcy did not discharge the debt to her client, and she has still been unable to pay it.
+{¶ 5} The panel found that respondent had thereby violated DR 6-102 (attempting to exonerate oneself from or limit one’s liability to a client for professional malpractice), 1-102(A)(5) (engaging in conduct prejudicial to the administration of justice), and 1-102(A)(6) (engaging in conduct that adversely reflects on an attorney’s fitness to practice law).
+{¶ 6} As to the second count, the panel found that respondent had failed to file federal income tax returns as required by law for the years 1992 through 2000. Respondent admitted to the panel that although she had requested extensions during those nine years, she had never filed a timely return for those years. By the time the instant complaint was filed, respondent had filed tax returns for the years in question. The panel found that respondent had thereby violated DR 1-102(A)(3) (engaging in illegal conduct involving moral turpitude), 1-102(A)(5), and 1-1Q2(A)(6).
+{¶ 7} As to the third count, the panel found that in May 2001, a second client paid respondent $300 to represent her in a landlord-tenant dispute and at a hearing on July 23, 2001. Respondent’s client appeared on the hearing date, but respondent did not, because she was out of the country on a previously scheduled trip. The court denied her request for a continuance, filed just days before the hearing, after she had left, and the attorney whom respondent had asked to cover her cases while she was away was also unavailable. Proceeding pro se, the client lost on the landlord’s claim against her but won on parts of her counterclaim, with the net judgment against her amounting to less than $20.
+{¶ 8} When respondent returned, the client demanded a refund of her $300 retainer. Respondent agreed to repay $200, but she did not remit the money until after the client filed her grievance nearly one year later. Respondent then sent a total of $225.
+{¶ 9} For her failure to immediately repay her client, the panel found respondent in violation of DR 9-102(B)(4) (failing to promptly pay funds to which a client is entitled) and 2-110(A)(3) (failing to promptly refund an unearned fee).
+Michael M. Hughes and Denise Platfoot, for relator.
+{¶ 10} In recommending a sanction for this misconduct, the panel reviewed the aggravating and mitigating factors in Section 10 of the Rules and Regulations Governing Procedure on Complaints and Hearings Before the Board of Commissioners on Grievances and Discipline. The panel found no aggravating factors. As a mitigating feature, the panel found that respondent, a single mother of two, had devoted her practice principally to low- and moderate-income clients who might not have been able to find representation elsewhere. In addition, respondent’s efforts to make restitution to her clients, notwithstanding her lack of resources, appeared genuine to the panel. Respondent also accepted responsibility for her mistakes and showed remorse. Moreover, according to witnesses and testimonial letters, respondent is an active member of her church and community, whom clients, acquaintances, colleagues, and other professionals alike consider to be of the highest character and integrity. Finally, respondent has no prior history of professional sanctions.
+(¶ 11} Relator proposed a one-year suspension with six months of this sanction stayed. Respondent proposed a public reprimand. The panel recommended that respondent be suspended from the practice of law for six months, with the entire period to be stayed on the condition that she consult with a mentor or expert, chosen by respondent and relator, to improve her office and fiscal management. The board adopted the panel’s findings of misconduct and recommendation, although it also found violations of DR 6 — 101(A)(3) (neglecting an entrusted legal matter) and 7-101(A)(3) (causing client damage or prejudice) in connection with Count One.
+{¶ 12} We agree that respondent violated DR 1-102(A)(3), 1 — 102(A)(5), 1-102(A)(6), 2-110(A)(3), 6-101(A)(3), 6-102, 7-101(A)(3), and 9-102(B)(4) as found by the board. We also agree with the board’s recommended sanction. While respondent has apparently not been convicted or even prosecuted for failing to file tax returns, this misconduct, combined with the settlement negotiation she conducted with her own client and her failure to promptly repay her client’s unearned retainer, merits a six-month suspension of her license to practice law. We stay the entire portion of that suspension on the condition that she consult with a mentor or expert, chosen by respondent and relator, about improving her office and fiscal management. Costs are taxed to respondent.
+Judgment accordingly.
+Resnick, F.E. Sweeney, Lundberg Stratton, O’Connor and O’Donnell, JJ., concur.
+Moyer, C. J., dissents and would suspend respondent for six months.
+Koblentz & Koblentz, Richard S. Koblentz and Craig J. Morice, for respondent.
