@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "34973"
+decided: "1956-12-12"
+citations: ["166 Ohio St. 45"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Matthias, Hart, ZimmermaN, Stewart, Bell and Taet, JJ., concur."]
+parties: ["Horn et al., Appellees, v. Oglesby et al., Appellants."]
+source_url: "https://static.case.law/ohio-st/166/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8833435
+---
+
+# Horn v. Oglesby
+
+## Majority
+
+The appeal as of right herein is dismissed for the reason that no debatable constitutional question is involved.
+Appeal dismissed.
+Weygandt, C. J., Matthias, Hart, ZimmermaN, Stewart, Bell and Taet, JJ., concur.
