@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "39138"
+decided: "1964-12-29"
+citations: ["1 Ohio St. 2d 68"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, Matthias, O’Neill, Grieeith and Gibson, JJ., concur.", "Herbert, J., dissents."]
+parties: ["McDougle v. Maxwell, Warden."]
+source_url: "https://static.case.law/ohio-st-2d/1/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1771748
+cites_cases: ["136 U. S., 436", "177 Ohio St., 79", "217 U. S., 349", "329 U. S., 459", "370 U. S., 660", "391 Ill., 169", "99 U. S., 130"]
+---
+
+# McDougle v. Maxwell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Petitioner urges his right to release on two grounds: First, that he was denied counsel at his preliminary hearing, and, second, that he is being subjected to cruel and unusual punishment.
+The refusal to appoint counsel at the preliminary hearing does not infringe the constitutional rights of an accused. Such a hearing is preliminary in nature, and no rights or defenses are concluded therein. Smith v. Maxwell, Warden, 177 Ohio St., 79; United States, ex rel. Cooper, v. Reincke, 333 F. (2d), 608.
+Petitioner claims also that his sentence is a cruel and unusual punishment and, therefore, forbidden by the Eighth Amendment to the United States Constitution.
+The only possible basis for this contention is that, since the statute was amended in 1961 (129 Ohio Laws, 366), persons convicted for a similar offense are subject to a maximum penalty of six months imprisonment and a $500 fine.
+As a general rule, a sentence that falls within the terms of a valid statute cannot amount to a cruel and unusual punishment. Martin v. United States, 317 F. (2d), 753; Perpendrea v. United States, 275 F. (2d), 325; United States v. Rosenberg, 195 F. (2d), 583. At the time sentence was imposed, petitioner would have had no basis for attacking the punishment provided by Section 4549.99 (B), Bevised Code, then in effect. The amendment of a criminal statute reducing the punishment for its violation does not render a more severe sentence, imposed under the former statute, cruel and unusual. People, ex rel. Barrett, Atty. Genl., v. Bradley, 391 Ill., 169, 62 N. E. (2d), 788.
+It is generally accepted that punishments which are prohibited by the Eighth Amendment are limited to torture or other barbarous punishments, degrading punishments unknown at common law, and punishments which are so disproportionate to the offense as to shock the moral sense of the community. 24B Corpus Juris Secundum, 551, Criminal Law, Section 1978; 15 American Jurisprudence, 171, 172, Criminal Law, Section 523. See definitions of cruel and unusual punishment in Black, Law Dictionary (4 Ed.), and Webster’s New International Dictionary (3 Ed.).
+Discussions of the “cruel and unusual punishment” clause by the Supreme Court of the United States show that the prohibition is directed at punishments of an entirely different and less civilized kind from that involved in the instant case. In In re Kemmler, 136 U. S., 436, 447, which found electrocution to be a permissible punishment, Mr. Chief Justice Fuller said that punishments were cruel “when they involve torture or lingering death” and that the term, cruel, implied “something more than the mere extinguishment of life.”
+Mr. Justice Douglas, concurring in Robinson v. California, 370 U. S., 660, at page 676, said: “The Eighth Amendment expresses the revulsion of civilized man against barbarous acts —the ‘cry of horror’ against man’s inhumanity to his fellow man.”
+The punishments contemplated by the Supreme Court of the United States in connection with the Eighth Amendment are almost unthinkable in a civilized society. For gruesome examples of particular punishments which are forbidden, see Wilkerson v. Utah, 99 U. S., 130, 136; In re Kemmler, supra, 446; and Robinson v. California, supra, 675,
+Where the offense is slight, more may be prohibited than savage atrocities. However, the penalty must be so greatly disproportionate to the offense as to shock the sense of justice of the community. Kasper v. Brittain, 245 F. (2d), 92.
+Oases in which cruel and unusual punishments have been found are limited to those involving sanctions which under the circumstances would be considered shocking to any reasonable person. In Weems v. United States, 217 U. S., 349, Weems was convicted for making a false entry in a public and official document. Neither an intent to defraud nor an intent of personal gain was an essential element of the crime. He was sentenced to 15 years of “Cadena temporal.” Cadena consisted of hard and painful labor for the benefit of the state. The prisoner was required to carry a chain at the ankle, hanging from the wrist. During his term, he was deprived of marital and parental authority and the right to dispose of his property by acts inter vivos. Even after the person served his sentence he was forever barred from voting or holding public office and deprived of any retirement pay. He was also subject to surveillance of the authorities for life. He could never change his domicile without written permission of the authorities. The majority found such penalties for such a slight offense repugnant to the bill of rights.
+Robinson v. California, supra, involved a California statute (Section 11721, Calif. Health & Safety Code) making it a criminal offense to be addicted to nareotics. The majority, finding narcotic addict-ion to be an illness which may be contracted innocently or involuntarily, held that “a state law which imprisons a person thus afflicted as a criminal, even though he has never touched any narcotic drug within the state or been guilty of any irregular behavior there, inflicts a cruel and unusual punishment in violation of the Fourteenth Amendment.”
+Punishments have been held permissible which appear much more inhumane or more disproportionate to the offense than the one in the instant case, for example, flogging, State v. Cannon (Del.), 190 A. (2d), 514; flogging, Balser v. State (Del.), 195 A. (2d), 757; the death penalty for conduct resulting from an irresistible impulse, Jackson v. Dickson, 325 F. (2d), 573; allowing a second electrocution after the first attempt failed to generate sufficient electricity to kill, Louisiana, ex rel. Francis, v. Resweber, 329 U. S., 459.
+Even when compared with sentences received by those presently convicted of the same offense, the sentence imposed on petitioner falls far short of being cruel and unusual. He was sentenced for a term of one to 20 years. He would have been eligible for parole after serving ten months. Section 2965.31, Revised Code. Upon being released on parole and performing the conditions and obligations of his parole and obeying the rules and regulations adopted by the Pardon and Parole Commission for one year, his sentence could be terminated. Section 2965.17, Revised Code.
+Petitioner was released on parole three times but was returned to prison in each instance for violating the conditions of his parole.
+The granting of parole and the final release of prisoners is the function of the Pardon and Parole Commission (Section 2965.17, Revised Code) as is the supervision of those on parole (Section 2965.20, Revised Code). Whether a prisoner should be released before he has served his maximum sentence is an administrative not a judicial matter. In exercising its duties, the commission may investigate prisoners in state penal or reformatory institutions concerning their conduct therein, their mental and moral qualities and characteristics, their knowledge of a trade or profession, their family relationships and any other matters affecting their fitness to be at liberty without being a threat to society. Section 2965.09, Revised Code.
+If a prisoner believes that the circumstances of his case make it unjust for him to remain in prison, he may seek a pardon or commutation of sentence from the Governor. Section 11, Article III, Ohio Constitution.
+Petitioner remanded to custody.
+Taft, C. J., Zimmerman, Matthias, O’Neill, Grieeith and Gibson, JJ., concur.
+Herbert, J., dissents.
