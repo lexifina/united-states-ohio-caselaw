@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19613"
 decided: "1926-02-05"
-citations: ["4 Ohio Law Abs. 112", "4 Ohio Law Abs. 380", "4 Abs. 112", "4 Ohio Law Abs. 129"]
+citations: ["4 Ohio Law Abs. 112"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
