@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19330"
 decided: "1925-08-15"
-citations: ["4 Ohio Law Abs. 322", "3 Abs. 546; OS. 675", "4 Ohio Law Abs. 193", "3 Abs. 530; OS. 3 Abs. 675"]
+citations: ["4 Ohio Law Abs. 322", "3 Abs. 546; OS. 675"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
