@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1856-12"
+citations: ["6 Ohio St. 538"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartley, C. J., and Swan, Bowen, and Scott, J. J. concurred."]
+parties: ["David W. Gould v. Libreas Brown and Robert Skinner."]
+source_url: "https://static.case.law/ohio-st/6/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 510670
+cites_cases: ["1 Ohio, 341", "1 Wend. 228", "10 Johns. 205", "13 How. 307", "14 Wend. 219", "3 Ohio St. 338", "9 Mass. 83"]
+---
+
+# Gould v. Brown
+
+## Majority (Brinkerhoff, J.)
+
+Brinkerhoff, J.
+An action was brought under the code in the • common pleas of Lorain county, by the plaintiff in error against the defendants in error, on an article of agreement, which, so far as it is necessary to state it in order to an understanding of the case before us, is as follows:
+“ This contract between Libbeas Brown and Robert Skinner of the first part, and David W. Gould of the second part, witnesseth, that said first parties agree to carry the United States mail on route 10,064, between-Elyria and Cleveland, performing a daily trip ■each way, from and after the 12th day of December, 1853, until the 1st day of July, 1856, at and for the jorice of fifty dollars per month; ¡and said party of the second part agrees, in consideration of the services above specified, to pay said parties of the first part the sum of fifty dollars per month, payable on or before the 10th day of • each and every month, at the store of'Mussey & Co., at Elyria, ■Ohio ; also, a carriage and a set of harness, which has been delivered, and is now in the possession, of the said first parties.”
+*In his petition the plaintiff averred that he had delivered [540 to the defendants the carriage and harness mentioned in the agreement, and also had paid them the sum of fifty dollars; that defendants had entered on their duties under the contract, and had carried the mail in pursuance thereof for the period of two and a half months, to wit, until about the 25th day of February, 1854; and had then abandoned the contract, and from thenceforward had refused to perform the same. The defendants demurred to the petition on the ground that it did not state facts sufficient to constitute a cause of action, claiming that the plaintiff ought to have-averred a payment, or a tender of payment, of the full amount due-from him to them according to the terms of the contract. The common pleas, on hearing of the demurrer, gave judgment for the defendants. The plaintiff then appealed to the district court, which also gave judgment for defendants; and to reverse that judgment this petition in error is prosecuted.
+Are the stipulations, on the part of the parties respectively in this- • agreement, dependent or independent? If they are independent, then the court below erred in sustaining the demurrer. This is a-question as to the intention of the parties to be collected in each particular case from a rational construction of their whole contract; and in case of agreements like this, where the intention of the parties, in regard to the dependence or independence of their respective-stipulations, is not readily apparent, the courts have long been accustomed to resort for aid to certain rules of construction which commend themselves to the reason, and have been uniformly sanctioned by wise judges. And among these rules none seems to be better established than the following laid down by Sergeant W illiams, in his note to Pordage v. Cole, 1 Wms. Saund. 319—that- “ where a covenant goes only to a part of the consideration on both *sides, and a breach of such covenant may be paid for in [541 damages, it is an independent covenant, and an action may be maintained for a breach of the covenant, on the part of the defendant, without averring performance, in the declaration.”
+' An application of this rule to the case before us, shows the stipulations of this contract to be independent. The stipulation of the plaintiff to pay wages, at the rate of fifty dollars per month, for the services of defendants under the contract, does not go to the entire consideration for such services, but only to a part of it; fifty dollars-is not the whole consideration for a month’s services, but only a part -of it; for the carriage and harness, which, for aught we know, may have been very valuable, was a further consideration extra the fifty dollars per month, and applied to the whole period of service contracted for. 2 Parsons on Contracts, 41, note 1, and cases there cited
+Ir_ the case of Betts v. Perrine, 14 Wend. 219, the contract sued on was in all respects analogous to that under consideration. In that case the defendant bound himself to labor for the plaintiff for three years; and the plaintiff agreed to provide him with a suitable ■ dwelling-house, and to pay him a certain sum per month every three months during the term. The declaration neither averred that the dwelling-house had been furnished or offered, nor that any ■wages whatever had been paid or tendered; and yet, on general .demurrer to the declaration, the court sustained the declaration, holding that the stipulations of the parties respectively were independent ; for a breach of any part of which, by either party, a compensation in damages might be recovered, without any averment of performance by the other party.
+The judgment of the district court will be reversed, and the case 542] remanded for further proceedings. In the district *court the defendants may obtain leave to answer, and may set up, by way .of counter-claim, and receive a proper allowance for any damages they may have suffered by reason of the plaintiff’s delinquency in ,jthe pérformance of the agreement on his part.
+Judgment accordingly.
+Bartley, C. J., and Swan, Bowen, and Scott, J. J. concurred.
