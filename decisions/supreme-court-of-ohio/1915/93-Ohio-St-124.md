@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+docket: "14822"
+decided: "1915-11-19"
+citations: ["93 Ohio St. 124"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, C. J., Johnson, Donahue, Wanamaicer, Newman; Jones and Matthias, JJ., concur."]
+parties: ["The Ohio Electric Railway Co. v. Weingertner, Etc."]
+source_url: "https://static.case.law/ohio-st/93/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 949771
+---
+
+# Ohio Electric Railway Co. v. Weingertner
+
+## Majority (By the Court.)
+
+By the Court.
+This was an action brought in the court of common pleas of Hamilton county by Harry Weingertner, by his next friend, to recover damages for personal injuries claimed to have been sustained ’ through the negligence of The Ohio Electric Railway Company. Weingertner, a boy about eighteen years of age, was injured when an automobile he was driving east over the Van Zant road and across the railroad tracks of the defendant was struck by a southbound interurban car. The negligence charged was that the defendant ran its car at an excessive rate of speed, without keeping a proper lookout, without having the car under control and without sounding any warning. The defendant denied it was guilty of negligence, pleaded that the injuries were due to the sole negligence of plaintiff, and further that if it be found that it was guilty of negligence plaintiff contributed directly to causing the injuries in attempting to cross its tracks so close in front of an approaching car that the car could not be stopped in time to avoid a collision. The reply denied negligence on the part of the plaintiff. The case was tried to a jury and at the conclusion of plaintiff’s evidence, upon the motion of the defendant, a verdict was directed in its favor and judgment was rendered on the verdict. Error was prosecuted to the court of appeals and the judgment of the court of common pleas was reversed on the ground that the court of common pleas had erred in directing a verdict in favor of the defendant. Plaintiff in error is here asking for a reversal of the judgment of the court of appeals and for an affirmance of that of the court of common pleas.
+Although there was a conflict in the evidence, as shown by the record, as to the speed of the car and as to the failure of the motorman to sound a warning, yet it cannot be said that there was no evidence tending to prove the negligent operation of the car. But it is insisted that the court of common pleas was correct in holding that upon the undisputed evidence, as a matter of law, plaintiff was guilty of contributory negligence, and that therefore the motion for a directed verdict was properly sustained.
+The evidence discloses that the Van Zant road, running east and west, crosses at right angles the Hamilton pike and the tracks of the defendant company, which are laid over its own right of way immediately west of the Hamilton pike. Plaintiff was driving an automobile east on the Van Zant road. He was a licensed chauffeur, had driven an automobile on the Van Zant road and had crossed the tracks four or five times prior to the day of the collision. On the Van Zant road, about five hundred feet west of the crossing, is a bridge. From this point continuously, until he- reached a point about two hundred and fifty feet west of the crossing, plaintiff had a view of a portion of the railroad track north of the Van Zant road. From this latter point to a point within approximately five or ten feet of the crossing, plaintiff’s view of the tracks and of the approach of a southbound car was wholly obscured by a cemetery situated at the northwest corner of the Van Zant road and the Hamilton pike, the cemetery being at an elevation of some seven or ten feet from the level of -the road. When plaintiff was at the bridge he looked to the north and continued to look in that direction as long as his view was unobstructed and he saw no car coining. When he was at a point about twelve or fifteen feet west of the railroad tracks he stopped the automobile. He looked and listened and did not hear any bell or gong or whistle. He looked toward the north, but he knew his view at that point was obstructed by the cemetery on account of its elevation and he could not see a car coming from that direction. When the automobile was stopped the engine was running and was making some noise. After stopping for three or four seconds he put on low gear and started ahead. He testified that he still looked and listened. When the front wheels of the automobile were between the two tracks he looked up and saw a car ten or fifteen feet away. The automobile was struck and he sustained the injuries complained of in the petition.
+We think the court of common pleas erred in holding that as a matter of law plaintiff was guilty of contributory negligence. Whether or not plaintiff exercised ordinary care ■ and caution in crossing the tracks was a question which should have been submitted to the jury under the proper instructions of the court.
+Judgment affirmed.
+Nichols, C. J., Johnson, Donahue, Wanamaicer, Newman; Jones and Matthias, JJ., concur.
