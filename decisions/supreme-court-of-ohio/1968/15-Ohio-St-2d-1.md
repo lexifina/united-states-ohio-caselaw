@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "41286"
+decided: "1968-06-19"
+citations: ["15 Ohio St. 2d 1"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taet, C. J., Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur."]
+parties: ["Transportation Corp. of Indiana et al., Appellees, v. Lenox Trucking, Inc., Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/15/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788586
+cites_cases: ["106 N. E. 2d 161", "131 Ohio St. 471", "136 Ohio St. 159", "141 Ohio St. 447", "157 Ohio St. 489", "168 N. E. 2d 314", "171 Ohio St. 148", "176 Ohio St. 337", "199 N. E. 2d 559", "2 Ohio St. 2d 1", "2 Ohio St. 2d 209", "2 Ohio St. 2d 9", "205 N. E. 2d 887", "205 N. E. 2d 890", "207 N. E. 2d 762", "219 N. E. 2d 27", "24 N. E. 2d 597", "48 N. E. 2d 653", "7 Ohio St. 2d 143"]
+---
+
+# Transportation Corp. v. Lenox Trucking, Inc.
+
+## Majority (Zimmerman, J.)
+
+Zimmerman, J.
+Were plaintiffs entitled to a directed verdict fixing liability for the collision on the defendant?
+The collision occurred before sunrise at approximately 5:30 a. m. on Wednesday, December 3, 1958, on the Foster bridge on U. S. route 22 and state route 3 (being the same highway), some three miles northeast of the county line dividing Hamilton and Warren counties. It was foggy, and the highway was wet, with snow patches here and there, but the tractor-trailer drivers testified that the road was not generally slippery. The T.C.I. tractor-trailer, proceeding in a general northeasterly direction from Cincinnati, encountered an unexpected icy condition on a down grade, beginning 100 to 200 feet west of the west entrance to the Foster bridge. The rig began to slip and slide, and the driver, Ebert, was unable to control it. The surface of the bridge was also icy, and the conveyance finally stopped in a damaged condition, after bumping the bridge curb several times and striking the bridge railing, about midway across the bridge, which was approximately 1,250 feet long. The trailer extended out at an angle toward the north. Another tractor-trailer previously had stopped on the bridge in the eastbound lane, approximately 30 feet beyond the place where the T.C.I. conveyance stopped, and a lighted flare had been placed at its rear. Very soon after the T.C.I. conveyance had come to rest, it was struck by a sliding and slipping automobile driven by a soldier named Crook, who was not personally injured. Ebert, according to his and Crook’s testimony, took the flare mentioned, and he and Crook went back toward the west entrance to the bridge to warn other vehicular traffic. Defendant’s tractor-trailer then was observed coming around a curve from the west, at a speed estimated from 50 miles per hour to between 25 and 30 miles per hour. Ebert concluded that the vehicle could not be stopped, and he and Crook got out-of the way. Defendant’s conveyance, slipping and sliding ■ on the ice in the same manner as had the other vehicles, struck both Crook’s car and the T.C.I. conveyance. Due to the collision, a fire started, and resultant damage occurred.
+There was testimony by Ebert, driver of the T.C.I. rig, that as much as five minutes elapsed between the time the T.C.I. conveyance stopped on the bridge and the arrival of defendant’s conveyance, affording Ebert time, as claimed by defendant, to place lighted fusees and flares which he carried to provide effective warning of danger to approaching vehicles. There was also testimony that the T.C.I. conveyance was not so badly crippled that it could not have been driven off the bridge in a traffic lane that was open before the collision.
+The directed ■ verdict for plaintiffs on the liability of defendant was based upon the failure of defendant’s driver to observe the assured-clear-distance-ahead statute and was influenced by the more recent decisions of this court, notably, Ventress v. Frambes, 176 Ohio St. 337, 199 N. E. 2d 559; Spalding v. Waxler, 2 Ohio St. 2d 1, 205 N. E. 2d 890; Bird v. Hart, 2 Ohio St. 2d 9, 205 N. E. 2d 887; Stump v. Phillians, 2 Ohio St. 2d 209, 207 N. E. 2d 762; and Peters v. B. S F. Transfer Co., 7 Ohio St. 2d 143, 219 N. E. 2d 27.
+Although it has been recognized in Ohio that an uncontrollable sudden emergency may excuse the driver of a motor vehicle from complying with a safety statute regulating the operation of motor vehicles (Satterthwaite v. Morgan, 141 Ohio St. 447, 48 N. E. 2d 653, and Kormos v. Cleveland Retail Credit Men’s Co., 131 Ohio St. 471, 3 N. 3. 2d 427), we think the trial court correctly concluded, in view of the several late cases cited above, that defendant could not rely on such a defense.
+However, it has been held by this court that a violation of a specific safety statute does not necessarily and in all instances create absolute liability on the part of an offending motorist. The contributory negligence of a plaintiff may constitute a defense. Thus, in the case of Patton v. Pennsylvania Rd. Co., 136 Ohio St. 159, 24 N. E. 2d 597, it was held in the second paragraph of the syllabus that:
+“The fact that a defendant is chargeable with negligence per se, or as a matter of law [by the violation of a positive, specific and affirmative duty enjoined by statute or ordinance], does not preclude a defense of contributory negligence on the part of the plaintiff; and if negligence on the part of the plaintiff is established and shown to be a proximate cause of the injury of which he complains, he cannot recover.”
+See, also, White v. Ohio Power Co., 171 Ohio St. 148, 168 N. E. 2d 314, first paragraph of the syllabus. Compare Ziebro v. Cleveland, 157 Ohio St. 489, 106 N. E. 2d 161.
+As noted, there was evidence that the driver of the T.C.I. tractor-trailer, after stopping on the bridge, could have moved his vehicle off the bridge by using an unobstructed travel lane. If he could have done that, and thus have avoided the collision, he was chargeable with negligence.
+Also, since the T.C.I. vehicle was allowed to remain stationary, it was the obligation of the driver, Ebert, if there was sufficient time, to use the flares and fusees, which he testified were at his disposal, and place them lighted as prescribed by Section 4513.28, Revised Code, to adequately apprise other vehicular traffic, including the driver of defendant’s rig, that danger existed.
+In our opinion, there was enough evidence as to contributory negligence to require the submission of that issue to the jury, and it was, therefore, error prejudicial to defendant to direct a verdict against it on the ground that, as a matter of law, it was solely responsible for the collision and the resulting damage.
+The judgment of the Court of Appeals is reversed, and the cause is remanded to the Court of Common Pleas for further proceedings.
+Judgment reversed.
+Taet, C. J., Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur.
