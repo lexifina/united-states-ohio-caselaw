@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "82-1360"
+decided: "1983-06-08"
+citations: ["5 Ohio St. 3d 129"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["W. Brown, Resnick, Locher, Holmes and J. P. Celebrezze, JJ., concur.", "C. Brown, J., dissents.", "Resnick, J., of the Sixth Appellate District, sitting for Sweeney, J."]
+parties: ["Petti, Appellant, v. City of Richmond Heights, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/5/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812733
+cites_cases: ["160 Ohio St. 382", "20 O.O. 3d 88", "20 O.O.3d 406", "272 U.S. 365", "5 Ohio St. 3d 31", "5 Ohio St. 3d 47", "52 O.O. 242", "66 Ohio St. 2d 488", "66 Ohio St. 2d 93"]
+---
+
+# Petti v. City of Richmond Heights
+
+## Majority (Celebrezze, C.J.)
+
+Celebrezze, C.J.
+The issue presented is whether appellant has a right to use the premises, located in a residential zone, for private professional offices based upon the school board’s prior use as offices. For the following reasons, we conclude that appellant’s proposed use of the premises is illegal and should be denied.
+Appellant contends that he has a right to use the building for private professional offices based upon a nonconforming use established by the school board. Although a nonconforming use may be established when the requirements are satisfied, zoning ordinances usually contemplate the gradual elimination of nonconforming uses in a zoned area. Akron v. Chapman (1953), 160 Ohio St. 382, 386 [52 O.O. 242]. This court recently held in the syllabus of Pschesang v. Terrace Park (1983), 5 Ohio St. 3d 47, that “[a] use of property must be lawful at the time the use was established in order to qualify as a nonconforming use. Therefore, a use not permitted by the applicable zoning ordinance when the use was established does not constitute a nonconforming use. * * *”
+Accordingly, to qualify as a nonconforming use, the use must have been legal when the use as offices was commenced in 1967. Although the court of appeals concluded that the area had been zoned residential since 1929, the only evidence introduced was a zone map dated 1972 which does not denote the zoning prior to that date. Therefore, any other information dehors the record cannot be the basis of a conclusion about the prior zoning. Because the zoning in 1967 was not in evidence, we are unable to conclude whether the use was lawful when it was commenced.
+Even if the legality of the use in 1967 has not been established, the zone map in evidence clearly indicates that the area was zoned residential when the ordinance was amended in 1972. Thus, the school board’s use of the premises as offices was illegal in the residential zone. The statute concerning nonconforming uses, R.C. 713.15, in pertinent part, provides that “[t]he lawful use of any dwelling, building, or structure and of any land or premises, as existing and lawful at the time of enacting a zoning ordinance or amendment thereto, may be continued, although such use does not conform with the provisions of such ordinance * * *.” Therefore, a nonconforming use cannot be established unless it is based upon a lawful use. We hold that in the event that the legality of a use at the time the use was established cannot be determined, the earliest applicable zoning, in evidence, subsequent to the establishment of the use, shall control. An illegal use cannot ripen into a nonconforming use. In this instance, the use as an office was illegal at the time of the zoning amendment. Therefore, appellant’s argument that he has a right to continue a nonconforming use fails because such a use was not established.
+Furthermore, as a purchaser, appellant had the responsibility to check the compatibility of the zoning restrictions and his intention to use the premises for professional offices. Appellant testified that he had read the ordinances. The legal notice of the auction for the sale of the premises stated that “the Board makes no representation as to the permitted uses of the property.” Therefore, appellant had notice of the zoning restrictions, which precluded the premises from being used for offices, and he purchased the property subject to the zoning restrictions.
+Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+W. Brown, Resnick, Locher, Holmes and J. P. Celebrezze, JJ., concur.
+C. Brown, J., dissents.
+Resnick, J., of the Sixth Appellate District, sitting for Sweeney, J.
+Because appellant argued that his property qualified for a nonconforming use, he had the burden of establishing that it met the requirements necessary to qualify for a nonconforming use. However, he failed to introduce the zoning ordinance in effect at the time the use was established.
+The Richmond Heights zoning ordinance was amended in August 1972. According to Section 1135.02(d), a school was a permitted use in the residential zones after approval by the planning and zoning commission upon a finding that the use complied with the standards and criteria set forth in Section 1135.02 of the Richmond Heights zoning ordinance. However, the parties stipulated that the side yard requirement was not met and there is no evidence of the necessary approval by the commission. Although a school office could qualify as a permitted use, the requirements were not met in this instance. Furthermore, appellant concedes that a legal use was not established by the school.
+The court of appeals concluded that the school board’s use violated the zoning, but because it was a state agency, it was exempt from the enforcement of local zoning laws. It is unnecessary for us to consider the application of zoning ordinances to a school board’s use of property because of our conclusion that a nonconforming use was not established.
+Appellant can lawfully use the premises for his own dental office if he chooses to live in the building. Section 1135.02(h) of the Richmond Heights zoning ordinance permits a dental office as an accessory use in the residential district.
+
+## Dissent (Clifford F. Brown, J.,)
+
+Clifford F. Brown, J.,
+dissenting. Although I agree with the first sentence of today’s syllabus, I believe the facts of this case do not support the conclusions reached in the second sentence of the syllabus. I therefore dissent.
+The majority laments that “[bjecause the zoning in 1967 was not in evidence, we are unable to conclude whether the use was lawful when it was commenced.” This quandary, however, could have been easily remedied by the most cursory review of the record. Indeed, it is specifically stipulated between the parties that “[a]t the time that the property was owned by the Richmond Heights School Board, it was operated lawfully within an R-l district as a public school administration building * * (Emphasis added.)
+It is not for this court or the court of appeals to speculate as to what zoning existed in 1967 or whether the school board’s use of the building in question was, in fact, lawful. The fact remains, as stipulated by the parties, that the use of the building as an office building was legal from its inception. Accordingly, even under the majority’s reasoning, continuation of this use in the hands of another owner qualifies as a nonconforming use and should be allowed.
+Moreover, the mere fact that a dentist instead .of a school board proposes to operate the building should have no effect on determining whether this nonconforming use should be continued. Instead, we should focus on whether such continuation would alter the character of the community in which the property is located. In the present case, no such change would occur. Not only has the structure in question existed as an office building since 1967, it is adjacent to a parking area for thirty automobiles and is located on property abutting a public school and near a public airport.
+As it did in Pschesang v. Terrace Park (1983), 5 Ohio St. 3d 47, the court today twists and tortures the meaning of nonconforming use to deprive a dentist of the reasonable use of his property as a dental office. By misconstruing the zoning provisions in question, the court endorses actions taken by zoning authorities which were designed to freeze the free use of the landowner’s property. The decision here is a far cry from the main purpose of zoning, as first heralded in the landmark decision of Euclid v. Ambler Realty Co. (1926), 272 U.S. 365: the preservation of the “character of the neighborhood.” Id. at page 394. This court has obviously lost sight of such laudable goals by continuing to approve those legal precedents which empower municipal zoning bureaucrats to utilize a labyrinth of zoning laws and regulations which merely harass, annoy and impede landowners in the reasonable use of their property. See, e.g., Torok v. Jones (1983), 5 Ohio St. 3d 31; Brown v. Cleveland (1981), 66 Ohio St. 2d 93 [20 O.O. 3d 88]; Leslie v. Toledo (1981), 66 Ohio St. 2d 488 [20 O.O.3d 406].
+I would reverse the judgment of the court of appeals.
