@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Ohio"
+docket: "90-663"
+decided: "1991-04-10"
+citations: ["59 Ohio St. 3d 38"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Res-nick, JJ., concur.", "Holmes, J., dissents."]
+parties: ["American Society for Metals, Appellant, v. Limbach, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/59/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1429113
+cites_cases: ["105 N.E. 2d 648", "157 Ohio St. 407", "16 O.O. 3d 150", "16 O.O. 3d 288", "2 O.O. 3d 275", "24 O.O. 3d 68", "28 OBR 275", "28 Ohio St. 3d 186", "357 N.E. 2d 381", "403 N.E. 2d 996", "405 N.E. 2d 272", "434 N.E. 2d 727", "47 O.O. 313", "48 Ohio St. 2d 122", "503 N.E. 2d 163", "62 Ohio St. 2d 133", "62 Ohio St. 2d 258", "70 Ohio St. 2d 29"]
+---
+
+# American Society for Metals v. Limbach
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant A.S.M. contends it is entitled to tax exemption because: (1) the taxing authorities are collaterally estopped from taxing its property, (2) it is a “charitable institution” as defined in R.C. 5709.121 and exempt under R.C. 5709.12, and (3) it is a public institution of learning exempt under R.C. 5709.07. In its decision below, the BTA held that the doctrine of collateral estoppel did not apply in this case, and that appellant’s use of the subject property was not exempt as property used by a charitable institution, under R.C. 5709.121 and 5709.12, or by a public institution of learning, under R.C. 5709.07. We agree.
+In deciding the issue of collateral estoppel, the BTA relied upon Superior’s Brand Meats, Inc. v. Lindley (1980), 62 Ohio St. 2d 133, 135, 16 O.O. 3d 150, 151, 403 N.E. 2d 996, 999, and Beatrice Foods Co. v. Lindley (1982), 70 Ohio St. 2d 29, 35, 24 O.O. 3d 68, 71, 434 N.E. 2d 727, 731. The basic elements that must exist before the doctrine can be applied, as identified in these decisions are: (1) an administrative proceeding of a judicial nature, (2) an identity of the parties, and (3) an identity of the issues.
+In Superior’s Brand Meats, supra, at 135, 16 O.O. 3d at 151, 403 N.E. 2d at 999, we stated:
+“This court must decide whether the doctrine of collateral estoppel can be applied to decisions rendered by administrative bodies.” We held that it “may be used to bar litigation of issues in a second administrative proceeding,” id., but only “where an administrative proceeding is of a judicial nature and where the parties have had an adequate opportunity to litigate the issues involved in the proceeding.” Id.
+In the instant appeal there is no indication of an administrative proceeding of a judicial nature as to the 1942 and 1960 determinations, or an opportunity of the parties to litigate the issues involved. The Tax Commissioner was not a party to any of the prior determinations. Accordingly, appellant’s collateral estoppel argument has no merit.
+Appellant has consistently argued that it is a qualified charitable institution or, alternatively, a public institution of learning, and thus entitled to exemption for the subject real estate. The Tax Commissioner contends that appellant is a professional association and its principal purpose is to advance the interests of its membership. She argues that any charitable or educational activity and any use of the property for the public good are merely incidental to the overall and primary purpose of appellant’s use of the real’ estate
+R.C. 5709.12 (now 5709.12[B]> exempts real property if “used exclusively for charitable purposes.” R.C. 5709.07 (now 5709.07[A][4]) provides exemption for real estate “connected with public institutions of learning, not used with a view to profit.” (Emphasis added.)
+R.C. 5709.121(B), as applicable here, sets forth the standards for exemption from taxation based on the exclusive use of property for charitable purposes: The property must be “[otherwise made available under the direction or control of such institution * * * for use in furtherance of or incidental to its charitable, educational, or public purposes and not with the view to profit.”
+In Cincinnati Nature Center Assn. v. Bd. of Tax Appeals (1976), 48 Ohio St. 2d 122, 125, 2 O.O. 3d 275, 277, 357 N.E. 2d 381, 383, we decided: “To fall within the terms of R.C. 5709.121, property must (1) be under the direction or control of a charitable institution or state or political subdivision, (2) be otherwise made available ‘for use in furtherance of or incidental to’ the institution’s ‘charitable * * * or public purposes,’ and (3) not be made available with a view to profit.” While it is doubtful that appellant’s use of the property is principally for a charitable purpose as opposed to a self-serving use, appellant’s claim of exemption must fail, nevertheless, upon analysis of the third factor, namely, that it not use the property to make a profit.
+Statutes providing exemption from taxation must be strictly construed. National Tube Corp. v. Glander (1952), 157 Ohio St. 407, 47 O.O. 313, 105 N.E. 2d 648, paragraph two of the syllabus. More specifically, as we set forth in Seven Hills Schools v. Kinney (1986), 28 Ohio St. 3d 186, 28 OBR 275, 503 N.E. 2d 163, 164: “* * * Exemption is the exception to the rule and statutes granting exemption are strictly construed.”
+The term “profit,” therefore, must be given its full definition. Profit is “the excess of the price received over the cost of purchasing and handling or of producing and marketing goods” or “net income (as in a business) usu. for a given period of time.” Webster’s Third New International Dictionary (1986) 1811; Seven Hills, supra, at 187-188, 28 OBR at 276-277, 503 N.E. 2d at 165.
+Appellant’s chief operating officer testified before the BTA that the preponderance of education revenue received by A.S.M. was from courses given at the subject property. He agreed that A.S.M. had made a “net profit from the sale of publications”; and that A.S.M. “operate[d] every year with a view to having * * * operating revenues exceed * * * operating expenses.”
+This testimony establishes that appellant’s use of the subject property resulted in a “profit,” thus disqualifying appellant from real property tax exemption under R.C. 5709.12 and 5709.121.
+Nor can appellant establish its right to exemption as a public institution of learning. R.C. 5709.07 provided: “Public schoolhouses and houses used exclusively for public worship * * * and the ground attached to such buildings necessary for the proper occupancy, use, and enjoyment thereof, and not leased or otherwise used with a view to profit, public colleges and academies and all buildings connected therewith, and all lands connected with public institutions of learning, not used with the view to profit, shall be exempt from taxation. * * *” (Currently found in R.C. 5709.07[A][1] through [A][4].)
+Here again the profit factor set forth in R.C. 5709.121 defeats appellant’s claim for exemption. Moreover, the definition of “public institution of learning,” as observed by the BTA, parallels that of “public colleges and universities” and contemplates a place of training and instruction with a teacher-student character. American Chemical Society v. Kinney (1980), 62 Ohio St. 2d 258, 260, 16 O.O. 3d 288, 290, 405 N.E. 2d 272, 274. Appellant conceded it was not an accredited institution, but its courses are intended to be a supplementary, self-improvement experience. The courses are only of a two-day to five-day duration. They involve only a small part of appellant’s operations.
+Since appellant does not use its property as a charitable institution or as a public institution of learning within the meaning of the taxing statutes, and since it is not entitled to rely upon the doctrine of collateral estoppel, the decision of the BTA not to grant real property tax exemption to appellant was neither unreasonable nor unlawful, and is hereby affirmed.
+Decision affirmed.
+Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Res-nick, JJ., concur.
+Holmes, J., dissents.
