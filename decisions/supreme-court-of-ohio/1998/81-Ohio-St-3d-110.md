@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "97-1812"
 decided: "1998-02-18"
-citations: ["81 Ohio St. 3d 110", "81 Ohio St. 3d 1444"]
+citations: ["81 Ohio St. 3d 110"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
