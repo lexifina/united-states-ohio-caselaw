@@ -1,0 +1,53 @@
+---
+court: "Supreme Court of Ohio"
+docket: "83-269"
+decided: "1984-02-15"
+citations: ["9 Ohio St. 3d 159"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., Ford, Locher, Holmes and J. P. Celebrezze, JJ., concur.", "W. Brown and C. Brown, JJ., dissent.", "Ford, J., of the Eleventh Appellate District, sitting for Sweeney, J.", "W. Brown, J., concurs in the foregoing dissenting opinion."]
+parties: ["[State, ex rel.] Eudela, Appellee, v. Rogers et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-3d/9/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814826
+cites_cases: ["10 O.O.3d 307", "15 O.O.3d 3", "16 O.O.3d 363", "163 Ohio St. 469", "169 Ohio St. 375", "170 Ohio St. 30", "18 O.O.3d 362", "20 O.O.3d 121", "20 O.O.3d 200", "55 Ohio St. 2d 59", "55 Ohio St. 2d 62", "56 O.O. 397", "56 Ohio St. 2d 116", "6 Ohio St. 3d 28", "61 Ohio St. 2d 6", "62 Ohio St. 2d 320", "64 Ohio St. 2d 128", "66 Ohio St. 2d 123", "66 Ohio St. 2d 192", "8 O.O.2d 409", "9 O.O.2d 364", "9 O.O.3d 67", "9 O.O.3d 69"]
+---
+
+# State ex rel. Eudela v. Rogers
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+It is axiomatic that a writ of mandamus may issue only where the relator shows (1) a clear legal right to the relief prayed for, (2) a clear legal duty upon respondent to perform the act requested, and (3) that relator has no plain and adequate remedy in the ordinary course of law. State, ex rel. Berger, v. McMonagle (1983), 6 Ohio St. 3d 28, 29.
+The threshold question confronting the court today is whether the court of appeals properly issued the writ of mandamus in light of the existence of an available remedy by way of a declaratory judgment proceeding pursuant to R.C. Chapter 2721. R.C. 2721.03 states in part:
+“Any person interested under a * * * rule as defined in section 119.01 of the Revised Code * * * may have determined any question of construction or validity arising under such * * * rule * * * and obtain a declaration of rights, status or other legal relations thereunder.”
+Without question R.C. 2721.03 would allow appellee to seek a declaratory judgment to construe the parameters of the phrase “informal meeting” as it is used in Ohio Adm. Code 5119-7-ll(F)(5). Appellee is clearly a person interested under the rule, since the rule directly impacts on the revocation of appellee’s appointment. Further, appellee’s mandamus complaint simply seeks to construe “informal meeting” to require that appellee be specifically informed of the charges against him in order to defend against the termination of his employment. Since the rule itself does not grant appellee that right, the right sought by appellee must necessarily be derived from an interpretation or construction of the rule. Under those circumstances, a declaratory judgment proceeding would have afforded appellee an opportunity to seek his desired construction of the rule and have his rights declared thereunder. Appellee thus had a “plain and adequate remedy in the ordinary course of law” by way of a declaratory judgment action. As such, the court of appeals erred in issuing the writ of mandamus. See, e.g., State, ex rel. Square, v. Planning Comm. (1980), 64 Ohio St. 2d 128 [18 O.O.3d 362]; State, ex rel. McGarvey, v. Zeigler (1980), 62 Ohio St. 2d 320 [16 O.O.3d 363]; and State, ex rel. Buian, v. Kadlec (1978), 56 Ohio St. 2d 116 [10 O.O.3d 307].
+Furthermore, as we stated in State, ex rel. McGarvey, v. Zeigler, supra, at 321:
+“* * * [T]he right to the relief sought by the relator in mandamus must be clear and the burden of establishing such right is upon the relator.”
+Inasmuch as the right sought by appellee does not appear on the face of the rule, it cannot be said that appellee’s right to a detailed notice of the charge is clear. Because there was no “clear legal right to the relief prayed for,” mandamus was improper for this reason also. See State, ex rel. Butler, v. Demis (1981), 66 Ohio St. 2d 123 [20 O.O.3d 121]. Cf. State, ex rel. Heller, v. Miller (1980), 61 Ohio St. 2d 6 [15 O.O.3d 3].
+Since the prerequisites for mandamus were not satisfied, the court of appeals erred in allowing the writ of mandamus to issue. Accordingly, the judgment of the court of appeals is reversed and the writ is denied.
+Judgment reversed.
+Celebrezze, C.J., Ford, Locher, Holmes and J. P. Celebrezze, JJ., concur.
+W. Brown and C. Brown, JJ., dissent.
+Ford, J., of the Eleventh Appellate District, sitting for Sweeney, J.
+This is not to say that the mere availability of a declaratory judgment action bars the issuance of a writ of mandamus. As we stated in State, ex rel. Dollison, v. Reddy (1978), 55 Ohio St. 2d 59, at 60 [9 O.O.3d 67]:
+“The availability of a declaratory judgment action does not bar the issuance of a writ of mandamus when the relator otherwise makes a proper showing, although the court may consider the availability of declaratory judgment as one element in exercising its discretion whether the writ should issue.”
+In the case at bar, appellee has not “otherwise ma[de] a proper showing” that mandamus was proper. This is not an instance, therefore, where declaratory judgment and mandamus exist as alternative remedies.
+
+## Dissent (Clifford F. Brown, J.,)
+
+Clifford F. Brown, J.,
+dissenting. The decision of the court is based on what the majority perceives to be appellee’s remedy at law, declaratory judgment, which they find precludes the writ sought by appellee. For the following reasons I dissent.
+The seminal case regarding mandamus and the existence of a declaratory judgment as an adequate remedy is State, ex rel. Dollison, v. Reddy (1978), 55 Ohio St. 2d 59 [9 O.O.3d 67], wherein it was stated at page 60:
+“Mandamus is available to the relator in the present cause, even though he might have sought a declaratory judgment. The availability 'of a declaratory judgment action does not bar the issuance of a writ of mandamus when the relator otherwise makes a proper showing, although the court may consider the availability of declaratory judgment as one element in exercising its discretion whether the writ should issue.”
+See, also, State, ex rel. Bennett, v. Lime (1978), 55 Ohio St. 2d 62, 63 [9 O.O.3d 69].
+Accordingly, even though an adequate remedy might exist by virtue of a declaratory judgment action, where the court of appeals in the exercise of its discretion allows the writ, this court has been reluctant to interfere. See State, ex rel. Wesselman, v. Bd. of Elections (1959), 170 Ohio St. 30 [9 O.O.2d 364]. Accord State, ex rel. Killeen Realty Co., v. East Cleveland (1959), 169 Ohio St. 375 [8 O.O.2d 409]. In the instant cause, the court of appeals examined appellee’s alternative remedies and, in its discretion, concluded that they were inadequate. This decision should be affirmed. State, ex rel. Selected Properties, Inc., v. Gottfried (1955), 163 Ohio St. 469, 478 [56 O.O. 397]; State, ex rel. Wesselman, supra, at 33.
+Finding that a writ of mandamus is the proper remedy, the focus must shift to whether appellee has a clear legal right, and whether appellants are under a clear legal duty to provide appellee with the specifics of the third-party harassment allegations so as to enable him to discuss meaningfully with his appointing authority why he believes his unclassified appointment should not be revoked.
+Ohio Adm. Code 5119-7-ll(F)(5) provides, in pertinent part:
+“* * * If a request for an informal meeting is received, the appointing authority shall set a date for the meeting. At the informal meeting the employee shall have an opportunity to discuss with the appointing authority the reasons why he believes his unclassified appointment should not be revoked. Although this meeting is considered to be an informal discussion, the employee may be accompanied by an attorney or another representative of his choice.” (Emphasis added.)
+Appellee is not seeking to transform the informal meeting provided for in the rule into a “hearing” since no right to confrontation or cross-examination has been asserted. The thrust of the aforementioned regulation is to provide an unclassified employee the opportunity to persuade his appointing authority not to revoke his appointment. Indeed, the rule expressly provides that an “employee shall have an opportunity to discuss * * * the reasons why he believes his unclassified appointment should not be revoked.”
+Appellee argues, and the court of appeals agreed, that if an employee is not advised of the specifics of an allegation, then effective discussion against revocation is an impossibility, especially when considering the posture of an innocent employee. Implicit within the regulation’s grant of an informal meeting lies a concomitant duty on the part of the appointing authority to provide the employee with the specifics of the accusations in order that he may, pursuant to the rule, effectively argue against the revocation of his appointment. When serious charges are leveled at an employee causing his appointing authority to consider revocation, the employee’s right to argue against revocation at the informal hearing outweighs the employer’s desire against disclosure.
+As an unclassified public employee, appellee was employed “at the pleasure” of the Toledo Mental Health Center and, as such, could be discharged absent discriminatory motives at any time and for any reason. Accord Plumbers & Steamfitters Commt. v. Ohio Civil Rights Comm. (1981), 66 Ohio St. 2d 192 [20 O.O.3d 200]. Nowhere in appellee’s complaint for the writ does there exist an assertion that the reasons for his discharge were false, of no substance, or unlawful. Instead, appellee simply requests the specifics of the allegations in order that he will better be able to persuade his employer against revoking his appointment. Appellee has failed to demonstrate a substantial likelihood that even if provided with specifications he will prevail in having his appointing authority reverse its revocation decision. Moreover, if appellee contends his discharge was unlawful, then he is at liberty to maintain a civil action for damages under Section 1983, Title 42, U.S. Code. However, absent an unlawful discharge, reinstatement and back pay constitute damages where none have been demonstrated in the instant case.
+Therefore, I would find that the judgment of the court of appeals should be affirmed in part and reversed in part, and that appellee only be granted a second informal meeting at which he is to be informed of the specifics of the allegations of which he has been accused.
+W. Brown, J., concurs in the foregoing dissenting opinion.
