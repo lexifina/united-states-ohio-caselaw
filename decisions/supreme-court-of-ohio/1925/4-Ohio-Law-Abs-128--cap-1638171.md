@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19026"
 decided: "1925-03-18"
-citations: ["4 Ohio Law Abs. 128", "4 Abs. 198", "4 Ohio Law Abs. 73", "3 Abs. 198", "4 Ohio Law Abs. 380", "3 Abs. 195", "4 Ohio Law Abs. 41", "4 Ohio Law Abs. 129"]
+citations: ["4 Ohio Law Abs. 128", "4 Abs. 198"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
