@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+docket: "38633"
+decided: "1965-04-21"
+citations: ["2 Ohio St. 2d 101", "31 Ohio L.R. 26"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, Matthias, 0 ’Neill, Herbert and BrowN, JJ., concur."]
+parties: ["Lake, Appellee, v. The Buckeye Steel Castings Co. et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-2d/2/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6691694
+cites_cases: ["103 N. E. (2d) 1", "121 Ohio St. 582", "126 N. E. 2d 499", "143 Me. 56", "174 A. L. R. 265", "203 N. E. 2d 697", "332 Mass. 586", "404 Ill. 440", "46 O. O. 297", "55 A. 2d 130", "89 App. 512", "89 N. E. 2d 374"]
+---
+
+# Lake v. Buckeye Steel Castings Co.
+
+## Majority (SchNeider, J.)
+
+SchNeider, J.
+Buckeye contends that it had the right to refuse the demand of Lake for two reasons: (1) Lake’s written demand does not contain a specific purpose and (2) Lake had the burden of showing that his written request for the names, addresses and number of shares held, of the other shareholders “with whom * * * [he might] desire to communicate regarding the affairs of the corporation,” is a reasonable and proper purpose.
+Section 1701.37 (C), Revised Code, states:
+“Any shareholder of the corporation, upon written demand stating the specific purpose thereof, shall have the right to examine in person or bv agent or attorney at any reasonable time and for any reasonable and proper purpose * * * records of shareholders aforesaid * * * and to make copies or extracts thereof.”
+On the other hand, antecedent Section 1701.72, Revised Code, read:
+“* * * lists of shareholders and their addresses * # * of every corporation shall be open to the inspection of every shareholder at reasonable times except for unreasonable or improper purposes.'” (Emphasis supplied.)
+A comparison of the two sections clearly reveals that, under the new law, the shareholder is required to make his request in writing and to state his purpose, and that purpose must he lawful, reasonable and proper.
+Considering Buckeye’s first contention, we cannot say that Lake’s purpose, on its face, is either illegal or unreasonable or improper. He admits that at the time he wrote the letter of May 13, 1959, he did not know whether he was actually going to write to or communicate with the other shareholders, and his intent, when he purchased shares of stock of the corporation, was to check into its affairs. But this does not, in itself, admit of an improper, illegal or unreasonable purpose. On the other hand, Lake did attend the only shareholders meeting held following his demand and prior to the filing of the action. After the commencement of this action he continued to attend shareholders meetings, read the annual reports and attempted to familiarize himself with the affairs of the company through library reference works.
+Buckeye urges this court to adopt the Illinois rule announced by Sawers v. American Phenolic Corp., 404 Ill. 440, 89 N. E. 2d 374. However, that case was distinguished recently in McCormick v. Statler Hotels Delaware Corp. (Ill. App.), 203 N. E. 2d 697, 701, as follows:
+“* * * In the Sawers case, the petitioner was invited to discuss the affairs of the company with its officers, but never did so. He never asked anyone about the affairs of the company and he never attended shareholders meetings. The petitioner afforded no reasonable explanation of why he wanted the shareholder lists. * * *
+t < * * * on the other hand, McCormick tried to determine the condition of the corporation through an exchange of correspondence with corporate officials. The mere fact that he did not attend shareholders’ meetings does not lead us to believe that he seeks the lists for the sole purpose of blackmailing the managements of Hilton and Statler, as Statler would seemingly have us believe.”
+We think it appropriate to note that Section 1701.37 (B) sets shareholder lists apart for special treatment, indicating that the General Assembly did not consider them as sensitive to exposure as other records of the corporation. That paragraph reads:
+“Upon request of any shareholder at any meeting of shareholders, there shall be produced at such meeting an alphabetically arranged list, or classified lists, of the shareholders of record as of the applicable record date, who are entitled to vote, showing their respective addresses and the number and class of shares held by each. * * *”
+It should be observed that the request contained in this paragraph need not be in writing and, although the statute fails to indicate specifically that the list may be examined, it was clearly the intent that the list, when so produced, may be examined by any shareholder at the meeting. Otherwise, the production of the list would be vain and useless. In this case, Lake was denied even an inspection of the list at a duly constituted meeting of the shareholders.
+It has long been the general rule in this country that it is not necessary that there should be any particular dispute to entitle a shareholder to exercise the right of inspection. Nothing more is required than that, acting in good faith for the protection of the interests of the corporation and his own interests, he desires to ascertain the condition of the corporation’s business. Holdsworth v. Goodall-Sanford, Inc., 143 Me. 56, 55 A. 2d 130; Hanrahan v. Puget Sound Power & Light Co., 332 Mass. 586, 126 N. E. 2d 499; 13 American Jurisprudence 482, Section 433; annotation, 174 A. L. R. 265. It does not follow that he can make an unlawful use of that information, but that question is in no way involved here. And, that Lake here chooses to communicate with other shareholders who may have more concise information than the books of account may immediately reveal should not be construed to limit his right of inspection.
+Finally, in considering Buckeye’s second contention, we do not interpret new Section 1701.37, Revised Code, as shifting the burden of unreasonableness or impropriety from the corporation to the shareholder so as to require him to assume the burden of proving the negative, that is, that his request is free from the taint of illegality, unreasonability and impropriety. William Coale Development Co. v. Kennedy, 121 Ohio St. 582.
+The committee comment to division (C) of Section 1701.37 (by the Corporation Law Committee of the Ohio State Bar Association, sponsors of amended House Bill No. 70, 126 Ohio Laws 432, 456, enacted by the 101st Ohio General Assembly) reads:
+“Division (C) is a revision of the second paragraph of present Section 1701.72. Under the present section a shareholder may examine the books and records and lists of shareholders without giving any reason for his exercise of the privilege [Mayer v. Cincinnati Economy Drug Co., 89 App. 512, 46 O. O. 297, 103 N. E. (2d) 1]. The burden is on the corporation to prove that the shareholders purpose is unreasonable or improper. Under division (C) the shareholder will be required to state in writing the specific purpose of the desired examination. Division (C) will not permit an examination by a shareholder who refuses to state his purpose and of course if the purpose stated is unreasonable or improper, the corporation would be justified in refusing. This provision will also justify the corporation in refusing an examination of such of its records as are wholly irrelevant to the stated purpose. Division (C), however, does not go beyond this, as the shareholder who furnishes the proper written statement will be presumed to be acting in good faith and the corporation will have the burden of rebutting that presumption by proving that his actual purpose is unreasonable or improper. * * *”
+For a detailed analysis of the legislative resistance to shifting the burden of proof of a shareholder’s purpose and its effect on the forging of the language of paragraph (C), see Emerson, The New Ohio General Corporation Law: Some Comments and Some Comparisons, 24 Cin. L. Rev. 463, 491, 492.
+We think it clear from the foregoing that, if the purpose stated is unreasonable or improper on its face, only then would a corporation be justified in refusing the request. In the absence of so showing, the burden remains on the corporation to justify its refusal. Here the purpose stated is specific. It is not prima facie illegal, unreasonable or improper, and Buckeye has failed to establish any reason why the demand should not be acceded to.
+Therefore, the judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+Taft, C. J., Zimmerman, Matthias, 0 ’Neill, Herbert and BrowN, JJ., concur.
