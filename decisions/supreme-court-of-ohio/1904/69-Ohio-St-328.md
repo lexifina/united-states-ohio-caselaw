@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+docket: "7964"
+decided: "1904-01-05"
+citations: ["69 Ohio St. 328"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burket, C. J., Spear, Davis and Crew, JJ., concur.", "Shauck, J., concurs in the judgment."]
+parties: ["Moorman v. Schmidt et al."]
+source_url: "https://static.case.law/ohio-st/69/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 55116
+cites_cases: ["15 Ohio St., 218", "18 Ohio St., 353", "29 Ohio St., 13", "29 Ohio St., 611", "31 Ohio St., 499", "31 Ohio St., 555", "34 Ohio St., 399", "34 Ohio St., 450", "40 Ohio St., 39", "41 Ohio St., 69", "45 Ohio St., 577", "62 Ohio St., 368", "65 Ohio St., 138", "66 Ohio St., 310"]
+---
+
+# Moorman v. Schmidt
+
+## Majority (Price, J.)
+
+Price, J.
+It is our unanimous opinion that, the-circuit court erred in affirming the judgment of the-court of common pleas, and for this opinion several reasons may be assigned.
+1. The petition upon which summons was issued' and served on the plaintiff in error does not state a. case for personal judgment against him. While the-names of James R. Moorman and Eli Moorman appear in the style of the case, as partners doing business under the firm name of Moorman Brothers, theaverments of the petition are directed specifically against the firm, and in none of them is there alleged any primary liability of the individuals composing-the partnership.
+The first allegation is that James R. and Eli H. Moorman are partners doing business under the firm name and style of Moorman Brothers, and that the partnership under that name are the owners of the-real estate described in the petition.
+The next allegation is that the real estate was purchased with partnership money and for its use, and. that it had always been used in the partnership busi.-ness, although the legal title thereto was in James R.. Moorman, who held such title as trustee for the firm..
+The plaintiff then says that he furnished all the money used in the purchase of the real estate, witht the agreement and understanding that he should have an equitable lien' on the premises until the purchase-money so furnished should be refunded to him. He then avers that the money was furnished by him at. different times, and in different amounts, on which' interest is due, but that he is not in possession of sufficient facts to determine the exact amount due him, but that the amount so furnished is the sum off |14,000 or more.
+It is further alleged that the firm business had been: located and carried on at Carey, Wyandot county, which consisted in the manufacturing of boat oars on. . the premises described, but that the partnership had. ceased business for a year or more, and that the firm: had removed its business out of the jurisdiction of the-court, and has abandoned the premises for manufacturing purposes, which depreciated the same in value,, and that the partnership has no other known property within the jurisdiction of the court The appointment of a receiver is prayed for and a statement, of the account taken with Moorman Brothers as to-the money furnished by the plaintiff for the purchase-of the real estate, and that the sum so ascertained be-declared a lien thereon, the liens marshaled and order' of sale issued.
+There is no prayer for judgment against the firm or' either of its members. The foregoing is the character' of the petition the plaintiff in error was summoned to answer. It is destitute of á promise even of the-firm to pay the plaintiff any sum of money; and it is. surely destitute of any promise of either partner tos repay any part of the money furnished, unless such promise may be implied from the fact, that plaintiff furnished the means to purchase the lands. But he says the means of purchase were furnished with an agreement and understanding that he should have a lien on the premises purchased therewith, and to perfect such lien is the gist of his petition.
+It seems quite clear, that while there may be an ultimate liability against the members of the firm as individuals, to be established- in a proper proceeding after the real estate is exhausted, there is no case stated for . a personal judgment, because the individual members are not charged with any contract or promise to pay, without which, they cannot be held as primarily liable.
+It is not even alleged that the money was furnished by plaintiff at the instance and request of the firm or either of its members, and so construing his petition, the plaintiff does not pray for personal judgment. He did not then know how much money he had furnished.
+2. But the record reminds us that an amendment was filed to the petition. It is true an amendment was filed. What is it,? The plaintiff, after filing his petition, ascertained in some way the amount he had furnished to buy the land, and by the amendment, he ■states the sum at $13,906.60, which he says is “due to him from the defendants, James R. Moorman and Eli Moorman, and the partnership firm of Moorman Brothers; that the.same has been due him from said defendants since said first day of December, 1899, and in addition to the prayer as set forth in his petition in this cause, he prays that he may have judgment against said defendants for said sum of $13,906.60, with interest from the first day of December, 1899.”
+There are no facts in this amendment to show how •or why said amount is due from James R. and Eli Moorman. That there is such amount due from them to plaintiff is but the opinion of the plaintiff without any facts stated for its support. The code provision for simple pleadings'in actions founded on book accounts and instruments for the unconditional payment of money only, does not apply to the plaintiff’s cause of action, because it is not within that class. Hence, more must be plead than a mere conclusion, that a certain sum is due from defendants to the plaintiff. He must set out sufficient facts to show that a liability exists which can be enforced by the court. . The amendment contains no such facts, and is of no aid to the petition, except that a definite sum has been arrived at. Knox County Bank v. Lloyd’s Admrs., 18 Ohio St., 353; Larimore v. Wells, 29 Ohio St., 13; Railroad v. Wilson, 31 Ohio St., 555.
+However, the above is not the full history of this amendment. It was filed without leave of court, and four days before James R. Moorman was required to answer.
+Section 5111, Revised Statutes, provides: “That plaintiff may amend his petition without leave, at any time before the answer is filed,, without prejudice to the proceeding; but notice of such amendment shall be served upon the defendant, or his attorney; and the defendant shall have the same time to answer or demur thereto as to the original petition.”
+No notice of the amendment was served upon the plaintiff in error, or his counsel, nor did he at any time, answer or demur, or in any manner appear in the case. No summons issued, on the amendment. It never was legally before the court, because it did not become a legitimate pleading. The plaintiff was not entitled to any relief upon it, and its prayer should have been disregarded. It should have been stricken from the files.
+Counsel for defendant in error regard the claims of plaintiff in error as purely technical, and say the case was heard on the evidence and the court found the amount due from a consideration of the evidence which would cure the defective petition.
+• We think, the hearing the case on evidence would give no new authority to render a personal .judgment. The summons served on plaintiff in error contained no indorsement of any amount claimed to be due. The petition does not contain facts which warrant a personal judgment against plaintiff in error, and none is prayed for. The so-called amendment was illegally on file and therefore constituted no part of the pleading.
+It would seem, therefore, that a personal judgment rendered on a petition which states no case for the same and which asks no personal judgment, is certainly erroneous.
+The judgments of the circuit court and o,f the court of common pleas are reversed and the cause is remanded to the court of common pleas for such proceedings as may be authorized by law.
+Judgment reversed.
+Burket, C. J., Spear, Davis and Crew, JJ., concur.
+Shauck, J., concurs in the judgment.
