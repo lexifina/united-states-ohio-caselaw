@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19178"
 decided: "1925-05-29"
-citations: ["3 Ohio Law Abs. 485", "3 Abs. 359", "4 Ohio Law Abs. 177", "OS. Pend. 3 Abs. 485"]
+citations: ["3 Ohio Law Abs. 485", "3 Abs. 359"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
