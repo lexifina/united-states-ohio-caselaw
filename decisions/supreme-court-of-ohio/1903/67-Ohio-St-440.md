@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1903-02-03"
+citations: ["67 Ohio St. 440"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burket, C. J., Spear, Davis, Shatjck and Crew, JJ., concur."]
+parties: ["The State of Ohio v. Tuttle."]
+source_url: "https://static.case.law/ohio-st/67/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 960085
+cites_cases: ["105 N. Y., 159", "106 Cal., 289", "12 Mo. 311", "12 Ohio St., 466", "130 Cal., 159", "17 Ohio St., 515", "17 Ohio St., 593", "17 Tex. App., 302", "18 Ohio St., 99", "19 Wend., 192", "24 Ohio St., 329", "29 Mich., 173", "29 Ohio St., 351", "29 Ohio St., 635", "31 Ohio St., 100", "33 Ohio St., 27", "35 Ohio St., 277", "37 Ohio St., 178", "45 Ohio St., 249", "46 Ohio St., 457", "46 Ohio St., 549", "47 Kan., 155", "47 N. J. L., 279", "52 Ohio St., 157", "59 Ia., 468", "61 Conn., 50", "7 Ohio, 461", "7 Tex., App., 359", "71 Mich., 304", "72 Ia., 327", "8 Ohio St., 643", "83 N. C., 605", "94 Ala., 76"]
+---
+
+# State v. Tuttle
+
+## Majority (Pbice, J.)
+
+Pbice, J.
+We have searched the record in vain for -some of the rulings of the court upon the introduction of testimony. Counsel for the state have cited us to pages 17 and 20 of the record for objections to certain questions, and the rulings of the court thereon, but it appears that the evidence now complained of, was permitted by the state without objection, and hence thd'eourt made no ruling on the subject. This statement covers the entire assignment as to errors, of the trial court in ruling upon the admissibility of testimony, save in one instance, and it relates to an inquiry which we regard as unimportant in the case, and therefore do not further consider it.
+Before the arguments of counsel began the accused requested the two special charges contained in the-statement of this case, and they were given, and no doubt they contributed largely to the verdict of acquittal. If they correctly state the law of the case-then on trial, the general assembly performed an idle ceremony when it amended the statute against the crime of rape, so as to embrace the carnal knowledge and abuse of a female under the age of sixteen, with her consent. , In the judgment of the legislature, the increasing number of assaults upon the person and chastity of not only adult women, but also of youthful girls and those of tender years, demanded an amendment of Section 6816 of Revised Statutes, enlarging its scope, and fixing an age of consent, first,, perhaps at fourteen years, and later as it stands now, at sixteen years.
+The substance of the added provision is, that one, who being eighteen years of age carnally knows and abuses a female person under the age of sixteen years, with her consent, is guilty of rape.
+With the amendment, the entire section reads: “Whoever has carnal knowledge of a female person, forcibly and against her will, or being eighteen years of age, carnally knows and abuses a female person under sixteen years of age, with her consent, is guilty of rape.”
+The legislature concluded to come to the rescue of youthful females from the brutal assaults upon their virtue, and to make it rape for the assailant to have-«carnal knowledge of one, who is either too young to forcibly resist, or whose ignorance of the wiles and blandishments of evil men may make her an easy subject to their corrupt suggestions and persuasions. The provision was-enacted for the protection of this ■ class of our people, from the lust and beguilement of •designing men of maturer years and greater experience.
+But if the doctrine of the charge is to prevail, and the subject of the rape is to be considered an accomplice, because the carnal knowledge was with her consent, then is the law against the crime thwarted, and •conviction for its violation rendered in most cases impracticable. /
+There is neither precedent or other authority for the position of the trial court. The very language of the section defining rape negatives any such construction of it. It surely was not intended that the lecherous male person should be held guilty of rape if he carnally knows or abuses a female person under sixteen years of age, with her consent, and at the same time, that she be treated as an accomplice, and her testimony smirched and discredited because she has been the victim of deception, falsehood, persuasion or other means of seduction.
+The counsel who argue against the exception to these charges, cites the State v. McCoy, 52 Ohio St., 157, in support of the trial court.
+There is no reason for being misled by that case, for it was decided on very different principles. The purpose of the statute in that case, is not so much to protect the woman, to whom drugs or medicines are administered to procure miscarriage, or for the same purpose, upon whom instruments are used, as it is to prevent destruction of unborn life, and, if the woman aids, and abets, in tbe use of the means to procure her miscarriage, it was held in that case (State v. McCoy) her evidence might be weighed as that of an accomplice.
+We think the error of the trial court is so gross and. flagrant, that it needs no further discussion. Otherwise such accomplice might not only be discredited as a witness, but also prosecuted and punished for the complicity in the crime. The rapist in this case has been acquitted, and the climax of folly will be reached, when the accomplice is convicted.
+Concerning the tLird and fourth charges given, we need only say, that the trial court put in evidence the experience of trial courts, when considering the testimony given by abandoned women, and the jury was told “the experience of courts wmrns them to scan with caution and view with suspicion the testimony of abandoned women or the like; and,” that, “if any such have testified in this cause, it is your duty to apply tbe above warning.”
+In the next paragraph the jury was told that, “The conduct of abandoned women is often incomprehensible when tested by the standard applied to the generality of mankind; and if any such have testified in this case, you should be cautious in relying upon her evidence.”
+A case might arise wherein the facts might justify the above broad and sweeping comment upon a certain class of witnesses. But the facts certainly would be peculiar and the issue singular, where it could be justified.
+In this case, were two colored girls about fourteen, years of age, as witnesses for the state. Their own evidence.shows that they had begun a vicious life quite early, and yet, they may not have reached the stage or degree in vice, that would class them among what the court called “abandoned women.” Moreover, it is not the proper function of the court to classify witnesses to a jury, and say that one class is to be viewed with caution and suspicion, because its vices are different in kind or degree from the vices of another class. Nor should the court say to the jury that the conduct of one class of witnesses “is often incomprehensible, when tested by the standard applied to the generality of mankind.”
+In deciding questions of fact before them, courts may often use their own experience and observations, in weighing the testimony of witnesses having certain well-known traits and defects of character, but they may not impose that experience on a jury as its guide in determining the credibility of witnesses.
+Both paragraphs smack too much of the court giving evidence in the nature of impeachment.
+If evidence had been presented to the jury, tending to, or showing their depravity; if the facts exhibited them in that light, the jury might well be instructed to attach such weight and give such credit to their testimony as, in their judgment, it should have.
+But here the court fixed something of a degree of disbelief to' govern the jury, and in so doing transcended its authority.
+Exceptions sustained.
+Burket, C. J., Spear, Davis, Shatjck and Crew, JJ., concur.
