@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "4543"
+decided: "1897-01-12"
+citations: ["55 Ohio St. 689"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear and Shauck, JJ., dissent."]
+parties: ["The Globe Oil Company v. Gardner."]
+source_url: "https://static.case.law/ohio-st/55/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 52585
+---
+
+# Globe Oil Co. v. Gardner
+
+## Majority
+
+Judgment affirmed.
+Spear and Shauck, JJ., dissent.
