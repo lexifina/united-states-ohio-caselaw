@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["24 Ohio St. 369"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, C. J., McIlvaine and White, JJ., concurring. Welch, J., not sitting."]
+parties: ["Thomas Smith v. Daniel Altick."]
+source_url: "https://static.case.law/ohio-st/24/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888458
+cites_cases: ["11 Cush. 181", "11 Ohio 444", "11 Ohio St. 58", "13 Ohio, 322", "14 Conn. 32", "15 How. Pr. 333", "15 Ohio, 726", "15 Ohio, 731", "17 Ohio 500", "17 Ohio St. 11", "17 Ohio St. 22", "17 Serg. & Rawle, 413", "2 Ohio, 224", "20 Ohio, 555", "23 Me. 269", "3 Ohio St. 75", "30 Penn. St. 185", "4 Minn. 260", "43 N. H. 390", "45 Penn. St. 42", "5 Duer, 661", "6 Ohio St. 97", "7 Ohio St. 142", "8 Ohio St. 216"]
+---
+
+# Smith v. Altick
+
+## Majority (Rex, J.)
+
+Rex, J.
+The important questions in this case are:
+1. Has a vendee, in possession of real estate, under a written' contract for the conveyance of the same to him, by the vendor, upon the performance by the vendee of certain stipulations therein contained, the right to sever, remove, and dispose of valuable fixtures, which were, at the time the contract was made, part of the real estate agreed to be conveyed to the vendee, and which, by the terms of the contract, the vendee, upon the execution and delivery of the conveyance by the vendor, was to reconvey to the vendor, by way of deed of mortgage, to secure the payment of the purchase money ?
+2. Are purchasers of such fixtures, with notice of the rights of the vendor, under such contract, liable to the vendor for the value of the fixtures so purchased of the vendee ?
+3. Can the vendor, after the execution and delivery to him, by the vendee, of a mortgage, in accordance with the stipulations of the contract, and after the condition of the mortgage is broken, proceed in one and the same action against the mortgagor and the purchasers of such fixtures, to foreclose the mortgage, sell the mortgaged premises, and, in thet event of a diminution of the’value of the security by such severance and sale, as against such-purchasers, to subject the value of such fixtures to the payment of any loss such mortgagor may sustain by reason of such diminution in value of the security ?
+4-. If such right exists in the plaintiff, in what order may the payment of the value of the fixtures purchased be enforced against the purchasers ?
+Without attempting to determine the rights of vendees in possession of real estate, under contracts of sale, in ordinary cases, it is quite clear that under the contract set out in the amended petition in this case, the vendee had no right to change the condition of the property, in so far as the distillery and fixtures therein contained were concerned, without the knowledge and consent of the vendori The record in the case discloses the fact that the fixtures of the •distillery, after they were severed and removed therefrom, were of greater value than the remainder of the mortgaged premises; including the building in which the fixtures were •at the time the contract of sale was made, and hence the reason for the provision in the contract, that the description of the real estate, to be covered by the mortgage, should include the distillery and fixtures therein contained, is readily perceived.
+Under'this contract, as to all persons having notice of its terms and conditions, the right of the vendor to subject the value of the fixtures purchased by such persons of the vendee, to make up any loss sustained by him on accqunt ■of the diminution in value of the premises by reason of their removal, the vendor being guilty of no laches, is as perfect as that of a mortgagee, whose mortgage has been properly placed on record. In the latter case, it is held by the Supreme Court of Pennsylvania, in Hoskin v. Woodward, 45 Penn. St. 42, that the record of the mortgage affects the purchaser of a fixture from mortgaged premises, with the knowledge of the existing lien.
+The right of a mortgagee to recover of purchasers from the mortgagor, the value of fixtures severed and removed from mortgaged premises, whereby the value of the security has been diminished to the injury of the mortgagee, has been sustained by the courts of other states in the following well-considered cases: Hoskin v. Woodward, above cited; Cole v. Stewart, 11 Cush. 181; Van Pelt v. McGraw, 4 Comst. 110; Rogers et al. v. Gillinger et al., 30 Penn. St. 185; Gore v. Jenness et al., 19 Maine, 53; Smith v. Goodwin, 2 Greenleaf, 175 ; Gray v. Holdship, 17 Serg. & Rawle, 413. This question has also been authoritatively settled in this state, in Allison v. McCune, 15 Ohio, 726.
+The cases of the Commercial Bank of Lake Erie v. The Western Reserve Bank, 11 Ohio, 444; Nellons et al. v. Truax et al., 6 Ohio St. 97, and Anketel and wife v. Converse et al., 17 Ohio St. 11, establish, as to purchasers of incumbered real estate, “ that the several purchasers of incumbered property are liable to the payment of the lien upo.n it, aecording to the inverse order of time in which they acquired ownership.” The reasons urged for the adoption of this rule, in the cases cited, apply with equal force to cases of purchases of fixtures from mortgaged premises, and as we-hold in this case that the plaintiff, as vendor, can enforce the same remedies against purchasers of fixtures from hisvendee, having notice of his rights uuder the contract of sale, the same rule will apply.
+Having settled the principles, which-are decisive of this-ease on its merits, a brief review of the rules of pleading-under the code, is deemed necessary to determine the questions arising -out of the assignments of error in the case, as presented in the plaintiff’s petition, for the decision of thiseourt.
+The errors claimed in this court ,are :
+1. That the Court of Common Pleas erred in sustaining the demurrer of the defendant, Altiek, to the amended petition of the plaintiff.
+2. That the District Court erred in affirming the judgment of the Court of Common Pleas.
+3. That the District Court erred in affirming the judgment of the Court of Common Pleas, dismissing the plaintiff’s petition as to Daniel Altiek. The points made in the-Court of Common Pleas by the demurrer of the defendant,. Altiek,,to the plaintiff’s amended petition, are:
+1. That several causes of action are improperly joined in-the amended petition.
+2. That the amended petition does not state facts sufficient to constitute a cause of action.
+The matters set out in the several causes, of action contained in the petition, although they consist of a number of circumstances, yet, together, they constitute, in our opinion, but one distinct subject of action, and that distinct subject is the application of the value of the whole of the mortgaged premises to the payment of the debt secured by the mortgage, and hence the amended petition would not, even at the common law (Van Sant. Plead. 341), be liable to the objection claimed in the first cause of demurrer,. much less under the liberal provisions of section 80 of the-code. The facts stated in the plaintiff’s amended petition-are substantially the same as those given in the statement of facts in this case, and we are of opinion that those'facts, if made out in proof, would be sufficient to sustain a verdict for the plaintiff. The judgments of the District Court and the Court of Common Pleas are therefore reversed and the cause remanded for further proceedings.
+Day, C. J., McIlvaine and White, JJ., concurring. Welch, J., not sitting.
