@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-576"
+decided: "1995-08-30"
+citations: ["73 Ohio St. 3d 525"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Douglas, Wright, Pfeifer and Cook, JJ., concur.", "Moyer, C.J., Resnick and F.E. Sweeney, JJ., dissent."]
+parties: ["The State ex rel. B.F. Goodrich Company, Appellant, v. Industrial Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/73/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1740211
+cites_cases: ["31 OBR 369", "31 Ohio St.3d 167", "509 N.E.2d 946", "567 N.E.2d 245", "57 Ohio St.3d 203", "619 N.E.2d 1018", "67 Ohio St.3d 452"]
+---
+
+# State ex rel. B.F. Goodrich Co. v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Two questions are presented: (1) Did the commission improperly rely on Dr. Humphrey’s report? and (2) Did the commission’s order satisfy State ex rel. Noll v. Indus. Comm. (1991), 57 Ohio St.3d 203, 567 N.E.2d 245? For the reasons to follow, we reverse and return the cause to the commission for further consideration and amended order.
+Dr. Humphrey’s report has two flaws. First, it intertwines references to claimant’s allowed conditions with claimant’s nonallowed venous condition. He mixes these references to such an extent that it is impossible to distill therefrom the amount of impairment attributable solely to the allowed back condition. Moreover, he does not specifically address claimant’s ability to engage in all sustained remunerative employment. He instead limits his opinion to claimant’s former position of employment, a return to which is prohibited by both back and leg pain. Unfortunately, Dr. Humphrey never indicates whether claimant’s leg pain is a symptom of her back condition or whether it stems from her lower extremity thrombophlebitis.
+The wording of Dr. Humphrey’s report negates the commission’s conclusion that nonallowed conditions did not factor whatsoever into Dr. Humphrey’s disability assessment. Because the extent of reliance is unclear, the commission’s reliance on that report is suspect.
+Dr. Humphrey’s report, however, was not the only evidence on which the commission relied. The commission also relied on the reports of Drs. Gatens and Miller. While Dr. Gatens found a capacity for sedentary employment, Dr. Miller specifically found claimant incapable of all work. The commission does not appear to have adopted the latter conclusion, since the tenor of the order, combined with the commission’s decision to engage in nonmedical analysis, implies that the commission found claimant medically capable of some work.
+The commission’s nonmedical assessment is the focus of Goodrich’s assault. Goodrich argues that State ex rel. Waddle v. Indus. Comm. (1993), 67 Ohio St.3d 452, 619 N.E.2d 1018, dictates vacation of the commission’s order. In that case, we returned to the commission an order denying permanent total disability that stated:
+“The Industrial Commission finds that claimant is 53 years old, has an eighth grade education, and has worked as a cement finisher and working foreman. * * * [W]hen Dr. Hutchison examined the claimant and reviewed] the medical record, he concluded the claimant was capable of sustained remunerative employment. Considering the non-medical disability factors noted above and the moderate level of impairment found by Dr. Hutchison, the Industrial Commission finds that the claimant is not precluded from performing sustained remunerative employment.” Id. at 453, 619 N.E.2d at 1019.
+We held:
+“ * * * It is not enough, in this case, for the commission to merely recite that ‘claimant is 53 years old, has an eighth grade education, and has worked as a cement finisher and working foreman.’ These factors are susceptible to both positive or negative interpretations depending on the reviewer, and, therefore, mere recitation gives no insight into the commission’s reasoning. If, for example, the commission views these factors as assets to retraining, it should say so. Specific recitation, without more, is only slightly better than the old boilerplate language assailed in Noll. We, therefore, return the order to the commission for further consideration and an amended order.” Id. at 458, 619 N.E.2d at 1022.
+Goodrich initially suggests that simple comparison of facts dictates disposition consistent with Waddle. We disagree with this premise, refusing to look solely, as Goodrich would have us do, at the claimant’s age and education. We note that while Hamilton’s age and education are more favorable than Waddle’s, her medical impairment, for example, appears greater. Thus, in this instance, factual comparison will not compel the result Goodrich seeks.
+Goodrich’s second argument is more complicated. Goodrich notes that the deficiency in Waddle was the commission’s failure to identify claimant’s nonmedical factors as assets or obstacles to retraining. Goodrich accuses the commission of improperly ignoring the retraining issue in this case by focusing exclusively on claimant’s current abilities without addressing the capacities that might be developed through retraining. As stated in State ex rel. Stephenson v. Indus. Comm. (1987), 31 Ohio St.3d 167, 170, 31 OBR 369, 372, 509 N.E.2d 946, 950:
+“The commission should consider any other factors that might be important to its determination of whether this specific claimant may return to the job market by utilizing her past employment skills, or those skills which may be reasonably developed.” (Emphasis added.)
+Goodrich raises a compelling point under these facts for three reasons. First, claimant was only age forty-seven when permanent total disability was denied. Her age, therefore, does not offset the potential advantages of retraining. In many cases, retraining is a vain act, given the almost insurmountable vocational obstacle that advanced age poses to even the healthiest job seeker. That is not necessarily so in this instance.
+In a similar vein, claimant’s educational level does not inherently suggest a lack of capacity for retraining. Claimant has an eleventh grade education. Concededly, from a prospective employer’s standpoint, the lack of a high school diploma is what counts — it is immaterial whether claimant was one year away from a degree or six. Nevertheless, an eleventh grade education does not as readily suggest the absence of intellectual capacity that, for instance, a sixth-grade education does. Thus, while the absence of a high school diploma may be an impediment to re-employment, it may not pose the same obstacles to retraining.
+Finally, evidence of record indicates that claimant did not participate in rehabilitation services offered by the commission. There is no indication that claimant’s lack of participation was based on a physician’s medical advice, or on a vocational evaluation that concluded that she was intellectually, psychologically or emotionally incapable of retraining. Absent such evidence, the implication is that claimant simply chose not to avail herself of the opportunity to receive retraining and potential re-employment.
+The commission does not, nor should it, have the authority to force a claimant to participate in rehabilitation services. However, we are disturbed by the prospect that claimant may have simply decided to forgo retraining opportunities that could enhance re-employment opportunities. An award of permanent total disability compensation should be reserved for the most severely disabled workers and should be allowed only when there is no possibility for re-employment.
+In this case, the commission said only that claimant’s present skills would not transfer to other employment. It did not say anything about potential skills that could be developed. A claimant’s lack of participation in retraining does not necessarily translate into an inability to be retrained. We find, therefore, that under these facts the commission’s explanation is insufficient.
+Accordingly, the judgment of the court of appeals is reversed, and the cause returned to the commission for further consideration and amended order.
+Judgment reversed.
+Douglas, Wright, Pfeifer and Cook, JJ., concur.
+Moyer, C.J., Resnick and F.E. Sweeney, JJ., dissent.
