@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "88- 1286"
+decided: "1990-12-17"
+citations: ["56 Ohio St. 3d 715"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State v. Jamison."]
+source_url: "https://static.case.law/ohio-st-3d/56/cases/0715-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1427600
+---
+
+# State v. Jamison
+
+## Majority
+
+Hamilton County, No. C-850753. UPON CONSIDERATION of the motion filed by counsel for appellant to stay the execution of sentence in the above-styled cause pending the exhaustion of state post-conviction remedies, IT IS ORDERED by the court that said motion be, and the same is hereby, granted, effective December 12, 1990.
+IT IS FURTHER ORDERED by the court that said stay is granted for a period of six months to allow appellant an opportunity to file a petition for post-conviction relief. Absent such a filing within said time period, this stay will expire, and no further time will be granted except in unusual circumstances.
+IT IS FURTHER ORDERED by the court that if a petition for post-conviction relief has been filed within the time allotted, a date-stamped copy of such petition shall be filed by appellant with the Clerk of this court, and this stay shall remain in effect until exhaustion of all state post-conviction proceedings, including any appeals.
+IT IS FURTHER ORDERED by the court that the compliance with the mandate and execution of sentence be, and the same are hereby, stayed for a period of six months or, if a petition for post-conviction relief is filed within that time period, pending the exhaustion of all proceedings for post-conviction relief before courts of this state.
