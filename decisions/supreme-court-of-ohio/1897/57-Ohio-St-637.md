@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "4752"
+decided: "1897-10-19"
+citations: ["57 Ohio St. 637"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beyer v. Bormuth by Her Next Friend."]
+source_url: "https://static.case.law/ohio-st/57/cases/0637-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 939411
+---
+
+# Beyer v. Bormuth
+
+## Majority
+
+Judgment affirmed.
