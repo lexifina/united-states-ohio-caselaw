@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1883-01"
-citations: ["39 Ohio St. 207", "39 Ohio St. 455"]
+decided_precision: "month"
+citations: ["39 Ohio St. 207"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["State ex rel. v. Cappeller."]
 source_url: "https://static.case.law/ohio-st/39/cases/0207-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 914198
-cites_cases: ["20 Ohio St. 1", "21 Ohio St. 1", "22 Ohio St. 469", "22 Ohio St. 546", "23 Ohio St. 434", "25 Ohio St. 308", "29 Ohio St. 102", "35 Ohio St. 435", "36 Ohio St. 409", "38 Ohio St 644", "38 Ohio St. 259", "38 Ohio St. 445", "38 Ohio St. 6", "95 U. S. 644"]
+cites_cases: ["20 Ohio St. 1", "21 Ohio St. 1", "23 Ohio St. 434", "25 Ohio St. 308", "29 Ohio St. 102", "35 Ohio St. 435", "36 Ohio St. 409", "38 Ohio St. 259", "38 Ohio St. 445", "38 Ohio St. 6", "95 U. S. 644"]
 ---
 
 # State v. Cappeller
