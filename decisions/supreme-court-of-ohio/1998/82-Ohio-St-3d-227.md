@@ -1,0 +1,44 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-2057"
+decided: "1998-06-24"
+citations: ["82 Ohio St. 3d 227"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State ex rel. Frederick, Appellant, v. Licking County Department of Human Services et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/82/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1323539
+cites_cases: ["597 N.E.2d 143", "64 Ohio St.3d 539", "648 N.E.2d 827", "658 N.E.2d 276", "687 N.E.2d 1379", "72 Ohio St.3d 210", "74 Ohio St.3d 238", "80 Ohio St.3d 694"]
+---
+
+# State ex rel. Frederick v. Licking County Department of Human Services
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Frederick injured her back, neck, and shoulder on March 20, 1990, while employed as an Administrative Secretary I for appellee Licking County Department of Human Services (“LCDHS”). Her workers’ compensation claim was allowed for “lumbar strain; cervical, dorsal and lumbosacral strain/ strain; right shoulder strain/sprain.” She received temporary total and/or living maintenance compensation until October 15, 1991 for all but an approximately three-week period in June 1990, during which time she attempted, but was unable, to continue working.
+Frederick also participated in rehabilitation programs from December 1990 until October 15,1991. On that day, she returned to work part-time as part of an agreed plan for her gradual progression to full-time employment. On October 28, 1991, she returned on a full-time basis to her Administrative Secretary I position with the permission of her doctor, Michael B. Shannon, M.D., who did not mention any work restrictions for her return. Frederick performed her secretarial duties for nearly a year before her position was abolished on October 16, 1992 due to a reduction in force.
+In December 1992, Frederick accepted employment with an insurance company as a Technical Secretary at a salary lower than she had been paid in her secretarial position for LCDHS. She applied for wage loss compensation based in part on a March 18, 1993 report by Dr. Shannon. Dr. Shannon wrote:
+“Because of Ms. Frederick’s strain of her cervical, thoracic and lumbar spine regions, sustained in an injury at work on 3/20/90, and her continuing chronic pain, the following restrictions remain in effect for her: Lifting or carrying of less than 10 pounds, limited standing, walking, sitting, bending, kneeling, squatting or twisting without frequent changes in body position.
+“Because of the restrictions placed on her, she apparently was displaced from her job with Licking County Department of Human Services and has acceptéd employment for lesser wages. The restrictions will remain in effect indefinitely and, therefore, the patient will be unable to return to her original job as an administrative secretary at a higher wage rate.”
+In June 1993, a commission district hearing officer denied Frederick’s application for wage loss compensation. He explained:
+“The District Hearing Officer finds that claimant has not demonstrated that her allowed conditions have caused her to have sustained a loss in wages. In this regard, the District Hearing Officer finds that the functional limitations imposed by Dr. Shannon in his 3-18-93 report are consistent with the duties required of claimant in her former position of employment. Moreover, there is no evidence that claimant can not return to her former position of employment on a reduced/hmited basis. * * * ”
+On administrative appeal, the regional board of review disagreed with the district hearing officer’s assessment of the evidence, vacated the relevant portion of his order, and granted wage loss compensation. On further appeal, commission staff hearing officers vacated the regional board’s order and reinstated the district hearing officer’s order denying wage loss compensation. Concurring in the district hearing officer’s order, the staff hearing officers added:
+“[T]he denial of wage loss was based also on the job descriptions on file from the employer and that the 9-16-92 and 9-30-92 letters from the employer which show the claimant’s job at Licking County was eliminated due to a lack of funding. This evidence shows the claimant’s job duties were within the physical restrictions from Dr. Shannon and that the claimant left her former job not due to the allowed injuries but because the job was eliminated.”
+Frederick then sought the instant writ of mandamus in the court of appeals, arguing that the commission abused its discretion in finding that Frederick’s wage loss resulted from economic cutbacks, not impairment attributable to her industrial injury. The court denied the writ because evidence established that Frederick’s medical restrictions had not impeded her performance as a secretary for LCDHS and, therefore, could not have generated the wage loss she later suffered. We agree.
+R.C. 4123.56(B) provides:
+“Where an employee in a claim allowed under this chapter suffers a wage loss as a result of returning to employment other than his former position of employment or as a result of being unable to find employment consistent with the claimant’s physical capabilities, he shall receive compensation at sixty-six and two thirds per cent of his weekly wage loss not to exceed the statewide average weekly wage for a period not to exceed two hundred weeks.”
+Corresponding former Ohio Adm.Code 4121-3-32(D) provided, in part:
+“[T]he payment of compensation or wage loss pursuant to division (B) of section 4123.56 of the Revised Code shall commence upon application with a finding of any of the following:
+“(1) The employee, as a direct result of the allowed conditions in the claim, returns to employment other than his former position of employment and suffers a wage loss;
+“(2) The employee returns to his former position of employment but suffers a wage loss;
+“(3) The employee, as a direct result of the allowed conditions of his claim, is unable to find work consistent with the employee’s physical capabilities and suffers a wage loss.”
+To qualify for wage loss compensation under these laws, “a claimant must * * * show that he or she has suffered diminished wages as a result of a medical impairment that is causally related to the industrial injury.” State ex rel. Pepsi-Cola Bottling Co. v. Morse (1995), 72 Ohio St.3d 210, 215, 648 N.E.2d 827, 832. More specifically, “[cjlaimant’s allowed conditions must underlie claimant’s inability to secure comparably paying employment in order for [claimant] to be entitled to benefits.” Id. This means that a medical inability to secure comparably paying work is a prerequisite for wage loss eligibility. State ex rel. Williams-Laker v. Indus. Comm. (1998), 80 Ohio St.3d 694, 697, 687 N.E.2d 1379, 1382.
+Moreover, where a claimant is medically precluded due to industrial injury from executing any or all former job duties, the fact that the claimant’s position is abolished is of no consequence to her wage loss eligibility. State ex rel. The Andersons v. Indus. Comm. (1992), 64 Ohio St.3d 539, 542-543, 597 N.E.2d 143, 146. As long as medical impediments to performance exist, the injury continues to generate the disability that may produce a wage loss. But where, as here, the claimant’s allowed condition does not prevent her from resuming or continuing to perform her former duties, she obviously cannot establish that the allowed condition compelled her to accept a lower paying job. Whatever the extent of her disability, it had no effect on her ability to earn at her pre-injury salary level.
+Evidence of record shows that Frederick returned to her Administrative Secretary I job at LCDHS full-time in October 1991, that she completely performed in this position for close to a year notwithstanding any restrictions her doctor may have imposed, and that she was laid off for economic reasons in October 1992. She suffered a wage loss when she subsequently accepted another secretarial position, but the reason for her change of employment had nothing to do with her medical restrictions. She left LCDHS because her job had been abolished.
+To pay wage loss compensation to a laid-off claimant who is capable of performing her former duties is tantamount to paying wage loss for the mere fact of the layoff. State ex rel. Chora v. Indus. Comm. (1996), 74 Ohio St.3d 238, 241, 658 N.E.2d 276, 278. Thus, the commission did not abuse its discretion in denying Frederick’s wage loss application, and the court of appeals properly so found. Accordingly, we affirm the court of appeals’ judgment.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
