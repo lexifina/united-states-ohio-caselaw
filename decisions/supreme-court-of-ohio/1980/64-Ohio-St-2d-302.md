@@ -1,0 +1,53 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-512"
+decided: "1980-12-30"
+citations: ["64 Ohio St. 2d 302"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., W. Brown, McBride, Sweeney, Locher, Holmes and Dowd, JJ., concur.", "McBride, J., of the Second Appellate District, sitting for P. Brown, J."]
+parties: ["Dayton Communications Corp. et al., Appellants, v. Public Utilities Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/64/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712543
+cites_cases: ["103 Ohio St. 23", "127 Ohio St. 432", "13 F.C.C. 2d 420", "35 Ohio St. 2d 97", "53 Ohio St. 2d 168", "86 Yale L. J. 538"]
+---
+
+# Dayton Communications Corp. v. Public Utilities Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+I.
+Appellants argue that the interior wire and cable are fixtures and permanent accessions to the freehold. They deny that Ohio Bell, through its tariff, has a legitimate claim of ownership of the wire and cable installed by it.
+Appellants thus assert a claim of ownership grounded in the common law of property allegedly superior to the claim of Ohio Bell. However, the commission has no authority to adjudicate competing claims of property ownership. Such a function is constitutionally reserved to the judiciary. Section 1, Article IV of the Ohio Constitution. The commission does not possess judicial power and may not adjudicate controversies between parties as to property rights. New Bremen v. Pub. Util. Comm. (1921), 103 Ohio St. 23; State, ex rel. Dayton Power & Light Co., v. Riley (1978), 53 Ohio St. 2d 168. The commission properly recognized its lack of jurisdiction to adjudicate or recognize Big Hill and Imperial House’s claims of ownership of the telephone wire and cable installed within their buildings.
+II.
+Appellants argue that the interior wire and cables installed in their motels are analogous to aerial telephone cable, such as runs from pole to pole throughout the countryside. Aerial cable costs, plus a reasonable return, are recovered by Ohio Bell through rates charged pursuant to its Exchange Rate Tariff. Appellants contend that Ohio Bell must allow use of the interior wire and cable in their privately owned buildings as a necessary component of its duty to provide access to the general local and long-distance network. Correspondingly, they argue that subscribers who own such wire and cable are entitled to a reduction of charges assessed through the Exchange Rate Tariff.
+Ohio Bell contends that, historically, only costs attributable to equipment extending as far as a customer’s main station (here, to the PBX terminals) have been recovered through the Exchange Rate Tariff. It argues that the costs attributable to the in-place wire and cable are recovered through the General Exchange Tariff, as are the costs of other equipment necessary to provide extension service where chosen by a subscriber.
+The commission found that the appellants failed to prove that Ohio Bell recovered its costs and an appropriate return for in-place wire and cable through charges established by the Exchange Rate Tariff. It thus rejected appellants’ contention that Ohio Bell may not demand additional compensation for the use of the interior wire where subscribers replace Bell-provided extension service with privately-owned systems.
+We are unable to find that the commission acted unlawfully or unreasonably in so finding. Rather, we believe that a contrary finding, i.e., that interior wire must be provided by Ohio Bell free of additional charge despite attachment of privately owned equipment at either end of such wiring, would be strained at best.
+III.
+Appellants argued before the commission that Ohio Bell’s policy of refusing to quote a price for sale of in-place wire and cable until after the execution of a contract for purchase and installation of a privately owned system is unjust and unreasonable. Furthermore, they alleged that Ohio Bell’s asking prices for sale of such wiring have been double and triple fair market value and, thus, unreasonably high.
+Appellants claim that the commission erred in determining that it had no jurisdiction under R. C. 4905.26 to issue orders dealing with the sale of in-place wiring.
+R. C. 4905.26, pursuant to which appellants filed their complaint before the commission, provides, in part:
+“Upon complaint in writing against any public utility by any person, firm, or corporation,***that any rate, fare, charge, toll, rental, schedule, classification, or service*** rendered, charged, demanded, or exacted, is in any respect unjust, unreasonable, unjustly discriminatory, unjustly preferential, or in violation of law, or that any regulation, measurement, or practice affecting or relating to any service furnished by said public utility, or in connection with such service, is, or will be, in any respect unreasonable, unjust, insufficient, unjustly discriminatory, or unjustly preferential, * * *if it appears that reasonable grounds for complaint are stated, the commission shall fix a time for hearing***.” (Emphasis added.)
+R. C. 4905.37 provides, in part: commission shall determine the regulations, practices and service to be installed, observed, used, and rendered, and shall fix and prescribe them by order to be served upon the public utility.***” (Emphasis added.)
+“Whenever the public utilities commission is of the opinion, after hearing had upon complaint, served as provided in section 4905.26 of the Revised Code, that the rules, regulations, measurements, or practices of any public utility with respect to its public service are unjust or unreasonable* * *the
+Ohio Bell claims, and the commission held, that commission jurisdiction under R. C. 4905.26 is contingent upon a complaint against a telephone company relating to telephone services. The commission found that sale of interior cable and wire is not subject to regulatory control through the complaint procedure, because, in the event that a subscriber replaces a Bell-provided PBX system with a privately-owned system, such in-place wire no longer is related to a Bell-provided telephone “service.”
+In recent years certain areas of the telecommunications industry have been, to varying degrees, “deregulated.” Since 1968, for example, consumers have had available to them the option of purchasing their own telephone equipment for connection to the local and long-distance network, in lieu of using utility-owned equipment.
+As a result telephone companies such as Ohio Bell have found themselves to be operating in two markets, one monopolistic and one competitive, and the line between telephone company activities which are properly subject to public regulation and those which are not has become blurred. Where a company acts in its publicly-sanctioned monopolistic capacity, public regulation is appropriate in order to protect against utility overreaching. Where, however, a public utility’s activities take place in an open market, the elements of competition are, at least theoretically, sufficient to protect the public interest.
+We are not unaware of the fact that Ohio Bell’s superior bargaining position in “negotiating” a sales price for sale of in-place wiring to its customers is directly attributable to its historic monopolistic position. (When these motels were constructed, only Ohio Bell, pursuant to tariff, was authorized to install the wire which its customers now seek to own.)
+However, this court has consistently recognized that the Public Utilities Commission is a creature of the General Assembly and may exercise no jurisdiction beyond that conferred by statute. Penn Central Transportation Co. v. Pub. Util. Comm. (1973), 35 Ohio St. 2d 97.
+The thrust of appellants’ objections is that Ohio Bell’s policies result in artificially high costs for the installation of private telephone systems and lowered profits for Ohio Bell’s competitors, thus hindering the growth of a competitive market. The Public Utilities Commission, however, was established to be “the intermediary between the citizen-consumer on one side and the public utility on the other.” (Emphasis added.) Cleveland v. Pub. Util. Comm. (1934), 127 Ohio St. 432, 435. The General Assembly has not, to date, enacted legislation by which the commission may balance the interests of a public utility such as Ohio Bell vis-a-vis its competitors in a complaint proceeding.
+R. C. 4905.26 authorizes any person to complain to the commission about any rate, fare, charge, toll, rental, schedule, classification or service; or about any practice affecting or relating to any service. We do not believe that these terms, which define the scope of the statute but are statutorily undefined, encompass prices demanded by a telephone company for outright sale of equipment, including in-place cable and wires. Were we to hold that these terms cover more than fees or amounts charged as the quid pro quo for the rendering of a telephone service, or policies relating thereto, we would be significantly expanding commission power under the statute. We refuse to sanction such a step in the absence of General Assembly authorization.
+Having determined that, in all respects, the commission acted lawfully and reasonably, its order is affirmed.
+Order affirmed.
+Celebrezze, C. J., W. Brown, McBride, Sweeney, Locher, Holmes and Dowd, JJ., concur.
+McBride, J., of the Second Appellate District, sitting for P. Brown, J.
+Section 2, Paragraph (C)(1) of Ohio Bell’s P.U.C.O. No. 4, General Exchange Tariff, provides:
+“Equipment, telephone and lines furnished by the Telephone Company on the premises of a subscriber are the property of the Telephone Company whose agents and employees shall have the right to enter any said premises at a reasonable hour for the purpose of installing, inspecting, maintaining or repairing the equipment, telephones and lines, or for the purpose of making collections from coin boxes, or upon termination of the service, for the purpose of removing such equipment, telephones and lines.”
+Ohio Bell customers who purchase privately-owned telephone equipment are charged solely through the Exchange Rate Tariff for access to and use of the telephone network. Charges assessed through the General Exchange Tariff terminate upon installation of private equipment.
+See In re Carterfone (1968), 13 F.C.C. 2d 420.
+See Note, Competition in the Telephone Equipment Industry: Beyond Telerent, 86 Yale L. J. 538, 545.
+The true value of this equipment lies in the fact that it is in-place; its value once removed from the customer’s premises is minimal.
