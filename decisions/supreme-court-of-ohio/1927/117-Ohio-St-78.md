@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20392"
 decided: "1927-06-15"
-citations: ["117 Ohio St. 78", "5 Ohio Law Abs. 402"]
+citations: ["117 Ohio St. 78"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
