@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20086"
 decided: "1926-09-04"
-citations: ["4 Ohio Law Abs. 623", "4 Ohio Law Abs. 820", "OS. Pend. 4 Abs. 756", "4 Abs. 623", "4 Ohio Law Abs. 823"]
+citations: ["4 Ohio Law Abs. 623", "4 Ohio Law Abs. 823", "OS. Pend. 4 Abs. 756", "4 Abs. 623"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
