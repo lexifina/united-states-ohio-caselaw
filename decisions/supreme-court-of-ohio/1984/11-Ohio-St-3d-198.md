@@ -1,0 +1,46 @@
+---
+court: "Supreme Court of Ohio"
+docket: "83-1713"
+decided: "1984-06-20"
+citations: ["11 Ohio St. 3d 198"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, Kerns, C. Brown and J.P. Celebrezze, JJ., concur.", "Holmes, J., dissents.", "Kerns, J., of the Second Appellate District, sitting for Locher, J."]
+parties: ["OCLC Online Computer Library Center, Inc., Appellant, v. Kinney, Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/11/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815667
+cites_cases: ["148 Ohio St. 53", "157 Ohio St. 407", "2 O.O.3d 275", "23 O.O.3d 197", "35 O.O. 9", "36 Ohio St. 253", "42 Ohio St. 2d 150", "47 O.O. 313", "48 Ohio St. 2d 122", "52 Ohio St. 2d 127", "52 Ohio St. 2d 153", "6 O.O.3d 343", "6 O.O.3d 371", "6 Ohio St. 3d 82", "69 Ohio St. 2d 167", "71 O.O. 2d 120"]
+---
+
+# OCLC Online Computer Library Center, Inc. v. Kinney
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The question presented by this appeal is whether the board’s decision denying OCLC a charitable exemption under R.C. 5709.12 and 5709.121 is reasonable and lawful.
+R.C. 5709.12 provides, in pertinent part:
+“* * * Real and tangible personal property belonging to institutions that is used exclusively for charitable purposes shall be exempt from taxation. ‡ * * >>
+In order to aid in the clarification of the phrase “used exclusively for charitable purposes,” the General Assembly, in 1969, enacted R.C. 5709.121, which states in relevant part:
+“Real property and tangible personal property belonging to a charitable or educational institution * * * shall be considered as used exclusively for charitable or public purposes by such institution * * * if it is either:
+fi(A.) * * *
+“(B) Otherwise made available under the direction or control of such institution * * * for use in furtherance of or incidental to its charitable, educational, or public purposes and not with the view to profit.”
+In Cincinnati Nature Center v. Bd. of Tax Appeals (1976), 48 Ohio St. 2d 122, 125 [2 O.O.3d 275], the court set forth the following test to determine whether a taxpayer has satisfied the criteria for an exemption under R.C. 5709.121:
+“To fall within the terms of R.C. 5709.121, property must (1) be under the direction or control of a charitable institution or state or political subdivision, (2) be otherwise made available ‘for use in furtherance of or incidental to’ the institution’s ‘charitable * * * or public purposes,’ and (3) not be made available with a view to profit.”
+See, also, Ohio Masonic Home v. Bd. of Tax Appeals (1977), 52 Ohio St. 2d 127 [6 O.O.3d 343]. The board concluded that OCLC failed to meet any of the criteria enunciated in Cincinnati Nature Center, supra.
+OCLC first challenges the board’s determination that the property sought to be exempted is not under the control of a charitable institution. OCLC argues that it does function as a charitable institution, much like the Chemical Abstracts division of the American Chemical Society whose claim for an exemption was reviewed by this court in American Chemical Soc. v. Kinney (1982), 69 Ohio St. 2d 167 [23 O.O.3d 197]. In fact, OCLC argues in its brief that the decision in American Chemical Soc. controls the subject cause since its “activities are closely akin, if not the same in nature, as those of American Chemical Society.”
+We conclude, however, that OCLC’s reliance upon American Chemical Soc., as controlling the present cause, is misplaced. Therein, the status of certain land and improvements, as well as Chemical Abstracts’ charitable purpose, was not before this court, having previously been determined to be tax exempt under R.C. 5709.12 and 5709.121. (See dissenting opinion of Justice William B. Brown, at 173, fn. 1.) Instead, the focus of the court centered upon whether eight parcels of vacant land, representing approximately thirty acres, should also be exempted as used in furtherance of or incidental to the organization’s charitable purpose within the purview of R.C. 5709.12 and 5709.121. Unlike the facts present in American Chemical Soc., the question of whether vacant land should be exempted under a claim that it is being used in furtherance of or incidental to a charitable purpose is simply not at issue in this appeal.
+OCLC next contends that it has demonstrated its entitlement to a charitable exemption based upon the charitable status of the institutions which it contractually serves. As was recognized in Battelle Memorial Institute v. Dunn (1947), 148 Ohio St. 53, 60 [35 O.O. 9]: “Generally, the dissemination of knowledge for the edification and improvement of mankind is regarded as a charitable object.” Thus, public libraries have been extended charitable exemptions. Cleveland Library Assn. v. Pelton (1880), 36 Ohio St. 253.
+OCLC submits that because it serves libraries, which in turn benefit the general public through the dissemination of knowledge for the edification and improvement of mankind, it qualifies as an institution furthering human knowledge and, therefore, is a charitable institution. This argument, however, simply constitutes an attempt by OCLC to obtain a vicarious charitable exemption by virtue of the activities of its customers.
+In Joint Hospital Services v. Lindley (1977), 52 Ohio St. 2d 153 [6 O.O.3d 371], we rejected a similar vicarious charitable exemption theory. In that case, a group of hospitals pooled their resources and established a laundry and linen service for their members, as well as for several other nonprofit organizations.
+As in the present case, the taxpayer relied upon the charitable status of its customers as the basis for seeking a charitable exemption. The court observed, however, that notwithstanding the charitable nature of the institutional customers who obtained the laundry and linen services, it is the charitable activities of the taxpayer seeking the exemption which must be considered when reviewing an application for a charitable exemption. Although a laudable purpose, the taxpayer’s laundry and linen service neither improved health nor alleviated illness and, accordingly, the exemption was denied.
+So, too, in the instant cause, the record demonstrates that OCLC’s activities more closely resemble those of a publisher of library materials or a data base firm specializing in information retrieval, such as Lexis or the New York Times Information Bank, rather than that of a library. Although OCLC’s service may greatly enhance the ability of libraries to better serve the public, OCLC essentially offers a product to charitable institutions, for a fee exceeding its cost, and, as the board concluded, is not itself a charitable organization. Cf. Joint Hospital Services, supra, at 155.
+In addition, OCLC fails to address the effect that its commercial fee paying research endeavors have upon its status as an organization seeking a charitable exemption. Evidence adduced before the board reveals that OCLC has recently engaged in fee paying research projects for the private gain of commercial enterprises, including Bank One of Columbus, Warner Amex QUBE and Source Telecomputing Corporation. In its transaction with Source Telecomputing Corporation, OCLC negotiated an option to obtain fifty percent of the corporation’s stock for an additional price of one dollar, in exchange for research performed.
+Such commercial research endeavors have previously been determined by this court to preclude the issuance of a charitable tax exemption. Cf. Battelle Memorial Institute v. Dunn, supra. Moreover, although OCLC may have originated as a charitable organization upon its creation in 1967, the organization, which now operates throughout North America for any library willing to pay its fee, and which engages in fee paying research projects for the private gain of commercial industries, has since transcended the realm of a charitable institution.
+In reaching this conclusion, we again emphasize that statutory exemptions from taxation are to be strictly construed, and the burden rests with the one claiming entitlement to an exemption to demonstrate that the property qualifies for the exemption. Craftsman Type, Inc. v. Lindley (1983), 6 Ohio St. 3d 82, 84; American Handling Equipment Co. v. Kosydar (1975), 42 Ohio St. 2d 150, 152 [71 O.O. 2d 120]; National Tube Co. v. Glander (1952), 157 Ohio St. 407 [47 O.O. 313], paragraph two of the syllabus; Battelle Memorial Institute v. Dunn, supra, at 60. Having failed in its burden to establish that it is a charitable institution under the first portion of the three-part test of Cincinnati Nature Center, we need not address OCLC’s remaining contentions that the board erred in concluding that the second and third parts of the test also were not met.
+For the foregoing reasons, the decision of the Board of Tax Appeals, being neither unreasonable nor unlawful, is affirmed.
+Decision affirmed.
+Celebrezze, C.J., W. Brown, Sweeney, Kerns, C. Brown and J.P. Celebrezze, JJ., concur.
+Holmes, J., dissents.
+Kerns, J., of the Second Appellate District, sitting for Locher, J.
