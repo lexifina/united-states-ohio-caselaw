@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-2309"
+decided: "1995-04-05"
+citations: ["71 Ohio St. 3d 660"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur."]
+parties: ["The State ex rel. Smith, Appellant, v. O’Connor, Judge, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/71/cases/0660-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1734408
+cites_cases: ["11 OBR 1", "11 Ohio St.3d 1", "12 OBR 322", "12 Ohio St.3d 241", "13 O.O.3d 17", "155 Ohio St. 203", "350 N.E.2d 429", "37 Ohio St.3d 1", "391 N.E.2d 343", "434 U.S. 425", "44 O.O. 170", "46 Ohio St.2d 539", "462 N.E.2d 410", "466 N.E.2d 883", "523 N.E.2d 489", "59 Ohio St.2d 29", "594 N.E.2d 616", "604 N.E.2d 1376", "626 N.E.2d 950", "639 N.E.2d 25", "64 Ohio St.3d 245", "68 Ohio St.3d 357", "70 Ohio St.3d 344", "75 O.O.2d 556", "78 Ohio App.3d 411", "98 N.E.2d 2"]
+---
+
+# State ex rel. Smith v. O'Connor
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Smith asserts in her propositions of law that the doctrine of the law of the case limited the sole issue to be determined on retrial following the court of appeals’ reversal of the judgment entered in favor of the hospital to the amount of damages. Smith claims that Judge O’Connor ignored the mandate of the court of appeals by deciding to hold a new trial on all issues upon remand.
+Absent extraordinary circumstances, such as an intervening decision by the Supreme Court, an inferior court has no discretion to disregard the mandate of a superior court in a prior appeal in the same case. Nolan v. Nolan (1984), 11 Ohio St.3d 1, 11 OBR 1, 462 N.E.2d 410, syllabus; Columbus Bd. of Edn. v. Franklin Cty. Bd. of Revision (1994), 70 Ohio St.3d 344, 345, 639 N.E.2d 25, 26. A writ of mandamus is an appropriate' remedy to require a lower court to comply with an appellate court’s mandate directed to that court. State ex rel. Potain v. Mathews (1979), 59 Ohio St.2d 29, 13 O.O.3d 17, 391 N.E.2d 343; State ex rel. Schneider v. Brewer (1951), 155 Ohio St. 203, 44 O.O. 170, 98 N.E.2d 2; see, also, Vendo Co. v. Lektro-Vend Corp. (1978), 434 U.S. 425, 427-428, 98 S.Ct. 702, 703-704, 54 L.Ed.2d 659, 662-663. A writ of prohibition is an appropriate remedy to prevent a lower court from’proceeding contrary to the mandate of a superior court. See State ex rel. TRW, Inc. v. Jaffe (1992), 78 Ohio App.3d 411, 604 N.E.2d 1376 (writ of prohibition issued to prevent new trial on issue of damages for fraud); see, also, State ex rel. Potain, supra, 59 Ohio St.2d at 32, 13 O.O.3d at 19, 391 N.E.2d at 345 (“The Constitution does not grant to a court of common pleas jurisdiction to review a prior mandate of a court of appeals.”).
+Smith claims entitlement to extraordinary relief in mandamus and prohibition based on cases that have held that “App.R. 12(D) and Civ.R. 42(B) together authorize a court of appeals to order a retrial of only those issues which resulted in prejudicial error.” Charles R. Combs Trucking, Inc. v. Internatl. Harvester Co. (1984), 12 Ohio St.3d 241, 12 OBR 322, 466 N.E.2d 883, paragraph one of the syllabus; Mast v. Doctor's Hosp. N. (1976), 46 Ohio St.2d 539, 541, 75 O.O.2d 556, 557, 350 N.E.2d 429, 430. Smith asserts that the foregoing cases required the court of appeals to order retrial only on the issue of damages. However, we have held:
+“While worded in strong terms, the syllabus of Combs falls short of being mandatory, and the rationale authorizing reviewing courts to order a limited remand implicitly recognizes the need for appellate courts to carefully exercise their discretion to determine the appropriate scope of remand.” (Emphasis added.) State Farm Fire & Cas. Co. v. Chrysler Corp. (1988), 37 Ohio St.3d 1, 5, 523 N.E.2d 489, 493. See, also, Whiteside, Ohio Appellate Practice (1994) 91, Section T 7.05(C) (“When a case is remanded for retrial, Appellate Rule 12[D] in conjunction with Civil Rule 42[B] permits the court of appeals to allow error-free issues to stand, and limit retrial to those issues, claims, or defenses which in the original trial resulted in prejudicial error.” [Emphasis added.]).
+The court of appeals was not required to order a limited retrial, and a review of its mandate and incorporated decision indicates, as that same court later determined, that it did not order a new trial solely on the issue of damages. Smith’s own argument in her appellate brief in the initial appeal requested a “new trial on all issues or damages only.” Under the invited-error doctrine, a party will not be permitted to take advantage of an error which she herself invited or induced the trial court to make. State ex rel. Fowler v. Smith (1994), 68 Ohio St.3d 357, 359, 626 N.E.2d 950, 952.
+Since the court of appeals never ordered Judge O’Connor to hold a new trial limited to the issue of damages on remand, Smith failed to establish a clear legal right to a limited trial or corresponding clear legal duty on the part of Judge O’Connor to provide it. Additionally, Smith failed to establish that Judge O’Connor’s decision to hold a new trial on all the issues was in excess of or without jurisdiction. Finally, Smith possessed an adequate remedy by discretionary appeal of the appellate court’s prior judgment, which reversed the judgment entered in favor of the hospital but failed to order a new trial limited to the damages issue. Although that appeal was not allowed, extraordinary writs may not be used as a substitute for an otherwise barred second appeal or to gain successive appellate reviews of the same issue. State ex rel. LTV Steel Co. v. Gwin (1992), 64 Ohio St.3d 245, 249, 594 N.E.2d 616, 620.
+Accordingly, the court of appeals properly denied Smith’s complaint for writs of mandamus and prohibition, and its judgment is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
