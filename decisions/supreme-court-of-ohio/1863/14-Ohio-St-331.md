@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1863-12"
+citations: ["14 Ohio St. 331"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peck O.J., and Brinkerhoee, Scott and Ranney, JJ., concurred."]
+parties: ["William Vining et al. v. Christopher C. Bricker."]
+source_url: "https://static.case.law/ohio-st/14/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 522952
+cites_cases: ["12 How. Rep. 84"]
+---
+
+# Vining v. Bricker
+
+## Majority (Wilder, J.)
+
+Wilder, J.
+The controversy between these parties arose-from a sale of a lot of sheep, by Bricker, to Yining. It was-claimed, in the court below, by Yining, that the sheep, in part consideration for which the note in suit was given, were infected with a contagicus disease -called the “foot rot,” and that Bricker, their owner, knowing them to be so diseased, sold them to Yining without disclosing that fact; and it was further claimed, that if the facts were so, the note was void, and no recovery could be had thereon. The court was requested to charge the jury in accordance with these views. This was refused, and the errors complained of, are, in substance, such refusal of the court.
+The claim of the plaintiff in error rests upon the assumed ground, that a sale of sheep, under the circumstances stated, being made a penal offense by the statute, such sale would be illegal, and a note given in consideration of such sale would, consequently, be void.
+The first section of the “ act to prevent the spread of disease among sheep,” passed February 19,1857 (4 Curwen’s Revised Stat. 2866), reads as follows:
+“ That any person being the owner of sheep, or having the same in charge, who shall turn out, or suffer any sheep having any contagious disease, knowing the same to be so diseased, to run at large upon any common, highway or uninclosed ground, or who shall sell any such sheep, knowing the same to be so diseased, without fully disclosing the fact to the purchaser, shall be deemed guilty of a misdemeanor, and be punished by a fine of not less than twenty dollars, and not more than five hundred dollars, to be recovered like other penalties of a like nature: Provided, that nothing herein shall change the right of any one sustaining damage from the running at large or sale of such sheep, in bringing suit for the recovery thereof, or in defending against any suit brought upon the sale of such sheep.”
+Had there been no proviso added to the section, it might well be held, that the effect of the act would have been to make such sale illegal, and a note given in consideration thereof void; for it is now a well-established principle of law, that when a statute annexes a penalty to the performance of an act, such act is generally prohibited, the penalty implying a prohibition, and actions will not be sustained upon contracts made in violation of such statute. Story on Contr. 488, 613, 614, et seq.; Chitty on Contr. 703, 704 (9th Amer. Ed.). This is the general principle; yet it was well held by the supreme court of the United States, in the case of Harris v. Runnels, 12 How. Rep. 84: “ That the statute must be examined as a whole, to find out whether or not the makers of it meant that a contract in contravention of it should be void, or that it was not to be so.” We must look, then, to the proviso, as well as ■\o the body of the section, to ascertain whether it was the intention of tbe legislature to render tbe contract illegal and void. It is claimed by the plaintiffs in error, tbat tbe legislature did not mean by tbe proviso to limit tbe effect of tbe body of tbe act, but tbat they used tbe word change in tbe sense of iabridge, meaning only, “ tbat nothing in this act shall abridge ■tbe right of any one who has been imposed upon in violation ■of this act, to make any defense be could have made before.” 'We do not think this tbe right construction of the proviso. •Such a construction would render it entirely nugatory. Tbe whole section would have tbe effect, as it stands, as though no proviso bad been added; and one rule of interpretation is, so to construe a law so as to give effect to all its parts, where it may be so done. Tbe legislature created a misdemeanor. Eor tbe doing of certain acts a penalty was imposed upon tbe party offending, of from twenty to five hundred dollars. Such were tbe consequences as between him and tbe public. Aside from tbe statute, tbe party sustaining damage, would have bad bis right of action. If sued, be would have bad bis right of defense. If there was an entire failure of consideration, his defense would be perfect, on tbat ground. If tbe damages sustained were less, equal to, or greater, than the plaintiff’s claim, be could recover, on his counterclaim, to tbe full extent of such damages, but tbe note given by him for tbe property would not be void. It was competent for tbe legislature to say tbat such should remain tbe rights of tbe party. There would be no injustice in such a provision; and in giving this construction in tbe proviso, we but give to tbe language used, its literal and ordinary meaning. We think it was the intention of tbe legislature to provide tbat tbe rights of the party sustaining damage, in bis action or defense, should remain unchanged, neither enlarged nor diminished by tbe statute.
+We are, therefore, of opinion tbat tbe court below did not err in its refusal to charge tbe jury as requested, or in its charge as given to tbe jury.
+The judgment of tbe court of common pleas is affirmed with costs.
+Peck O.J., and Brinkerhoee, Scott and Ranney, JJ., concurred.
