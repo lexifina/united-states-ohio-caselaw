@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["24 Ohio St. 67"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, C. J., McIlvaine, Welch, and Stone JJ., concurred."]
+parties: ["The Union Mutual Life Insurance Company v. Sarah A. McMillen."]
+source_url: "https://static.case.law/ohio-st/24/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888428
+cites_cases: ["1 Phil. 558", "11 How. 461", "12 Cush. 426", "13 Gray, 431", "17 Mass. 188", "18 Barb. 541", "2 Pet. 96", "20 Barb. 475", "25 Conn. 207", "25 Conn. 522", "25 Conn. 542", "36 N. Y. 550", "4 Vroom, 487", "43 N. Y. 283", "47 Mo. 406", "49 Ill. 180", "6 Wis. 485", "8 Cush. 393", "9 Cranch, 153", "97 Mass. 144"]
+---
+
+# Union Mutual Life Insurance v. McMillen
+
+## Majority (White, J.)
+
+White, J.
+It is admitted by the pleadings that the plaintiff’ in error is a foreign corporation, and that, at the time of the issuing of the policy, and until after the matters in controversy arose, it had failed to comply with the requirements of the act of April 16,1867, “ for the incorporation and regulation of life insurance companies.” S. & S. 218.
+By this statute it is declared, among other things, not to be lawful for any agent to act for such corporation, in taking risks, collecting premiums, or in any manner transacting the business of life insurance in this state, except upon compliance with the provisions of the act.
+The party violating the act is declared to be subject to a penalty of five hundred dollars for each violation, which is to be sued for and recovered in the name of the state. •
+The company claims that its failure to comply with the statute renders the policy void, while it is insisted, on the part of the assured, that the effect of the statute is not to invalidate the policy, but to render a compliance with its terms, by the payment of premiums, unnecessary to the maintenance of her action.
+Neither of these positions can be supported. The prohibition in the statute is against persons acting for companies that have not complied with the prescribed conditions. Such persons alone are made subject to the penalty.
+Whether the statute was meant to invalidate policies issued by companies in contravention of its provisions, is to he determined from a consideration of the statute as a whole.
+The object of the act is not to make the business of life insurance unlawful. The statute is designed for the protection of policy-holders and others dealing with insurance companies. To this end, it is made unlawful for persons to act on behalf of such companies until the provisions of the statute have been complied with. But we do not think it was intended to devolve on persons dealing with the companies the duty and risk of ascertaining whether they had complied with the statute. On the contrary, it seems to have been the intention of the legislature to rely on the penalties imposed as sufficient to insure such compliance.
+In regard to the claim that, notwithstanding, the company is bound by the policy, yet the other party is excused from performing its condition, it is only necessary to say that if the policy operates at all, it must operate according to its terms. The plaintiff’s action is founded on the policy, and was brought to enforce it against the company. The' liability of the company, under the agreement, can not be-separated from the conditions on which it was made; and in undertaking to enforce it, the plaintiff is bound to show that these conditions have been performed.
+As the statute does not render the policy void, the main questions arising in the case are :
+1. Was the policy, at the time of the death of McMillen,. a valid and subsisting obligation against the company ?
+2. If it was not, did the company by its subsequent conduct ratify the previously unauthorized acts of the agent in receiving payment of the premium which became due on the 1st of December, 1868 ?
+In considering the first question it is to be observed that, the body of the policy contains a provision which declares that the policy is made and accepted upon the express condition that if the amount of any annual premium is not fully paid, on the day provided for, then the policy shall become null aud void, and wholly forfeited; and also that no-agent of the company, except the president or secretary, can waive such forfeiture, or alter that or any other condition, of the policy.
+The parties were at liberty to contract in their own terms; and where no rule of law or of public policy is contravened, the terms thus employed must furnish the standard for determining their rights under the contract.
+By the terms of this policy, full payment of the annual premium on the day provided for, was necessary to its renewal or continuance. As a consequence of the failure to make such payment, it is expressly declared that the policy shall become “ null and void, and wholly forfeited.” Hence,, if there was no authorized extension of the time of payxnent, the policy had ceased to be operative long before the termination of the life insured.
+This brings us to the question as to whether Durkee, the agent, had authority from the company to extend the time for paying the premium, or to bind the company by receiving it after default. -v
+It is declared in the policy that no agent of the company, except the president or secretary, can exercise such authority. Nevertheless, it was competent for the company to invest Durkee, or any other of its subordinate agents, with like authority, if it saw fit to do so.
+But the authority must exist before effect can be given to-the act of the agent vai’ying an express condition of the-policy, after it has once taken effect.
+The authority may be express, or it may be implied from the previous dealing between the company and its agent, or from other -circumstances. But in whatever form its existence is asserted, the burden of proving it is on the party claiming the benefit of its exercise.
+The evidence as to the mode of doing business between the company and the agent, is limited to what appears in the statement. Nor is there any evidence shoeing the-system or method adopted by the company for conducting-its business from which the authority claimed for the agent can be inferred. And after careful consideration of all the evidence in the case, we are unable to discover any sufficient ground to warrant the conclusion that the agent was authorized to extend the time of payment, or to bind theeompany by waiving the default.
+We have no hesitation in saying that there is sufficient in the case to show that it was the duty of the company to-afford the policy-holder the opportunity of paying the premium at Bellefontaine, where the agency was established and the policy taken. And although the agent was absent at the time the premium became due, it does not appear-that IMcMillen was ready or desirous to pay it during his-absence. On the contrary, on the agent’s return, which oc~ curred within a few days, McMillen had the opportunity to make the payment. He gave his notes for part of the premium, but neglected then to pay the part that was due in money, as he also did on one or more subsequent occasions when called on for it. The consequence was that the policy, at the time of his death, did not subsist as a valid obligation of the company.
+Nor do we think the company, under the circumstances, can be held to have ratified the act of the agent in receiving payment after the policy had lapsed, and the life insured had ended.
+Ratification by the company implies a knowledge on its part of the facts, or a case in which it was its duty to know them.
+Durkee was evidently acting in the interest of , the plaintiff in concealing the facts from the company. This is apparent from the circumstances connected with the receiving ■of the money, from the antedating of the receipt, and from his report to the company. There was no change of circumstances between the time the money was received, and the time it was tendered back, that can affect the rights of the parties.
+We think there is nothing, therefore, to estop the company from showing the facts, and it is apparent that as soon -as the truth became known the company tendered back the money.
+Neither do we think the retaining of the notes by the •company to the time of trial, can be held to give effect to the policy. The notes and the policy are to be taken together as parts of the same transaction. The policy is expressly referred to in the notes. In the premium notes, it is stipulated that their acceptance is in no way to affect the condition of the policy respecting the forfeiture thereof.
+The other note is stated to be given in part payment of the annual premium on the policy ; while the policy itself provides that it is to become void, if the annual premium is not fully paid at the specified time. On the forfeiture of the policy the consideration of the notes failed, and they ceased to be collectible. The failure of the company to tender them back was, therefore, a matter of no materiality to the rights of the parties.
+There are cases, no doubt, in which equity would relieve against the forfeiture of a policy, or the company would be estopped from insisting upon it. But the evidence does not bring this ease within either class. And while it is true that in life policies, punctuality in the payment of the premiums is of the substance of the contract, yet it is also true that it is a contract eminently requiring good faith both on the part •of the company and of the policy-holder.
+The motion for a new trial ought to have been granted. 'The j udgment will therefore, be reversed, and the cause remanded for a new trial.
+Day, C. J., McIlvaine, Welch, and Stone JJ., concurred.
