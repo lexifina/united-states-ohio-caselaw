@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "13159"
+decided: "1913-05-20"
+citations: ["88 Ohio St. 572"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spiauck, C. J., Jopinson, Donahue, Wanamaker, Newman and Wilkin, JJ., concur."]
+parties: ["Reed et al., Partners, v. Freet."]
+source_url: "https://static.case.law/ohio-st/88/cases/0572-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987589
+---
+
+# Reed v. Freet
+
+## Majority
+
+Judgment affirmed.
+Spiauck, C. J., Jopinson, Donahue, Wanamaker, Newman and Wilkin, JJ., concur.
