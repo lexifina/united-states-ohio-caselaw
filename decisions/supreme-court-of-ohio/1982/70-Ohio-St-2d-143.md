@@ -1,0 +1,55 @@
+---
+court: "Supreme Court of Ohio"
+docket: "81-1238"
+decided: "1982-06-09"
+citations: ["70 Ohio St. 2d 143"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["W. Brown, Acting C. J., Reilly, Sweeney, Holmes and Krupansky, JJ., concur.", "Locher and C. Brown, JJ., dissent.", "Reilly, J., of the Tenth Appellate District, sitting for Celebrezze, C. J."]
+parties: ["Meros, Appellant, v. University Hospitals of Cleveland, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/70/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6694202
+cites_cases: ["138 N.E. 2d 891", "189 A. 2d 267", "236 Ind. 101", "25 Ohio St. 2d 164", "32 Ohio St. 2d 48", "410 Pa. 402", "50 Ohio St. 2d 317", "56 Ohio St. 2d 234", "69 Ohio St. 2d 533", "70 Ohio App. 337"]
+---
+
+# Meros v. University Hospitals
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+As part of the prescription to cure the medical malpractice crisis, the General Assembly, in 1975 (136 Ohio Laws 2809, 2810), amended the medical malpractice statute of limitations, R. C. 2305.11. As amended, R. C. 2305.11 precludes the use of the tolling provision, for persons under disabilities, in R. C. 2305.16.
+The present appeal raises questions which relate to the propriety of applying the amended version of R. C. 2305.11 to someone whose cause of action has accrued prior to its effective date.
+In the most recent case of Baird v. Loeffter (1982), 69 Ohio St. 2d 533, this court resolved a similar question. In Baird, we held that R. C. 2305.11 could be applied so as to bar the claim of a minor whose cause of action accrued prior to the effective date of the amendment. The court concluded that the one year after the effective date of the statute provided a reasonable time in which to bring a suit, notwithstanding the continuation of a disability.
+Here, we are faced with a similar circumstance. Appellant’s cause of action accrued, at the latest, on October 4, 1974, when she was discharged from the hospital. See Wyler v. Tripi (1971), 25 Ohio St. 2d 164. It may be assumed that appellant was under a disability when discharged and remained so when the amendment to R. C. 2305.11 became effective on July 28, 1975. Nevertheless, under our holding in Baird, supra, appellant had until July 28, 1976, to file her cause of action. The complaint was not filed until April 3,1979. Accordingly, appellant’s cause of action was barred by the statute of limitations.
+Based upon the foregoing, the judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+W. Brown, Acting C. J., Reilly, Sweeney, Holmes and Krupansky, JJ., concur.
+Locher and C. Brown, JJ., dissent.
+Reilly, J., of the Tenth Appellate District, sitting for Celebrezze, C. J.
+The pertinent language of R. C. 2305.11 is in subsection (B) which provides:
+“In no event shall any medical claim against a physician, podiatrist, or a hospital be brought more than four years after the act or omission constituting the alleged malpractice occurred. The limitations in this section for filing such a malpractice action against a physician, podiatrist, or hospital apply to all persons regardless of legal disability and notwithstanding section 2305.16 of the Revised Code, provided that a minor who has not attained his tenth birthday shall have until his fourteenth birthday in which to file an action for malpractice against a physician or hospital.”
+Relevant portions of R. C. 2305.16 read:
+“Unless otherwise specially provided in sections 2305.04 to 2305.14, inclusive, and sections 1302.98 and 1304.29 of the Revised Code, if a person entitled to bring any action mentioned in such sections, unless for penalty or forfeiture, is, at the time the cause of action accrues, within the age of minority, of unsound mind, or imprisoned, such person may bring it within the respective times limited by such sections, after such disability is removed. When the interests of two or more parties are joint and inseparable, the disability of one shall inure to the benefit of all.”
+Appellant also asserts that the appellee fraudulently concealed the facts which constituted its negligence. This, appellant argues, tolls the statute of limitations.
+Notwithstanding the merits of this premise, appellant’s claim is barred by the absolute four-year limitation placed upon medical claims by R. C. 2305.11 (B). This period begins to run on the date the negligent acts occur rather than when the cause of action accrues. Here, the asserted negligent acts took place sometime prior to October 4, 1974, the date appellant was discharged from the hospital. This action was filed in April 1979, more than four years subsequent.
+
+## Dissent (Locher, J.,)
+
+Locher, J.,
+dissenting. In its ruling today the majority has held that the trial court, upon finding that appellant’s complaint was barred by the applicable statute of limitations, acted properly in awarding a summary judgment for appellee in the instant cause. As I am convinced, however, that the prerequisites for granting a summary judgment were not satisfied in the action, I must dissent.
+This court, in Temple v. Wean United, Inc. (1977), 50 Ohio St. 2d 317, 327, stated that “* * * before summary judgment may be granted, it must be determined that: (1) No genuine issue as to any material fact remains to be litigated; (2) the moving party is entitled to judgment as a matter of law; and (3) it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the party against whom the motion for summary judgment is made, that conclusion is adverse to that party.” Certainly, in applying the rule of law enunciated by this court in both Cook v. Matvejs (1978), 56 Ohio St. 2d 234, and Gregory v. Flowers (1972), 32 Ohio St. 2d 48, “reasonable minds” could easily draw from the available evidence conflicting inferences as to whether appellant did timely file her action.
+The court’s holding in Cook and Gregory are unambiguous. A statute that shortens the period of time for bringing an action may not be applied to a cause arising before the statute’s enactment when such application totally “obliterates” the cause; a party must be provided a “reasonable time” in which to file his claim. Cook, supra, at 237. R. C. 2305.11(B), which abbreviated the limitations period for a malpractice action by circumscribing the tolling effect of a legal disability, is clearly within the contemplation of Cook. Thus the issue of whether the retroactive application of the statute afforded appellant, who has steadfastly contended that she was incompetent during the entirety of the period permitted her to initiate her action, a “reasonable time” to file is hardly self-evident and should not have been resolved through a summary judgment proceeding. The trial court’s action was particularly ill-advised in light of the fact that the malpractice alleged in appellant’s complaint is asserted to be the very cause of the disability that delayed the bringing of the action.
+Moreover, appellant’s contention that appellee attempted to conceal its malpractice and was, thus, estopped from asserting the statute of limitations as a defense was also improperly disposed of through the grant of a motion for summary judgment. Cf. Wright v. Lorain (1942), 70 Ohio App. 337, 343; Schaffer v. Larzelere (1963), 410 Pa. 402, 405, 189 A. 2d 267; Guy v. Schuldt (1956), 236 Ind. 101, 107, 138 N.E. 2d 891. From the record, it appears sufficient evidence of appellee’s malfeasance in this regard existed to compel the overruling of appellee’s motion.
+For all of the above reasons, I feel the majority has erred in sanctioning the trial court’s decision.
+C. Brown, J., concurs in the foregoing dissenting opinion.
+
+## Dissent (Clifford F. Brown, J.,)
+
+Clifford F. Brown, J.,
+dissenting. On April 27, 1974, plaintiff was admitted to defendant-hospital for “routine surgery.” Sometime thereafter, the medical malpractice allegedly occurred. Among the claimed negligent acts committed by the hospital was the failure to keep plaintiff connected to a respirator, thereby causing her coma and inducing permanent brain damage with concomitant mental incompetency. Moreover, plaintiff alleges that hospital personnel fraudulently concealed their negligent acts, thereby preventing timely suit. Plaintiff was released from the hospital October 4, 1974, but she continued under treatment by the hospital into March 1979. Plaintiff filed suit on April 3, 1979.
+The 1975 amendments to the Medical Malpractice Act created a maximum four-year statute of limitations for medical claims. This court has previously recognized that the General Assembly may shorten the period for a plaintiff to bring an action when the amended statute affords a reasonable time after the effective date of the amendment for plaintiff to commence his or her action. Cook v. Matvejs (1978), 56 Ohio St. 2d 234, 237; Gregory v. Flowers (1972), 32 Ohio St. 2d 48, 59 (concurring opinion).
+Under the former statute of limitations, it appears plaintiffs action was timely filed, since that provision required suit to be brought, at the latest, when the physician-patient relationship terminates. Wyler v. Tripi (1971), 25 Ohio St. 2d 164. Here, plaintiff was under treatment nearly to the time she brought suit. However, if we must apply the present statute as amended literally and without regard to the holdings in Cook v. Matvejs, supra, this suit was not timely filed, given the absolute limitations period of “four years after the act or omission constituting the alleged malpractice occurred * * * regardless of legal disability * * *.” Legal precedent of this court in Cook v. Matvejs does not require such unreasonable construction.
+Given the allegation that the claimed negligent acts were fraudulently concealed by hospital personnel, I conclude that a question of fact exists whether plaintiff was afforded a reasonable time in which to bring suit after obtaining knowledge of the facts concealed by the hospital. If the hospital personnel were guilty of such concealment, then the statute of limitations period should be tolled for the period of concealment and for a reasonable time thereafter. Enforcing the four-year limitations period in such a case would be unreasonable. Accordingly, I would reverse the Court of Appeals’ affirmance of the trial court’s grant of summary judgment, and remand this case to the trial court for further inquiry into the fraudulent concealment and mental competency issues. Finding that retroactive application of the four-year statute of limitations contained in R. C. 2305.11 may be unreasonable in this case, I respectfully dissent.
+Just as minors should not be denied their day in court (see my dissent in Baird v. Loeffler [1982], 69 Ohio St. 2d 533, 536), use of the statute of limitations in this case acts to prevent a disabled individual from litigating her claim, and constitutes a miscarriage of justice.
