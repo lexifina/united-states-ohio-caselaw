@@ -1,0 +1,47 @@
+---
+court: "Supreme Court of Ohio"
+docket: "74-1028"
+decided: "1975-12-24"
+citations: ["44 Ohio St. 2d 172"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HeebeRx, Stern, W. Brown and P. Brown JJ., concur.", "Celebrezze, J., concurs in the syllabus and judgment. Corrigan, J., dissents."]
+parties: ["The State of Ohio, Appellee, v. Parker, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/44/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6696012
+cites_cases: ["25 Ohio St. 2d 95", "267 N. E. 2d 125", "270 N. E. 2d 751", "304 U. S. 458", "306 N. E. 2d 409", "37 Ohio St. 2d 21", "378 U. S. 108", "378 U. S. 478", "384 U. S. 436", "44 Ohio St. 2d 163", "496 F. 2d 622"]
+---
+
+# State v. Parker
+
+## Majority (O’Neill, O. J.)
+
+O’Neill, O. J.
+Two issues are presented by appellant for determination in this appeal. The first relates to the validity of the search warrant, and the second to the admissibility of the in-cnstody statements made by appellant.
+Appellant’s first proposition of law reads:
+“In the determination of whether or not a search warrant should be issued, underlying circumstances must show why the officer believed the informant to be reliable or his information credible, and these circumstances cannot consist solely of the general statement that such informant has supplied reliable information previously.”
+The search warrant was issued pursuant to the following information stated in the affidavit for the warrant:
+“The facts upon which such b'elief [that drugs were being kept for the purpose of use, sale and dispensing] is based are as follows: Information received from a reliable informant, who has given information in the past which has proven to be factual and true, and the informant states, that said informant has personally seen hallucinogenic drugs being used and sold inside 90 East 8th Ave., Apt. No. 10 within the past 48 hours.”
+It is appellant’s position that “the only circumstance stated in the affidavit from which an officer could conclude the informant was presently reliable, was a bald assertion of the previous reliability of thé informant,” and that “such a statement can not be deemed sufficient to comply with the requirements set down” in Aguilar v. Texas (1964), 378 U. S. 108, and State v. Joseph (1971), 25 Ohio St. 2d 95, 267 N. E. 2d 125.
+In State v. Karr (1975), 44 Ohio St. 2d 163, decided this day, two affidavits virtually identical in content to the one in question here were held by this court to be sufficient to support issuance of a search warrant. For the reasons expressed in the opinion in that case, appellant’s contention as to the validity of the search warrant is without merit.
+In his second proposition of law, appellant states, in effect, that where a suspect refuses to sign a waiver of rights form which apprises him of his constitutional privilege against self-incrimination, but then proceeds to respond to questioning, such action by the accused should reasonably alert the interrogating officer that the warnings on the form are misapprehended, and the officer must cease further questioning until he has insured that the suspect fully understands his privilege and is willing to waive it.
+Appellant’s second proposition of law closely parallels the language of the syllabus in State v. Jones (1974), 37 Ohio St. 2d 21, 306 N. E. 2d 409, which reads:
+“Where a suspect, after being fully apprised of his constitutional rights under Miranda v. Arizona, 384 U. S. 436, indicates an understanding of those rights, but subsequently acts in such a way as to reasonably alert the interrogating officer that the warnings given have been misapprehended, the officer must, before any further questioning, insure that the suspect fully understands his constitutional privilege against self-incrimination, as described in Miranda, supra.”
+In Jones the accused refused to sign a waiver form after being apprised of his rights, but willingly conversed with a detective until the detective started to take notes of the conversation, after which the accused refused to talk further. The detective then quit taking notes and upon resumption of the conversation, the accused made an incriminating statement.
+Thd state contends that Jones is distinguishable from the instant case. It is the position of the state that the accused there “never understood his rights * * * [and] obviously thought only those statements reduced to writing by the officer could be used against him” and that, in this case, “there is no showing of misapprehension so obvious in Jones, supra.”
+Admittedly, in this case, other than appellant’s willingness to be subjected to interrogation after his refusal to sign the waiver, there was nothing to alert the interrogating officer that the warnings had been misapprehended as there was in Jones, i. e., the refusal to talk when notes were taken. As to whether refusal to execute the waiver, standing alone, is enough to make inadmissible any subsequent statements, it was said in Jones, at page 25:
+“This problem has arisen elsewhere. In Brown v. State (1971), 270 N. E. 2d 751, 753, the Supreme Court of Indiana found that a defendant’s ‘ * * * refusal to sign the waiver of rights form [until consulting with an attorney] was an explicit, voluntary and knowing refusal to wave his rights. ’ Although we are not willing to imply as much from appellant’s similar refusal here, we are equally unwilling to say that appellant’s actions may easily be disregarded in assessing whether he waived his constitutional rights.”
+Thus, submission to interrogation after a refusal to sign a waiver may not, in itself, constitute sufficiently contradictory conduct by an accused to alert the interrogating officer that the accused misapprehended the explanation of his rights, necessitating, before further questioning, additional explanation of those rights. In other words, “ * * * the refusal to sign a written waiver, standing alone, does not render inadmissible statements or evidence voluntarily given after full warnings.” United States v. Vaughn (C. A. 6, 1974), 496 F. 2d 622.
+The question remains whether, on the facts presented here, the statements made after refusal to sign the waiver were “voluntarily given after full warnings.”
+The following statements from Miranda v. Arizona (1966), 384 U. S. 436, 473-475, are pertinent to this inquiry:
+“Once warnings have been given, the subsequent procedure is clear. If the individual indicates in any manner, at any time prior to or during questioning, that he wishes to remain silent, the interrogation must cease. At this point he has shown that he intends to exercise his Fifth Amendment privilege; any statement taken after the person invokes his privilege cannot be other than the product of compulsion, subtle or otherwise. Without the right to cut off questioning, the setting of in-custody interrogation operates on the individual to overcome free choice in producing a statement after the privilege has been once invoked. * * *
+“If the interrogation continues without the presence of an attorney and a statement is taken, a heavy burden rests on the government to demonstrate that the defendant knowingly and intelligently waived bis privilege against self-incrimination and his right to retained or appointed counsel. Escobedo v. Illinois, 378 U. S. 478, 490, n. 14. This court has always set high standards of proof for the waiver of constitutional rights, Johnson v. Zerbst, 304 U. S. 458 (1938), and we re-assert these standards as applied to in-custody interrogation. Since the state is responsible for establishing the isolated circumstances under which the interrogation takes place and has the only means of making available corroborated evidence of warnings given during incommunicado interrogation, the burden is rightly on its shoulders.
+“An express statement that the individual is willing to make a statement and does not want an attorney followed closely by a statement could constitute a waiver. But a valid waiver will not be presumed simply from the silence of the accused after warnings are given or simply from the fact that a confession was in fact eventually obtained. * * * ”
+The record here shows that the incriminating statements were the product of interrogation initiated by the officer and were elicited by the officer in the course of questioning conducted for the purpose of obtaining personal-history information relating to appellant. The record shows also that no further explanation of rights was given to appellant before questioning and that the interrogating officer did not inform appellant that he could stop the questioning at any time or that he had a right to an attorney.
+Under those circumstances, this court is unwilling to infer that appellant’s statements were voluntarily given or to conclude that the state has maintained its “heavy burden * * * to demonstrate that the * * # [appellant] knowingly and intelligently waived his privilege against self-incrimination and his right to retained or appointed counsel. ’ ’
+The judgment of the Court of Appeals, affirming appellant’s conviction, is reversed and the cause is remanded to the Conrt of Common Pleas for farther proceedings according to law.
+Judgment reversed.
+HeebeRx, Stern, W. Brown and P. Brown JJ., concur.
+Celebrezze, J., concurs in the syllabus and judgment. Corrigan, J., dissents.
