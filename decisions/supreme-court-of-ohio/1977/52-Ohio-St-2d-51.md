@@ -1,0 +1,77 @@
+---
+court: "Supreme Court of Ohio"
+docket: "76-1276"
+decided: "1977-11-09"
+citations: ["52 Ohio St. 2d 51"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Celebrezze, P. Brown and. Sweeney, JJ., concur.", "W, Brown, J., concurs in' the- syllabus and judgment.", "Locher, J., dissents."]
+parties: ["Geisinger, Appellant, v. Cook et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/52/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711675
+cites_cases: ["1 N. E. 2d 937", "131 Ohio St. 97", "49 N. E. 404", "57 Ohio St. 415", "7 Ohio St. 333"]
+---
+
+# Geisinger v. Cook
+
+## Majority (;;.HBRbER.T;, J.-)
+
+;;.HBRbER.T;, J.-
+Appellant:.submits as' his primary proposition of:láWthat;álthough"the' Constitution of Ohio empowers th’é^GeíibráPAssembly “to. establish other courts” than constitutional courts, such power may not be exercised in a manner causing the vacation of the office of any judge.-
+Section 15 of Article IV of the Constitution of Ohio provides:
+“Laws may be passed to increase or diminish the nuhir ber of judges of the supreme court, to increase beyond one or diminish to one the number of judges of the court of common pleas in any county, and to establish other courts, whenever twodhirds of the members elected to each house shall concur therein; but no such change, addition, or .diminution shall vacate the office of any judge; and any existing court heretofore created by law shall continue in existence until otherwise provided.”
+The foregoing has been the language of Section 15 since its amendment in 1912. Section 15 of Article IV originally provided:
+“The general assembly may increase, or diminish, the number of the judges of the supreme court, the number of the districts of the court of common pleas, the number of judges in any district, change the districts, or the subdivisions thereof, or establish other courts, whenever two-thirds of the members elected to each house shall concur therein; but no such change, addition, or diminution, shall vacate the office of any judge.” This earlier wording of Section 15 was interpreted by this court in State, ex rel. Flinn, v. Wright (1857), 7 Ohio St. 333..
+In Flinn, the relator had been duly elected and commissioned as a judge of the Criminal, Court of Hamilton County, which court had been created by an act of the General Assembly. During relator’s term-of office, the General Assembly repealed the act creating his court , of criminal jurisdiction, transferring it's business to the Court of Common Pleas of Hamilton County.
+The relator claimed that the repealing act, insofar as it attempted to abolish his offiee prior to the expiration of the period for which he had been elected and commissioned; was contrary to the Ohio Cbnstitution. ahd hence;Inoperative, and: that , his; office continued to éHst, ,nptwithstándihgdhe repealing act. The sole constitutional provision relied upon by the relator in this regard was Section 15 of Article IV, as it read in 1857.
+In Flinn, this court declared that the saving clause at the end of Section 15, which applied to courts and judge-ships established by the Constitution, did not apply to municipal courts and municipal judgeships created by the General Assembly:
+“The relator * * * contends that the saving clause at the end of this section applies as well to courts and judges established and created by legislative authority, as to those which subsist independently of that authority. But we do not think so. ‘But no such change, addition, or diminution, shall vacate the office of any judge.’ The word ‘such,’ in connection with the words ‘change, addition, or diminution,’ directly refers us to certain changes, additions, and diminutions before mentioned and provided for. What are they? Clearly ‘the number of the judges of the Supreme Court, the number of the districts of the court of common pleas, the number of judges of any district,’ the districts themselves, ‘or the subdivisions thereof.’ The changes, additions, and diminutions mentioned in the preceding part of the section, evidently have no reference whatever to the ‘other courts’ which the general .assembly may ‘establish,’ ‘whenever two-thirds of the members elected to each house shall concur therein.’” Flinn, supra, at pages 335-36.
+The effect of this court’s conclusion was that Section 15 foibade the General Assembly to directly or indirectly vacate the office of a judge of a court established by the. Constitution, but did not . restrict the power of that branch of government to abolish municipal courts. The framers of the Ohio Constitution intended to leave the power to abolish as full and unrestricted as .was the. power to. create.
+The probable motive underlying, the 1912 amendment of .Article TV was to guarantee to each county at least one common pleas court judge. This was the focus of: the spirited April 24, 1912, Constitutional Convention discussion of Proposal No. 304, which encompassed the amendment of Section 15 of Article IV to read as it does today. 2 Proceedings and Debates of the Constitutional Convention of the State of Ohio (1912), at pages 1397-1403.
+Since 1912, Section 15 has directed that “no such change, addition, or diminution shall vacate the office of any judge.” The word “such,” relative to the phrase “change, addition, or diminution,” guides us to changes, additions, or diminutions theretofore mentioned. This reference is to the number of the judges of the Supreme Court and the number of the judges of the common pleas courts in any county. The changes, additions, and diminutions do not relate to “other courts” which the General Assembly may see fit to establish.
+We believe that the basic reasoning of Flinn, relative to Section 15, remains tenable. Section 15 of Article IV of the Constitution of Ohio does not limit the power of the General Assembly to abolish municipal courts.
+Appellant . submits further . that although Am. Sub.. H. B; No. 205 provided for a change in the name and style of the Troy Municipal Court, for the expansion of the territorial jurisdiction formerly enjoyed by said court, and for the election of two new full-time judges, it did not abolish the Troy Municipal Court. He points out that R. C. 1901.01 establishes a - municipal court in various municipalities, among them the municipal corporation of Troy, and that the amended statutory provision, retaining Troy, omits Piqua, which also is located in Miami County, from the list of enumerated municipal corporations.
+Section 10 of Am. Sub. H. B. No. 205 provides:
+■ “The offices of the existing full-time municipal judge of the Troy municipal court, and the existing part-time Fremont municipal court are abolished by this act, effective upon the commencement of the term of office of the full-time municipal judges who' are elected respectively to the Miami County and Fremont municipal courts.”
+Section 11 of Am. Sub. H. B. No. 205 provides in relevant part:
+“All causes, judgments, executions, and other proceedings pending in the municipal courts of Piqua and Troy at the close of business December 31,1975, shall be transferred to and proceed in the Miami County municipal court as if originally instituted there.”
+There does remain a municipal court in Troy, as appellant asserts. However, it is not the Troy Municipal Court, but the Miami County Municipal Court. Through its enactment of Am. Sub. H. B. No. 205, the General Assembly abolished the Troy Municipal Court and created the Miami County Municipal Court, which shall sit in Troy and have county-wide jurisdiction. See, also, R. C. 1901.021.
+Appellant avers that the General Assembly may not remove a judge from office except as provided in Section 17 of Article IV of the Constitution of ,Ohio. He states that he has been removed from his judicial office by a legislative, act of the General Assembly, and. submits that a legislative enactment effecting such a removal in- a fashion, other than that provided in Article IV is unconstitutional and void. .
+It is our conclusion that the constitutional provisions for removal of a judge from office have no application under the instant facts. If the court is properly abolished by the General Assembly, the term of one holding the office of judge of that court is terminated. This court has cited Flinn in noting that “there can he no incumbent without an office.” State, ex rel. Attorney General, v. Jennings (1898), 57 Ohio St. 415, 423, 49 N. E. 404.
+. Appellant contends further, that during: the term for which he, was elected, he was legislatively removed from his judgeship in violation of Section 6 of Article IV of the Constitution of Ohio, relating to judicial salaries. We agree that as long as a court remains in existence,, the salary of a judge thereof cannot be reduced during his term of office. However, the court upon which appellant served no longer exists; it was properly abolished by the General Assembly.
+The judgment of the Court of Appeals must be affirmed.
+Judgment affirmed.
+O’Neill, C. J., Celebrezze, P. Brown and. Sweeney, JJ., concur.
+W, Brown, J., concurs in' the- syllabus and judgment.
+Locher, J., dissents.
+Note this partial response of Mr. Halfhill to a. question offered in the course of debate by Mr. Mauck: * .
+""'“We started Out with ,the assumption that-we could not get:along without a common pleas court in each and every county. I think that is evident. That is to say, we must hold a court in each county to settle personal disputes and differences and define and protect property rights, because that is a part of our civilization. We must maintain a court in each and every county, hut in holding that court we are at the same time at a disadvantage, because we do not have a judge in each and every county; so we thought we could make the central proposal with two objects in view or possibly more.
+“2. We would wipe out these awkward judicial districts, which ought never to have been in the constitution, by saying the county shall be the unit, the judge shall be elected within the county, the judge shall reside within the county and each county shall have a judge. So we have accomplished that much.” 2 Proceedings and Debates of the Constitutional Convention of the State of Ohio (1912), at page 1399.
+Consistent with our holding in the instant cause is State, ex rel. Gustafson, v. Krause (1936), 131 Ohio St. 97, 1 N. E. 2d 937, upon which appellant heavily relies. The Gustafson relator had instituted an action in the appellate court to obtain a peremptory writ of mandamus to compel the respondent board of elections to place his name on the ballot in a primary election; the relator desired to become a candidate for the Court of Common Pleas. Gustafson, which did not mention Flinn, supra (7 Ohio St. 333), therefore entailed a judgeship in a Court of Common Pleas, a court established by the Constitution.
+R. C. 1901.01 provides, in relevant part:
+“There is hereby established a municipal court in each of the following municipal corporations: • -
+, “Akron, * * * Troy, * * * Youngstown, and Zanesville.”
+Section 17 of Article IV of the Constitution of Ohio provides:
+“Judges may be removed from office, by concurrent resolution of both Houses' of the General Assembly, if two-thirds of the members} elected to each House, concur therein; but, no such removal shall be made, except upon complaint, the substance of which shall be entered on the journal, nor, until the party charged shall have had notice thereof, and an opportunity to be heard.” -
+Section 6(B) of Article IV of the Constitution of Ohio provides, in pertinent part: •' 1
+“The judges of the Supreme Court, courts of appeals, courts of common pleas, and divisions thereof, and of all courts of record established by law, shall, at stated times, receive for their services such compensation as may be provided by law, which shall not be diminished during their term of office.”
+
+## Concurrence (William B. Bitowir, J.,)
+
+William B. Bitowir, J.,
+concurring. I concur in the syllabus and in the judgment of Justice Herbert concerning the power of the General Assembly.
+However, I feel strongly that Judge Geisinger should be paid his salary for the balance of his term. If it is not a legal obligation, it is certainly a moral obligation of the General Assembly to make sure that he is reimbursed for the balance of his elected term.
+
+## Dissent (LocheR, J.,)
+
+LocheR, J.,
+dissenting. Section 15 of Article IV of the Ohio Constitution can only be read as prohibiting the vacation of the office of any judge during his term. Thus, I am unable to assent to the majority’s bestowal of unbridled power upon the General Assembly to abolish courts and judgeships during the term of the incumbent. Nor, do I find the basic reasoning of State, ex rel. Flinn, v. Wright (1857), 7 Ohio St. 333, relative to Section 15 either applicable or tenable. The Court of Appeals, in the instant cause, made the following cogent comment concerning State, ex rel. Flinn, v. Wright, supra, at page six of its opinion:
+“The rationale of the Flinn ease has not been reversed, even though its logic is questionable and its conclusion open to expressed doubts. Rhetorically, the application of the words, ‘no such change, addition or dimunition,’ to some but not all of the preceding conditions appears to be one of personal choice not supported by either the rules of grammar or by the purpose of the entire section.”
+Justification for the continuation of the limited application espoused in State, ex rel. Flinn, v. Wright, supra, is further strained because the “preceding conditions” are now joined in the conjunctive, instead of the disjunctive that existed in State, ex rel. Flinn, v. Wright, supra.
+This strained interpretation not only rebukes the plain intent of the section predicated npon a commonsensical heritage of judicial independence, hut fails to heed the sound admonition:
+“Judges must beware of hard constructions and strained inferences; for there is no worse torture than the torture of laws.” Bacon, Essays of Judicature 12.
+The results are indeed torturous. The General Assembly no longer is restricted in the removal of certain of this state’s judges to the prescribed manner of Section 17 of Article IV of the Ohio Constitution. A convenient circumvention, vitiating the necessity of a complaint, hearing and two-thirds vote of the members of each house, is provided for the General Assembly to partially disenfranchise the voters by the removal of a duly elected member of the judiciary.
+The judiciary is commonly characterized as the least equal of the three equal branches of government, possessing neither the purse nor the sword. Historically, the judicial branch has been protected from the possibility of importuning by the other branches of government. The majority’s decision needlessly weakens one vital safeguard. I can find neither an express constitutional mandate for this action abhorrent to the basic fabric of government nor any utilitarian necessity. There are numerous means of effecting judicial reorganization to meet the demands of population and efficiency not necessitating the removal of a judge during his elected term, the disenfranchisement of electors, and latent legislative subjection of the judiciary.
+Accordingly, I respectfully dissent.
