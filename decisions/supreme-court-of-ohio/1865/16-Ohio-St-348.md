@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1865-12"
+citations: ["16 Ohio St. 348"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, White, Welch, and Brinkerhoee, JJ., concurred."]
+parties: ["William Patterson v. Cyrus McNeeley, Executor of Eliza H. Hatcher, deceased."]
+source_url: "https://static.case.law/ohio-st/16/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 879696
+cites_cases: ["13 Ohio St. 364", "13 Pick. 168", "13 Wend. 587", "17 Ohio, 565", "17 Wend. 422", "18 Pick. 173", "20 Ohio, 97", "3 Ohio St. 449", "4 Ohio St. 530", "5 Mass. 538", "5 Ohio, 214", "6 Mass. 519", "8 Ohio St. 405", "9 Ohio St. 443", "9 Ohio St. 63", "9 Wheat. 702"]
+---
+
+# Patterson v. McNeeley
+
+## Majority (Scott, C. J.)
+
+Scott, C. J.
+. When Patterson, the plaintiff in error, affixed his signature to the note in question, the only stipulation which it contained on the subject of interest was in these words: “ The above to be at ten per cent, interest annually.” And the question arises: What is the proper import and meaning of this language? It was clearly intended as a declaration that the sum specified in the note should bear interest at the rate of ten per cent, per annum. Had the word *“annually” been omitted, such would still hay© ■been its legal import. A rate of interest can not be defined with fullness and precision without reference both to the quantum of percentage and the time within which that quantum shall accrue. Statutes always fix a rate of interest by reference to the period of one year; they sj)eak of interest at a given rate “per annum,” or “ annually.” And such is so generally the case in contracts, that where parties express a rate of interest by reference to percentage alone, it will be inferred that an annual per cent, was intended, and the words per annum will be-supplied. In this case, the quantum or amount of the rate per cent, was followed by the word “ annually.” We think this word was intended to express definitely what the-law would otherwise have implied; that the specified rate of ten per cent, was intended as an annual rate, and not a monthly or a biennial one. The whole clause certainly contains no express reference to anything else than the rate of interest which the note shall bear, and the words used are all pertinent and necessary in defining that rate with precision. And we see no room for the inference that anything more was meant than that the note-should bear interest at the rate of ten per cent, per annum,
+If we are right in this construction, there is no doubt that the -interlining of the word “paid,” before the word “annually,” was a. material alteration of the noto. The effect of the alteration was to add to the existing terms of the-writing a further stipulation that the interest accruing upon the principal sum named in the note should be paid annually; and as a consequence, if the interest should not be promptly paid as it fell due, then the interest so in arrear should bear interest. But prior to the alteration, the terms of th© note imposed no liability to pay interest upon interest.
+What, then, is the effect of this material alteration of the note, at the time- and under the circumstances shown by the verdict of the-jury? On this question, the case of Boalt v. Brown, 13 Ohio St. 36k, is directly in point. We have only to change the names of the parties in.order to make the facts bearing on this question the same in each case. And adopting substantially the language of the-court in that *case, we must say that the note, in the form in-which it was signed by Patterson, the surety, was never delivered to the payee. It was altered so as to make the interest payable annually, before delivery, in the absence of Patterson, and without hi© knowledge or assent. Patterson had assented to, signed, and au~ tkorized the delivery of one note, which Eliza H. Hatcher, the payee, declined to accept, or, at least, did not accept, but did accept another which she know Patterson had never assented to and had never signed. In all this there was evidently no contract; for the parties, Patterson and Hatcher, did not mutually assent to the same terms. Patterson’s note was never delivered, and the note which was delivered was not Patterson’s. The only supposition we can make, without imputing dishonesty to the payee, is, that in accepting the altered note, she intended to rely on the responsibility of such of the makers as had assented to the alteration; and of these she knew Patterson was not one. With them only did she contract, and from them only can she, or her representative, demand damages for non-performance.
+On the facts, as found by the verdict of the jury, Patterson, the plaintiff in error, was entitled to judgment. The judgment of the court of common pleas will therefore be reversed, and judgment entered in favor of Patterson on the verdict of the jury, for his costs of suit.
+Day, White, Welch, and Brinkerhoee, JJ., concurred.
