@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1869-12"
+citations: ["19 Ohio St. 157"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Scott and White, JJ., concurred.", "Welch and Day, JJ., concurred in the reversal."]
+parties: ["Pittsburg, Fort Wayne and Chicago Railroad Company v. John Slusser."]
+source_url: "https://static.case.law/ohio-st/19/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 882966
+cites_cases: ["1 Hill, 480", "1 Ohio St. 37", "1 Ohio, 36", "10 Ohio St. 277", "10 Ohio St. 279", "13 Johns. 414", "14 Howard, 468", "15 Mass. 519", "19 Wend. 343", "2 Cranch, 167", "2 Gray, 345", "21 Howard, 202", "4 Watts, 222", "5 Barb. 79", "5 Barb. 80", "5 Ohio St. 61", "6 Barb. 231"]
+---
+
+# Pittsburg, Fort Wayne & Chicago Railroad v. Slusser
+
+## Majority (Bbinkerhoff, O.J.)
+
+Bbinkerhoff, O.J.
+The action in the court below was brought by Slusser against the railroad company, to recover damages for having been, while rightfully a passenger, as he alleged, in one of the cars of the company, with force, violence, and malicious intent, ejected from the car by the agents and servants of the company; and also for a breach of an alleged contract by the company to carry him from Delphos, Ohio, to Fort Wayne, Indiana. The case was tried to a jury, and resulted in a verdict and judgment for the plaintiff for one thousand three hundred and fifty dollars, and costs of suit. The defendant moved for a new trial, on the ground that the damages awarded by the verdict are exorbitant, and not warranted by the testimony. The court below overruled the motion, and the defendant excepted. A bill of exceptions was taken, and is made a part of the record, which embodies all the evidence in the case and the charge of the court in full.
+It appears from the record that between Delphos and Fort Wayne there is the intermediate station of Van Wert; that Slusser bought a ticket at the ticket-office in Delphos for some point westward. He says, in his testimony, that it was a ticket for Fort Wayne, and that he paid' therefor one dollar and fifty cents, which was the usual price of a ticket to that place. In his testimony he says he cannot write, but that by the aid of spelling he is able to read; that he saw the word Fort Wayne on the ticket. From the whole evidence it seems most probable, that, by the mistake of the ticket-agent at Delphos, the plaintiff was furnished a ticket to Yan Wert instead- of to Fort Wayne ; and that the word Fort Wayne seen by the plaintiff on his ticket was a part of the name of the company, and not the designation of the point of destination of its purchaser. But, be this as it may — soon after the-train left Delphos, the-conductor took up the plaintiff’s ticket and gave no cheek in return; and nothing was said between the parties. The train having arrived and stopped at Yan Wert, and again started, the conductor again came round for tickets; and applying to plaintiff for a ticket, was told that he had none, but had given it up to him. The conductor then demanded- his check. The plaintiff informed him that he had given up his ticket for Fort Wayne, and was not furnished a check. This the conductor disputed, and informed the plaintiff that- he must either pay his fare or leave the cars. The plaintiff refused to do either, became somewhat boisterous, and applied some epithets to the conductor; who thereupon pulled the bell-rope, checked the speed of the train to nearly, but not quite, a full stop, took hold of the plaintiff, and, against his' resistance, but using no more force than was necessary for the purpose, and with no word of insult, ejected him from the car. The plaintiff alighted from the steps of the car upon his feet, but fell backward upon his buttocks, and then sprang up and ran to reach and get on to the hindmost car, but failed to do so. The occurrence took place in the day-time, and the plaintiff received no material bodily injury. The plaintiff, up to the time of the occurrence complained of, was a stranger to the conductor.
+The testimony being closed, the court, among other things, charged the jury, in substance, that if they found the conductor to have acted maliciously in ejecting the plaintiff from the car, they were at liberty to award punitive damages: for the sake of example.
+We are of opinion, that while this' charge may be well enough as an abstract proposition — and might be well-enough if given in a proper case — yet when given-in a case like this, it was uncalled for, and tended to mislead the jury. We think it clear that this was no case for the application of the proposition stated by the court to the jury; and the statement of it tended to lead the minds of the jury to suppose that the coxu’t regarded it as such a case. It is always proper for courts engaged in the trial of cases to avoid giving to the jury mere abstract propositions of law, however correct they may be, and it is often their imperative duty to refuse to give them if requested. A majority of us admit that corporations may render themselves liable, by the malicious misconduct of their agents or servants while acting within the scope of their employment, to exemplary and punitive damages; but it is a doctrine capable of being greatly abused, and coxuts ought to be careful to see to it that it is not misapplied.
+The obviously exorbitant verdict found by the jury in thH case satisfies us that it was so misapplied here, and that the court below erred in overruling the motion for a new trial.
+Judgment reversed, and cause remanded to common pleas.
+Scott and White, JJ., concurred.
+Welch and Day, JJ., concurred in the reversal.
