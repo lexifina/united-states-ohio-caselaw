@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19024"
 decided: "1925-03-18"
-citations: ["3 Ohio Law Abs. 299", "3 Abs. 198", "4 Ohio Law Abs. 161", "3 Abs. 198. OA. 2 Abs. 412; OS. Pend. 3 Abs. 299"]
+citations: ["3 Ohio Law Abs. 299", "3 Abs. 198"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
