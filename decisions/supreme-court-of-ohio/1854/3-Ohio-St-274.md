@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1854-12"
+citations: ["3 Ohio St. 274"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George F. Thomas v. The Administrator of William P. Miles, deceased."]
+source_url: "https://static.case.law/ohio-st/3/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 505254
+cites_cases: ["2 Ohio St. 519"]
+---
+
+# Thomas v. Administrator of Miles
+
+## Majority (Ranney, J.)
+
+Ranney, J.
+Thomas and Miles were partners in trade, dealing in fancy goods, cabinet-makers’ trimmings and furnishings, and patent medicines, in the city of Cincinnati. On the 11th of August, 1849, they agreed to dissolve the partnership, upon certain conditions expressed in a written agreement of that date. It was stipulated that the parties should bid against each other for the whole partnership interest, and that the highest bidder should take the whole property at the price bid. The party accepting the offer then bound himself to the purchaser, in the sum of ten thousand dollars as liquidated damages, in the following stipulation:
+■ “ The party accepting such offer shall not, at any time within five years from the date hereof, enter into nor be concerned in the kind of business which has heretofore been conducted or carried on by the said firm of Thomas & Miles, or any branch thereof, within the city of Cincinnati, and shall not in any way interfere with any agency that has been established by the said firm, now established, nor establish any similar agency or agencies, that may interfere or compete with any one or more that may hereafter be established by the party making the offer that has been so accepted, whether such agencies shall be located in Cincinnati or elsewhere.”
+At the sale made in pursuance of this agreement, Thomas became the purchaser of the interest of Miles; and he alleges as a breach of the covenant quoted above, that Miles did, within five years, and before the commencement of this suit, enter into and was concerned in the same kind of business which had been theretofore carried on by said firm of Thomas & Miles, within the city of Cincinnati. Issue being taken upon this allegation, on trial in the Commercial Court, the evidence given by the plaintiff was overruled, as not tending to prove the breach alleged, and a judgment of nonsuit ordered.
+Tested by the general principles applicable to contracts of this 276] character, as settled by this court in Lange v. Werk, 2 *Ohio St. 519, this agreement seems to have been reasonable and proper, and founded upon a sufficient consideration, so far as it restrained Miles from engaging, for a limited time, within the city of Cincinnati, in the business theretofore pursued by the firm, and which it may fairly be inferred was expected to be continued by Thomas.
+So far it is only a partial restraint of trade, no more extensive than was necessary to afford a fair protection to the purchaser of the whole partnership interest; while the infiuénce it might have upon the value of that interest, and the inducement it furnished to bid higher for it, would seem to furnish a sufficient pecuniary consideration to uphold the contract. Subjected to the same test, it is almost equally clear that the obligation not to interfere or compete with any branches that Thomas might establish at any and all other places, is in general restraint of trade, opposed to public policy, and therefore void.
+The covenant is, however, divisible, and the question is, did the evidence given tend to show a breach of the obligation not to enter into or be concerned in the business in Cincinnati ?
+We are clearly of opinion that it did not. It appears that Miles, soon after the dissolution of the partnership, left Cincinnati, and went to reside at Trenton, in New J ersey. Before leaving, or when back on a visit, he made an arrangement with some cabinetmakers, and an omnibus manufacturer, personal friends and acquaintaces of his¿ to furnish them certain articles needed in their line of business, saying that he should be frequently in New York and Philadelphia, an'd could buy there and furnish them lower than they could be bought in Cincinnati. Under this arrangement, several bills of goods were purchased and furnished accordingly. Now, what was the object of this stipulation in the agreement ? Unquestionably to avoid the competition of a rival establishment located in Cincinnati. It did not, upon any fair interpretation, prohibit Miles from pursuing the business elsewhere, and dealing with customers residing in ^Cincinnati. It has relation alone to the locality [277 where the business is pursued, and where the establishment might be found by any person desirous of purchasing the goods that were kept for sale. He shall not enter into or be concerned in the business “ within the city of Cincinnati.” To speak of a New York merchant selling goods to Cincinnati customers as engaged in business in Cincinnati, would be such an obvious impropriety of language as to arrest the attention of the least observing, while such an extension of ijhe language of a contract which the law prima facie regards as opposed to public policy, and under the most favorable circumstances barely permits, but never encourages, would be altogether inadmissible.
+The judgment must be affirmed.
