@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "12251"
+decided: "1912-01-23"
+citations: ["85 Ohio St. 486"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, C. J., Price and Donahue, JJ., concur."]
+parties: ["The Dayton & Troy Electric Ry. Co. v. Myers."]
+source_url: "https://static.case.law/ohio-st/85/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 983466
+---
+
+# Dayton & Troy Electric Ry. Co. v. Myers
+
+## Majority
+
+Judgment affirmed.
+Davis, C. J., Price and Donahue, JJ., concur.
