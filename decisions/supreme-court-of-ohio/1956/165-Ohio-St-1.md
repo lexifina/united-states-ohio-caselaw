@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Ohio"
+docket: "34580 and 34610"
+decided: "1956-03-07"
+citations: ["165 Ohio St. 1"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["\"Weygandt, C. J., Matthias, Zimmerman, Stewart, Bell and Taft, JJ., concur."]
+parties: ["The Beiter Line, Inc., et al., Appellants, v. Public Utilities Commission of Ohio, Appellee. International Motor Freight Co., Appellant, v. Public Utilities Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st/165/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722397
+cites_cases: ["115 Ohio St., 376", "115 Ohio St., 706", "123 Ohio St., 127", "125 Ohio St., 617", "126 Ohio St., 16", "147 Ohio St., 376", "154 N. E., 249", "156 N. E., 141", "174 N. E., 244", "183 N. E., 790", "184 N. E., 11"]
+---
+
+# Beiter Line, Inc. v. Public Utilities Commission
+
+## Majority (Hart, J.)
+
+Hart, J.
+The sole issue in each of these cases is whether the Public Utilities Commission may, under the provisions of Section 4921.26, Revised Code, upon application by a motor transportation company for authority, in addition to its operations within the municipal corporation included in its certificate, to operate over all highways, roads and streets and to serve all industrial plants and other enterprises within an encircling territory outside- but commercially a part of such municipal corporation, grant such application without first considering and finding public convenience and necessity as to motor carrier service within such zone.
+The appellants take the position that the extension of the territory over which the holder of a certificate of public convenience and necessity may operate calls for the same adjudication as to the issue of public convenience and necessity as is made in granting an original certificate to a public motor carrier.
+It has been held that it is incumbent upon an applicant for am original certificate of public convenience and necessity or for the extension of an existing certificate to show both convenience and necessity. Lykins v. Public Utilities Commission, 115 Ohio St., 376, 154 N. E., 249; Canton-East Liverpool Coach Co. v. Public Utilities Commission, 123 Ohio St., 127, 174 N. E., 244; A. & T. Motor Freight, Inc., v. Public Utilities Commission, 125 Ohio St., 617, 184 N. E., 11; Continental Freight Forwarding Co. v. Public Utilities Commission, 126 Ohio St., 16, 183 N. E., 790; Lorain-Amherst Transit, Inc., v. Public Utilities Commission, 147 Ohio St., 376, 71 N. E. (2d), 705.
+And it has been held that, Avhere existing motor transportation service is reasonably adequate to meet the needs of the particular territory, authorization of a new and additional service is not warranted. Dayton & Xenia Motorbus Co. v. Public Utilities Commission, 115 Ohio St., 706, 156 N. E., 141.
+Section 4921.26, Revised Code, under which the Public Utilities Commission is authorized to create commercial zones surrounding municipalities and under which the Public Utilities Commission acted in these causes, provides in part as follows:
+“Where industrial plants or other enterprises are located in a district which is outside but commercially a part of any municipal corporation, the Public Utilities Commission, on its own motion or on petition of any interested common carrier by motor vehicle or shipper, may, after investigation, notice, and hearing, determine and fix the limits of a zone surrounding such municipal corporation, and may include in such zone any adjacent territory, incorporated or unincorporated, which it finds commercially a part of such municipal corporation. Upon and after- the effective date of an order establishing any such commercial zone, all common carriers by motor vehicle transporting property over regular or irregular routes and authorised to serve such municipal corporation as a point of origin and destination of shipments shall, by virtue of and in accordance Avith such order, serve such commercial zone in the same manner and to the same extent as they are authorised by their respective certificates to serve such municipal corporation. The commission may attach such conditions to any such order as, in its judgment, the public convenience and necessity requires.” (Italics supplied.)
+By the terms of the foregoing statute, there appear certain indicia from which this court concludes that the commission is not required to make a specific finding of convenience and necessity as to such previously certificated motor carrier within the municipality in establishing such commercial zone. In the first place, the commission may, under the statute, sua sponte establish such zones without application or without hearing. In such a case its determination to establish the zone is sufficient without going into the issue of convenience and necessity, and, if the commission has such power on its own motion, that power can not be lessened by the fact that an application has been filed and considered as a basis of its action.
+In the second place, the issue as to convenience and necessity has already been determined in granting certificates to the carriers already serving the corporations themselves, since the zone extensions authorized under the statute must be commercially a part of the corporations. In other words, when the commission makes the finding that the zone is “commercially a part of such municipal corporation,” it, in effect, finds that there is convenience and necessity which is the very object of such zone extension. Furthermore, the commission has the power under the statute to attach through its order for such zone ‘ ‘ such conditions * * * as, in its judgment, the public convenience and necessity requires.”
+Finally, the same result may be effected by the municipality itself by the extension of its boundaries by annexation of the territory comprehended by the zone, although, under Sections 4921.02 and 4921.04, Revised Code, a municipality is precluded from supervising motor transportation companies within its territorial limits.
+Under the statute the commission has power to act, and from the records in these cases this court is unable to find that the orders of the commission are unreasonable or unlawful. This court has frequently held that an order of the Public Utilities Commission will not be disturbed by this court unless such order is against the manifest weight of the evidence. Continental Freight Forwarding Co. v. Public Utilities Commission, supra; Lorain-Amherst Transit, Inc., v. Public Utilities Commission, supra.
+The orders of the Public Utilities Commission in both causes are affirmed.
+Orders affirmed.
+"Weygandt, C. J., Matthias, Zimmerman, Stewart, Bell and Taft, JJ., concur.
