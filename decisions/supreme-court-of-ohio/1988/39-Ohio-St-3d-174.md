@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-795"
+decided: "1988-10-26"
+citations: ["39 Ohio St. 3d 174"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Locher, Holmes, Wright and H. Brown, JJ., concur.", "Douglas, J., concurs in judgment only."]
+parties: ["[The State, ex rel.] Tilford, Appellant, v. Crush, Judge, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/39/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1414148
+cites_cases: ["14 OBR 328", "14 Ohio St. 3d 26", "16 O.O. 3d 198", "16 O.O. 3d 391", "20 OBR 285", "20 Ohio St. 3d 37", "24 O.O. 3d 320", "25 OBR 77", "25 Ohio St. 3d 53", "285 N.E. 2d 22", "3 O.O. 3d 441", "30 Ohio St. 2d 326", "32 Ohio St. 3d 30", "33 Ohio St. 3d 111", "338 N.E. 2d 522", "346 N.E. 2d 325", "348 N.E. 2d 695", "361 N.E. 2d 247", "404 N.E. 2d 151", "405 N. E. 2d 724", "436 N.E. 2d 1005", "44 Ohio St. 2d 86", "459 N.E. 2d 870", "46 Ohio St. 2d 349", "46 Ohio St. 2d 58", "470 N.E. 2d 894", "485 N.E. 2d 713", "49 Ohio St. 2d 295", "495 N.E. 2d 16", "512 N.E. 2d 343", "515 N.E. 2d 911", "59 O.O. 2d 387", "62 Ohio St. 2d 164", "62 Ohio St. 2d 329", "70 Ohio St. 2d 213", "73 O.O. 2d 328", "75 O.O. 2d 142", "75 O.O. 2d 435", "9 OBR 505", "9 Ohio St. 3d 192"]
+---
+
+# State ex rel. Tilford v. Crush
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This court has consistently held that a claim in prohibition will not lie unless the following three requirements are met: (1) the court or officer against whom the writ is sought is about to exercise judicial or quasi-judicial power; (2) the exercise of such power is unauthorized by law; and (3) it will result in injury for which no other adequate remedy exists. State, ex rel. Yates, v. Court of Appeals for Montgomery Cty. (1987), 32 Ohio St. 3d 30, 512 N.E. 2d 343; State, ex rel. Judson, v. Spahr (1987), 33 Ohio St. 3d 111, 515 N.E. 2d 911; Manrow v. Court of Common Pleas of Lucas Cty. (1985), 20 Ohio St. 3d 37, 20 OBR 285, 485 N.E. 2d 713; State, ex rel. Corrigan, v. Griffin (1984), 14 Ohio St. 3d 26, 14 OBR 328, 470 N.E. 2d 894.
+Ordinarily, all three prerequisites must be present before a claim in prohibition has been stated. State, ex rel. Dayton, v. Kerns (1977), 49 Ohio St. 2d 295, 297, 3 O.O. 3d 441, 443, 361 N.E. 2d 247, 249. However, we have held that “[i]f an inferior court is without jurisdiction whatsoever to act, the availability or adequacy of a remedy of appeal to prevent the resulting injustice is immaterial to the exercise of supervisory jurisdiction by a superior court to prevent usurpation of jurisdiction by the inferior court.” State, ex rel. Adams, v. Gusweiler (1972), 30 Ohio St. 2d 326, 329, 59 O.O. 2d 387, 388, 285 N.E. 2d 22, 24; State, ex rel. Johnson, v. Perry County Court (1986), 25 Ohio St. 3d 53, 58, 25 OBR 77, 81, 495 N.E. 2d 16, 21. But before we will exercise our jurisdiction to issue the writ in such instance, there must be a patent and unambigous lack of jurisdiction of the inferior court which clearly places the dispute outside the court’s authority. State, ex rel. Smith, v. Court (1982), 70 Ohio St. 2d 213, 215-216, 24 O.O. 3d 320, 321, 436 N.E. 2d 1005, 1007, citing State, ex rel. Gilla, v. Fellerhoff (1975), 44 Ohio St. 2d 86, 88, 73 O.O. 2d 328, 329, 338 N.E. 2d 522, 523. Thus, where this showing has not been made, the availability of an adequate remedy in the ordinary course of law precludes the issuance of the writ of prohibition. Therefore, on some occasions, we have found it unnecessary to consider whether the other elements for issuing the writ have been satisfied. See, e.g., State, ex rel. Ruffin, v. Court of Common Pleas (1976), 46 Ohio St. 2d 58, 75 O.O. 2d 142, 346 N.E. 2d 325; State, ex rel. Zoller, v. Talbert (1980), 62 Ohio St. 2d 329, 16 O.O. 3d 391, 405 N. E. 2d 724.
+Here, appellant does not dispute appellee’s authority to issue preliminary injunctions pursuant to R.C. 2727.03. Neither does he question appellee’s authority to order sanctions against those who disobey court orders in general, R.C. 2705.02; Zakany v. Zakany (1984), 9 Ohio St. 3d 192, 9 OBR 505, 459 N.E. 2d 870, and injunctions in particular, R.C. 2727.11. Furthermore, appellant does not claim on appeal that appellee exceeded his constitutional authority by issuing an injunction that restricts the content of ideas or imposes unreasonable logistic or numerical restrictions. Cf. State, ex rel. Beacon Journal Pub. Co., v. Kainrad (1976), 46 Ohio St. 2d 349, 75 O.O. 2d 435, 348 N.E. 2d 695. Rather, the gravamen of appellant’s argument is that appellee is improperly enforcing his order and, as a result, has found appellant in contempt. Thus, the dispositive issue in this case is whether appellant has an adequate remedy at law.
+R.C. 2705.09 specifically affords appellate review for contempt orders. Apparently, appellant has pursued an appeal, which, presumably, will extend to whether he violated the court’s order and whether sanctions were properly imposed. Moreover, while the preliminary injunction cannot now be appealed, State, ex rel. Add Venture, Inc., v. Gillie (1980), 62 Ohio St. 2d 164, 16 O.O. 3d 198, 404 N.E. 2d 151, review may be had in the event that it becomes permanent. Inasmuch as prohibition cannot serve as a substitute for appeal, State, ex rel. Ruffin, v. Court of Common Pleas, supra, the judgment of the court of appeals dismissing the complaint is affirmed.
+Judgment affirmed.
+Moyer, C.J., Sweeney, Locher, Holmes, Wright and H. Brown, JJ., concur.
+Douglas, J., concurs in judgment only.
