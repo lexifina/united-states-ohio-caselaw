@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89-1006"
+decided: "1990-07-25"
+citations: ["52 Ohio St. 3d 266"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Wright, H. Brown and Resnick, JJ., concur,", "Holmes, J., concurs in judgment only."]
+parties: ["Wean Incorporated, Appellee, v. Industrial Commission of Ohio et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-3d/52/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1424601
+cites_cases: ["13 O.O. 2d 240", "169 N.E. 2d 697", "171 Ohio St. 279", "28 OBR 337", "28 Ohio St. 3d 259", "36 Ohio St. 3d 100", "42 Ohio St. 3d 103", "503 N.E. 2d 753", "522 N.E. 2d 489", "537 N.E. 2d 651"]
+---
+
+# Wean Inc. v. Industrial Commission
+
+## Majority (Douglas, J.)
+
+Douglas, J.
+The issue we are asked to decide is whether R.C. 4123.411(C), effective August 22, 1986, retroactively requires self-insured employers to reimburse the bureau for DWRF payments to eligible employees in violation of Section 28, Article II of the Ohio Constitution. For the reasons that follow, we answer this inquiry in the negative and hold that R.C. 4123.411(C), as amended August 22, 1986, does not violate the retrospective provision of Section 28, Article II of the Ohio Constitution.
+In Van Fossen v. Babcock & Wilcox Co. (1988), 36 Ohio St. 3d 100, 522 N.E. 2d 489, this court articulated a two-step analysis a court should follow in determining whether a statute violates the retroactivity provisions of Section 28, Article II.
+Initially, a court must look at the intent of the General Assembly and determine whether the statute meets the threshold test for retroactive application contained in R.C. 1.48. R.C. 1.48 states that “[a] statute is presumed to be prospective in its operation unless expressly made retrospective.” As noted in Kiser v. Coleman (1986), 28 Ohio St. 3d 259, 262, 28 OBR 337, 339, 503 N.E. 2d 753, 756, where “* * * there is no clear indication of retroactive application, then the statute may only apply to cases which arise subsequent to its enactment.”
+Only after a court has determined that the General Assembly intended a statute be given retroactive application, should a court consider whether the statute, as applied, violates Section 28, Article II. This court on numerous occasions has held that only retroactive substantive laws violate Section 28, Article II. Retroactive remedial laws do not. See Van Fossen, supra, at 106-107, 522 N.E. 2d at 496-497.
+Turning our attention to the statute in question, R.C. 4123.411(C), effective August 22, 1986, provides:
+“For an employer granted the privilege to pay compensation directly the bureau of workers’ compensation shall pay to employees who are participants regardless of the date of injury, any amounts due to the participants under section 4123.414 of the Revised Code and shall bill the employer, semiannually, for all amounts paid to a participant.” (Emphasis added.)
+Appellants and the amici curiae, Ohio AFL-CIO and Chrysler Motors Corp., generally contend that the court of appeals erred by relying upon “regardless of the date of injury,” in concluding that the statute applies retroactively and thus violates Section 28, Article II.
+Wean, in an effort to extinguish its liability to former employees who qualify for DWRF payments, generally advances two arguments. First, Wean contends that the statute operates in a prospective manner and, therefore, the General Assembly only intended Wean to be responsible to employees who qualify for DWRF payments subsequent to August 22, 1986, when the statute was amended. Second, Wean also takes the position that because it is now subject to increased DWRF payments as a result of the 1986 amendment, the statute is unconstitutionally retroactive. We disagree with Wean’s arguments.
+This court, in Thompson, supra, upheld the constitutionality of transferring income generated from the State Insurance Fund to cover a deficit in the DWRF, reasoning that:
+“The General Assembly is afforded substantial discretion to implement a comprehensive workers’ compensation program and it is not the function of the judiciary to question the wisdom of the General Assembly’s exercise of its permissive powers under Section 35, Article II, so long as these powers are used in furtherance of the constitutionally enumerated purpose. The DWRF subsidy received by eligible permanently and totally disabled workers infuses Section 35, Article II with a meaningfulness that is fully consistent with the goals that prompted the people of Ohio to approve Section 35, Article II in the first place. Indeed, to hold otherwise and declare the DWRF program as presently funded and administered unconstitutional makes a cruel mockery of the laudable purpose that the constitutional provision was designed to serve.” (Emphasis added.) Id. at 249, 1 OBR at 269, 438 N.E. 2d at 1171.
+In specifically addressing whether the transfer complied with Section 28, Article II, we stated that:
+“The General Assembly was well aware of * * * the need to sidestep Section 28, Article II when it created the DWRF program. It may be fairly said that from its inception the DWRF has been a legislative response to Section 28, Article II. * * *
+“ ‘A large number of the permanently and totally disabled claimants received the lower levels of compensation benefits and were the continued victims of the inroads of inflation. It was believed generally that any plan of retrospective increase in the level of compensation payments would contravene § 85 [sic Section 28] of Article II of the Constitution. The disabled workmen’s relief program was created to provide a subsidy that would give relief to the permanently and totally disabled claimants without running counter to the constitutional provision.’” (Emphasis added.) (Citations omitted.) Id. at 250-251, 1 OBR at 270-271, 438 N.E. 2d at 1172.
+Based on the foregoing, we reject Wean’s contention that the statute, effective August 22, 1986, violates Section 28, Article II. Furthermore, in considering the historical origin and purpose of the DWRF, it is clear to this court that the General Assembly has amended R.C. 4123.411 at all times with the specific intent that the statute apply prospectively. Clearly, the statute, by its terms, applies to self-insured employers who have a current responsibility to totally and permanently disabled employees, regardless of the date of their injury. Although the statute speaks to prior employees who presently qualify for DWRF payments, this does not mean R.C. 4123.411(C) automatically mandates a retrospective reading. We have held previously that “ ‘[a] statute is not retroactive merely because it draws on antecedent facts for a criterion in its operation.’ ” EPI of Cleveland, Inc. v. Limbach (1989), 42 Ohio St. 3d 103, 106, 537 N.E. 2d 651, 654, citing United Engineering & Foundry Co. v. Bowers (1960), 171 Ohio St. 279, 282, 13 O.O. 2d 240, 241, 169 N.E. 2d 697, 699.
+From the statute’s inception, the purpose of R.C. 4123.411 has been to prescribe the method of funding the DWRF. To date, the purpose has remained unchanged. The only effect on Wean, as well as on all self-insured employers, is the method by which self-insured employers are assessed. Prior to August 22, 1986, Wean’s contribution to the DWRF was based upon a percentage of its then current payroll. The General Assembly, pursuant to the 1986 amendment, directed Wean to reimburse the bureau dollar-for-dollar for those qualified employees entitled to DWRF payments regardless of the date the employee was injured. As was the case prior to August 22, 1986, the effect of the amendment speaks only to a self-insured employer’s current responsibility.
+Accordingly, we conclude that R.C. 4123.411(C), effective August 22, 1986, was intended by the General Assembly to apply prospectively. As applied prospectively, self-insured employers are currently responsible to reimburse the bureau for all past, present and future employees who are eligible for the DWRF.
+For the foregoing reasons, the judgment of the court of appeals is reversed.
+Judgment reversed,
+Moyer, C.J., Sweeney, Wright, H. Brown and Resnick, JJ., concur,
+Holmes, J., concurs in judgment only.
+R.C. 4123.411 has again been amended effective November 3, 1989; however, in all practical effects it is identical to the 1986 version.
+Section 28, Article II, Ohio Constitution states in relevant part: “The general assembly shall have no power to pass retroactive laws * * *.”
