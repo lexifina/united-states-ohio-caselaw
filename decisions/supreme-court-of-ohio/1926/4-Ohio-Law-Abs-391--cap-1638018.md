@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19767"
 decided: "1926-04-13"
-citations: ["4 Ohio Law Abs. 391", "4 Ohio Law Abs. 274"]
+citations: ["4 Ohio Law Abs. 391"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
