@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1888-01-10"
+citations: ["45 Ohio St. 495"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Haff v. Fuller."]
+source_url: "https://static.case.law/ohio-st/45/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 924774
+cites_cases: ["12 Ohio St. 635", "13 Ohio St. 406", "19 Ohio St. 348", "27 Ohio St. 218", "3 Ohio, 383", "31 Ohio St. 621", "31 Ohio St. 627", "37 Ohio St. 506", "43 Ohio St. 335", "5 Ohio St. 109"]
+---
+
+# Haff v. Fuller
+
+## Majority (Williams, J.)
+
+Williams, J.
+As a result of tbe rule that courts of equity do not entertain jurisdiction for the enforcement of rights, or the prevention of wrongs, when the legal tribunals are capable of affording the redress, it is always a sufficient objection to the granting of an injunction, that the party aggrieved has a full and adequate remedy at law. In' the application of the rule it is accordingly held that courts of equity will not sit as courts of error, to revise or correct proceedings at law, or grant injunctions against judgments, because of errors in the proceedings, where proper relief can be had in the ordinary course of appellate procedure. And, though there has been much conflict of authority in regard to the application of the doctrine to void judgments, “the prevailing tendency of the the courts seems to be toward the establishment of the simple test, in such cases, of whether an adequate remedy exists at law for protecting the judgment debtor against the judgment. Where such remedy exists either by appeal, certiorari, application to the court itself which rendered the judgment, or in any other legal and adequate manner, no satisfactory reason is perceived why equity should depart from the universal rule of withholding its extraordinary aid, to redress a grievance which is remediable at law.” 1 High on Injunctions, sec. 230.
+In this state, the proceedings and final orders of township trustees and county commissioners establishing ditches and roads, and of other boards exercising similiar judicial functions, may be reviewed by petition in error, and reversed for errors appearing on the record. Revised Statutes, section 6708; Burrows v. Vandevier, 3 Ohio, 383; Ferris v. Bramble, 5 Ohio St. 109; Beebes. Scheidt, 13 Ohio St. 406, 419; Commissioners of Wood County v. Junkins, 19 Ohio St. 348; Fravert v. Finfrock, 43 Ohio St. 335. The remedy thus afforded being adequate for the correction of errors in such proceedings which are disclosed by the record, the rule aready stated has been applied in such cases, though the errors so appearing rendered the proceedings void for want of jurisdiction. Frevert v. Finfrock, 31 Ohio St. 621; Fravert v. Finfrock, 43 Ohio St. 335.
+The operation of the rule is not extended, however, to cases where “ the steps are regular in form, so that the illegality does not appear on the face of the proceedings themselves.” 1 High on Injunctions, sec. 578. In cases of that kind, if it be shown, contrary to what appears on the record, that the board or tribunal proceeded without jurisdiction, injunctions may be granted, for there is then no adequate remedy at law. Anderson v. Commissioners, 12 Ohio St. 635; Hays v. Jones, 27 Ohio St. 218. And where the judgment or order has been obtained by the fraud or misconduct of the party, or other circumstances of fraud, accident or mistake or the like are shown, it has been held that injunction restraining the execution of the judgment or order is a proper remedy. Gifford v. Morrison, 37 Ohio St. 506; Frevert v. Finfrock, 31 Ohio St. 627. But nothing of the kind is claimed in this case.
+We do not find it necessary to decide here whether the defects in the ditch record given in evidence by the plaintiff on the trial of the action in the circuit court, are such as to require or authorize the reversal of the order of the trustees establishing the ditch. Pie gave no evidence in support of his action but the record, and therefore whatever infirmities there were in the proceedings of the trustees, of which he sought to avail himself, were apparent on the record. If they were not of that substantial character Avhich affected the validity of the proceedings, he was not entitled upon that proof to the perpetual injunction granted him. If they were of that character, they appeared on the face of the record, and the remedy by petition in error to reverse was open to him. Such a proceeding afforded a plain and adequate remedy, and no ground for interference by a court of equity by injunction was shown.
+The offer of the plaintiff below to prove that the ditch was not required by the public health or convenience, in no way aids his case. The proposed inquiry could not be made in that way. The determination of the contemplated public use, is by the statute conclusively committed to the trustees in the first instance, and to the jury on appeal. Reviséd Statutes, sections 4511 and 4539.
+Judgment of the circuit court reversed, and judgment for defendant bebw.
