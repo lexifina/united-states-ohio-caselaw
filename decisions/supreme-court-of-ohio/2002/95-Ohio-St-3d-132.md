@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2001-2175"
+decided: "2002-05-01"
+citations: ["95 Ohio St. 3d 132"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mover, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Office of Disciplinary Counsel v. Lantz."]
+source_url: "https://static.case.law/ohio-st-3d/95/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 125674
+cites_cases: ["2002-Ohio-1757", "Registration No. 0016201,"]
+---
+
+# Office of Disciplinary Counsel v. Lantz
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} On February 14, 2000, relator, Office of Disciplinary Counsel, filed a seven count complaint charging respondent, Charles J. Lantz of Lancaster, Ohio, Attorney Registration No. 0016201, with numerous violations of the Code of Professional Responsibility. Respondent answered, and the matter was referred to a panel of the Board of Commissioners on Grievances and Discipline of the Supreme Court (“board”).
+{¶ 2} Based on evidence and stipulations received at a hearing, the panel found that in October 1994, Charles and Judy Smith hired respondent to represent them in a personal injury matter arising from an automobile accident a year earlier. In February and March 1997, respondent received and placed in his trust account the settlement of $300,000 that he had negotiated on behalf of the Smiths. Although respondent paid the Smiths $60,000 of the settlement in March 1997, he did not pay any of the Smiths’ creditors, including medical providers, the amounts to which they were subrogated until they threatened to file suit in November 1998. Then, in that month, he wrote five checks on his trust account totaling approximately $140,000, one of which, in the amount of $76,188, was payable to the Smiths. Another check, in the amount of $59,000, written to a creditor, was dishonored twice in December 1998 because of insufficient funds in respondent’s trust account. After the creditor-payee contacted the Lancaster Police Department about the dishonored checks and relator wrote a letter of inquiry to respondent about them, respondent issued a cashier’s check to the creditor. Respondent did not respond to a letter of inquiry or to repeated inquiries by relator seeking information about his trust account. Ultimately, relator obtained a subpoena duces tecum directed to respondent, but respondent did not appear at the scheduled deposition.
+{¶ 3} The panel concluded that by his inordinate delay in distributing the Smith settlement funds, respondent violated DR 9-102(B)(4) (a lawyer shall promptly deliver to the client funds or property to which the client is entitled) and 1-102(A)(6) (a lawyer shall not engage in conduct adversely reflecting on the lawyer’s fitness to practice law). The panel also concluded that respondent’s failure to keep accurate records regarding his trust account violated DR 9-102(B)(3) (a lawyer shall maintain complete records of all funds of a client coming into the lawyer’s possession and render appropriate accounts thereof), and his failure to make prompt payment to the medical providers violated DR 6-101(A)(3) (a lawyer shall not neglect an entrusted legal matter). Further, the panel concluded that respondent’s failure to promptly pay his clients their share of the settlement caused them to lose interest that may have accrued. As a result of this, respondent violated DR 7-101(A)(3) (a lawyer shall not prejudice or damage his client during the course of the professional relationship).
+{¶ 4} In addition, the panel concluded that respondent’s failure to cooperate with relator’s investigation of his trust fund account violated Gov.Bar R. V(4)(G) (no attorney shall neglect or refuse to assist or testify in an investigation or hearing). And it concluded that respondent again violated Gov.Bar R. V(4)(G) after finding that he failed to respond to nine separate letters of inquiry from relator concerning other clients.
+{¶ 5} The panel also found that after Mark Cook hired respondent in March 1999 and paid him a $500 retainer to adjust a child support obligation, Cook was unable to communicate with respondent. Respondent did not return any of the several telephone calls that Cook had made to his office and did not respond to Cook’s letters, although he received at least one of them before he was incarcerated in May 1999 on an earlier conviction for driving while intoxicated. It also found that although respondent had filed nothing on Cook’s behalf, he did not return Cook’s retainer when requested. The panel concluded that respondent’s conduct in the Cook matter violated DR 1-102(A)(6), 6 — 101(A)(3), 7-101(A)(2) (a lawyer shall not fail to carry out a contract of professional employment), and 7-101(A)(3).
+{¶ 6} The panel further found that in June 1997, Phyllis G. Scott hired respondent to obtain a divorce. Respondent took five antique guns as a retainer but failed to give Scott any receipt for them or keep a record of them himself. At a hearing in August 1997, the court awarded Scott’s husband the temporary possession of a travel trailer. Shortly thereafter, Scott discharged respondent and asked for an accounting of his services. Respondent did not provide the accounting, claiming that Scott never asked him for a final bill or discussed in person that he terminated his services. The panel found otherwise. Moreover, at the hearing before the panel, respondent estimated that his time in the Scott matter was worth $4,000. Respondent claimed that he had received only three or four guns and that they were appraised from photographs at $1,250.
+{¶ 7} The panel concluded that respondent lied both about his termination by Scott and about Scott’s request for an accounting, and in so lying violated DR 1-102(A)(4) (a lawyer shall not engage in conduct involving dishonesty, fraud, deceit, or misrepresentation). The panel also concluded that respondent’s failure to keep records with respect to the guns and their value violated DR 9 — 102(B)(3).
+{¶ 8} The panel found numerous aggravating circumstances, including respondent’s failure to make restitution of $500 to Cook. In mitigation, the panel found that respondent had no record of prior disciplinary actions, and selfishness and dishonesty did not seem to have motivated his conduct. The respondent presented a number of character witnesses in his behalf.
+Jonathan E. Coughlan, Disciplinary Counsel, and Kevin L. Williams, Assistant Disciplinary Counsel, for relator.
+Thomas M. Tyack, for respondent.
+{¶ 9} The panel recommended that respondent be indefinitely suspended from the practice of law. The board adopted the findings, conclusions, and recommendation of the panel.
+{¶ 10} On review, we adopt the findings, conclusions, and recommendation of the board. Respondent is hereby indefinitely suspended from the practice of law. Costs are taxed to respondent.
+Judgment accordingly.
+Mover, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
