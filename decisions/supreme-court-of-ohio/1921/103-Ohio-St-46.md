@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+docket: "16788 and 16787"
+decided: "1921-06-21"
+citations: ["103 Ohio St. 46"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Johnson, Wanamaker, Robinson, Jones and Matthias, JJ., concur.", "Hough, J., took no part in the consideration or decision of the case."]
+parties: ["Sears v. Hopley et al. Sears v. Songer et al."]
+source_url: "https://static.case.law/ohio-st/103/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 964055
+cites_cases: ["35 Ohio St., 168", "66 Ohio St., 215"]
+---
+
+# Sears v. Hopley
+
+## Majority (By the Court.)
+
+By the Court.
+The two cases 'involve similar questions and were heard together. Hopley and Songer filed an action in the court of common pleas of Crawford county, Ohio, seeking to restrain Sears from destroying a monument, or marker, erected within the limits of what is known as the Lincoln Highway. The court of common pleas granted a perpetual injunction, and the case was taken on error to the court of appeals, and there affirmed, whereupon error was prosecuted to this court.
+There was no finding of facts in the. common pleas court, and the disputed issues arising on the record were found by the trial court in favor of plaintiffs. It therefore appears that the trial court found that this monument or marker was erected within the limits of the highway, and that it was of such character as to mark and advise the traveling public that such was the Lincoln Highway.
+The action was brought by Hopley and Songer as residents and taxpayers of Bucyrus township, Crawford county. The facts relative to the legal question are brief. The Lincoln Highway at the point where this monument or marker was erected was sixty feet wide, and in the center thereof there had been constructed a brick road fourteen feet in width. From the center of the brick road to the monument was about twenty-two feet, with an intervening ditch, and the monument was from four to six feet distant from the fenced lands of the defendant. Hopley and Songer were acting, respectively, as state and county consuls of an Association known as the Lincoln Highway Association, and had solicited private funds and obtained the consent of the county commissioners for the erection of this monument or marker. This monument had been constructed at a point about one-half mile from the nearest intersecting cross-road; was six or more feet in height, about twenty-eight inches in width, and about fifteen' inches in depth. It was constructed of stone, brick and cement. Upon the side facing the public highway it contained two mortised slabs. In the upper tablet, containing the colors of the Highway Association in red, white and blue, was the letter “L,” intended to designate the Lincoln Highway, and upon the lower mortised tablet was the following inscription: “This Marker dedicated to Henry C. Osterman, National Field Sec. Lincoln Highway Ass’n., Nov. 28, 1917.”
+The plaintiff in error’s entire argument is based upon the constitutional provision which prevents the taking of private property for public use without compensation; that the monument or marker is inconsistent with the public use for which the highway was originally intended, and imposes an additional burden upon his property. His claim that ingress arid egress to his adjoining premises were disturbed by the erection of the monument is squarely disputed in the testimony, as is any inference that the same was constructed upon lands not dedicated for highway purposes.
+The sole case turns upon the question whether the erection of the monument or marker was consistent with the use for > which the public highway was taken, and was not a diversion from the natural and probable use contemplated in the original dedication. When the highway was originally dedicated, compensation was then presumed to have been paid for all purposes consistent with the right to travel and the improvement of the road. If such purposes are not exceeded by the authorities in charge, the abutting landowner is presumed to have received compensation therefor when his land was appropriated or dedicated. Lawrence Rd. Co. v. Williams, 35 Ohio St., 168, 171, and Schaaf v. Cleveland, Medina & Southern Ry. Co., 66 Ohio St., 215, 229.
+The scope of the testimony of the plaintiffs below tended to establish that, while this marker was not erected at an intersecting road, its purpose was to advise the traveling public that the road was a part of an international road, known as Yhe Lincoln Highway. Were it not for the inscription of dedica-, tion to Mr. Osterman upon an additional tablet it must be conceded that this monument or marker would be erected for public information only. Such being the case we are unable to comprehend why the additional super-iriscription to Osterman could possibly cause an additional burden to the plaintiff in error as an abutting landowner. The control of the public highways of this state has been placed in the hands of the county commissioners and the state highway department. The monument was erected by private subscription with the consent of the public authorities, and, if Sears’ private property has not been taken within the constitutional provision, those authorities assumfe entire control. The Ohio penal statute made the act of. the defendant below unlawful. Section 13421-4, General Code, provides: “Whoever unlawfully * * * destroys any marker or monument placed along, upon or near a public highway, by the proper authorities, to mark the boundaries thereof, or for any other purpose, shall be fined,” etc.
+The question determined by the lower- court was one both of law and fact, and, if, as found by the trial court, the monument or marker was not a diversion from the natural and probable use of a public highway, and such fact was determined by that court in favor of the plaintiff, it necessarily follows that the judgments of the lower courts should be affirmed.
+Judgments affirmed.
+Marshall, C. J., Johnson, Wanamaker, Robinson, Jones and Matthias, JJ., concur.
+Hough, J., took no part in the consideration or decision of the case.
