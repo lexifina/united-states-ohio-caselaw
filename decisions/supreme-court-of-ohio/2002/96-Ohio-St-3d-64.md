@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2001-1954"
+decided: "2002-07-24"
+citations: ["96 Ohio St. 3d 64"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State ex rel. Borden, Appellant, v. Hendon, Judge, et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/96/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071426
+cites_cases: ["107 Ohio App.3d 245", "2002-Ohio-3525", "26 Ohio St.2d 145", "269 N.E.2d 848", "55 O.O.2d 276", "648 N.E.2d 1355", "665 N.E.2d 212", "668 N.E.2d 546", "676 N.E.2d 109", "687 N.E.2d 454", "702 N.E.2d 423", "72 Ohio St.3d 249", "75 Ohio St.3d 623", "752 N.E.2d 854", "757 N.E.2d 364", "770 N.E.2d 580", "78 Ohio St.3d 47", "80 Ohio St.3d 492", "84 Ohio St.3d 165", "93 Ohio St.3d 1", "93 Ohio St.3d 583", "96 Ohio St.3d 33"]
+---
+
+# State ex rel. Borden v. Hendon
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} In April 1999, a complaint was filed in the Hamilton County Juvenile Court charging appellant, Rico Borden, a juvenile, with rape. Following a trial, the juvenile court adjudicated Borden a delinquent child based on one count of rape. On January 7, 2000, the juvenile court committed Borden to the custody of the Ohio Department of Youth Services (“DYS”) for a minimum period of twelve months and a maximum period not to extend beyond his 21st birthday. On that same date, the juvenile court suspended the foregoing order and committed him to the custody of Hillcrest School with an order for him to “obey all laws and orders” of the court and specifying that the commitment was to remain in effect until Borden reached the age of 21.
+{¶ 2} Borden subsequently ran away from the Hillcrest School, and on March 1, 2000, the juvenile court terminated his placement at the school and imposed his original commitment to DYS. The juvenile court based its March 1, 2000 judgment upon its finding that Borden violated his probation.
+{¶ 3} On appeal, the Court of Appeals for Hamilton County reversed the judgment of the juvenile court in part on August 22, 2001. The court of appeals found that the juvenile court erred in failing to give Borden credit for days he had spent in detention on a separate, original delinquency charge that had been dismissed for want of prosecution. The court of appeals further found that the juvenile court’s finding of a probation violation was erroneous because the record did not contain an entry placing Borden on probation, written notice of any probation, or the basis for a proposed probation revocation. The court of appeals remanded the cause “for further proceedings consistent with law and this Judgment Entry.”
+{¶ 4} On remand, appellee Judge Sieve Sylvia Hendon of the juvenile court, on September 11, 2001, entered a judgment in which she determined that Borden’s violation of the court’s order of placement in Hillcrest School warranted the imposition of his original suspended commitment to DYS. Previously, on August 31, 2001, Judge Hendon had credited Borden with an additional 26 days of credit for his previous detention, in accordance with the court of appeals’ ruling.
+{¶ 5} On September 13, 2001, Borden filed a complaint in the court of appeals for a writ of mandamus to compel appellees, Judge Hendon and Hamilton County Juvenile Detention Center Superintendent Robert Dugan, to “release [Borden] from custody and/or act in compliance with [the court of appeals’] August 22, 2001 Judgment Entry.” In the introductory paragraph of his complaint, Borden alleged that he was being wrongfully detained in the Hamilton County Juvenile Detention Center with a pending order to be transported back to a DYS correctional facility and that he was “entitled to immediate release.” Appellees filed a motion to dismiss. In October 2001, the court of appeals granted appellees’ motion and dismissed Borden’s complaint.
+{¶ 6} In his appeal as of right, Borden asserts that the court of appeals erred in dismissing his complaint for a writ of mandamus. For the foregoing reasons, however, dismissal was warranted.
+{¶ 7} Initially, it is evident from Borden’s complaint that the true objective of his mandamus action was to obtain an immediate release from custody. But habeas corpus, rather than mandamus, is the proper action through which to seek release from prison or other physical confinement. State ex rel. Bennett v. White (2001), 93 Ohio St.3d 583, 584, 757 N.E.2d 364; State ex rel. Smirnoff v. Greene (1998), 84 Ohio St.3d 165, 167, 702 N.E.2d 423; see, also, In re Edsall (1971), 26 Ohio St.2d 145, 55 O.O.2d 276, 269 N.E.2d 848, and State ex rel. Frazer v. Admr./Dir., Juv. Court Detention Home (1995), 107 Ohio App.3d 245, 668 N.E.2d 546 (both cases in which a juvenile in the custody of a detention home instituted a habeas corpus action to seek release from custody).
+{¶ 8} Moreover, Borden has or had adequate remedies in the ordinary course of law by appeal and a motion for contempt to raise his claim that Judge Hendon violated the court of appeals’ August 22, 2002 mandate. See, generally, State ex rel. Nationwide Mut. Ins. Co. v. Henson, 96 Ohio St.3d 33, 2002-0hio-2851, 770 N.E.2d 580, and cases cited therein.
+David H. Bodiker, Ohio Public Defender, and Felice Harris, Assistant State Public Defender, for appellant.
+Michael K. Allen, Hamilton County Prosecuting Attorney, and Philip R. Cummings, Assistant Prosecuting Attorney, for appellees.
+{¶ 9} In other words, Judge Hendon did not patently and unambiguously disregard any court of appeals mandate here. The court of appeals was in the best position to determine whether Judge Hendon acted in clear violation of its August 22, 2001 ruling, and it evidently concluded that she had not by dismissing Borden’s writ action. See, e.g., State ex rel. Shemo v. Mayfield Hts. (2001), 93 Ohio St.3d 1, 5, 752 N.E.2d 854, quoting State ex rel. Bitter v. Missig (1995), 72 Ohio St.3d 249, 252, 648 N.E.2d 1355 (“ ‘The court that issued the order sought to be enforced is in the best position to determine if that order has been disobeyed’ ”); see, also, State ex rel. Willacy v. Smith (1997), 78 Ohio St.3d 47, 50-51, 676 N.E.2d 109, where we held that a court of appeals did not issue a mandate for a trial court to issue a final, appealable order where the appellate court simply dismissed the appeal and remanded the cause, analogous to what the court of appeals did here, “for further proceedings according to law.”
+{¶ 10} Finally, the cases cited by Borden in support of his contention that any alternative remedy would be inadequate are distinguishable. Unlike the cases relied upon by Borden, this case involves no special circumstances or dramatic fact pattern that would permit Borden to circumvent the ordinary legal processes. See, e.g., State ex rel. Sohi v. Williams (1997), 80 Ohio St.3d 492, 493, 687 N.E.2d 454; State ex rel. Lyons v. Zaleski (1996), 75 Ohio St.3d 623, 625-626, 665 N.E.2d 212.
+{¶ 11} Based on the foregoing, we affirm the judgment of the court of appeals.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
