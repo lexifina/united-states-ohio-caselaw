@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20197"
 decided: "1926-11-29"
-citations: ["5 Ohio Law Abs. 204", "4 Ohio Law Abs. 805", "4 Ohio Law Abs. 806"]
+citations: ["5 Ohio Law Abs. 204", "4 Ohio Law Abs. 805"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
