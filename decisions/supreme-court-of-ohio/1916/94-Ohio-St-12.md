@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+docket: "14990"
+decided: "1916-02-29"
+citations: ["94 Ohio St. 12"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, C. J., Johnson, Donahue, Wanamaker, Newman and Matthias, JJ., concur."]
+parties: ["Limbaugh v. The Western Ohio Railroad Co."]
+source_url: "https://static.case.law/ohio-st/94/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 950481
+cites_cases: ["57 Ohio St., 348", "88 Ohio St., 156"]
+---
+
+# Limbaugh v. Western Ohio Railroad
+
+## Majority (Jones, J.)
+
+Jones, J.
+Jurisdiction over the substituted defendant could be obtained by its voluntary appearance in the action. Such appearance was entered when its counsel appeared and contested the merits of the action after the substitution had taken place. The record discloses that, before substitution, the vice president and general manager of the substituted compány was in court and testified that the law firms defending the railway company also represented the substituted defendant, the firm of Goeke, Anderson & Musser representing it generally and Wheeler & Bentley representing it locally at Lima. It also developed that if a tortious act had been committed, it had been committed by the operating company, the defendant substituted by the court. After the order of substitution by the court the original defendant railway company had, in effect, been dismissed, and the case thereafter proceeded with the railroad company ostensibly contesting the case upon its merits. Since the case proceeded under the original pleadings, with the same firms of counsel appearing for and defending the substituted defendant, the presumption is conclusive, under the facts developed, that such firms not only entered the voluntary appearance of the substituted defendant, but had authority so to do. Furthermore, the corporation actually operating and causing the alleged negligent act was the substituted company, a fact which, if not known when the issues were joined, was known at the time the substitution was made, and under our statute of jeofail, Section 11363, General Code, the court had full power to amend by substitution, where no abuse of discretion has been shown, if jurisdiction were acquired.
+This principle is supported by the case of Boehmke v. The Northern Ohio Traction Co., 88 Ohio St., 156. In the present case, had the railroad company obtained a judgment in its favor on the merits, it would no doubt have availed itself of such favorable result, and in such event it would prob-' ably claim not only the fruits of victory but that it also consented to jurisdiction over it after substitution by entering the case defensively upon its merits. If the attorneys in the case had no authority to represent the substituted company, the latter company of course would not be bound, but every fact and presumption disclosed by this record support the conclusion that counsel had full authority to represent both companies in this action. Ordinarily an objection to the jurisdiction of the person should be taken at the earliest opportunity of the party. (Long v. Newhouse et al., 57 Ohio St., 348.) In the present case that opportunity arose when the new defendant was made a party, at which time it became incumbent upon it to stand upon the question of jurisdiction over its person. Had its counsel then definitely withdrawn from the cause, after the overruling of their motion at the close of the plaintiffs evidence, or had they later confined their defense solely to the question of jurisdiction over the substituted company in order to .supplement the record for review upon that question, a judgment against the substituted defendant would have been erroneous for the reason that neither service nor appearance had been obtained. However, with full knowledge that the substituted defendant was the real party against whom the wrongful act was claimed, its counsel accepted the situation, remained in the case and contested the issues of negligence, and it cannot now be claimed under such circumstances that there was no voluntary appearance to the action.
+Although it appears from the journal entry that the court of appeals reversed the trial court because of the substitution referred to, defendant in error claims that the reversal should be sustained because of other errors committed on the trial, notably the refusal to give special instructions asked before argument. The defendant requested ten special instructions, six of which were given and four refused. Two of the requests refused were pertinent and unobjectionable. These referred to the quantum of care that should have been exercised by the plaintiff in approaching the railroad crossing'. However, this degree of care and the details of plaintiff’s approach were fully embodied in the other special instructions that were given by the court to the jury before argument at the instance of the defendant and which were substantially similar to the requests refused. The defendant’s counsel had simply gowned the subject in a little different form. There was, therefore, no prejudicial error committed by the court in refusing the two requests which had been substantially given.
+The judgment of the court of appeals is reversed and that of the common pleas affirmed.
+Judgment reversed.
+Nichols, C. J., Johnson, Donahue, Wanamaker, Newman and Matthias, JJ., concur.
