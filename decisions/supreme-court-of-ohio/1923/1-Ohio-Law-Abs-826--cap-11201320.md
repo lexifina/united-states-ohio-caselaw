@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "18125"
 decided: "1923-11-20"
-citations: ["1 Ohio Law Abs. 826", "1 Ohio Law Abs. 827"]
+citations: ["1 Ohio Law Abs. 826"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
