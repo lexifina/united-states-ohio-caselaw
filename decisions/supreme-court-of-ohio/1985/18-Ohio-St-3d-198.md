@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "84-1435"
+decided: "1985-07-17"
+citations: ["18 Ohio St. 3d 198"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., Sweeney, Locher, C. Brown, Douglas and Wright, JJ., concur.", "Wright, J., concurs separately.", "Holmes, J., dissents."]
+parties: ["The State, ex rel. Harris, Dir., v. Williams, Judge, et al."]
+source_url: "https://static.case.law/ohio-st-3d/18/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1819140
+cites_cases: ["12 Ohio St. 3d 252", "12 Ohio St. 3d 49", "44 Ohio St. 2d 178", "592 F. 2d 765", "73 O.O.2d 478"]
+---
+
+# State ex rel. Harris v. Williams
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Relator argues that R.C. Chapter 4115 provides a comprehensive statutory procedure for the commencement of civil proceedings in prevailing wage law disputes and that respondent’s assumption of jurisdiction over Howard’s “appeal” is contrary to that statutory procedure. If this claim is established, prohibition will lie to prevent further proceedings by respondent. See State, ex rel. Maynard, v. Whitfield (1984), 12 Ohio St. 3d 49; State, ex rel. Republic Steel Corp., v. Ohio Civil Rights Comm. (1975), 44 Ohio St. 2d 178 [73 O.O.2d 478].
+At the outset, we agree with relator that R.C. Chapter 4115 provides a comprehensive statutory procedure for effecting compliance with the prevailing wage law through administrative and civil proceedings. See State v. Buckeye Electric Co. (1984), 12 Ohio St. 3d 252, 253. The question presented in this case is whether the assumption of jurisdiction by respondent over Howard’s “appeal” is in violation of that statutory procedure.
+Respondent assumed jurisdiction over the appeal filed by Howard upon the ground that by its terms the June 11, 1984 letter was an “adjudication” under R.C. 119.01(D), and thus appealable to the common pleas court under-R.C. 119.12. R.C. 119.01(D) defines “adjudication” as “* * * the determination by the highest or ultimate authority of an agency of the rights, duties, privileges, benefits, or legal relationships of a specified person, but does not include the issuance of a license in response to an application with respect to which no question is raised, nor other acts of a ministerial nature.”
+Howard contends that the letter of June 11 was an adjudication because it stated that a determination had been made that Howard’s employees were not paid the prevailing wage and ordered Howard to make payment.
+Relator argues that the finding evidenced by the letter of June 11 is not a final order subject to appeal, but merely a finding that the subject employees have a right to' sue under R.C. 4115.10. That section authorizes the filing of a suit for recovery in the common pleas court where an employee is paid less than the prevailing wage. Division (A) authorizes the employee to file such a suit within “* * * sixty days of the director of industrial relations’ determination of a violation of sections 4115.03 to 4115.16 of the Revised Code * * Division (B) authorizes the director to file such a suit for recovery on behalf of the employee where the employee gives the director an assignment of his claim. Division (C) authorizes the director to file the suit himself in the event the employee has not done so under division (A) or has not provided an assignment of claim under division (B). In each instance, the statute provides that the employer shall pay costs and attorney fees “* * * if the employer is found in violation * * *” or where the employee or director “prevails.”
+A review of the letter sent to the employees the same day, June 11, indicates that it merely advised them of their right to file suit under R.C. 4115.10. This right-to-sue letter is comparable to the right-to-sue letter provided by the Federal Equal Employment Opportunity Commission under the Civil Rights Act. Section 2000e-5(f), Title 42, U.S. Code. It has been held that there is no appeal from a right-to-sue letter under Section 2000e-5(f), and that the absence of such an appeal does not violate principles of due process. Georator Corp. v. Equal Emp. Opp. Comm. (C.A. 4, 1979), 592 F. 2d 765, 768. As stated in Georator, at 768, the reason a right-to-sue letter is not an appealable order is that:
+“* * * Courts have long considered the touchstone of finality to be the fixing of obligations or legal relationships. [Citations omitted.]
+“No such finality exists with respect to the EEOC’s determination of reasonable cause. Standing alone, it is lifeless, and can fix no obligation nor impose any liability on the plaintiff. It is merely preparatory to further proceedings. If and when the EEOC or the charging party files suit in the district court, the issue of discrimination will come to life, and the plaintiff will have the opportunity to refute the charges.”
+Although the letter of June 11 was written in definitive language, it is clear from the concurrent letters to the employees and the provisions of R.C. 4115.10 that it was intended only as an effort to induce settlement and was not enforceable.
+Howard also relies on R.C. 4115.13 as support for the proposition that the letter of June 11 was a final, appealable order. That statute provides:
+“Upon his own motion or within five days of the filing of a complaint under section 4115.10 or 4115.16 of the Revised Code, the director of industrial relations * * * shall have the power to hold hearings and such hearings shall be held within the county in which the violation of sections 4115.03 to 4115.16 of the Revised Code is alleged to have been committed. * * * If any underpayment by a contractor or subcontractor was the result of a misinterpretation of the statute, or an erroneous preparation of the payroll documents, the director or his designated representative may make a decision ordering the employer to make restitution to the employees, or on their behalf, the plans, funds, or programs for any type of fringe benefits described in the applicable wage determination. In accordance with the finding of the director that any underpayment was the result of a misinterpretation of the statute, or an erroneous preparation of the payroll documents, employers who make restitution are not subject to any further proceedings pursuant to sections 4115.03 to 4115.16 of the Revised Code. No appeal to the court from the decision of the director may be had by the contractor or subcontractor unless the contractor or subcontractor files a bond with the court in the amount of the restitution, conditioned upon payment should the decision of the director be upheld. ” (Emphasis added.)
+Relator asserts that the language authorizing an appeal applies only to a situation where the director finds that the underpayment was the result of a misinterpretation of the statute, or an erroneous preparation of the payroll documents. We agree with relator’s interpretation, particularly in view of the consequences which would arise from Howard’s proposed construction.
+R.C. 119.06 provides that “* * * [n]o adjudication order shall be valid unless an opportunity for a hearing is afforded in accordance with sections 119.01 to 119.13 of the Revised Code. * * *” Thus, if the letter of June 11 is considered an adjudication and an appealable order, it is invalid because it was made without a prior hearing. Further, since any determination made by the director upon investigation without a hearing would be invalid, the provisions of R.C. 4115.13 authorizing investigations without a prior hearing would be ineffective. Similarly, the procedure in R.C. 4115.10 would be superfluous. Thus we find that the department’s function in this case is an investigatory one, comparable to that of the EEOC, for the reason that the “determination” of the department is not enforceable unless an appropriate court proceeding is filed.
+This is not to say, however, that there are no instances in which the director makes adjudication orders. R.C. Chapter 4115 leaves the possibility open that certain orders, entered after a hearing, are adjudication orders subject to appeal. One instance would be pursuant to R.C. 4115.13 where the director orders that the prevailing wage was not paid as the result of a misinterpretation of the statute or an erroneous preparation of the payroll documents.
+For purposes of resolving this case, we hold that where the department makes a determination after an investigation without a hearing under R.C. 4115.13 that an employer has paid less than the prevailing wage, which determination creates a right to sue under R.C. 4115.10, it is not an adjudication under R.C. 119.01(D) and is thus not subject to appeal.
+Accordingly, the writ prayed for is allowed.
+Writ allowed.
+Celebrezze, C.J., Sweeney, Locher, C. Brown, Douglas and Wright, JJ., concur.
+Wright, J., concurs separately.
+Holmes, J., dissents.
+For the reason that relator’s complaint states a claim actionable in prohibition, Howard’s motion to dismiss is denied.
+
+## Concurrence (Wright, J.,)
+
+Wright, J.,
+concurring. I concur for the reason stated in the per euriam opinion that “R.C. 119.06 provides that ‘* * * [n]o adjudication order shall be valid unless an opportunity for a hearing is afforded in accordance with sections 119.01 to 119.13 of the Revised Code. * * *’ Thus, if the letter of June 11 is considered an adjudication and an appealable order, it is invalid because it was made without a prior hearing.”
+Since the action by the Department of Industrial Relations was a nullity with no force and effect, there is nothing before the common pleas court to adjudicate.
