@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+docket: "77-156"
+decided: "1977-12-21"
+citations: ["52 Ohio St. 2d 193"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Parbino, P. Brown and Sweeney, JJ.. concur.", "HERBERT and Locher, JJ., concur in the judgment."]
+parties: ["Depas, Appellant, v. Highland. Local School District Board of Edn., Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/52/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712066
+cites_cases: ["134 Ohio St. 61", "154 Ohio St. 262", "356 F. Supp. 1029", "376 F. Supp. 216", "381 F. Supp. 387", "408 U. S. 564", "408 U. S. 593", "41 Ohio St. 2d 127", "43 Ohio St. 2d 224", "430 F. 2d 862", "50 Ohio St. 2d 283"]
+---
+
+# Depas v. Highland Local School District Board of Edn.
+
+## Majority (William B. Brown, J.)
+
+William B. Brown, J.
+The main issue raised by this cause is whether certain criteria adopted by the board and contained in its policy handbook gave appellant a “property interest” in continued employment whieh warrants the due process protection of the Fourteenth Amendment to the United States Constitution.
+The board’s evaluation policies provide:
+"At the regular meeting of the board of education in April the executive head shall present to the board of education for its approval and confirmation a list of certified personnel to be appointed or re-appointed with recommendations as to renewal or issuance of new contracts. Upon the approval and confirmation of the board of education, the clerk-treasurer shall then issue' contracts and. notifications of salaries. The re-appointment or promotion of a principal, teacher or special teacher shall be determined by the following factors:
+“1. Good moral character and informed professional attitude.
+“2. Evidence of continued preparation.
+“3. Thorough professional training and demonstrated skill.
+“4. Loyalty to work and enthusiasm for it.
+“5. Wide reading and study of books and magazines.
+“6. Practical success and actual teaching.
+“7. Regular attendance' at professional meetings including local teachers and parent-teacher meetings.
+“8. United States citizenship.
+“9. Experience according to the salary schedule:”
+Appellant argues that the board’s evaluation criteria are incorporated into his contract and that they create for him “a clearly defined property interest in his employment which the board could not extinguish without extending to appellant the rudimentary requirements of- due process of law.” Appellant contends further that those rudimentary requirements “are contained in the very policies which the board has adopted,” and that, therefore; he is entitled to have “his performance evaluated in accordance with those policies * * *.”■
+Even if one assumes, arguendo', that the board’s evaluation-policy contains the rudimentary requirements, of. due process and that the policy is incorporated into appellant’s one-year contract, appellant has no - due process right either to evaluation under the guidelines set out by the board or to any other procedural protection beyond that required by state statute, imless he has an interest- subject to due process protection.
+“The requirements of procedural due process apply only to the deprivation of interests encompassed by the Fourteenth Amendment’s protection of liberty and property.” Board of Regents v. Roth (1972), 408 U. S. 564, 569. One of those property interests is an interest in continued employment. Roth, supra, at page 577. In order for a person to assert a property interest in continued employment, however, he must have a “legitimate claim of entitlement to it.” Id.
+Appellant’s claim arises from the nonrenewal of his contract to serve as principal. As a first-year principal hired under a one-year limited contract, appellant had no statutory tenure in that position. In State, ex rel. Trimble, v. State Board of Cosmetology (1977), 50 Ohio St. 2d 283, 285-286, this court stated:
+“It is true that a protected property interest need not he based on tenure or on explicit contractual guarantees of continued employment. Perry v. Sindermann (1972), 408 U. S. 593, 601. Therefore, one is not barred from asserting a due process claim merely because no statute or contract affirmatively grants his job security. However, in the absence of statutory or contractual guarantees of continued employment, one claiming a protected property interest must be able to produce ‘rules or mutually explicit understandings that support his claim of entitlement to the benefit.’ Perry, supra, at page 601.”
+Appellant has not produced such “rules or mutually explicit understandings.” The board’s evaluation policy does not support appellant’s claim that he is entitled to continued employment. That policy only implies that the board will consider the criteria contained in the handbook; it does not guarantee that the board will find the criteria to have been fulfilled. Since the evaluation policy sets out the framework for, but does not constitute a guarantee of, a decision to renew, it does not give rise to a Fourteenth Amendment property interest in continued employment. We find, therefore, that appellant is not entitled to procedural protection beyond that already afforded him by the board.
+The judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+O’Neill, C. J., Parbino, P. Brown and Sweeney, JJ.. concur.
+HERBERT and Locher, JJ., concur in the judgment.
+Paerino, J., of the Eighth Appellate District, sitting for Celebrezze, J.
+In his brief before this court, appellant also contends (1) that the board’s alleged failure to consider the evaluation and reappointment criteria listed in its handbook when it decided not to renew his contract as a principal “results in a breach of the board of education’s contract with that principal and entitles the principal to reinstatement and contractual damages”; and (2) that the board’s criteria grant appellant the due process protection of Section 16, Article I of the Ohio Constitution. These issues were not raised before, assigned as error in, or reviewed by, the courts below. Depas does not appear to have raised a claim for breach of contract separate from his Fourteenth Amendment claim in the court below. In his first assignment of error therein Depas cited Rehor v. Case Western Reserve University (1976), 43 Ohio St. 2d 224, and Dayton Teachers Assn. v. Dayton Bd. of Edn. (1975), 41 Ohio St. 2d 127, to support his assertion that the board had power to adopt its evaluation criteria and that those criteria were duly incorporated into his contract. The Court of Appeals concluded, however, that appellant’s discussion of Rehor and Dayton Teachers Assn, did not raise a contract claim separate from his due process claim, and it promulgated a decision responding only to the due process argument. It is a general rule that this court will presume that the Court of Appeals has passed upon all errors designated in the assignments of error and pointed out by the brief. See Peer v. Industrial Commission (1938), 134 Ohio St. 61. Since appellant’s discussion of the Rehor and Dayton Teachers Assn, cases was necessary to lay the foundation for the Fourteenth Amendment claim raised in his second assignment of error, and since that discussion did not assert a remedy separate from the remedy he sought in his Fourteenth Amendment claim, we feel compelled to apply that presumption and to agree with the Court of Appeals, which had access to his brief and to his oral argument, that he did not raise a separate contract claim at the appellate level. We therefore decline to consider appellant’s claim for breach of contract or his state due process claim. We will consider the Fourteenth Amendment claim to clarify our reasons for affirming the judgment of the Court of Appeals.
+The school board contends; in part, that the reappointment criteria, were not incorporated into' appellant’s contract because the adoption of those criteria by the board altered the statutory requirements for employment of principals, and is, therefore, ultra vires. Because we find that appellant dofes not have 'á property interest in continued employment even if the criteria are incorporated into his contract, we decline to address the board’s argument. "' ' -' "
+R. C. 3319.11 requires that those deciding to renew or not renew limited contracts follow certain procedures. Both parties to the instant cause agree that those statutory requirements for nonrenewal were complied with herein.
+Most of the authorities cited by appellant, none of which are binding on this court, are inapposite. Mabey v. Reagan (D. C. N. D. Cal. 1974), 376 F. Supp. 216, involved the duty of a university to comply with statutory procedures set out for nonretention because of over-staffing. Ferguson v. Thomas (C. A. 5, 1970), 430 F. 2d 862, involved an institution’s regulations which allowed dismissal only for cause. Francis v. Ota (D. C. Hawaii, 1973), 356 F. Supp. 1029, granted due process protection for denial, apparently, of a liberty interest. Finally, Sigmon v. Poe (D. C. W. D. N. C., 1974), 381 F. Supp. 387, granted a hearing to a probationary teacher on the grounds that the statutory requirement that such teachers not be denied reemployment for “arbitrary * * * reasons” could not otherwise be effected.
+It is not necessary, under the facts of the instant cause, for this, court to decide whether one can never become tenured as a principal pursuant to R. C. 3319.02 and State, ex rel. Saltsman, v. Burton (1950), 154 Ohio St. 262, or whether the same requirements for becoming tenured as a teacher apply to tenure for principals pursuant to R. C. 3319.11 and 3319.09 since, under either standard, appellant did not have tenure as a principal at the time his contract was not renewed.
