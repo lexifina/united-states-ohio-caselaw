@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-1205"
+decided: "1988-08-24"
+citations: ["38 Ohio St. 3d 235"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Locher, Douglas, Wright and H. Brown, JJ., concur.", "Holmes, J., concurs in judgment only."]
+parties: ["Hunter et al., Appellants, v. Shenango Furnace Company, Appellee, et al."]
+source_url: "https://static.case.law/ohio-st-3d/38/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1412173
+cites_cases: ["1 OBR 117", "1 Ohio St. 3d 79", "12 OBR 246", "12 Ohio St. 3d 179", "15 OBR 246", "15 Ohio St. 3d 90", "21 OBR 186", "21 Ohio App. 3d 175", "23 O.O. 3d 504", "37 Ohio St. 3d 98", "433 N.E. 2d 572", "437 N.E. 2d 1194", "465 N.E. 2d 1298", "472 N.E. 2d 1046", "487 N.E. 2d 326", "524 N.E. 2d 166", "69 Ohio St. 2d 608"]
+---
+
+# Hunter v. Shenango Furnace Co.
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+Defendant-appellee contends that the one-year statute of limitations governing battery actions, as set forth in R.C. 2305.111, applies to all intentional tort actions brought against employers prior to the effective date of R.C. 4121.80. Defendant submits that under Blankenship v. Cincinnati Milacron Chemicals, Inc. (1982), 69 Ohio St. 2d 608, 23 O.O. 3d 504, 433 N.E. 2d 572, and Jones v. VIP Development Co. (1984), 15 Ohio St. 3d 90, 15 OBR 246, 472 N.E. 2d 1046, this court defined intentional act in terms that are clearly in the nature of a claim for battery. Defendant asserts that the intentional tort alleged here by plaintiffs is the interference with the legally protected right to be free from unwanted bodily contact, i.e., battery. It is the defendant’s contention that since the tort alleged herein is specific, it is governed by the shorter, more precisely defined statute of limitations applicable to battery (R.C. 2305.111), rather than the broader statute of limitations governing causes of action involving bodily injury (R.C. 2305.10).
+The plaintiffs-appellants argue that an employer’s intentional conduct is not always a battery, and that this court in Blankenship, supra, and Jones, supra, did not narrow the intentional tort definition to one that is grounded solely in battery. Plaintiffs submit that intentional conduct can include a variety of causes of action such as battery, assault, deceit, false imprisonment, intentional infliction of emotional distress, etc., but that a clear reading of the underlying action pleaded herein is not one sounding in battery; rather, it is one for personal injury alleging a condition which the employer failed to correct and which caused injury. Plaintiffs contend that the tort of battery requires the doing of an act, but that the instant cause alleges an omission, i.e., that the employer failed to correct certain conditions that could and did cause bodily injury. Thus, plaintiffs argue that intentional conduct alleged on the part of the employer cannot be characterized as a battery where the intentional conduct alleged is in the form of an omission by the employer, rather than an act.
+In determining the applicable statute of limitations in a given action, this court has held that the crucial consideration is the actual nature or subject matter of the cause, rather than the form in which the complaint is styled or pleaded. See Hambleton v. R.G. Barry Corp. (1984), 12 Ohio St. 3d 179, 183, 12 OBR 246, 249, 465 N.E. 2d 1298, 1302; Kunz v. Buckeye Union Ins. Co. (1982), 1 Ohio St. 3d 79, 81, 1 OBR 117, 118, 437 N.E. 2d 1194, 1196.
+Recently, in Love v. Port Clinton (1988), 37 Ohio St. 3d 98, 99, 524 N.E. 2d 166, 167, this court cited the Restatement of the Law 2d, Torts (1965) 25, Section 13, for the proposition that “* * * [a] person is subject to liability for battery when he acts intending to cause a harmful or offensive contact, and when a harmful contact results.”
+However, in the cause sub judice, a review of the nature or subject matter of the intentional tort alleged reveals that the elements of an act are lacking in order to characterize the tort alleged in the complaint as a battery. The Restatement of the Law 2d, Torts, supra, at 26, Section 14, states:
+“To make the actor liable for a battery, the harmful bodily contact must be caused by an act done by the person whose liability is in question.” (Emphasis added.)
+Moreover, “* * * in order to be liable for battery, the defendant must have done some positive and affirmative act * * *.” Prosser & Keeton, Law of Torts (5 Ed. 1984) 41, Section 9.
+In our view, the court of appeals below erred in classifying plaintiffs’ action as one sounding in battery, because the actual nature of the action does not claim an overt, positive or affirmative act on the part of the defendant-employer. Similarly, we reject defendant’s argument that R.C. 2305.111 governs all intentional tort actions by employees against employers for causes of action accruing prior to the effective date of R.C. 4121.80. A review of the instant pleadings and arguments clearly indicates that either an omission by the employer or an intentional failure to act or create a safe working environment is alleged.
+While a Blankenship or Jones intentional tort may take the form of a battery, and thus make the shorter limitations period of R.C. 2305.111 applicable to some bodily injury cases, such a situation is not presented here. For example, as plaintiffs point out, in the case of Zehnder v. Tuscarawas Cty. Engineers (May 28, 1987), Tuscarawas App. No. 86AP100074, unreported, the battery statute of limitations set forth in R.C. 2305.111 was applicable where the plaintiff alleged that he was pushed from a truck by someone apparently under the control of the employer. However, the instant cause is readily distinguishable from Zehnder, supra, because the nature and subject matter of the instant case contain no overt, positive or affirmative act.
+Since the nature of plaintiffs’ action is not battery, R.C. 2305.111 is plainly inapplicable. A careful review of plaintiffs’ action does, however, indicate that it is one alleging bodily injury as the result of an intentional tort. Under such circumstances, it is apparent that the two-year statute of limitations established in R.C. 2305.10 should apply to the cause before us.
+Therefore, we hold that unless the circumstances of an action clearly indicate a battery or any other enumerated intentional tort in the Revised Code, a cause of action alleging bodily injury as a result of an intentional tort by an employer arising prior to the effective date of R.C. 4121.80 will be governed by the two-year statute of limitations established in R.C. 2305.10.
+In the context heretofore delineated, our holding here has been previously embraced by many of the courts of appeals throughout the state. See, e.g., Smith v. Dresser Indus., Inc. (Feb. 19, 1985), Franklin App. No. 84AP-744, unreported; Mitchell v. Lawson Milk Co. (Oct. 15, 1987), Montgomery App. No. 10483, unreported, appeal pending in 87-2099; Grace v. Larson Consolidated, Inc. (Apr. 22, 1987), Lorain App. No. 4148, unreported; Ball v. Victor K. Browning & Co. (1984), 21 Ohio App. 3d 175, 21 OBR 186, 487 N.E. 2d 326. Since the appellate court below erroneously applied the one-year statute of limitations for battery set forth in R.C. 2305.111, this decision must be reversed.
+Accordingly, we reverse the judgment of the court of appeals and remand the cause to the trial court for further proceedings in accordance with this opinion.
+Judgment reversed and cause remanded.
+Moyer, C.J., Locher, Douglas, Wright and H. Brown, JJ., concur.
+Holmes, J., concurs in judgment only.
+R.C. 2305.111 became effective on September 26,1984, subsequent to the date the instant cause accrued. Nevertheless, the prior statute of limitations for battery, R.C. 2305.11 (139 Ohio Laws, Part I, 2153) was also one year.
+R.C. 2305.10 states in relevant part:
+“An action for bodily injury or injuring personal property shall be brought within two years after the cause thereof arose.”
