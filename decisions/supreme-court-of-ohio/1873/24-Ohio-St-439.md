@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["24 Ohio St. 439"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dav, C. J., McIlvaine and White, JJ., coneurring.. Welch, J., not sitting."]
+parties: ["Margaret Matthews v. William S. Rector et al."]
+source_url: "https://static.case.law/ohio-st/24/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888528
+cites_cases: ["1 Howard, 134", "10 Ohio, 152", "12 Ohio, 272", "15 Ohio, 447", "15 Ohio, 466", "16 Wall. 603", "18 Ohio, 330", "2 Ohio St. 251", "2 Ohio St. 270", "2 Ohio, 283", "20 Ohio, 556", "3 Chase, 1697", "3 Ohio, 305", "4 Ohio, 138", "4 Ohio, 327", "4 Pet. 466", "5 Ohio, 385", "5 Ohio, 522", "6 Wheat. 109", "8 Ohio, 107", "8 Ohio, 539"]
+---
+
+# Matthews v. Rector
+
+## Majority (Rex, J.)
+
+Rex, J.
+The first point in this case, to which the attention of the court is directed by the arguments of counsel, is made by the reply of the plaintiff to the answer of the defendants, setting up the decree obtained by Doan against Gibson as a defense to the plaintiff’s action. The land, the title to which was the subject-matter of that action, is situate in Pickaway county, in this state, and at the time the-bill was filed and decree rendered, Gibson was not a resident of this state; and it is claimed, that as service could not be made upon the defendants in an action at common law, by publication, and as the statutes of this state then in force did not make provision for such service, the decree relied on is void.
+Section 11 of the act of March 14, 1831, “ directing the-mode of proceeding in chancery,” provides, that “in cases where the title to or boundaries of land, or contracts concerning lands or tenements, are drawn in question in chancery, and any or all of the defendants are non-residents of the state, suit may be prosecuted in any county where the land lies, and the court shall direct the manner of giving notice to the absent defendants.”
+The record of the case of Doan v. Gibson, which is made part of the bill of exceptions in this case, shows that, at the May term, 1834, of the Court of Common Pleas of Pickaway county, the court, on motion of the complainant, ordered that notice be given to the defendant, Gibson, of the pendency of the action, and the substance and prayer of the bill, by publication in the Circleville Herald, a newspaper printed in Pickaway county, for six consecutive weeks, and that at the succeeding July term of the court, proof was made of the publication of-the notice in the manner and for the time ordered. It must therefore be conceded, that at the succeeding October term of the court, when the decree relied upon as a defense in the present action was entered, the court rendering it had jurisdiction of the •subject-matter of the suit, and of the defendant.
+It is also claimed, that at the time the land was sold to Uo.an, it was not subject to assessment for taxation, and hence the decree is void. The premise might be conceded, .and -yet in nowise affect the validity of the decree as a defense to this action. If a defense of that kind existed, it should have been interposed at the time the suit of Doan v. Gibson was pending. If, by reason of lapse of time or any other cause, no proceedings can now be had to reverse the decree, it can not be declared a nullity by any authority of law. All irregularities which preceded the decree are cured by it, and so long as it remains unreversed, it is conclusive .against Gibson and all parties claiming under him.
+The court rendering the decree was a court of general jurisdiction, and there is no principle of law better settled, than that every act of a court of competent jurisdiction shall be presumed to have been rightly done, until the contrary .appears. This rule applies as well to every order, judgment, or decree, rendered in the various stages of their proceedings, as to their adjudication that the plaintiff has a right of action. 10 Peters, 449; Lessee of Boswell v. Sharp, 15 Ohio, 466; Lessee of Irvin v. Smith, Ib. 242; Lessee of Newman v. City of Cincinnati, 18 Ohio, 330; Lessee of Morgan v. Burnet, Ib. 546; Lessee of Fowler et al. v. Whiteman, 2 Ohio St. 270.
+It is suggested by counsel for the plaintiff'that the decree is a mere release, and does not estop the' plaintiff from-, asserting her after-acquired title, any more than a deed of release merely, or a tax deed. Is this true when viewed in-the light of the decisions of this court? In the opinion-of the court, in the case of Gwynne v. Niswanger, 20 Ohio, 556, delivered by Caldwell, J., it was held “that a person-holding under a purchase from the government, can hold nothing but an equitable title until the patent issues, because he can not trace his title to any original source; but-if the land be sold for taxes while his right is a mere equitable one, he can not reclaim it, although he afterward obtain a patent from the United States.” .
+In this case, Gibson, who'was the assignee of, and entered, the land on a military land-warrant issued to George Turner, had an equitable right to the land, and the United States held the naked legal title in trust for him. Doan,, by his purchase, and the decree of the court, acquired the-same right to the land that Gibson had, up to the time of the sale for taxes, and upon the acquisition of this right,, the naked legal title was held in trust for him by the United States. The patent afterward acquired by the plaintiffj founded upon the equitable right of her father,, must therefore inure in equity to the benefit of the defendants, who are the grantees of Doan, and can not be made available by her, against the defendants, to recover the-possession of the land.
+Motion overruled.
+Dav, C. J., McIlvaine and White, JJ., coneurring.. Welch, J., not sitting.
