@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1865-12"
+citations: ["16 Ohio St. 269"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Scott, C. J., and Day, White, and Brinkerhoee, JJ., concurred."]
+parties: ["*James S. White, Administrator of Taylor S. Turpin, v. Edward J. Turpin."]
+source_url: "https://static.case.law/ohio-st/16/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 879701
+---
+
+# White v. Turpin
+
+## Majority (Welch, J.)
+
+Welch, J.
+This is an equitable action, and if the money is not equitably due, it ought not to be recovered. It is not only an action for money had and received, in which it should appear that ex aequo et bono the money is due, but it is in effect a bill in chancery by a tenant in common against his co-tenant, to recover a ratable proportion of the rents and profits of real estate. In equity and justice, then, ought this money to be paid a second time by the administrator ?
+As the infant left no debts, this money, if collected, will be for the use and benefit of the mother. It is insisted, therefore, on behalf of the defendant, that the administrator should be estopped from recovering it for her use, because she would be estopped by her silent acquiescence in the application of it to the payment of her husband’s debts, from recovering it herself. It is said that the case stands upon the well-known ground, where a party having the right to interpose stands by and permits another to act, and is •thereby estopped from ^denying- the validity of -the act. Whether this position is well taken—whether the mother acted with such understanding of the transactions as brings her fairly within the rule, and whether it applies to a case like the present, where the acquiescence is in the right of another, and the estoppel is interposed against her own right—we need not now determine. We place the decision upon other grounds.
+This was a family arrangement. It was devised by the real friends of the infant. It was for the actual benefit of his estate, and would have been sanctioned^by the proper court if applied to at the time it was made. We think, therefore, that it ought not now to be disturbed. At the time it was entered into, the death of the infant was not in contemplation, and the parties to it, in good faith and naturally, looked to his interest alone, and not to that of his heirs. Had he lived, it is not denied that he would have been substantially benefited thereby. It had the effect to increase the value of the estate. That it happened in the end, by the unexpected death of the infant, to work a different distribution of his estate, resulting in loss to his mother, and gain to his uncles, is no reason why it should now be disturbed, to the injury of parties acting under it in good faith. Such family arrangements, where they are made in good faith, and are clearly beneficial, should be encouraged and supported; and they should be tested by their effect upon the estate of the living infant, and not by their effect upon its distribution among his heirs. If they are such arrangements as a prudent man would make of his own affairs, and such as would have been sanctioned by the proper court, had it been applied to for that purpose, the court will not lend its aid to set them aside, to the injury of any of the parties thereto. This is no new principle, but is sanctioned by high authority in analogous cases. Howard v. Babcock, 7 Ohio,73; 2 Story Eq., sec. 1357 ; Lee v. Brown, 4 Ves. 369; 1 Bro. 356.
+These debts were an incumbrance upon the estate. 'Whether it was best for the interests of the infant, that they should be paid out of the rents, or by sale of part of the real estate, was the question which his friends took upon themselves to decide. All his friends were consulted, and they acted in good faith, *with an eye single to his benefit, and seem to us to have decided wisely. The uncles, to whom the debts were mainly due, generously deferred the payments of their claims for his supposed advantage, and without any intention to benefit themselves as his heirs. The mother —or, if she was incapable, then those who advised with and acted for her—to say the least, silently acquiesced. She too, and her friends, looked alone to the advantage of the child, and in that, merged and ignored her personal and expectant interest as his possible heir at law.
+Surely, if the infant had lived to be of full age, he could not have been permitted, with more than the amount of this money added to the value of his estate, to turn round and collect it a second time from his father’s administrator for his own benefit. If he could not, why should his administrator be allowed to do the same thing for the benefit of his mother. The mother at least knew something about it, and did not object; the infant knew nothing about it, and had no power to object. If the infant could not recover for his own benefit, his administrator should not recover for the benefit of his estate, and particularly for the benefit of the mother, and who was in some sense a party to the transaction.
+Petition dismissed, with costs.
+Scott, C. J., and Day, White, and Brinkerhoee, JJ., concurred.
