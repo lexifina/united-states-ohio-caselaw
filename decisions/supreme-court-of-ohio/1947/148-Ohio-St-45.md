@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "30980"
+decided: "1947-04-23"
+citations: ["148 Ohio St. 45"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Turner, Matthias, Hart, Zimmerman and Sohngen, JJ., concur."]
+parties: ["The State, ex rel. Flask, Jr., v. Collins."]
+source_url: "https://static.case.law/ohio-st/148/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1040464
+cites_cases: ["103 Vt., 175", "118 N. J. Law, 133", "122 N. W., 284", "152 A., 801", "157 Mich., 510", "158 N. C., 75", "191 A., 844", "73 S. E., 816"]
+---
+
+# State ex rel. Flask v. Collins
+
+## Majority (Stewart, J.)
+
+Stewart, J.
+There is but one question for the court to decide in this case: Was the relator legally appointed to the office of councilman from the third ward of the city of Youngstown?
+His appointment was made by the ihayor of that city, under authority of Section 4236, General Code, which reads as follows:
+“When the office of councilman becomes vacant, the vacancy shall be filled by election by council for the unexpired term. If council fail within thirty days to fill such vacancy, the mayor shall fill it by appointment.'1'1 (Italics ours.)
+Although it is agreed that the charter of the city of Youngstown does not contain any provision for filling ■a vacancy in council, the charter does provide that “in the absence of such provisions as to any power, such power shall be exercised in the manner now or hereafter prescribed by the general laws of the state, applicable to municipalities.”
+It is contended by relator that since the vacancy was not filled by council within 30 days after the vacancy occurred, the mayor’s appointment of the relator after such time and his qualifying made him the legally appointed councilman. On the other hand, it is contended by respondent that the willful and deliberate action of the three members of council in preventing council from filling or attempting to fill the vacancy within 30 days after it occurred stayed the running of the 30-day limitation, and that there could be no failure until there had been an effort to perform the duty enjoined by law.
+We are not concerned in this case with the strength or weakness of the title of the respondent to the office of councilman and it is not necessary for us to decide whether the president of council had the power to cast a deciding vote for respondent when there was a tie in council in attempting to elect him.
+This proceeding was brought under Section 12307, General Code, which reads:
+“A person claiming to be entitled to a public office unlawfully held and exercised by another, by himself or an attorney at law, upon giving security for costs, may bring an action therefor.”
+Under that section, the only thing that can be tried is the title to the office of the one bringing the action and the strength or weakness of the title of the respondent is of no concern. If relator is legally entitled to the office, it logically follows that respondent is unlawfully holding it. Relator’s title to the office of councilman therefore is dependent on the legality of his own appointment and any action with reference to the election of respondent has no bearing in the consideration of this case.
+There was a vacancy in the office of councilman, at midnight on December 31, 1946. On February 1, 1947, no election to fill that vacancy had been made by council. Section 4236, General Code, provides that if council fail within 30 days to fill such vacancy thé mayor shall fill it by appointment. It is true that the reason no effort was made by council to act within 30 days was the willful and deliberate leaving of the city by enough of the councilmen to prevent a quorum during the entire time within which council might have filled the vacancy, but it has not been established that the mayor was in any way involved in this dereliction of duty. At the end of 30 days he, as the chief executive of the city with no function in the legislative process, had the problem of a vacancy which council had not filled within the time prescribed by law.
+According to Webster’s New International Dictionary (2 Ed.), the word “failure” means “omission to perform, esp. an appointed function; a default; as, failure of justice; failure to keep a promise.” Certainly council had omitted to perform its appointed function, oven though that omission was willfully caused by half of its members. The mayor,’as the executive officer with the mandatory duty under the statute to appoint when council failed to fill the vacancy, had, in the absence of any connivance on his part, the undoubted right to fill it.
+In the case of McCullers v. Board of Commrs. of Wake County, 158 N. C., 75, 73 S. E., 816, Ann. Cas. 1913D, 507, the Supreme Court of North Carolina, in interpreting a statute which provided that if the county board of health should fail to elect a superintendent of health within two calendar months, the secretary of the state board should appoint, said:
+“We think the true intent and meaning of the statute is to give such appointment to the state secretary when the board of health for any- reason permits the office to remain vacant for two calendar months from the date fixed by the statute * *
+“The public interest requires that this particular office shdll have an incumbent to discharge its duties and the evident intention of the General Assembly was to prevent the office being unfilled for a longer period than the time named.”
+In Mack v. Polonko, 118 N. J. Law, 133, 191 A., 844, a case in some ways similar to the one before us, the law provided that council should elect a -president at its annual meeting and in case of failure to do so the mayor should appoint the president.
+The syllabus in that case is:
+“The organization meeting of 'a borough council having broken up without adjournment to a day certain, and said council having failed at such meeting to elect a president, by Section 24 of the Borough Act its power so to elect lapsed, and the mayor properly made the appointment of a president.”
+As suggested by counsel for relator, the case of Wilson v. Cleveland, 157 Mich., 510, 122 N. W., 284, cited in his brief, is not in point on the question before us as that case merely denies a right to mandamus members of a village council to attend meetings. Furthermore, headnote three, as quoted in relator’s brief, is from the report in the North Western Reporter and does not appear in the official report of the case.
+The case before us is not an effort to require the attendance of recalcitrant members of council at meetings.
+The Youngstown charter contains no provision to enforce the attendance of members of council at meetings. However, there is a rule of council providing that regular meetings of city council shall be held in the council chamber in the city on Monday evening of every week at 7:30 p. m. The three Republican members of council met on the Monday nights in January, but under the rules of council four members constituted a quorum and the Republican members could do nothing but adjourn. No legal effort was or could be made to enforce the attendance of members absent from the state.
+Counsel for respondent cites the case of Scott v. Suitor 103 Vt., 175, 152 A., 801, decided by the Supreme Court of Vermont. The charter under consideration in that case provided that the mayor should nominate an overseer of the poor, and that aldermen should confirm the nomination, “but in the event of the failure to fill any office by the above method, the mayor shall have the right, after May 1, to, appoint someone to said office, and said appointment shall be valid without being confirmed by the board of aldermen.” It was held there that the term, “failure,” as used in the charter, presupposed fruitless efforts and demanded a bona fide and seasonable attempt to select an overseer by the joint action provided for. However, the words in that charter were, “but in the event of the failure to fill any office by the above method, the mayor shall have the right"* * * to appoint someone to said office * *
+Section 4236, General Code, provides that, “if council fail within 30 days to fill such vacancy, the mayor shall fill it by appointment.”
+We hold that the plain meaning of that language is that the mayor has a mandatory duty to fill the vacancy if council has failed for any reason to do so within 30 days from the time the vacancy occurred; and that since the mayor performed the duty which the law enjoined upon him, and his appointee duly qualified, the relator is legally entitled, to the office of councilman of and from the third ward of Youngstown.
+In' arriving at the decision we have reached, we do not want it understood that we condone or approve the conduct of the three councilmen who absconded from the discharge of their legal duties and left the state in order to gain a partisan advantage. Although people imbued with party enthusiasm frequently go a long way to achieve a party advantage, it seems to us that public officials have no moral justification in flouting, defying and holding up to scorn their duties and obligations under the law which they have taken an oath to uphold and support. However, in the present controversy, we cannot remedy this situation; it is a matter for the-discretion qf the electors of Youngstown.
+The petition of the plaintiff is granted and judgment is entered accordingly. •
+Judgment of ouster cmd induction.
+Weygandt, C. J., Turner, Matthias, Hart, Zimmerman and Sohngen, JJ., concur.
