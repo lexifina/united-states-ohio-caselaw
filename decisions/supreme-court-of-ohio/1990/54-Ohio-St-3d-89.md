@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89-1803"
+decided: "1990-10-10"
+citations: ["54 Ohio St. 3d 89"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Holmes, Wright and H. Brown, JJ., concur.", "Sweeney, Douglas and Resnick, JJ., dissent."]
+parties: ["Weisbrod et al., Appellees, v. Stillman; Cincinnati Insurance Company, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/54/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1426232
+cites_cases: ["54 Ohio St. 3d 61", "562 N.E. 2d 132"]
+---
+
+# Weisbrod v. Stillman
+
+## Majority
+
+The judgment of the court of appeals is reversed on authority of State Farm Mut. Auto. Ins. Co. v. Webb (1990), 54 Ohio St. 3d 61, 562 N.E. 2d 132.
+Moyer, C.J., Holmes, Wright and H. Brown, JJ., concur.
+Sweeney, Douglas and Resnick, JJ., dissent.
