@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19242"
 decided: "1925-11-17"
-citations: ["3 Ohio Law Abs. 692", "3 Ohio Law Abs. 723"]
+citations: ["3 Ohio Law Abs. 692"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
