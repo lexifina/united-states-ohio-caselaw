@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19689"
 decided: "1926-03-15"
-citations: ["4 Ohio Law Abs. 287", "4 Abs. 192", "4 Ohio Law Abs. 867", "OS. Pend. 4 Abs. 287", "4 Ohio Law Abs. 192", "4 Ohio Law Abs. 285"]
+citations: ["4 Ohio Law Abs. 287", "4 Abs. 192"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
