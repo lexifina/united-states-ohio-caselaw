@@ -1,0 +1,56 @@
+---
+court: "Supreme Court of Ohio"
+docket: "81-1100 and 81-1148"
+decided: "1982-06-23"
+citations: ["70 Ohio St. 2d 249"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney, Acting C. J., Stephenson, Victor, Locher, Holmes, C. Brown and Krupansky, JJ., concur.", "Stephenson, J., of the Fourth Appellate District, sitting for Celebrezze, C. J.", "Victor, J., of the Ninth Appellate District, sitting for W. Brown, J."]
+parties: ["Sears, Roebuck and Company, Appellee and Appellant, v. Lindley, Tax Commr., Appellant and Appellee. (Two cases.)"]
+source_url: "https://static.case.law/ohio-st-2d/70/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6694643
+cites_cases: ["25 Ohio St. 2d 53", "322 U. S. 327", "58 Ohio St. 2d 199", "58 Ohio St. 2d 210", "65 Ohio St. 2d 47", "67 Ohio St. 2d 331", "67 Ohio St. 2d 417"]
+---
+
+# Sears, Roebuck & Co. v. Lindley
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+I.
+The board, in reversing the sales tax assessment relating to the taxpayer’s purchase of merchandise transport systems, held that the installation charges were excepted from taxation pursuant to R. C. 5739.01(H), which provided, in pertinent part:
+“ ‘Price’ means the aggregate value in money of anything paid or delivered, or promised to be paid or delivered, in the complete performance of a retail sale, without any deduction on account of the cost of the property sold, cost of materials used, labor or service cost, interest or discount paid or allowed after the sale is consummated, or any other expense. Price does not include the consideration received for labor or services used in installing or applying the property sold * * * if the consideration for such service * * * is separately stated from the consideration received or to be received for the tangible personal property transferred in the retail sale. Such separation must appear in the sales agreement or on the initial invoice or initial billing rendered by the vendor to the consumer. * * *” (Emphasis added.)
+Thus, R. C. 5739.01(H) creates an exemption, provided that two conditions are met. First, the contract, invoice or billing must separately identify installation labor from the consideration received for tangible personal property. The parties concede the existence of this condition. Second, the labor costs sought to be exempted must, in fact, be for installation and not a charge for continued manufacturing.
+Essentially, the commissioner contends that due to the overall size of the transport systems installed, the labor charges constituted a fee for on site manufacturing and, therefore, are subject to taxation. In support of this contention, the commissioner relies upon Southwestern Portland Cement Co. v. Lindley (1981), 67 Ohio St. 2d 417.
+In Southwestern Portland Cement Co., the taxpayer contracted for the construction of an entire dry process cement plant at a cost of $16,541,000. The facts reveal that Southwestern failed to comply with either requirement contained in R. C. 5739.01(H). First, the purchase agreement did not distinguish installation labor costs from fabrication costs. Id. at 426. Second, the component parts “were partially manufactured * * * and then shipped to the * * * [taxpayer’s] site for final assembly.” Id. at 425. Clearly, some of the components utilized in the cement plant arrived in a finished state requiring only installation. Nonetheless, the failure to distinguish between fabrication and installation labor costs in the sales agreement was fatal to the taxpayer’s claimed exemption.
+Conversely, the record in the instant case is replete with evidence demonstrating that the transport systems arrived at the distribution center in a finished, manufactured and shop-painted condition; no forming, shaping, machining or other incidents traditionally associated with manufacturing were required after delivery.
+This court has consistently held that it will not “overrule board findings of fact which are based upon sufficient probative evidence.” Hawthorn Mellody v. Lindley (1981), 65 Ohio St. 2d 47, 49. See, also, 3535 Salem Corp. v. Lindley (1979), 58 Ohio St. 2d 210; Episcopal Parish v. Kinney (1979), 58 Ohio St. 2d 199; Citizens Financial Corp. v. Porterfield (1971), 25 Ohio St. 2d 53. Since the record herein contains sufficient probative evidence supporting the board’s decision, we affirm that portion of the decision exempting installation charges pursuant to R. C. 5739.01(H).
+II.
+The issue presented by Sears’ appeal concerns the reasonableness and lawfulness of the board’s decision whereby the commissioner’s sales tax assessment upon catalogues and newspaper advertising supplements was affirmed.
+R. C. 5739.02 levies an excise tax “* * * on each retail sale made in this state.” (Emphasis added.) “Sale” is defined in R. C. 5739.01(B), as:
+«* * * transactions by which title or possession, or both, of tangible personal property, is or is to be transferred * * * and include all transactions by which printed, imprinted, overprinted, lithographic, multilithic, blueprinted, photostatic, or other productions or reproductions of written or graphic matter are or are to be furnished or transferred; for a consideration in any manner, whether absolutely or conditionally, whether for a price or rental, in money or by exchange, and by any means whatsoever * * *.” (Emphasis added.)
+The record concerning the subject personal property demonstrates that orders for the purchased printed materials were initiated and completed outside of Ohio, either by Sears’ Midwest territory office in Skokie, Illinois, or by its national headquarters located in Chicago, Illinois. The materials were printed in Indiana and Illinois, and the printers were paid in those states. Delivery was effectuated by common carrier. Title was transferred by virtue of consideration paid to the printers and possession of the materials was vested in the taxpayer once they left the printers’ loading docks by common carrier. Given these facts, Sears contends that no taxable event, i.e., the transfer of title or the transfer of possession, occurred in Ohio and, if a tax was due, it certainly was not a sales tax. We agree.
+The board, in addressing this issue, concluded that Sears had agreed to the methodology of the audit pursuant to an agreement between Sears and the Ohio Department of Taxation. After careful examination of this agreement, we are unable to perceive where Sears agreed to the imposition of a sales tax assessment when a taxable event, pursuant to R. C. 5739.01(B), did not transpire within Ohio.
+The commissioner contends that the style of the assessment as a “sales” rather than a “use” tax is a technical defect in light of the complementary nature of the two taxes. We categorically reject this contention. While the sales and use tax provisions under the Revised Code are complementary, see, e.g., General Motors Corp. v. Lindley (1981), 67 Ohio St. 2d 331, 334, they are not interchangeable.
+This principle was articulated by Justice Frankfurter in McLeod v. J. E. Dilworth Co. (1944), 322 U. S. 327. Therein, the court reviewed a decision of the Supreme Court of Arkansas precluding the imposition of sales taxes upon out-of-state transactions. The court, at page 330, stated:
+“It is suggested, however, that Arkansas could have levied a tax of the same amount on the use of these goods in Arkansas by Arkansas buyers, and that such a use tax would not exceed the limits upon state power derived from the United States Constitution. Whatever might be the fate of such a tax were it before us, the not too short answer is that Arkansas has chosen not to impose such a use tax, as its Supreme Court so emphatically found. A sales tax and a me tax in many instances may bring about the same result. But they are different in conception, are assessments upon different transactions, and in the interlacings of the two legislative authorities within our federation may have to jmtify themselves on different constitutional grounds. A sales tax is a tax on the freedom of purchase * * *. A use tax is a tax on the enjoyment of that which was purchased. In view of the differences in the basis of these two taxes and the differences in the relation of the taxing state to them, a tax on an interstate sale like the one before m and unlike the tax on the enjoyment of the goods sold, involves an assumption of power by a State which the Commerce Clause was meant to end. ” (Emphasis added.)
+In view of this statement, the commissioner’s argument, that the style of an assessment as a sales tax rather than a use tax constitutes a technicality, must fail. Accordingly, we reverse that portion of the board’s decision sustaining the commissioner’s sales tax assessment on the taxpayer’s printed materials.
+For all of the foregoing reasons, the decision of the board is affirmed in part and reversed in part.
+Decision affirmed in part and reversed in part.
+Sweeney, Acting C. J., Stephenson, Victor, Locher, Holmes, C. Brown and Krupansky, JJ., concur.
+Stephenson, J., of the Fourth Appellate District, sitting for Celebrezze, C. J.
+Victor, J., of the Ninth Appellate District, sitting for W. Brown, J.
+Subsequent to the subject assessment, R. C. 5739.01(H) was amended by Am. Sub. H. B. No. 275, effective August 1, 1981.
+The record discloses that several of the transport systems are measured by the thousands of square feet or by the mile.
+Sears suggests, arguendo, that the proper tax under these circumstances may have been the assessment of a use tax pursuant to R. C. Chapter 5741. However, since a use tax was not assessed, we decline to express an opinion regarding the propriety of such a tax under these circumstances.
+The agreement executed between Sears and the Department of Taxation provides, in its entirety:
+“Pursuant to the Ohio Sales and Use Tax Audit of Purchases, an agreement is entered into between Sears, Roebuck and Co. and the Ohio Department of Taxation.
+“Said agreement pertains only to procedures used in the audit period.
+“1. That the purchases of two stores in each of the three groups of stores (A, B & C) shall be audited to determine the taxable purchases for those two stores for one calendar quarter. This amount divided by the combined gross sales as reported on the sales tax report for the same stores for that period shall determine the ratio of taxable purchases to gross sales for all stores in that group.
+“2. That a sampling of one store in each of the two classes of new stores (A & C) opened during the audit period shall be used to determine the percentage of error in the reporting of taxable purchases for the new stores by class of store. These rates will not apply to the purchase of items covered in (1) above.
+“Intercompany purchases shipped from Illinois.
+“3. That newspaper rotos shipped to Ohio Stores and advertising groups consist of 78% tangible personal property.
+“4. That ‘Advertising Materials’ shipped to Ohio Stores and advertising groups consist of 68% tangible personal property.
+“5. That ‘Basic Display Service’ items shipped to Ohio stores and advertising groups consist of 65% tangible personal property.”
