@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1893-12-05"
+citations: ["50 Ohio St. 595"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ryan v. Rothweiler et al."]
+source_url: "https://static.case.law/ohio-st/50/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 48161
+cites_cases: ["102 N. C., 115", "104 Ill., 573", "115 N. Y., 152", "119 Ind., 448", "12 Wis., 220", "12 Wis., 223", "13 N. Y., 31", "15 R. I., 106", "16 Phila., 399", "25 Ohio St., 668", "28 Hun., 119", "28 Minn., 166", "28 Wis., 108", "4 Mackey, 19", "4 Ohio C. C. R., 338", "42 Conn., 60", "44 Ohio St., 156", "46 Conn., 79", "48 Ohio St., 271", "50 Mo., 44", "50 Wis., 603", "58 Ala., 133", "6 N. W. Rep., 771", "78 Me., 268", "85 N. Y., 593", "85 Pa. St., 202", "86 Ind., 196"]
+---
+
+# Ryan v. Rothweiler
+
+## Majority (Burket, J.)
+
+Burket, J.
+The petition avers that the premium was paid by Charles C. Helwig, and this is not denied by Charles T. Ryan in his answer and cross-petition. True, he avers in the language of the policy, that the first premium was in hand paid by the wife, and that the subsequent premiums were to be paid, without stating by whom the payments were to be made.
+The fact that Charles C. Helwig survived his wife and daughter and grandson, and that no averment is made in the cross-petition as to the payment of the premium during all the years from 1864 to 1885, and the further fact that the allegation in the petition, to the effect that the premiums were to be paid by the assured, is not denied further than by a recital of the contents of the policy, leaves the fact reasonably certain that the premiums were paid by the assured, Charles C. Helwig. In fact, no other conclusion can be reached from a careful reading of the petition and cross-petition, regard being had to the order in which the parties died; and the arguments of counsel on both sides, seem to concede the fact so to be.
+On the part of Charles T. Ryan, it is claimed, that by the terms of the policy Mrs. Helwig, and after her death, her daughter, Anna Ryan, had a vested interest in the amount to be paid, which could not be divested by any act of the husband or the insurance company, or both.
+That this vested right was a chose in action, a simple contract to pay her (Anna Ryan) a certain sum of money on the happening of an event certain.
+That upon her death, the chose in action passed to her administrator to be collected when due, and the proceeds distributed to her next of kin.
+On the part of the defendants in error, it is claimed, that this insurance policy is a kind of trust, and that when the beneficiaries of the trust fund died the fund lapsed into the estate of the'person who created the trust, and at his death be.came a part of his estate, subject to administration and bequest as other parts of his personal estate.
+Many authorities have been cited by the attorneys on both sides to support these propositions; and the Circuit Court well said that “there is admitted .confusion among the reported cases and authors upon the subject.”'
+The question has never been decided in this state, and hence, we are at liberty to adopt such rule as we think is most consistent with justice and the intention of the parties. The question is not governed so much by the ¡irinciples of dioses in action and vested rights, as by the principles, aims and well-known objects of life insurance.
+The cases which hold the insurance money to be a trust fund which reverts to the estate of the assured, in case of the death of all the named beneficiaries during the life-time of the assured, give different reasons for the result arrived at. Some place it upon the ground that the person to whom the fund would otherwise go, has no insurable interest in the life of the assured, while others place it upon the doctrine of failure of trust by the death of the beneficiary.
+In the case now under consideration, should plaintiff in error succeed, he would receive the insurance money, while he manifestly had no insurable interest in the life of Mr. Helwig.
+While Anna C. Ryan had an insurable interest in the life of her father, her administrator had no such interest.
+While a man may cause his own life to be insured for the benefit of a stranger, and the want of insurable interest in the stranger will not invalidate the policy, a policy taken out by a man for his own benefit on the life of a stranger, would be void for want of insurable interest. May on Insurance, section 75A
+The theory of a failure of trust comes with more force, and stronger reasons than the doctrine of choses in action so strongly urged by counsel for plaintiff in error. We regard the doctrine of choses in action as not fully applicable, because it conflicts in many cases with the controlling doctrine of insurable interest.
+The case of Manhattan Insurance Company v. Smith, 44 Ohio St., 156, was a case of attempted change of beneficiary and of forfeiture of policy. No such questions arise in this case. Here the question is not as to change of beneficiary, but as to reverter of the policy to the assured by reason of the death of all the beneficiaries. Hence, that case throws no light upon the question here involved.
+On principle, therefore, and aside from any statute on the subject, we think that in this case the policy reverted to Mr. Helwig, and at his death became a part of his estate. It seems to us that this was the manifest intention and understanding of all the parties interested, and that the result is just and equitable. While there may have been a vested interest, it was an interest not in possession, but in expectancy, liable to be divested by the death of the beneficiary before the death of the assured.
+The statute in force when this policy was taken out, S. & C., 737, provided that in case of the death of the wife before the decease of her husband, the amount of the insurance might be made payable to her children, and to their guardians, if the children were under age. But there was no provision for making payment to the administrator of the children, in case they should die before the father. This statute was passed upon the theory that but for the statute the policy being payable to the wife only, would, in case of her death before that of her husband, revert to the husband, as upon a failure of trust by the death of the named beneficiary.
+' This act of 1847 was only declaratory of a power which existed independent of the statute, because the children having an insurable interest in the life of the father, the policy might be made payable to them in case of the death of the mother; but the statute was passed, as is often done, to express, define, limit and make certain a power which already existed. By limiting the policy to the children at farthest, a condition was implied, that upon the death of both the wife and children during the lifetime of the assured, the policy should revert to the assured, as upon a failure of trust by the death of the beneficiary.
+Eater on, in 1879, the legislature passed what is now section 3629, which provides, as follows:
+“But if there are no children, upon the death of the wife, such policy shall revert and become the property of the party whose life is insured, unless it has been transferred as hereinafter provided.”
+This statute was passed after the policy in this case was issued, and of course, could not affect the rights of the parties. But it ingrafted no new principle into the law as it stood from and after the passage of the act of 1847, but only made clear and certain that which already existed, but was somewhat obscure.
+We, therefore, hold, both upon principle and a construction of the statute, that upon the death of the wife and daughter in this case, the policy reverted to Mr. Helwig, and at his death, became part of his estate, subject to administration and bequest, the same as other parts of his personal estate, and that the plaintiff in error has no interest whatever in the fund.
+It is further claimed by plaintiff in error, that there is a misjoinder of parties plaintiff. The insurance company made no such claim, but paid the money into court, to be paid over to the proper owner. Plaintiff in error having no interest in the fund, cannot be heard to complain as to defect of parties plaintiff at this stage of the case as they are not seeking to take any money or property from him.
+Jiidgment affirmed.
