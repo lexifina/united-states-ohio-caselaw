@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19673"
 decided: "1926-03-09"
-citations: ["4 Ohio Law Abs. 323", "4 Abs. 176", "4 Ohio Law Abs. 176"]
+citations: ["4 Ohio Law Abs. 323", "4 Abs. 176"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
