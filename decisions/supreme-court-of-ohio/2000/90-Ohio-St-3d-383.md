@@ -1,0 +1,47 @@
+---
+court: "Supreme Court of Ohio"
+docket: "99-600"
+decided: "2000-12-20"
+citations: ["90 Ohio St. 3d 383"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Douglas, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.", "Moyer, C.J., and Cook, J., dissent.", "Moyer, C.J., concurs in the foregoing dissenting opinion."]
+parties: ["The State ex rel. Sugardale Foods, Inc., Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/90/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1121444
+cites_cases: ["277 N.E.2d 219", "28 Ohio St.2d 154", "567 N.E.2d 245", "57 O.O.2d 397", "57 Ohio St.3d 203", "643 N.E.2d 113", "658 N.E.2d 735", "679 N.E.2d 702", "71 Ohio St.3d 229", "74 Ohio St.3d 294", "79 Ohio St.3d 73"]
+---
+
+# State ex rel. Sugardale Foods, Inc. v. Industrial Commission
+
+## Majority (Lundberg Stratton, J.)
+
+Lundberg Stratton, J.
+Three issues are presented for our review: (1) Does the commission have jurisdiction to adjudicate claims for medical costs? (2) Was the commission required to deny Sheets surgical authorization by its then-current policy concerning Steffee plating procedures? and (3) Should this cause be returned to the commission for further review? For the reasons that follow, we hold that (1) the commission is authorized to approve or disapprove of claimants’ medical costs, (2) the BWC’s Steffee plating policy was merely a guideline and not absolutely binding, and (3) the commission’s order is supported by evidence of record and needs no further review. Accordingly, we affirm the judgment of the court of appeals and deny the writ of mandamus.
+Jurisdiction
+Sugardale did not object or appeal when the court of appeals initially returned this cause to the commission to review the effect of its policy of refusing to authorize Steffee plating; however, it now contends that the commission lacks jurisdiction to adjudicate disputes over medical cost authorization. We consider this argument because it attacks the commission’s subject matter jurisdiction, and subject matter jurisdiction cannot be waived. In re Byard (1996), 74 Ohio St.3d 294, 296, 658 N.E.2d 735, 737. But we are not persuaded.
+Based on a variety of statutes, we have consistently held that the BWC and the commission share the power to oversee and determine the reasonableness and necessity of health care expenditures. State ex rel. Miller v. Indus. Comm. (1994), 71 Ohio St.3d 229, 231-232, 643 N.E.2d 113, 115; State ex rel. Campbell v. Indus. Comm. (1971), 28 Ohio St.2d 154, 57 O.O.2d 397, 277 N.E.2d 219. And as the commission points out, its district hearing officers continue to have original jurisdiction under R.C. 4121.34(B)(3) in all “contested claims matters” (other than those belonging to staff hearing officers) arising under R.C. Chapter 4123, which must include claims for medical costs under R.C. 4123.66. Correspondingly, R.C. 4123.511(C) specifically requires the commission to refer to district hearing officers contested claims against self-insured employers.
+Sugardale’s claimed authority for challenging the commission’s jurisdiction to review medical cost claims is R.C. 4121.121(B)(16)(a) and (17), formerly 4121.121(P)(1) and (Q). Section (B)(16)(a) empowers the BWC administrator to establish a medical section to help standardize medical fees, approve medical procedures, determine eligibility and reasonableness of medical costs, and produce guidelines for payment policies that recognize the usual, customary, and reasonable methods of payment for covered services. Section (B)(17) enables the administrator to appoint panels to review and advise in disputes arising when a health care service has been determined not to be covered or to be medically unnecessary.
+Sugardale claims that these statutes have dispensed with all commission review in medical cost claims because, in describing the peer review panels for such matters, Ohio Adm.Code 4123-7-27(K) specifies that “[t]he panel may conduct an informal hearing, and shall advise the administrator, whose decision shall be final.” However, we are not convinced that by authorizing panels to assist the administrator, the General Assembly empowered the BWC to pass a rule superseding, by a single line, the statutory and common law that has for years recognized the commission’s power to review medical cost claims. Instead, we consider Sheets’s explanation the more likely representation of legislative intent — that Ohio Adm.Code 4123-7-27(K) refers to the administrator’s decision being final, but only relative to the peer review panel’s recommendation.
+Accordingly, we reject Sugardale’s proposition that the commission lacked jurisdiction over Sheets’s request for surgical authorization.
+The Commission’s Policy and Order
+Sugardale also insists that the commission could not authorize a self-insured employer to pay for Sheets’s procedure in the face of the BWC’s former policy to deny State Fund claims for Steffee plating surgery and the uniform processing requirements of R.C. 4121.31(A)(3). We disagree.
+The BWC’s policy of denying authorization for procedures that are experimental or not FDA-approved, which generated the policy to deny Steffee plating procedures, was implemented pursuant to R.C. 4123.32(D). That statute describes such policies as “guidelines” and specifies that they are not administrative rules as defined by R.C. 119.01. Thus, the policy of denying payment for Steffee plating surgery is not so legally binding that it cannot be set aside. Rather, the policy could reasonably be disregarded when medical evidence removes the usual justification for rejecting these claims.
+Thus, as long as the BWC does not discriminate against self-insured employers by always requiring them to pay for surgeries such as the Steffee plating procedure, but refusing to authorize such surgeries in State Fund claims, the BWC is within its rights to lift its policy whenever it sees fit. And here, there is no compelling evidence of discrimination. As the court of appeals’ magistrate observed, the BWC’s peer review committee authorized payment of this procedure in the case of Alan Wagner’s State Fund claim, and that evidence undercuts Sugardale’s conspiracy theory.
+The question remaining is whether we should give this cause back to the commission again to see if the misimpression that Sheets’s claim was subjected to peer review made a difference in authorizing his surgery. We agree with the court of appeals that further review is unnecessary.
+The commission may have been mistaken about who received peer review approval for a Steffee plating procedure; however, the fact that the approval was given to someone is still some evidence of its medical legitimacy, as well as a basis for authorizing it, the usual policy notwithstanding. Moreover, the policy of denying Steffee plating authorization was abandoned in 1996, shortly after Sheets’s surgery, and the commission has already determined that “all medical evidence on file supports the claimant’s request for surgery with Steffee plating.” Based on this evidence, the conclusion that Sheets’s surgery was reasonable and necessary is all but inevitable. We simply cannot countenance adding yet another layer of review to stave off this foregone conclusion.
+The court of appeals’ judgment, therefore, is affirmed.
+Judgment affirmed and writ denied.
+Douglas, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.
+Moyer, C.J., and Cook, J., dissent.
+
+## Dissent (Cook, J.,)
+
+Cook, J.,
+dissenting. I respectfully dissent from the majority’s holding to the extent that it denies a'writ of mandamus granting further commission review in this case.
+In complying with the court of appeals’ order to determine the effect of the policy to deny authorization for Steffee plating surgery, the commission found that the policy was in effect when it approved Sheets’s surgery, but also that the policy could be overcome on a case-by-case basis with sufficient medical evidence. The commission then seemed to find such evidence in the expert peer review opinion it mistakenly ascribed to Sheets’s claim. This is why the court of appeals’ magistrate found the commission’s mistake so significant. Apparently, the magistrate was concerned that the commission had relied on the peer review evidence as necessary to overcome the general rule against authorizing Steffee plating procedures.
+I agree with the magistrate’s assessment of the commission’s order. The order suggests that the commission authorized Sheets’s surgery based on an erroneous conclusion that the surgery was supported by expert opinion in addition to that of Dr. Krell. Thus, at best, the majority’s denial of any relief ignores our tradition of returning ambiguous or confusing orders to the commission for clarification. State ex rel. Buttolph v. Gen. Motors Corp., Terex Div. (1997), 79 Ohio St.3d 73, 75, 679 N.E.2d 702, 704. And at worst, the majority opinion runs afoul of the fundamental principle that the commission’s orders must be based on some evidence with adequate explanation. State ex rel. Noll v. Indus. Comm. (1991), 57 Ohio St.3d 203, 567 N.E.2d 245.
+Accordingly, I would grant a writ of mandamus for the limited purpose of ordering the commission to review the effect of considering the wrong peer review on its decision to authorize Sheets’s surgery.
+Moyer, C.J., concurs in the foregoing dissenting opinion.
