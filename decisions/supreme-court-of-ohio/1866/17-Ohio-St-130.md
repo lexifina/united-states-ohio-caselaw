@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1866-12"
+citations: ["17 Ohio St. 130"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hay, C.J., and White, Welch, and Scott, JJ,, concurred."]
+parties: ["John Yetzer v. Philip Thoman."]
+source_url: "https://static.case.law/ohio-st/17/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 881251
+cites_cases: ["10 Barb. 256", "10 Ohio, 469", "11 Mass. 295", "13 Ohio St. 46", "14 Barb. 437", "15 Ill. 271", "2 Ohio St. 607", "23 Vt. 435", "4 Johns. 230", "4 Mass. 416", "4 Ohio, 331", "4 Wheat. 513", "5 Day, 181", "5 Md. 256", "5 Met. 15", "5 Ohio, 595", "6 Johns. 197", "6 Mass. 229", "6 Ohio, 164", "6 Serg. & R. 21", "7 Ohio St. 99", "8 Conn. 439", "8 Ohio, 298", "9 Johns. 162", "9 Penn. St. 226"]
+---
+
+# Yetzer v. Thoman
+
+## Majority (Brinkerhoff, J.)
+
+Brinkerhoff, J.
+In this case the plaintiff in error was plaintiff below, and the defendant in error was defendant below.
+On the 2d of April, 1862, the plaintiff brought his action against the defendant, under the code of civil procedure, for the recovery of real property, alleging that he had a legal estate in, and was entitled to the possession of, a strip of land, seventeen rods in width, from off the north end of a certain half quarter-section described in his petition; and that the defendant unlawfully kept him out of the possession thereof, etc.
+The defendant answered, and took issue on these allegations.
+The ease was tried to a jury; a verdict was found for the defendant, and a judgment rendered thereon. To reverse this jxidgment the plaintiff filed a petition in error in the district court, where the case was reserved for decision in this court.
+On the trial of the case in the common pleas, a bill of exceptions was taken, from which it appears that the defendant is the unquestioned owner of the lands immediately north of the strip of land in controversy, and that the plaintiff is the like owner of the lands immediately south of it; and the question is one of boundary between adjoining proprietors. It furthermore appears from the bill of exceptions, that the plaintiff, on the trial, claimed, and gave evidence, among *other things, tending to establish, in himself and those under whom he claimed, an actual, continuous, and exclusive possession of the strip of land in dispute, for more than twenty-one years prior to the commencement of the action.
+In respect to this branch of the case, it is alleged that the court below erred in its charge to the jury. The charge of the court is as follows:
+“An entry of one man on the land of another is an ouster of the legal possession, or not, according to the intention with which it is done. By the law, the intention guides the entry and fixes its character; so that if the land in dispute in this case was taken by the plaintiff and held by him for twenty-one years, under the belief that the line up to’ which he claimed was the true line, and the owner of the Thoman tract, in ignorance of the true line, but'believing it to be the same which plaintiff occupied, allowed the plaintiff to take possession of the land in dispute and hold it, such occupancy by the mutual mistake of the parties can not operate as a disseizin of the defendant, nor confer ujmn the plaintiff a title by adverse possession while such mutual mistake exists.
+“ The plaintiff must have knowingly and designedly taken and held the land to enable him to claim the benefit of the statute. Occupancy by accident, or mistake, or ignorance of the dividing line, is not sufficient.
+“ If a land-owner through ignorance, mistake, or inadvertency, includes a part of an adjoining tract within his inelosure, and it so remains inclosed for twenty-one years, it does not operate as a disseizin. A disseizin can not be committed by mistake, because the intention of the possessor to claim adversely is an essential ingredient in a disseizin; nor will mere mistake work an abandonment of land, nor make a good possessory title.”
+We are of opinion that this charge is erroneous. We think that under our statutes of limitations, if a party establish in himself, or in connection with those under whom he claims, an actual, notorious, continuous, and exclusive possession of land for a period of twenty-one years, lie thereby, except as to persons under disability, acquires a title to the land; and this, irrespective of any question of motive or of mistake.
+*The charge of the court below would seem to imply that the statute for the limitation of actions for the recovery of real estate, was intended only for the protection of parties who appropriate to themselves the lands of others, knowing them to be the lands of others, and to exclude from its benefits a party who has honestly entered and held possession of land in the full belief that it was his own. At least the charge will bear that construction, and was calculated to mislead the jury. Such a construction of our statute finds no countenance in any reported case in this state, and if accepted, would, wo think, be mischievous in its operation.
+It is true the doctrine of the court below finds some support in the case of Ross v. Gould, 3 Greenleaf, 204; but the conclusions announced in that case are drawn from the peculiar language of the statute of limitations of Maine — wholly unlike that of the Ohio statute — and those conclusions have been much modified and limited in their application by the later case of Otis v. Moulton, 20 Maine, 205.
+But it seems to us that the correct doctrine on this subject is laid down by the Supreme Court of Errors of Connecticut, in French v. Pearce, 8 Conn. 439; and except that the period of limitation prescribed by the statute of that state is fifteen years, instead of twenty-one, as in Ohio, what was said 'in that case is as ’ applicable in cases arising under our statute as it was to the case before that court. In that case, the court say: “ The possession alone, and the qualities immediately attached to it, are regarded. If he intends a wrongful disseizin, his actual possession for fifteen years gives him a title; or if he_ occupies what he believes to be his own, a similar possession gives him a title. Into the recesses of his mind, his motives or purposes, his guilt or innocence, no inquiry is made. It is for this obvious reason that it is the visible and adverse possession, with an intention to possess, that constitutes its adverse character, and not the remote views or belief of the possessor.”
+To avoid possible misapprehension, however, it may be well to remark, that as settled by this court in McAfferty v. Conover, 7 Ohio St. 99, where adjoining proprietors, under a mutual mistake as to the locality of the two lines between *them, respectively occupy up to and acquiesce in a line other than the trap one, for a period less than twenty-one years, neither party is, in general, estopped to assert title np to the true line. But that is a very different case from this. That is a question of estoppel in pais; this is one in respect to the application of the statute of limitations.
+Judgment reversed, and cause remanded.
+Hay, C.J., and White, Welch, and Scott, JJ,, concurred.
