@@ -1,0 +1,53 @@
+---
+court: "Supreme Court of Ohio"
+docket: "77-493"
+decided: "1978-03-29"
+citations: ["53 Ohio St. 2d 223"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Herbert, Celebrezze, W. Brown, P. Brown, Sweeney and Locher, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Adams, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/53/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1800654
+cites_cases: ["119 Ohio St. 285", "120 Ohio St. 62", "143 Ohio St. 39", "164 N. E. 51", "165 N. E. 566", "18 A. L. R. 3d 259", "18 Ohio St. 438", "19 Ohio St. 2d 167", "249 N. E. 2d 912", "311 N. E. 2d 526", "330 N. E. 2d 720", "357 N. E. 2d 1035", "358 N. E. 2d 551", "358 N. E. 2d 623", "364 N. E. 2d 1140", "364 N. E. 2d 1152", "38 Ohio St. 2d 157", "386 U. S. 18", "411 U. S. 223", "43 Ohio St. 2d 66", "48 Ohio St. 2d 262", "48 Ohio St. 2d 391", "48 Ohio St. 2d 73", "51 Ohio St. 2d 47", "51 Ohio St. 2d 68", "53 N. E. 2d 808"]
+---
+
+# State v. Adams
+
+## Majority (O’Neill, C. J.)
+
+O’Neill, C. J.
+Appellant’s first contention is that the Ohio statutes relating to capital punishment, R. C. 2903. 01, 2929.03 and 2929.04, are unconstitutional. This contention is without merit. State v. Bayless (1976), 48 Ohio St. 2d 73, 357 N. E. 2d 1035; State v. Black (1976), 48 Ohio St. 2d 262, 358 N. E. 2d 551; State v. Downs (1977), 51 Ohio St. 2d 47, 364 N. E. 2d 1140; State v. Shelton (1977), 51 Ohio St. 2d 68, 364 N. E. 2d 1152.
+The second issue raised by appellant concerns the applicability of B. O. 2941.25(A) to his sentencing. That section reads:
+“Where the same conduct by defendant can be construed to constitute two or more allied offenses of similar import, the indictment or information may contain counts for all such offenses, but the defendant may be convicted of only one.”
+Beferring to the language of the second count of the indictment, appellant argues “that the elements of aggravated murder in the second, count of the * * * indictment and the elements of the specification of aggravation attached were identical, and as such were committed simultaneously and with the same animus,” and that “ [t]he implication of the effect of the. specification of aggravation is the imposition of the death penalty and as’ such it should be stricken pursuant to the code section herein cited [B. C. 2941.25(A)].”
+.' ' ■' This" argument is not well taken. As pointed' out by appellee, the “ [s]pecifioations required for the imposition of the death penalty pursuant to Section 2929.04, Bevised Code, do’not constitute separate criminal offenses in and of. themselves.” Since the specification ’does not charge a separate offense and B. C. 2941.25(A) relates to instances where the same conduct of the defendant constitutes ¿1-lied offenses of similar import, that statute is not‘applicable.
+The third argument advanced by appellant is that the trial court erred in overruling his motion to suppress the murder weapon. The weapon was seized without a search warrant by police from the car owned by Margaret Etter, which was being operated by Thomas Deal, at a time when appellant was not present. In those circumstances, the overruling of the motion to suppress was not error. Brown v. United States (1973), 411 U. S. 223.
+In Brown, the defendant was charged' with the federal crimes of transporting stolen goods and conspiring to transport stolen goods in interstate commerce. At the trial the prosecutor introduced the stolen merchandise, which had been seized from a store in Kentucky while the defendant was in custody in Ohio.
+The United States Supreme Court held that the defendant had no standing to move to suppress the stolen goods because (1) he was not on the premises when the contested search and seizure occurred, (2) he alleged no possessory interest in the premises, and (3) he was not charged with an offense that included, as an essential element of the crime, possession of the seized items at the time of the search and seizure.
+When Thomas Deal, Margaret Etter and David West returned from taking the defendant to Cincinnati, the Columbus police arrested Deal and searched the ear. They found the murder weapon under the front seat. Whether the search was lawful or not, the appellant had no standing to move to suppress the gun. The car belonged to Margaret Etter, not to the appellant. The appellant was not anywhere near the car when the search and seizure occurred. Nor was the appellant charged with an offense which includes, as an element, possession of the gun at the time of the search and seizure.
+Appellant’s fourth contention is that the jury’s verdicts of not guilty on the count of aggravated robbery and guilty on the count of aggravated murder, with the specification of aggravating circumstances, are inconsistent. It is appellant’s position that, if the jury determined that appellant was not guilty of aggravated robbery, it is “totally illogical” to find him guilty of committing a murder in the commission of the same aggravated robbery of which he was acquitted.
+The general rule as to inconsistency in a verdict as between different counts of an indictment is expressed in the annotation in 18 A. L. R. 3d 259, at page 274, where it is stated that “* * * consistency between the verdicts on the several counts of an indictment * * * is unnecessary where defendant is convicted on one or some counts but acquitted on others, and the conviction will generally be upheld irrespective of its rational incompatibility with the acquittal.”
+The rule in Ohio, as expressed in Griffin v. State (1868), 18 Ohio St. 438; Browning v. State (1929), 120 Ohio St. 62, 165 N. E. 566; and State v. McNicol (1944), 143 Ohio St. 39, 53 N. E. 2d 808, is stated in paragraph four of the syllabus in Browning, as followis:
+“The several counts of an indictment containing more than one count are not interdependent. A verdict responding to a designated count will be construed in the light of the count designated, and no other. An inconsistency in a verdict does not arise out of inconsistent responses to different counts, but only arises out of inconsistent responses to the same count.”
+Appellant’s argument is thus not well taken.
+The fifth issue raised by appellant is that a new trial should have been granted after two jurors were excused and replaced during the trial.
+On the weekend after the first week of the trial a local newspaper published a story that indicated that the daughter of the deceased, an eyewitness to the crime, had identified the appellant in open court. Actually, the daughter’s testimony had been given on voir dire examination, out of the jury’s hearing, and concerned her photographic identification of the appellant. On Monday, the trial judge polled the jury on defense counsel’s motion, and learned that one jnror and one alternate had read the story. The court excused the juror and replaced him with an alternate who had not read the story, and proceeded with the trial. The alternate who read the story was also excused. Following the jury’s verdict, the court overruled the appellant’s motion for a new trial.
+This court finds no error in the trial court’s actions. The appellant argues that the excusal of the two who read the story must have raised questions and speculations in the other jurors’ minds as to the contents of the story. It appeared, on voir dire examination of the jurors, that the two men who were excused had not communicated the story to any other members of the jury. Under the circumstances, this court believes the trial judge adequately protected the appellant’s right to a fair trial by excluding the jurors who had read the story.
+Appellant’s sixth and final contention is that the trial court erred in admitting certain testimony which implied that appellant was on parole. Other testimony had shown, that the defendant left Columbus, where the shooting occurred, and went to Cincinnati just after the crime, and that he was later apprehended in New Orleans. After he had been taken into custody, and having been advised of his rights, he voluntarily gave the police a statement to explain his departure from Columbus. The officer who received the statement related the content of the statement at trial, and part of his testimony reads as follows:
+“Q. Now, Detective Jones, I will repeat the last statement. Did you ask Mr. Adams why he left Columbus?
+“A. Yes, sir.
+“Q. And what is his response to that question?
+“A. He went to Cincinnati because his parole officer did hot know he was in the Columbus area.
+“Mr. Tsitouris: For the record, Your Honor, we will object to the answer.
+“The Court: Overruled.
+“Q. (By Mr. Miller) And I missed the end. His parole officer did not know he was in Columbus and what— or was that the end?
+“A. Yes, sir.”
+This testimony suggested to the jury that the appellant had been convicted earlier of another criminal offense. Although other crimes may be shown for some purposes, “ [a]s a general rule, the introduction of evidence tending to show that a defendant has committed another crime wholly independent of the offense for which he is on trial is prohibited.” State v. Sector (1969), 19 Ohio St. 2d 167, 249 N. E. 2d 912; State v. Burson (1974), 38 Ohio St. 2d 157, 311 N. E. 2d 526; State v. Curry (1975), 43 Ohio St. 2d 66, 330 N. E. 2d 720; State v. Lytle (1976), 48 Ohio St. 2d 391, 358 N. E. 2d 623. In the present case, the prosecutor could have had no reason for offering the quoted testimony except to impugn the defendant’s character generally; and “[ujnless the accused asserts his own good character and offers testimony tending to prove it, it is never competent for the state to offer evidence of his general bad character or reputation.” Whiteman v. State (1928), 119 Ohio St. 285, 289, 164 N. E. 51.
+Therefore, the trial court erred in overruling appellant’s objection.
+Inasmuch as “[e]rror in the admission of other act testimony is harmless when there is no reasonable possibility that the testimony contributed to the accused’s conviction” (State v. Lytle, supra, paragraph three of the syllabus), consideration must be given to whether the error in the admission of that evidence here warrants reversal. An examination of the record leads this court to the conclusion that appellant’s right to a fair trial was not prejudiced by the admission of the “other act testimony” and that the error in its admission was harmless beyond a reasonable doubt. Chapman v. California (1967), 386 U. S. 18.
+The judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+Herbert, Celebrezze, W. Brown, P. Brown, Sweeney and Locher, JJ., concur.
