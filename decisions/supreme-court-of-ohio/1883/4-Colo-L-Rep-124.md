@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1883-10-16"
+citations: ["4 Colo. L. Rep. 124"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LANE v. THE STATE."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127779
+cites_cases: ["11 Ohio, 68", "19 Ohio St., 248", "3 Ohio St., 475", "35 Ohio St., 175", "38 Ohio St., 659", "45 Ind., 338", "5 Ohio St., 280"]
+---
+
+# Lane v. State
+
+## Majority (Okey, J.)
+
+Okey, J.
+Lane was convicted, in 1883, in the Court of Common Pleas of Fayette county, and sentenced to the penitentiary under Revised Statutes, Sec. 7050, which provides: “Whoever votes more than once at the same election shall be imprisoned in the penitentiary not more than five nor less than one year.” The indictment charges that Lane, on April 2, 1883, “at the township of Union, infyhe county of Fayette aforesaid, did unlawfully, wilfully and knowingly vote more than once, to wit, twice, at a certain corporation election then and there being duly holden and authorized to be holden by the laws of the State of Ohio.” Lane on leave filed a petition in error in this Court to reverse the conviction, and the question is, whether the indictment is sufficient.
+Counsel for the State endeavor to sustain the conviction under Revised Statutes, Sec. 7215, which provides, among other things, that an indictment shall not be deemed invalid for any of certain enumerated defects; “nor for any other defect or imperfection which does not tend to the prejudice of the substantial rights of the defendant upon the merits.” But the defects mentioned relate to matters of form, and the words quoted apply only to such matters as are ejusdem generis with those comprehended in the preceding part of the section. Schultz v. Cambridge, 38 Ohio St., 659; and see 5 Eng. Stat. (Rev. Ed.), 332; 11 Ib., 264, from which the above section was in part borrowed.
+Counsel for the State also rely on Revised Statutes, Sec. 7225, which provides: “ When an offense is committed in relation to an election, an indictment for such offense shall be deemed sufficient if it allege that such election was authorized by law, without stating the names of the officers holding the election, or the person voted for, or the offices to be filled at such election.” But we cannot see that by a fair construction of that section this indictment is aided. From the enumeration of averments that may be dispensed with, the implication arises that in other respects the ordinary rules of criminal pleading should be observed. The offense is one concerning “an election,” and there must be an allegation that “such election was authorized.” Evidently it was intended that the indictment should show what election was held. Even if the section could be thought to bear a different construction, the result would be the same. Felonies must be prosecuted by indictment (Const., Art. I, Sec. 10; Dillingham v. The State, 5 Ohio St., 280); and while the Legislature has the power to prescribe forms and dispense with many formal allegations in indictments, there is a limit to such power, and it is clear that there is no authority in the Legislature to enact or in the Court to determine that that shall be a sufficient indictment which fails to inform the accused of the offense with which he is charged. McLaughlin v. The State, 45 Ind., 338; Lougee v. The State; Bonsal v. The State, 11 Ohio, 68, 72; Miller v. The State, 3 Ohio St., 475; S. & C., 1435; Wolf v. The State, Turpin v. The State, 19 Ohio St., 248, 540; Williams v. The State, 35 Ohio St., 175; Whart. Cr. Pl. & Pr., Sec. 90; 1 Bishop’s Cr. Pro., Sec. 104 et seq.
+In any view the indictment is insufficient. Its words may refer to an election by a private corporation, which is provided for by statute (Revised Statutes, Sec. 3246); but to vote more than once at such an election is not declared to be an offense. The words may also refer to a township election, for townships are corporations (Revised Statutes, Sec. 1376), and each township was authorized (Revised Statutes, Sec. 1442) to hold an election on April 2, 1883. Washington, which is in Union township, Fayette county, was also a corporation—a municipal corporation—Revised Statutes, Sec. 1552—and it was authorized by law (Revised Statutes, Sec. 1723) to hold an election on April 2, 1883. It was for voting twice at the latter election that Lane was convicted. But, without enumerating other elections to which this indictment may refer, it is sufficient to say that such an indictment is too loose and indefinite to support a conviction. Judgment reversed.
