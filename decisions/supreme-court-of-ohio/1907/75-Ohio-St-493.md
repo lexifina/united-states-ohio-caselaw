@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+docket: "9674 and 10150"
+decided: "1907-02-05"
+citations: ["75 Ohio St. 493"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sitauck, C. J., Price, Crew and Summers,. JJ., concur."]
+parties: ["Moore v. The Indian Camp Coal Company. Patton v. The Emma Coal Company."]
+source_url: "https://static.case.law/ohio-st/75/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 971917
+cites_cases: ["11 C. C., 508", "11 C. C., 518", "13 C. C., 621", "13 L. R. A., 627", "135 Ill., 271", "135 Ill., 371", "143 Pa. St., 235", "143 Pa. St., 293", "15 Conn., 39", "15 L. R. A., 93", "152 Pa. St., 286", "159 Pa. St., 235", "189 Pa. St., 156", "189 Pa. St., 158", "22 Ohio St., 247", "23 Ohio St., 591", "24 Am. St. Rep., 303", "24 Am. St. Rep., 544", "29 L. R. A., 582", "29 Ohio St., 568", "3 Ohio, 258", "35 Ohio St., 620", "37 Ohio St., 520", "39 Ohio St., 41", "39 Ohio St., 48", "40 Ohio St., 17", "40 Ohio St., 559", "41 Ohio St., 340", "5 Ohio, 390", "56 Ohio St., 463", "56 Ohio St., 479", "56 Ohio St., 489", "56 Ohio St., 655", "57 Ohio St., 503", "65 Conn., 365", "67 Ohio St., 28", "7 Ohio St., 8", "74 Ohio St., 295", "86 Fed. Rep., 452", "9 C. C., 551"]
+---
+
+# Moore v. Indian Camp Coal Co.
+
+## Majority (Davis, J.)
+
+Davis, J.
+This court has several times recognized and applied the doctrine that there may be a complete severance of the ownership of the surface of land from the ownership of the different strata of mineral which may underlie the surface; and that the creation of a separate interest in the mineral with the right to remove the same, whether by deed, grant, lease, reservation or exception, unless expressly restricted, confers upon the owner of the mineral a fee simple estate, which is of course determinable upon the exhaustion of the mine. The last utterance upon this subject was in Gill et al. v. Fletcher 74 Ohio St., 295.
+The grant of such an estate in the mineral; in whatever form, necessarily implies the right to or remove such portions of the containing strata as may be necessary or proper for the convenient and proper removal of the mineral itself, having regard at the same time to the right of the surface owner to sub-jacent support. This is strikingly manifest in both of the cases at bar. In one of these it appears that the coal vein in the field in which the Indian Camp Coal Company is operating averages about four feet in thickness; and in the other that the coal vein where the Emma mine is located is from thirty to thirty-eight inches 'in thickness. It is evident that if the mine owner is to be restricted to the exact limit of the thickness of the vein of mineral, with no right to remove any portion of the superimposed strata for necessary headway in working or in making the mine secure, or with no right to use or remove any portion of the underlying strata for drainage, support for tramways and the like, the grant to him of ownership in the mineral would be of little practical value, or none at all. .
+From the nature and purposes of an ownership such as we have described above, it follows that the mine owner has the right to use as he may choose, but without injury to the owner of the soil, the space left by excavation of the mineral, so long as it remains a mine; that is to say, until the mineral shall be practically exhausted. It results from the absolute proprietorship over the mineral in place, that the owner thereof has a like interest in the containing chamber until the termination of the estate. MacSwinney on Mines, 9-11, 67-69. The phrase, “containing chamber,” as used in the books, is simply a convenient expression for the limits or boundaries of the grant. The grant is an entirety and the estate thereby created is determinable as a whole upon the contingency of the exhaustion of the mine. It is therefore illogical and inconsistent, and. would be impracticable and unjust, to hold that as fast as the mineral is taken put, the resulting empty space should revert to the owner of the upper strata. Such a narrow and technical interpretation of the grant would result in embarrassments to the mining industry which would be intolerable. The empty space is, therefore, not merely property which may be used as an incident to the removal of the mineral included in the grant; but, as suggested by the author cited above, he may use the space created by removal of mineral within the grant, as a way for the carriage of minerals from his adjoining .lands; or, if he prefers to do so he may cut a passage through the minerals and use it for the carriage of minerals from his other lands., MacSwinnev on Mines, 67-68. . .
+In creating a separate mining right a grantor may, of course, protect himself by restrictions; but in the absence of such restrictions we think that the rulings in Lillibridge et al. v. Lackawanna Coal Co., 143 Pa. St., 293; Webber v. Vogel, 189 Pa. St., 156; Consolidated Coal Co. v. Schmisseur, 135 Ill., 371; Hamilton v. Graham, L. R., 2 Sc. & Div., 166; Proud v. Bates, 34 L. J. Ch., 406, 411, are sound law and should be followed.
+Learned counsel have attempted to reason out these cases for. the plaintiffs in error upon the canons of the law of easements. The right which is claimed by the defendants in error is not an easement, which is a right or burden in, upon or over the estate of another; for here the defendants claim, as we have endeavored to make clear, the right to use. their own property as a wa)r for transporting coal mined on adjacent estates.
+The judgments of the courts below are affirmed.
+Sitauck, C. J., Price, Crew and Summers,. JJ., concur.
