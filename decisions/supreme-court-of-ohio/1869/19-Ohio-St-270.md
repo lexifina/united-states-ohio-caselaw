@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1869-12"
-citations: ["19 Ohio St. 270", "19 Ohio St. 217"]
+decided_precision: "month"
+citations: ["19 Ohio St. 270"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["James Davis and Amos Davis v. The State of Ohio."]
 source_url: "https://static.case.law/ohio-st/19/cases/0270-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 882915
-cites_cases: ["10 Ohio, 511", "11 Ohio, 282", "12 Ohio St. 218", "12 Verm. 73", "14 Ohio St. 303", "2 Bibb. 210", "20 Ohio, 7", "20 Pick. 356", "3 Cush. 521", "5 Ohio St. 283", "6 Ohio St. 288", "7 Ohio St. 82", "7 Ohio, 205", "7 Pick. 179", "8 Ohio St. 114"]
+cites_cases: ["10 Ohio, 511", "11 Ohio, 282", "12 Ohio St. 218", "12 Verm. 73", "14 Ohio St. 303", "2 Bibb. 210", "20 Ohio, 7", "20 Pick. 356", "5 Ohio St. 283", "7 Ohio St. 82", "7 Ohio, 205", "7 Pick. 179", "8 Ohio St. 114"]
 ---
 
 # Davis v. State
