@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1857-12"
+citations: ["7 Ohio St. 233"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartley, C. J., and Swan, Scott, and Sutliee, JJ., concurred."]
+parties: ["Joseph Evans v. Abigail D. Iles."]
+source_url: "https://static.case.law/ohio-st/7/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 512422
+cites_cases: ["2 Cranch, 126"]
+---
+
+# Evans v. Iles
+
+## Majority (Brinkerhopp, J.)
+
+Brinkerhopp, J.
+The record in this case presents the following facts:
+*September 30, 1853, Evans, the plaintiff in error, filed in the common pleas of Licking county, his petition against Mrs. Iles, the defendant in error, contesting the will of her late husband. Annexed to the petition is an affidavit of the plaintiff, alleging, on belief, that the defendant is a non-resident of the state, and that process can not be served on her.
+December 1, 1853, notice to defendant as a non-resident is inserted in a newspaper published in said county, and is published for six weeks.
+April 10,1854, and during the April term of said common pleas, due proof of notice by publication is made and filed.
+April 13, 1854, defendant files in said court a motion in writing to strike the petition and proof of publication from the files, on the ground that she was not, and had not been, a non-resident of the state, but that on the contrary she was, and had all along been, a resident of Licking county. In this motion she specially protests that she appears in court only to make the motion and point out its want of jurisdiction.
+April 20, 1854, and during the pendency undecided of this motion, the defendant files a demurrer to the petition.
+April 28,1854, the plaintiff urging that she shall elect between her motion and demurrer, defendant files a motion in writing, asking leave to withdraw her demurrer, which leave was granted by the court, and the demurrer was accordingly withdrawn.
+At the October term, 1854, the common pleas, on hearing the testimony in support of the defendant’s original motion, order the proof of service by publication to be set aside and stricken from the files. And afterward, at the same term, it appearing that the plaintiff had failed to cause due service by summons to be made on the defendant, the court ordered the case to be stricken from the docket, and that the plaintiff pay his own costs. And 'thereupon the plaintiff gave notice of appeal; and the court fixed the amount of the bond for appeal, which was duly given; and the papers were removed to the district court as on appeal.
+At the June term of the district court of Licking county, 1855, *the defendant moved to dismiss-the appeal, on the ground that there was no final judgment in the court of common pleas from which an appeal to the district court could be had. This motion the district court overruled, and, on hearing of the defendant’s original motion made in the common pleas, and the decision of which was appealed from, also order the proof of service by publication to be stricken from the files, and the petition to be dismissed for want of proper service, and that the plaintiff pay the costs.
+To reverse these orders of the district court, this petition in error is prosecuted in this court.
+It is clear to us that the district court erred in overruling the motion of the defendant in error to quash the appeal. An appeal lies only from a final judgment and certain specified judgments of nonsuit. Here, we think, was no judgment in the common pleas, b.ut only an order; and certainly there was no final judgment. A final judgment is defined in the code (sec. 370) to be a “final determination of the rights of the parties in an action.” It is true the statute regulating appeals is prior in date to the code; but we accept that of the code as being an accurate common-law definition of a final judgment. An order dismissing a case for defect or irregularity of process, or in the service of process, and in no way founded on, or passing upon, the allegations of the parties in their pleadings, can not be considered a final judgment.
+It is true, the plaintiff in error is not entitled to complain of the order of the court overruling the motion to quash the appeal, for that motion was made by the defendant in error, and was decided in favor of the plaintiff in error. Nevertheless, the facts appear on the record; they show that the district court had no jurisdiction in the premises; and its orders are, therefore, void. And being void, for want of jurisdiction in the court which made them, it is competent for us, on error, to reverse them, although the plaintiff in error voluntarily resorted to such court (Capron v. Van Noordan, 2 Cranch, 126); and we think it best, in order to put an end to controversy, to do so.
+What we have ali’eady said would be sufficient to dispose of the-*ease, as it stands before us; -but as the main question intended to be presented by this petition in error, is of practical interest to the profession, we have thought it might not be improper to express an opinion upon it.
+We are of opinion, then, that the court of common pleas first, and the district court afterward (supposing the latter to have had the question properly before it), erred in the determination of the motion to strike the case from the docket. Looking alone to the testimony, as to whether the defendant was or was not a resident of Licking county, we presume -those courts correctly found that she was, and had all along been, such resident, and might, therefore have been served with process otherwise than by publication. But we think those courts were precluded from dismissing the case for want of service, by what appeared upon the journals of the common pleas. The defendant had pleaded to the action by filing a demurrer to the petition; and, unless she could impeach the authority by which this was done, she was estopped from denying the service of process. She had pleaded to the action, and had thus, by implication of law, entered her appearance in it. 1 Ld. Raymond, 21. Nor do we think the case is, in this respect, altered by her subsequent withdrawal of the demurrer. As a demurrer, it ceased to be of any consequence in the case; but as a fact, the evidence of which was indelibly fixed on the journal of the court, and constituting of itself an appearance in the case, it was as significant and as operative after the demurrer was withdrawn as it was ■before. The court of common pleas, looking to its own journal, ■ought to have overruled the motion to strike the case from the docket; and, had a motion for that purpose been made, it ought to have ordered the costs of the service by publication to be paid by the plaintiff.
+When the court of common pleas struck the case from the docket, the counsel for the plaintiff mistook their remedy. They resorted ■to an appeal, to which they were not entitled, instead of to a petition in error, to which, under sec. 512 of the code, they evidently were entitled. And the proceedings in the district court being coram non judioe, leaving the orders of the common *pleas in full force, they might still resort to petition in error, if it were not barred by lapse of time under the statute.
+Judgment of the district court reversed.
+Bartley, C. J., and Swan, Scott, and Sutliee, JJ., concurred.
