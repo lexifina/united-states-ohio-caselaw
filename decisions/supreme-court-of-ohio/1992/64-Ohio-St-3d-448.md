@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "91-1220"
+decided: "1992-09-02"
+citations: ["64 Ohio St. 3d 448"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur."]
+parties: ["Big Boy’s Toy, Ltd., Appellant, v. Limbach, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/64/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1717864
+cites_cases: ["119 L.Ed.2d 91", "330 N.E.2d 899", "43 Ohio St.2d 109", "430 U.S. 274", "486 U.S. 24", "504 U.S.-, 112", "584 N.E.2d 658", "62 Ohio St.3d 447", "72 O.O.2d 61"]
+---
+
+# Big Boy's Toy, Ltd. v. Limbach
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The BTA correctly identified the basis of the assessment here as “upon [a]ppellant’s ‘storage, use or other consumption’ in this state of a boat named ‘Big Boy’s Toy,’ ” and the applicable provisions of the Revised Code. However, it erred in relying on Cargill, supra, and in ignoring the leading case involving the impact of the Commerce Clause on state use taxes, Complete Auto Transit, Inc. v. Brady (1977), 430 U.S. 274, 97 S.Ct. 1076, 51 L.Ed.2d 326.
+On May 26, 1992, the United States Supreme Court decided Quill Corp. v. North Dakota, 504 U.S.-, 112 S.Ct. 1904, 119 L.Ed.2d 91. Quill Corp. involved a use tax imposed on purchases by North Dakota customers of items from an out-of-state mail-order catalog. Quill Corp. had no outlets and no sales representatives in North Dakota. Quill Corp. argued that it lacked the requisite minimum contacts with the state and that the tax was an undue burden on interstate commerce. The North Dakota Supreme Court held that under Complete Auto, supra, a physical-presence nexus was not required. The United States Supreme Court reversed and remanded, indicating an abiding vitality to Complete Auto, by stating that it “emphasized the importance of looking past ‘the formal language of the tax statute [to] its practical effect,’ ” and by observing that its “four-part test * * * continues to govern the validity of state taxes under the Commerce Clause.” Id. at-, 112 S.Ct. at 1912, 119 L.Ed.2d at 105.
+The United States Supreme Court in D.H. Holmes Co., Ltd. v. McNamara (1988), 486 U.S. 24, 30, 108 S.Ct. 1619, 1623, 100 L.Ed.2d 21, 27, reaffirmed the four-part test set forth in Complete Auto for the imposition of the use tax. The test requires that the tax (1) apply to an activity with a substantial nexus with the taxing state, (2) be fairly apportioned, (3) not discriminate against interstate commerce, and (4) be fairly related to the services provided by the state. Complete Auto, supra, 430 U.S. at 279, 97 S.Ct. at 1079, 51 L.Ed.2d at 331. Instead of applying these factors, the BTA, in the instant case, merely determined that the sole issue was whether a taxable moment had occurred and, finding that it had, affirmed the commissioner’s assessment. This was unreasonable and unlawful.
+It appears that three of the four factors of Complete Auto support the imposition of the Ohio use tax in the instant case. First, the use tax is fairly apportioned because it provides a credit against use tax for transactions in which sales tax was paid to other states. R.C. 5741.02(C)(5). Second, the use tax does not discriminate against interstate commerce because the use tax is the equivalent of the sales tax; the use tax compensates the state to the same extent as does the sales tax in similar in-state transactions. Third, it may be that the use tax was fairly related to benefits provided to Big Boy’s. The BTA must decide this point upon remand. As in Quotron Systems, Inc. v. Limbach (1992), 62 Ohio St.3d 447, 584 N.E.2d 658, it is probable that fire and police protection was available to Big Boy’s, its employees and guests, and to those who performed contract services on its boat while the boat was in Ohio for servicing or pleasure use. Moreover, it is likely our streets and roads, and the rivers and lakes in and adjoining Ohio, existed for Big Boy’s use as well as for the use of Ohio citizens.
+Finally, the Complete Auto test requires a determination of whether the maintenance, repair, and modification of the boat, and its use for pleasure cruising on Lake Erie, constitute an activity with a substantial nexus to Ohio.
+It was not sufficient for the BTA to render its decision on the basis of Cargill, supra, and in doing so, it employed the wrong standards. It focused on: “ ‘a local activity from which to derive a nexus between the taxing state and the use sought to be taxed.’ ” The BTA accepted the existence of a “taxable moment” as justification for imposition of the Ohio use tax. The BTA also said, in essence, that “use” means “any” use. Louisville Title Agency for N.W. Ohio, Inc. v. Kosydar (1975), 43 Ohio St.2d 109, 113, 72 O.O.2d 61, 63, 330 N.E.2d 899, 902. The competing and overriding principle, as announced in Complete Auto, and ratified in D.H. Holmes Co. and Quill Corp., expressly requires that the use be substantial; any use is not sufficient.
+Big Boy’s additionally contends that the boat was a federally documented ocean vessel engaged in interstate commerce which was in the state of Ohio only for warranty repairs and the maintenance work necessary for its interstate travel. Big Boy’s argues that an interruption of travel due to necessary repairs and maintenance does not take the vessel out of interstate commerce and expose it to use tax on its entire value. See Louisville Title Agency for N.W. Ohio, Inc., supra, at 111, 72 O.O.2d at 62, 330 N.E.2d at 901.
+We disagree. The use of Big Boy’s Toy in interstate commerce may have been interrupted by bringing it to Ohio, since the owner exercised certain rights of ownership: the boat was stored and repaired during the month of June 1985, it was used for pleasure in the summer of 1985, and it was repaired and modified again before its eventual sale in 1987. However, mere interruption of interstate commerce is not significant; ultimately, the four factors of the test in Complete Auto must be satisfied.
+Accordingly, the decision of the BTA is reversed and the cause is remanded for proper application of the test set forth in Complete Auto.
+Decision reversed and cause remanded.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.
