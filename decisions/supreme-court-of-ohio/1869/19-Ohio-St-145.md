@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1869-12"
+citations: ["19 Ohio St. 145"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BsiNKERnopp, C. J., and Scott, White, and Welch, JJ., concurred."]
+parties: ["Edwin Smith et al. v. Joshua Worman et al."]
+source_url: "https://static.case.law/ohio-st/19/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 882940
+cites_cases: ["6 Ohio St. 448"]
+---
+
+# Smith v. Worman
+
+## Majority (Day, J.)
+
+Day, J.
+We are called upon in this case to determine the priorities of the parties to the fund in question. Both parties claiming it derive their respective rights by virtue of liens on the property from which the fund arose. Both parties claim under Weldy & Recker; bpth claim to hold it as security for their respective debts against them; and both gave the credit, for aught that appears, upon the supposition that the debtors were the owners of the property claimed by each of them. To this extent, at least, their equities are equal.
+The equity of Worman & Bosler is prior in time, and must, therefore, prevail, unless other circumstances give a superior right to the other party. It therefore becomes necessary to inquire into the character of the claim of each party.
+Worman & Bosler claim under the covenant of Weldy & Recker contained in the lease, that they are not “ to remove any of the personal property, nor suffer the same to be removed while any of the rent shall remain unpaid, but the same shall be security for the rent.” ■
+There is no claim that the lease was “ deposited” as required by the statute relating to chattel mortgages, nor was it accompanied by a delivery of the property to the lessors. If, therefore, this clause in the lease be construed to be a “ mortgage, or conveyance intended to operate as a mortgage,” it comes within the provisions of the statute declaring such conveyances “ absolutely void as against the creditors of the mortgagor, and as against subsequent piirchasers and mortgagees in good faith.” S. & O. 475.
+It is conceded that Mrs. Heiny was a bona-fide creditor-of Weldy & Recker, that she obtained her mortgage in good faith, that the property was delivered to her, and that the mortgage was duly “ deposited ” as required by law. Upon the hypothesis, then, that the claim of Worman & Bosler is a mortgage, by force of the statute, it must be postponed to that of Mrs. Heiny.
+But if the clause in question does not come within the statutory meaning of-a mortgage, but only confers an equity in the property to secure the rent, it is difficult to see any good reason why a mere equity in property as a security for a debt should be superior to a conveyance thereof intended to operate as a mortgage security, nor why the one is not equally with the other within the reason and policy of the law against secret liens and trusts.
+But it is obvious, however, that the clause of the lease in question could not operate as a mortgage, nor as a conveyance by way of mortgage. It does not assume to convey the property absolutely or conditionally. No possession was given, nor right of possession conferred. It amounts to nothing more than the creation of a lien in equity for the security of the rent; or, at most, to a declaration that the lessees would hold the property in trust as security for the rent.
+But what is the character of Mrs. Heiny’s claim ? . It must be kept in mind, that, after the execution of the lease, the legal title to the property remained in Weldy & Recker. As the holders of the legal title, having possession of the property, they mortgaged it to secure a debt justly due from them to Mrs. Heiny. They delivered to her the possession of the property, and she, moreover, deposited her mortgage as required by law, where it remained as notice to all the world of her rights, in case she failed to hold continuous possession of the property.
+By virtue of her mortgage, and possession of the property under it, Mrs. Heiny acquired a legal as well as equitable lien thereon. She surrendered the possession, it is true, to the general assignee of the debtors for the special purpose of having it immediately converted into money to apply on the mortgage debt; but this in no way changes her rights against the other claiming party. All this was done without any knowledge on lier part, or that of her husband or the assignee, of any lien or equity whatever of Worman & Bosler upon the property mortgaged.
+If the question of priority between the parties stood upon their equitable rights alone, and Mrs. Heiny’s equity was obtained only as a security of a pre-existing debt, without any other obligation, or consideration, between the parties at the time her mortgage was made — upon the principle applicable to the voluntary transfer of negotiable paper before due, as security of a pre-existing debt, as settled in the case of Roxborough v. Messick (6 Ohio St. 448), it might well be doubted whether the want of. notice would be of any avail to the subsequent mortgagee. But this question is relieved of all question on that ground; for if it be granted (which does not very clearly appear) that the mortgage to Mrs. Heiny was to secure a pre-existing debt, it nevertheless appears that, at the time it was made, she took a negotiable note for the debt, payable one day after date. This, it is true, was but for a short time, but it changed the debt to a negotiable security, and delayed the ordinary legal remedies thereon for at least four days, including the days of grace allowed by law on such paper. Here was a slight, it may be, but a real and substantial change, of the status of the claim of the mortgage, as part of the transaction upon which the note and mortgage were taken for the pre-existing debt. The mortgagee was not, then, taken to secure the pre-existing debt merely, -but rested upon a further and valuable consideration moving from the mortgagee. The amount or extent of this consideration does not vary the principle, so long as it exists, and is substantial.
+Mrs. Heiny, then, in equity, stands in the position of a purchaser or mortgagee without notice of the prior equity. With her equity equal to that of the other pai’ty, she also holds the legal title. This, where the equities are equal, must prevail; especially where, as in this case, both the legal and equitable right were acquired upon a just and valuable consideration, without either actual or constructive notice of the prior equity.
+It follows that tbe judgment of tbe superior court in favor of Worm an & Rosier must be reversed.
+BsiNKERnopp, C. J., and Scott, White, and Welch, JJ., concurred.
