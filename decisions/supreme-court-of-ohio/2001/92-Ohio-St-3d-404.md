@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+docket: "00-2250"
+decided: "2001-07-18"
+citations: ["92 Ohio St. 3d 404"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Office of Disciplinary Counsel v. Keith."]
+source_url: "https://static.case.law/ohio-st-3d/92/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1287050
+cites_cases: ["1997 WL 113755", "651 N.E.2d 1013", "703 N.E.2d 317", "706 N.E.2d 1275", "72 Ohio St.3d 1555", "84 Ohio St.3d 1216", "85 Ohio St.3d 1414", "Registration No. 0007885,"]
+---
+
+# Office of Disciplinary Counsel v. Keith
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+After respondent, Jeffrey Carl Keith, then of Parma, Ohio, Attorney Registration No. 0007885, was convicted on six felony counts, we suspended him, effective July 13, 1995, indefinitely from the practice of law in Ohio pursuant to Gov.Bar R. V(5)(A)(3). In re Keith (1995), 72 Ohio St.3d 1555, 651 N.E.2d 1013. On August 7, 1995, relator, Office of Disciplinary Counsel, filed a complaint charging that respondent’s convictions showed that he violated DR 1-102(A)(3) (a lawyer shall not engage in illegal conduct involving moral turpitude), 1-102(A)(4) (a lawyer shall not engage in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 1-102(A)(6) (a lawyer shall not engage in any activity that adversely reflects upon the lawyer’s fitness to practice law). Respondent answered, and requested that the Board of Commissioners on Grievances and Discipline of the Supreme Court (“board”) stay disciplinary proceedings until his appeal of these convictions was decided. The board granted the stay on December 1, 1995.
+After the Supreme Court of Florida disbarred respondent in Florida, we suspended respondent from the practice of law in Ohio on November 24, 1998, pursuant to the reciprocal discipline provisions of Gov.Bar R. V(11)(F)(4). Disciplinary Counsel v. Keith (1998), 84 Ohio St.3d 1216, 703 N.E.2d 317. On relator’s motion we later dismissed that order of suspension and declared that the order of July 13, 1995, remained in full force and effect. Disciplinary Counsel v. Keith (1999), 85 Ohio St.3d 1414, 706 N.E.2d 1275 (the date reflected in that entry, July 31, 1995, is incorrect).
+On August 30, 1999, the board dissolved the stay of the disciplinary action and directed that it proceed. A panel of the board heard the matter on November 22, 2000. The panel found that respondent was convicted on five counts of arson and one count of grand theft. Respondent was fined $5,000 and sentenced to five, two-year terms in prison on five of the charges and fined $7,500 and sentenced to five to fifteen years in prison on the sixth charge. He was also ordered to reimburse the Cleveland Fire Department $33,000. The panel concluded that these convictions constituted violations of the Disciplinary Rules as charged. In mitigation the panel noted that respondent had no prior disciplinary complaints filed against him and that he cooperated with relator’s investigation. In addition, the panel stated that because some witnesses in his felony trial had recanted their testimony, respondent’s convictions might possibly be set aside at a future date. The panel recommended that respondent be indefinitely suspended from the practice of law. The board adopted the findings, conclusions, and recommendation of the panel.
+Jonathan E. Goughian, Disciplinary Counsel, and Kenneth R. Donchatz, Assistant Disciplinary Counsel, for relator.
+Jeffrey Carl Keith, pro se.
+In considering this matter we not only reviewed the record before the panel and the board, but also took judicial notice of State of Ohio v. Keith (1997), 1997 WL 113755 (Ohio App. Dist.8). In that case, when the Eighth District Court of Appeals affirmed respondent’s conviction on five counts of arson and one count of grand theft, it recited the facts that supported the trial court’s decision. It noted that over a two-year period beginning in 1992, by setting afire and slashing tires, respondent destroyed or damaged various automobiles of friends of Ms. Jennie Baker, a woman who left him after a two-year abusive relationship that began in 1990. Moreover, said the appellate court, in and after 1992 respondent both stalked Baker, and subjected her to physical and psychological abuse including beating her numerous times, threatening to douse her with gasoline and set her on fire, and distributing leaflets to her neighbors claiming that she was a drug user.
+We therefore adopt the findings and conclusions of the board, but believe that respondent should receive a more severe sanction than an indefinite suspension. Respondent is hereby permanently disbarred from the practice of law in Ohio. Costs are taxed to respondent.
+Judgment accordingly.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
