@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1897-04-27"
+citations: ["56 Ohio St. 264"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brown, Executor, Etc. v. Reed."]
+source_url: "https://static.case.law/ohio-st/56/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 937704
+cites_cases: ["100 N. Y., 219", "105 N. Y., 194", "110 U. S., 119", "124 Ill., 363", "15 Pac., 121", "16 N. E. Rep.., 252", "16 Ohio St., 273", "16 Ohio St., 445", "17 How., 160", "17 Ohio St., 548", "22 Tex., 402", "25 Ark., 499", "25 Mich., 428", "25 Ohio St., 443", "29 Fed., Rep 421", "3 Ohio St., 495", "3 W. L. B., 891", "4 Mass., 318", "43 Ala., 628", "49 Md., 72", "49 Mich., 521", "49 Ohio St., 588", "49 Ohio St., 594", "51 Pa. St., 342", "64 Pa. St., 325", "66 Md., 193", "74 Pa. St., 391", "9 Fed. Rep., 849"]
+---
+
+# Brown v. Reed
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+It is said that the circuit court erred because the summary determination of a question of the character of this on exception to the executor’s account denies his constitutional right to the intervention of a jury. But the constitution preserves the right to trial by jury in those cases only where it existed previously to its adoption. Both before and since the adoption of the constitution it has been usual to call executors and other trustees to account in courts having-equity or probate jurisdiction, and without the intervention of a jury to determine any question affecting- the state of their accounts.
+The eighth section of the fourth article of the constitution ordains that ‘ ‘the probate court shall have jurisdiction in probate and testamentary matters, the appointment of administrators and guardians, the settlements of the accounts of executors, administrators,” etc. It is expressly provided in section 6400 of the Revised Statutes that “all questions, except those arising- in criminal actions and proceeding’s, unless otherwise provided by law, shall be determined by the probate judge, unless, in his discretion, he shall order the same to be tried by a jury or referred. ”
+The case concedes that the executor charged himself with the entire price which he actually received for the land; and his counsel concede that for such malfeasance as the exceptor offered to prove she, as legatee, would have a remedy. The precise question, therefore, is whether it is the legal duty of the executor, having and exercising such a power of sale, to account in the probate court for the land; or whether that duty is discharged by accounting for the price received, although its inadequacy and other circumstances show that in making the sale he acted in bad faith.
+The general provisions of the statute upon the subject make it the duty of the executor to administer according to law and the will of the testator all the assets which may come into his hands. They require his account to show the results of the performance of that duty and to afford the basis for an adjudication that the estate has been fully administered according to law and the will. While it is true that usually administration is had of the chattels only of a deceased person, in view of the third item of this will the land was conditionally in the hands of the executor as assets upon his qualification. His power and duty to administer it became absolute when it was ascertained that the personal estate of the testator was not sufficient for the payment of his debts. When the executor, acting under an order of the court to sell real estate, or exercising for that purpose a testamentary power like this, sells in good faith and with due regard to the duty which he owes to creditors and legatees, his duty to account is performed by charging himself with the proceeds of the sale. He thus accounts for that portion of the assets in his hands for administration. But if such faith is not exercised, the price received does not represent the performance of his legal duty; and if that price only is charged there is, in that respect, a failure to account. While the probate court is of limited jurisdiction, the limitations chiefly relate to subject-matters. In view of the constitutional and statutory provisions referred to, its jurisdiction to correct the account of an executor in such a case as the rejected evidence tended to show is ample.. This conclusion is in harmony with the view generally taken of the subject, and with the unvarying tendency to enlarge the jurisdiction of the probate court with reference to the subjects which it embraces. Raab’s Estate, 16 Ohio St., 273; Doan et al. v. Biteley, 49 Ohio St., 588; Worener’s Law of Adm. section 534 ; Schouler’s Exr's., section 539; Haight v. Brisbin, 100 N. Y. 219; Corrington’s Estate, 124 Ill., 363; Hall v. Grovier, 25 Mich., 428.
+All concede that in a case of this character the authority of the probate court originally, and that of the common pleas court on appeal, are identical.
+Judgment affirmed.
