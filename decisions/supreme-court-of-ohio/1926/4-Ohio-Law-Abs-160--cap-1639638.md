@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19644"
 decided: "1926-02-26"
-citations: ["4 Ohio Law Abs. 160", "4 Ohio Law Abs. 224", "4 Abs. 160"]
+citations: ["4 Ohio Law Abs. 160"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
