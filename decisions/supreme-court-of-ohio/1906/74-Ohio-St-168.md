@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+docket: "9069"
+decided: "1906-05-01"
+citations: ["74 Ohio St. 168"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shauck, C. J., Price, Summers and Spear, JJ., concur."]
+parties: ["The Bigalow Fruit Company v. Armour Car Lines."]
+source_url: "https://static.case.law/ohio-st/74/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 970073
+cites_cases: ["117 U. S., 34", "117 U. S., 44", "123 U. S., 288", "125 U. S., 479", "148 U. S., 312", "15 Wall., 232", "17 Wall., 560", "171 U. S., 579", "174 U. S., 70", "177 U. S., 149", "18 Fed. Rep., 151", "22 Fed. Rep., 276", "22 Fed. Rep., 278", "26 O. C. C., 496", "27 Ohio St., 94", "37 Fed. Rep., 567", "46 Ohio St., 524", "53 Ohio St., 62", "55 Ohio St., 217", "56 Ohio St., 405", "59 Ohio St., 189", "63 Ohio St., 352"]
+---
+
+# Bigalow Fruit Co. v. Armour Car Lines
+
+## Majority (Davis, J.)
+
+Davis, J.
+The defendant in error" is a corporation organized under the laws of New Jersey and having its principal office in that state. The first question presented by the record is whether the defendant in error is, within the meaning of section 148c, Revised Statutes, a “transportation or other corporation engaged in Ohio in interstate commerce business.”
+The undisputed evidence contained in the bill of exceptions, discloses that the defendant in error, besides its home office in New Jersey, has branch offices ‘ ‘ scattered throughout the country; ’ ’ that one class of business in which it is engaged is “furnishing cars for its own business” and another class is “furnishing cars or refrigeration for fruit shipments;” that in 1901 it was operating what was then known as the “Fruit Growers’ Express;” that in that year it issued a schedule of rates for refrigeration between various points in different states; that it sometimes made specific contracts with shippers and sometimes contracted with railroads to furnish cars, receiving mileage therefor and reserving,to itself all duties relating to icing and refrigeration; that the charge for refrigeration was usually collected for the defendant in error by the railroad companies; that the shipper determined the point to which the car should be sent; that sometimes the cars transported produce between points in this state, sometimes from points outside of this state to points inside of the state and sometimes from points outside of this state across’ this state and into other states; and that in the year 1901 its principal office'in this state was at Cincinnati and that it had a representative there who had charge of handling, business which originated and terminated within this state, “as well as general charge of watching the movements of fruit business from one state to another.” From these undisputed facts a majority of this court have no hesitation in holding that the defendant in error is a foreign corporation engaged in Ohio in interstate commerce business. It is made very manifest by these facts that the defendant’s business is not even primarily intrastate but interstate; that its business within this state is only incidental to its general business of furnishing car’s and refrigeration for transportation between points in many of the states.
+Now what is the effect of this finding on this case? The defendant in error insists that it is immaterial; for the reason, as it is contended, that compliance with sections 148c and 148(7, Revised Statutes, exempted the defendant in error from attachment. The argument is, that the sale of ice within this state is not interstate commerce; and that if part of the business of a foreign corporation was interstate commerce and part was not, a formal compliance with the statute would be sufficient to exempt the corporation from attachment, as provided in sections 5521, 148c and 148<7, Revised Statutes. This argument seems to ignore the fact that while ice may have been nominally sold in this state, yet that in most instances it was put into the cars of the defendant in error to be transported within or without the state, as occasion might require; and it also assumes as true, a proposition which is not true, namely, that if a part of the business of the defendant in error was not interstate commerce, for that réason it was not engaged in interstate commerce, although a large 'part of its business was indisputably interstate commerce. If it is a foreign corporation engaged in interstate commerce in whole or in part, for there is no distinction made in the statute as to parts, it is not subject to, nor entitled to the privileges of, section 148c; and therefore it cannot comply with section 148c so as to obtain exemptions from attachment. A mere voluntary compliance with this section, by a corporation which is not within its purview, is an empty and meaningless form.
+The proviso of section 14&d that such foreign corporations as comply with section 148c shall not be subject to attachment, does not let in the defendant in error; for the defendant in error is not within the terms of section 148c and was not entitled to comply with it: therefore its compliance therewith in form is a nullity and confers no immunity upon it.
+The judgment of the circuit court is reversed and that of the court of common pleas affirmed.
+Shauck, C. J., Price, Summers and Spear, JJ., concur.
