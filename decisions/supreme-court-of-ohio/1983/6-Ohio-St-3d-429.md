@@ -1,0 +1,53 @@
+---
+court: "Supreme Court of Ohio"
+docket: "82-1352"
+decided: "1983-08-31"
+citations: ["6 Ohio St. 3d 429"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, Locher and Holmes, JJ., concur.", "C. Brown and J. P. Celebrezze, JJ., dissent.", "J. P. Celebrezze, J., concurs in the foregoing dissenting opinion."]
+parties: ["Strunk et al., Appellants, v. Dayton Power & Light Company et al.; City of Dayton, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/6/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813106
+cites_cases: ["132 Ohio St. 388", "169 Ohio St. 368", "19 Ohio St. 2d 102", "2 Ohio St. 3d 26", "22 O.O. 3d 332", "22 O.O.3d 332", "34 O.O. 2d 254", "36 O.O.2d 59", "43 Ohio St. 2d 171", "48 O.O.2d 103", "5 Ohio St. 2d 122", "6 Ohio St. 3d 128", "68 Ohio St. 2d 106", "7 Ohio St. 2d 79", "72 O.O.2d 95", "8 O.O. 208", "8 O.O.2d 406"]
+---
+
+# Strunk v. Dayton Power & Light Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In light of this court’s recent decision in Haverlack v. Portage Homes, Inc. (1982), 2 Ohio St. 3d 26, we are confronted with another appeal questioning the boundaries of municipal liability. The issue presented is whether a municipality’s duty to keep streets and highways free from nuisance, as provided in R.C. 723.01, extends to a driver of an automobile which collides with a light pole off the traveled portion of the roadway.
+Appellant contends that the duty of a municipal corporation under R.C. 723.01, to keep its streets “open, in repair, and free from nuisance,” includes not only the street, but also a light pole located off and adjacent to the roadway.
+The principle embodied in R.C. 723.01 has been subject to much review by this court. As its object, R.C. 723.01 places an obligation on a municipality to keep highways and streets open for the purpose for which they are designed; that is, to afford the public a safe means of travel. Fankhauser v. Mansfield (1969), 19 Ohio St. 2d 102, 108 [48 O.O.2d 103]. In Fankhauser, this court held that a municipality could be liable under R.C. 723.01 for failing to maintain traffic signals.
+Furthermore, the decisions of this court clearly establish that liability under the statute is limited to those conditions which render a street or highway unsafe for usual and ordinary modes of travel. See, e.g., Lovick v. Marion (1975), 43 Ohio St. 2d 171 [72 O.O.2d 95]. In Lovick, we were faced with the issue of whether a catch basin located adjacent to the roadway was within a municipality’s duty pursuant to R.C. 723.01. We held that the catch basin did not render the roadway unsafe for customary vehicle travel and, therefore, it was not within the ambit of the statutory duty. In the present case, the light pole here is quite similar to the catch basin in Lovick as it is not a condition which would render the highway unsafe for its usual and ordinary mode of travel.
+In Dickerhoof v. Canton (1983), 6 Ohio St. 3d 128, we held that, pursuant to R.C. 723.01, a municipality may be liable for injuries resulting from its failure to keep the shoulder of a roadway in repair and free from nuisance. However, in the present case, the light pole was not located on the shoulder of the roadway but was adjacent thereto. We are unwilling to extend a municipality’s duty past the portion of the highway considered the berm or shoulder. Therefore, we hold as a matter of law that a light pole located adjacent to a roadway and the shoulder thereof is not a portion of the highway as interpreted in R.C. 723.01.
+Appellant cites Royce v. Smith (1981), 68 Ohio St. 2d 106 [22 O.O. 3d 332], for the correct proposition that liability of a municipality extends not only to maintain road repair, but also to keep the roads free from nuisance. However, in Royce, this court construed R.C. 5571.10 to impose liability upon township officials for failure to trim back trees from blocking the view of a stop sign. In the present case, we find no relation in the failure to trim trees which obstruct visibility and the placement of a light pole which is sufficiently clear of a highway.
+Appellant has failed to persuade a majority of this court that the city of Dayton possesses a duty with respect to property adjacent to the roadway. R.C. 723.01, which requires a municipal corporation to keep its streets and highways open, in repair and free from nuisance, includes only those aspects which affect the physical conditions of such roadways and does not extend to adjacent property. Having failed to show the existence of a duty, appellant has not established an actionable cause of negligence against the city of Dayton. See Baier v. Cleveland Ry. Co. (1937), 132 Ohio St. 388, 391 [8 O.O. 208]; Bennison v. Stillpass Transit Co. (1966), 5 Ohio St. 2d 122 [34 O.O. 2d 254], paragraph one of the syllabus.
+In the absence of a legal duty on the part of the municipality, appellant cannot recover against the city of Dayton even though the defense of sovereign immunity is not available. See Dickerhoof v. Canton, supra. The mere abrogation of immunity does not free a plaintiff from establishing the required elements of the alleged tortious conduct. We, therefore, conclude from the complaint that appellant can prove no set of facts entitling him to recover from the city of Dayton.
+Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Celebrezze, C.J., W. Brown, Sweeney, Locher and Holmes, JJ., concur.
+C. Brown and J. P. Celebrezze, JJ., dissent.
+R.C. 723.01 states, in part:
+“Municipal corporations shall have special power to regulate the use of the streets. The legislative authority of such municipal corporation shall have the care, supervision, and control of public highways, [and] streets * * * within the municipal corporation, and shall cause them to be kept open, in repair, and free from nuisance.”
+In Geideman v. Bay Village (1966), 7 Ohio St. 2d 79 [36 O.O.2d 59], this court held that R.C. 723.01 did not impose a duty upon municipalities to install guardrails, barriers, or curbs between traveled portions of the highway and sidewalks adjacent thereto. In writing for the majority, Justice Paul W. Brown stated:
+“Since the street and sidewalk here were not defective in themselves but were reasonably suitable for normal use, the city has not violated Section 723.01, Revised Code, and is not liable to plaintiff for the damages sustained due to the operation of the vehicle by the other defendant.” Geideman, supra, at 81.
+
+## Dissent (Clifford F. Brown, J.,)
+
+Clifford F. Brown, J.,
+dissenting. The instant case is before this court on an appeal of the allowance of a motion to dismiss granted the city of Dayton and affirmed by the court of appeals. The majority is satisfied to merely affirm the dismissal. I am not. Thus, I dissent.
+Decedent, Glen E. Strunk, collided with a light pole adjacent to a limited access highway after his automobile was struck in the rear end. The pole had no protective guardrail around it to prevent an accident, such as this, nor was it of a break-away design as recommended in the Federal Highway Safety Act of 1966, Chapter IV, Title 23, U.S. Code. Strunk died as a result of the injuries sustained in the collision with the light pole. This action was instituted against the city based upon its failure to maintain the highway in a nuisance free condition as required by R.C. 723.01.
+The appellee, city of Dayton, maintains that a defect must be within the “traveled portion” of a roadway before a city can be liable for the injuries resulting from such defect. It is this contention that provides the basis for the judgment of the court today. However, what the court fails to perceive is that this case involves a limited access highway as defined by R.C. 5535.01 et seq. Pursuant to R.C. 5501.01:
+“As used in [Chapter] * * * 5535 of the Revised Code:
+U* * *
+“(C) ‘Road’ or ‘highway’ includes bridges, viaducts, grade separations, appurtenances, and approaches on or to such road or highway.” (Emphasis added.)
+This definition is crucial to the analysis of the case herein. R.C. 723.01 places a duty on municipalities to maintain their highways so as to keep them, “open, in repair, and free from nuisance.” In State, ex rel. Walter, v. Vogel (1959), 169 Ohio St. 368 [8 O.O.2d 406], the court decided that, “[flighting systems for urban portions of ‘limited access highways’ (as defined in Section 5535.02, Revised Code) are appurtenances thereto * * The Vogel case involved a question of the use of tax money to maintain and pay for the lighting of highway light poles. The majority, sub silentio, finds this to be a distinguishing fact. If this “distinction” actually exists, then it means that municipalities are responsible for the maintenance of the light poles on their limited access highways but are not liable for any injuries which may result from a failure to maintain such light poles in a nuisance free manner. Such result is absurd.
+In Fankhauser v. Mansfield (1969), 19 Ohio St. 2d 102 [48 O.O.2d 103], this court held that a traffic signal could be considered part of a highway and that thus, “[a] petition alleging that a municipality failed to repair an electric traffic signal * * * states a cause of action against the municipality for maintaining a nuisance in violation of Section 723.01, Revised Code.” See, also, Royce v. Smith (1981), 68 Ohio St. 2d 106 [22 O.O.3d 332].
+Thus, Fankhauser in conjunction with Vogel, and R.C. 5501.01 (C) stand for the proposition that light poles are appurtenances of limited access highways, and if they are not properly maintained or create a nuisance, the city may be held liable in a cause of action, depending upon what a jury decides.
+The allowance of the dismissal to stand in the present case is improper. The mere fact that the majority did not find the light pole to be within the “traveled portion” of the highway does not relieve the city of liability for any nuisance the pole may create, either by its design or its location. There are substantial questions of fact presented in this case which should have gone to a jury for resolution. A light pole on a limited access highway is an appurtenance to that highway. The determination of whether an appurtenance to a limited access highway is a nuisance as defined by R.C. 723.01 is a question of fact and not a question of law.
+It is for the foregoing reasons that I dissent. I would reverse the judgment of the court of appeals and remand this case to the trial court for trial to a jury.
+J. P. Celebrezze, J., concurs in the foregoing dissenting opinion.
