@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Ohio"
+docket: "79-792"
+decided: "1980-02-13"
+citations: ["61 Ohio St. 2d 211"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., Herbert, W. Brown, Sweeney, Locker and Holmes, JJ., concur."]
+parties: ["Proctor, Appellee, v. Giles, Admr., et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-2d/61/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1803361
+cites_cases: ["151 Ohio St. 123", "36 Ohio St. 2d 187", "38 Ohio St. 2d 196", "44 Ohio St. 2d 56", "6 Ohio St. 2d 122", "76 Ohio St. 177"]
+---
+
+# Proctor v. Giles
+
+## Majority (Paul W. Brown, J.)
+
+Paul W. Brown, J.
+The issue certified to this court is whether Civ. R. 6(E) is applicable to an appeal taken from the Unemployment Compensation Board of Review to the Court of Common Pleas pursuant to R.C. 4141.28(0). If applicable, an appealing party is entitled to three additional days in which to file a notice of appeal. Before reaching this question, however, we must first consider a threshold issue, i.e., whether the date upon which the board mailed its decision denying a “further appeal” was adequately established in the record. The significance of this date is that the time allotted for filing a notice of appeal under R.C. 4141.28(0) begins to run from the time the board mails its decision. The relevant portion of R.C. 4141.28(0) provides:
+“Any interested party may, within thirty days after notice of the decision of the board was mailed to the last known post office address of all interested parties, appeal from the decision of the board to the court of common pleas * * * . Such appeal shall be taken within such thirty days by the appellant by filing a notice of appeal * * * with the board * * * .”
+Appellant board contends that its decision was mailed to appellee on August 1,1977, and that because the notice of appeal was filed with the board on September 1, 1977, 31 days later, the statutorily authorized period for filing a notice of appeal was exceeded, thus precluding the court from exercising jurisdiction over the cause. Appellee counters that under this court’s decisions in King v. Games (1973), 36 Ohio St. 2d 187, and Wycuff v. Fotomat Corp. (1974), 38 Ohio St. 2d 196, appellant has failed to sustain its burden to prove that August 1, 1977, was in fact the actual mailing date of the board’s decision. As a consequence, appellee reasons, there has been no showing that the notice of appeal was untimely filed so as to deprive the court of jurisdiction over the cause.
+Both King and Wycuff involved appeals from the Administrator of the Bureau of Employment Services to the Board of Review under former R.C. 4141.28(H). Under that provision a party had ten days in which to file a notice of appeal after the administrator had mailed his decision on reconsideration to the appealing party. In each of those cases, the decision of the administrator bore a stamped notation as to the date of such mailing. In King, this court held, at page 188, that such notation constituted “no evidence to show when the decision was, in fact, mailed * * * .”
+In Wycuff, we stated at page 197, that:
+“The burden of showing when the rehearing decision of the administrator was mailed was on the public agency. Here, no proof was established to show when that decision was actually deposited in the mail.”
+The instant cause presents an appeal under R.C. 4141.28(0), not 4141.28(H). The two provisions are similar, however, in that both establish the mailing date of the agency decision as the triggering point for appeal time to run. Accordingly, we believe that the rationale of King and Wycuff should apply with equal force to appeals prosecuted under R.C. 4141.28(0). The result is that the agency must bear the burden of establishing the actual date of mailing, and notations on board decisions are insufficient proof of such date. Because this issue was not presented until appeal, however (see fn. 1, supra), appellant was foreclosed from the opportunity to present evidence as to the actual mailing date. The only pertinent evidence in the record is a notation on the board’s decision similar to those in King and Wycuff which, we have just held, is inadequate in the context of a R.C. 4141.28(0) appeal. The cause must, therefore, be remanded to the Court of Common Pleas for resolution of this issue.
+Because the lower court on remand may find that August 1, 1977, was, in fact, the actual date of mailing, we deem it proper at this time, for the sake of judicial economy, to settle the certified issue.
+Appellee argues, in accord with the Court of Appeals, that Civ. R. 6(E) applies to appeals from the board of review to the Court of Common Pleas under R.C. 4141.28(0). The applicable portion of Civ. R. 6(E) provides that:
+“Whenever a party has the right or is required to do some act or take some proceedings within a prescribed period after the service of a notice or other paper upon him and the notice or paper is served upon him by mail, three days shall be added to the prescribed period.”
+If appellee’s contention is sound, and assuming August 1, 1977, to be the date the board mailed its decision to appellant, then the Court of Common Pleas improperly dismissed the action on the basis that the court lacked jurisdiction.
+It is appellant’s contention, and we are in agreement, that Civ. R. 82 prohibits the application of Civ. R. 6(E) to R. C. 4141.28(0). Civ. R. 82 states that “[tjhese [civil] rules shall not be construed to extend or limit the jurisdiction of the courts of this state.” In Zier v. Bureau of Unemployment Compensation (1949), 151 Ohio St. 123, this court held in paragraph two of the syllabus that compliance with the filing of notice requirement with the board of review under the predecessor to R.C. 4141.28(0) “is essential to invoke jurisdiction of the Court of Common Pleas.” This same principle was affirmed in Todd v. Garnes (1975), 44 Ohio St. 2d 56. Since, under both Zier and Todd, the time limitation for filing a notice of appeal is juridictional, an extension of this limitation by the application of Civ. R. 6(E) to R.C. 4141.28 would serve to expand the jurisdiction of the Court of Common Pleas, in direct violation of Civ. R. 82. Accordingly, we hold that Civ. R. 6(E) is inapplicable to the 30-day time limitation for filing a notice of appeal with the board of review on appeals taken to the Court of Common Pleas pursuant to R.C. 4141.28(0).
+For the foregoing reasons the judgment of the Court of appeals is reversed and the cause remanded to the Court of Common Pleas for proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Celebrezze, C. J., Herbert, W. Brown, Sweeney, Locker and Holmes, JJ., concur.
+We note that this issue was not raised before the Court of Common Pleas and thus would not normally be subject to review, as the Court of Appeals determined. As indicated infra, however, the time allotted for filing a notice of appeal under R.C. 4141.28(0) is jurisdictional, and issues pertaining to subject matter jurisdiction are non-waivable. Jenkins v. Keller (1966), 6 Ohio St. 2d 122; Baltimore & Ohio Rd. Co. v. Hollenberger (1907), 76 Ohio St. 177. Indeed, they are appropriately considered by a court, sua sponte.
+Although such fact is not stated in either decision of this court, it nevertheless constituted an integral basis of each appeal. See Vols. 470 and 516 of the Ohio Supreme Ct. Briefs and Records 3d Series, Case Nos. 73-639, 73-1013.
+By resolving this issue on jurisdictional grounds we have assumed, without deciding, that the board’s mailing of its decision constituted “service of a notice or other paper” within Civ. R. 6(E).
