@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19586"
 decided: "1926-01-20"
-citations: ["4 Ohio Law Abs. 164", "4 Abs. 72.", "4 Ohio Law Abs. 72", "4 Ohio Law Abs. 303", "4 Abs. 72; OS. Pend. 4 Abs. 164; OA. 3 Abs. 559", "OS. Pend. 4 Abs. 164", "OA. 3 Abs. 559", "4 Abs. 72"]
+citations: ["4 Ohio Law Abs. 164", "4 Abs. 72."]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
