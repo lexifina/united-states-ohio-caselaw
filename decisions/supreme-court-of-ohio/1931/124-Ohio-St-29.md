@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "22647"
+decided: "1931-06-03"
+citations: ["124 Ohio St. 29", "10 Ohio Law Abs. 60"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Day, Allen and Robinson, JJ., concur.", "Matthias, J., concurs in this dissent."]
+parties: ["The Canton Stamping & Enameling Co. v. Eles."]
+source_url: "https://static.case.law/ohio-st/124/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1001657
+cites_cases: ["102 Ohio St., 120", "104 Ohio St., 188", "11 Ohio St., 114", "11 Ohio St., 691", "117 N. E., 319", "121 Ohio St., 147", "130 N. E., 502", "135 N. E., 620", "167 N. E., 385", "6 Ohio, 399", "82 Ohio St., 438", "83 Ohio St., 299", "92 N. E., 1125", "94 N. E., 428", "96 Ohio St., 410"]
+---
+
+# Canton Stamping & Enameling Co. v. Eles
+
+## Majority (Kinkade, J.)
+
+Kinkade, J.
+Elizabeth Eles, herein referred to as Eles, brought an action in the court of common pleas of Stark county against the Canton Stamping & Enameling Company, herein referred to as the company, to recover damages for personal injuries sustained by her, and caused by the negligence of .the company.
+Eles in her petition alleged that she was walking along the sidewalk in front of the property owned and controlled by the company, when she slipped or stumbled on a ridge of ice extending across the sidewalk from the foot of a downspout on the building, which ridge of ice the company had negligently permitted to form and remain as an obstruction on the sidewalk, dangerous to pedestrians using the walk.
+But a single fact, outside of the extent of the damage sustained, pertaining to the situation, was in dispute, that is to say, at what point on the sidewalk did Eles fall? The company denied that she fell on the sidewalk in front of its property, as alleged in her petition. Eles could not recover in the action if she failed to prove that she fell at the point stated. She testified that she fell at the place stated in her petition. She was not at that time able to-produce any witness to corroborate her testimony. She testified that two men were walking in the same direction that she was, and were only a short distance in advance of her when she fell, and that one of the men came back and assisted her in getting up. She said these men were strangers to her, and that she had been unable to locate either of them since the accident, although she had diligently endeavored to do so.
+The company produced one witness, and only one, who testified that he saw Eles fall, and that the place of her fall was not in front of the property of the company, but was in fact two or three hundred feet distant therefrom. The testimony of Eles herself and the testimony of this one witness, whose name was Zorn, called by the company, covered all the evidence in the case with respect to the place of the accident. The jury found the issues in favor of the company. Eles filed no motion for a new trial, and judgment was entered against her in favor of the company.
+Thereafter, the man who had witnessed the accident and who had assisted Eles at the time, as stated, made himself known to the counsel employed by Eles, whereupon a petition was filed by Eles to vacate the judgment and grant a new trial on this newly discovered evidence, which was brought to the attention of the court by affidavit of the newly discovered witness. This matter was fully tried out, and the trial judge, after a full hearing, found this issue in favor of Eles, vacated the judgment and granted a new trial, to which action of the court the company objected and excepted, and prosecuted error to the Court of Appeals. The Court of Appeals, after a full examination of the evidence produced in behalf of Eles, found that the trial judge had not abused his discretion in granting the new trial, and unanimously affirmed the action of the trial court. The company now prosecutes error in this court.
+The claim of the company is that the newly discovered evidence was only cumulative in character, and was not such as would probably result in a different verdict on a second trial of the case. It is conceded by counsel for Eles that, if the testimony be cumulative only, it would not be sufficient to secure a new trial unless it clearly, indicated that with that evidence in there would probably be a different result on retrial from that obtained at the first trial. The authorities on this point .are’ quite uniform and sustain the proposition that the evidence must be such as to raise a strong probability that a different result would have obtained had the plaintiff been able to produce this evidence in support of her case when it was first tried. City of Toledo v. Strasel, 12 C. C. (N. S.), 212, 21 C. D., 432, affirmed without opinion, Strasel v. City of Toledo, 82 Ohio St., 438, 92 N. E., 1125; Koenig v. State, 121 Ohio St., 147, 167 N. E., 385; Gandolfo v. State, 11 Ohio St., 114; 46 Corpus Juris, 263, 267. It is clearly evident from the opinions delivered that-both the trial court and the Court of Appeals were mindful of the general rule on the subject, as stated in the foregoing cases.
+The witness Zorn, called by the company in support of its defense at the first trial, testified very positively with respect to the point at which the accident happened. He was a disinterested witness. Eles was a very much interested witness in her own behalf. In that state of the record, the jury might very easily find the issue in favor of the company. If the jury had had the benefit of the other disinterested witness, whose testimony was considered by the trial judge and also by the Court of Appeals in the last action, the jury would then have had the testimony of Eles herself very definitely and very thoroughly corroborated, and, as was found by the trial court and the Court of Appeals, there would probably have been a different result reached in the case. At any rate, the granting of a motion or petition for a new trial is necessarily addressed to the sound discretion of the trial judge, and his conclusion should not be disturbed unless there is a clear abuse of that discretion. The following cases fully sustain this proposition: Hurley v. State, 6 Ohio, 399; Holt v. State, 11 Ohio St., 691; State v. Lopa, 96 Ohio St., 410,117 N. E., 319; First National Bank of Dunkirk v. Smith, 102 Ohio St., 120, 130 N. E., 502; Chandler S Taylor Co. v. Southern Pacific Co., 104 Ohio St., 188, 135 N. E., 620; 46 Corpus Juris, 412, note 55.
+The opinion of the trial court, as well as that of the Court of Appeals, clearly indicates that each court reached the conclusion that substantial justice had not been accomplished in this case by the verdict of the jury and the judgment of the trial court entered thereon. This court is not disposed to disturb the conclusions reached by the trial and appellate courts. The action of the trial court and the Court of Appeals must be affirmed.
+Judgment affirmed.
+Marshall, C. J., Day, Allen and Robinson, JJ., concur.
+
+## Dissent (Jones, J.,)
+
+Jones, J.,
+dissenting. The alleged newly discovered evidence upon which a new trial was sought was cumulative only. For that reason, and upon the authority of Kroger, Admr., v. Ryan, 83 Ohio St., 299, 94 N. E., 428, I dissent from this judgment.
+Matthias, J., concurs in this dissent.
