@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+docket: "8828"
+decided: "1905-10-31"
+citations: ["73 Ohio St. 46"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, C. J., Price, Crew, Summers and Spear, JJ., concur."]
+parties: ["Metropolitan Life Insurance Company v. Felix."]
+source_url: "https://static.case.law/ohio-st/73/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 969170
+cites_cases: ["1 Johns. Cas., 310", "11 Pick., 85", "13 Minn., 65", "136 Mass., 229", "15 W. L. B., 197", "160 Mass., 386", "162 Mass., 236", "19 N. Y. Supp., 662", "3 N. Y., 127", "30 N. Y., 163", "30 W. L. B., 337", "38 N. E. Rep., 503", "44 Ohio St., 19", "44 Ohio St., 29", "53 Miss., 1", "55 Md., 200", "62 Ohio St., 256", "62 Ohio St., 385", "87 Me., 374"]
+---
+
+# Metropolitan Life Insurance v. Felix
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+More than a century ago it was held ■ by Lord Mansfield in Tyre v. Fletcher, Cowp., 666, that premiums paid upon a void policy of insurance may be recovered because “the underwriter receives a premium for running the risk of indemnifying the insured, and whatever cause it may be owing to, if he does not run the risk the, consideration for which the premium or money was paid into his hands fails, and therefore he ought to return it. ” '
+Such appears to have been the accepted law since that time. In supposed deference to it counsel for the Company here insists that the policy was not void, even if voidáble at the option of the Company, and that it did not declare the policy forfeited until the payment of the premiums had been refused. In this connection he directs our attention to the uncontroverted allegations of the Company’s answer that at the time of the refusal to pay the premiums and prior thereto the Company had treated said insurance as valid and was ready and willing to carry out the terms and conditions of said policy by it to be kept and performed and to keep in force said policy, and was never willing to rescind the contract or to have it rescinded. The Company’s willingness to keep the contract alive while that consisted only in accepting premiums may be readily believed; but the choice of its attitude, if the life insured had ended, would have been- determined by other considerations. In attempting to apply the admitted rule to the case we should look to the stipulations whereby the company has provided for immunity from liability rather than to its ineffectual declarations respecting its intentions. The rule requires the presumption that it would have paid the amount of the policy only in performance of a binding obligation to do so. If this presumption appears too weak to attract confidence it might be much strengthened by reference to reports of judicial proceedings in the several states illustrating this company’s dealings with holders of its policies. Since it cannot be assumed.that we are dealing with a sporadic case of philanthropy, we must inquire whether the Company bore a risk in consideration of the premium's paid. In this connection its counsel say that although the pretended application by the insured was a forgery, not perpetrated by the beneficiary, its representations may all have been true, and that, under the circumstances presented, sections 3625 and 3626 of the Revised Statutes prevented its interposing their falseness, if they w’ere false, as a defense to an action on the policy. These propositions need not be discussed for they miss the point in the case. The Company did not incur the liability which Minnie Felix thought it incurred, and for which she paid the premiums, because the terms of the application upon which the Company acted showed her express consent to be bound by its regulations; the terms of the policy made the application a part of the contract; the regulations provided that no policy on an adult life should be binding upon the Company unless the person against whose death it insures is aware of the insurance, and Michael Felix, the adult subject of the insurance, was not aware that it had been effected. The distinction between a policy void, and voidable at the election of the insurer, cannot be important here. It is of the essence of the doctrine stated by Lord Mansfield and approved in the considerate eases upon the subject that, there being no fraudulent conduct by the beneficiary, to constitute a consideration for the payment of premiums there must be a contract against which at the time of its execution the insurer cannot interpose a valid defense. Such a ground of defense is shown in the stipulations-and facts stated. The judgment below is in accordance with the doctrine of Insurance Co. v. Pyle, 44 Ohio St., 19. It is in all respects supported by Fisher v. The Metropolitan Life Ins. Co., 162 Mass., 236, where the company unavailingly urged the same objections to the right to recover the premiums paid. , ■
+Judgment affirmed.
+Davis, C. J., Price, Crew, Summers and Spear, JJ., concur.
