@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-2429"
+decided: "1995-05-10"
+citations: ["72 Ohio St. 3d 164"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur."]
+parties: ["The State ex rel. Fenley v. Kyger et al."]
+source_url: "https://static.case.law/ohio-st-3d/72/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1737366
+cites_cases: ["38 Ohio St.3d 165", "39 Ohio St.3d 19", "40 Ohio St.3d 149", "527 N.E.2d 807", "528 N.E.2d 1254", "532 N.E.2d 719", "586 N.E.2d 101", "63 Ohio St.3d 173", "633 N.E.2d 524", "637 N.E.2d 1", "648 N.E.2d 1384", "69 Ohio St.3d 441", "70 Ohio St.3d 65", "98 Ohio App.3d 524"]
+---
+
+# State ex rel. Fenley v. Kyger
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In order to be entitled to a writ of mandamus, Fenley must establish a clear legal right to open council meetings, a clear legal duty on the part of respondents to provide open council meetings, and the lack of an adequate remedy at law. State ex rel. Carter v. Wilkinson (1994), 70 Ohio St.3d 65, 637 N.E.2d 1.
+Initially, relator notes that respondents have “temporarily discontinued holding executive sessions.” However, although a case may be moot, a court may decide the issues raised where they are capable of repetition, yet evading review. State ex rel. Beacon Journal Publishing Co. v. Donaldson (1992), 63 Ohio St.3d 173, 175, 586 N.E.2d 101, 102. Since council meetings normally adjourn prior to the practice of exclusion of the press and public being subjected to judicial scrutiny, these cases are often technically moot. State ex rel. Plain Dealer Publishing Co. v. Barnes (1988), 38 Ohio St.3d 165, 166, 527 N.E.2d 807, 809. However, because of the important issues concerning public rights, they are capable of repetition, yet evading review. Id. Additionally, absent a writ, it is evident that respondents will continue conducting executive sessions, at least insofar as those sessions relate to attorney-client matters. Further, respondents agree that this case should not be dismissed as moot. Therefore, we proceed to review the case on the merits.
+As to Fenley’s asserted clear legal right to open meetings and respondents’ clear legal duty to provide them, the Home Rule Amendment to the Ohio Constitution governs the respective roles of the state and its municipalities. Section 3, Article XVIII, Ohio Constitution. “In matters of local self-government, if a portion of a municipal charter expressly conflicts with parallel state law, the charter provisions will prevail.” State ex rel. Lightfield v. Indian Hill (1994), 69 Ohio St.3d 441, 442, 633 N.E.2d 524, 526; Sections 3 and 7, Article XVIII, Ohio Constitution.
+Section 2.06 of the Oxford City Charter provides that regular meetings of council “shall be held as prescribed in the Council rules, but not less frequently than twice each month” and that “[a]ll meetings of Council shall be open to the public.” The charter contains no exception to the open-meetings requirement and provides further in Section 1.03 that “[a]ll powers of the corporation shall be exercised in the manner prescribed by this charter.”
+Although the Oxford City Charter does not define “meetings,” we have defined similar language in city charters as meaning “any assemblage of the city council or its committees where a majority of members constituting the body are in attendance and the gathering is arranged for the purpose of discussing public business.” (Emphasis sic.) Barnes, supra, at paragraph three of the syllabus. Since private, executive sessions are not authorized by the charter, they do not constitute exceptions from the charter provision requiring open meetings. State ex rel. Craft v. Schisler (1988), 40 Ohio St.3d 149, 150, 532 N.E.2d 719, 721.
+Although R.C. 121.22, Ohio’s sunshine law, provides several exceptions to the general requirement of open meetings by allowing executive sessions in certain circumstances, R.C. 121.22 is not applicable where the charter supersedes it. See Fox v. Lakewood (1988), 39 Ohio St.3d 19, 22, 528 N.E.2d 1254, 1257; 1 Gotherman & Babbit, Ohio Municipal Law (2 Ed.Supp.1994) 9-10, Section 6.08(A). Similarly, although Section 111.05 of the Oxford Administrative Code provides for “authorized executive sessions” and states that council shall comply with R.C. 121.22, the ordinance conflicts with the charter and is ineffective. Fox, supra.
+Respondents concede that closed executive sessions are generally prohibited by the Oxford City Charter open-meetings provision. Nevertheless, they urge this court to recognize the common-law and statutory attorney-client privileges as exceptions to the charter provision. R.C. 121.22(G)(3) and (5) recognize exceptions to the sunshine law for certain attorney-client privilege matters. However, R.C. 121.22 is inapplicable here, since the charter requirement that council meetings “shall be open to the public” prohibits any meeting, regardless of its purpose, from being private. Craft, Fox, and Barnes, supra. City council is free to propose a charter amendment providing for closed executive sessions concerning attorney-client privilege and other matters. See Craft and Barnes, supra.
+Accordingly, Fenley is granted a writ of mandamus ordering respondents to open all of the council meetings, as required by the Oxford City Charter. This conclusion renders it unnecessary to reach the state constitutional claim raised by Fenley. Barnes, supra, 38 Ohio St.3d at 167, 527 N.E.2d at 810; Fox, supra, 39 Ohio St.3d at 22, 528 N.E.2d at 1257.
+Writ granted.
+Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
+. Assuming, arguendo, that R.C. 121.22 applied here, council’s apparent long-standing practice of scheduling executive sessions as a regular part of each meeting would not per se validate the executive sessions. Council would still be required to satisfy the requirements of R.C. 121.22(G) in order to hold private executive sessions. In other words, an executive session could only be held following a roll call vote by a majority of a quorum of council to hold such session and a specification by council on the record as to which one or more of the excepted subjects set forth in R.C. 121.22(G) are to be considered. See, e.g., Vermilion Teachers’ Assn. v. Vermilion Local School Dist. Bd. of Edn. (1994), 98 Ohio App.3d 524, 648 N.E.2d 1384.
