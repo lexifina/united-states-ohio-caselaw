@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "38124"
+decided: "1964-03-18"
+citations: ["176 Ohio St. 32"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, O’Neill, Griffith and Herbert, JJ., concur.", "Matthias, J., not participating."]
+parties: ["Singer Sewing Machine Co., Appellee, v. Puckett, Appellant."]
+source_url: "https://static.case.law/ohio-st/176/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1770036
+cites_cases: ["146 Ohio St., 467", "172 Ohio St., 317", "172 Ohio St., 464", "174 Ohio St., 183"]
+---
+
+# Singer Sewing Machine Co. v. Puckett
+
+## Majority (G-ibsow, J.)
+
+G-ibsow, J.
+Two questions are presented for determination in the instant case: (1) Was the employer’s notice of appeal from the decision of the Industrial Commission, as quoted above, legally sufficient? (2) If so, did the claimant’s failure to file, within 30 days after the filing of the notice of appeal, a petition “setting forth the basis of the jurisdiction of the court over the action and setting forth the issues” in accordance with Section 4123.519, Revised Code, confer jurisdiction upon the court to enter a judgment that the claimant is not entitled to receive or to continue to receive workmen’s compensation?
+With respect to the legal sufficiency of the notice of appeal, the second paragraph of Section 4123.519, Revised Code, provides: ^
+“Notice of appeal shall state the names of the claimant and the employer, the number of the claim, the date of the decision appealed from, and the fact that the appellant appeals therefrom. ’ ’ The claimant contends that the Court of Common Pleas lacked jurisdiction in this case because the employer’s notice of appeal was fatally defective in that (1) it failed to designate the claimant and employer as such in its caption, and (2) it did not state the “correct” date of the decision appealed from.
+As to the first claimed defect in the notice of appeal, apparently the claimant relies upon Starr v. Young, Admr. (1961), 172 Ohio St., 317. Even though this court held in Starr that a notice of appeal which failed to designate the defendant as “employer” and to state the “claim number” was fatally defective, neither the statute nor case law requires that the designation of parties as “employer” and “claimant” appear in the caption. In the case at bar, the employer and claimant were clearly named and so designated in the body of the notice of appeal, quoted above, which was sufficient.
+As to the second claimed defect in the notice of appeal, the claimant contends that the date of decision stated in the notice was the date the decision was mailed to the parties and not the true date of the Industrial Commission’s decision, hence the notice was fatally defective. Without discussing this contention in detail, it is sufficient to note (1) that the Industrial Commission has changed its decision form so as to eliminate any confusion as to choice of dates, and (2) that the 60-day period within which a notice of appeal must be filed runs from “the date of the receipt of the decision appealed from or the date of receipt of the order of the commission refusing to permit an appeal from a regional board of review” and not from the date of the decision. Admittedly, the notice of appeal in this case was filed within the prescribed 60-day period, and there can be no serious question that it sufficiently described the decision appealed from. See Katsourakis v. Youngstown Sheet & Tube Co. (1963), 174 Ohio St., 183, and Parker v. Young, Admr. (1961), 172 Ohio St., 464.
+Turning next to the second question before the court, consideration is given to whether a claimant’s failure to file a petition within 30 days after the filing of the employer’s notice of appeal warrants a determination by tbe Court of Common Pleas that the claimant is not entitled to receive or to continue to receive workmen’s compensation from the employer. The employer in support of its position points to the pertinent language in the sixth paragraph of Section 4123.519, Eevised Code, which provides:
+“The claimant shall, within thirty days after the filing of the notice of appeal, file a petition setting forth the basis for the jurisdiction of the court over the action and setting forth the issues.”
+In addition to the legislative use of the word, “shall,” which generally is given a mandatory construction, the employer contends that the legislative history shows that to confer jurisdiction on the court there must be a timely filing of a petition by the claimant. True, it was not until the 1959 amendment of Section 4123.519 (128 Ohio Laws, 743, 753) that any time limitation was imposed. In fact, when the section was enacted originally in 1955 (126 Ohio Laws, 1015,1026), there was no provision for the filing of a petition, and the 1957 amendment (127 Ohio Laws, 898, 900) imposed upon the “appellant” the duty of filing a petition without time limitation.
+The literal meaning of the words, “shall” and “may,” is not always controlling in the construction of a statute. Cases in which these words are convertible are numerous. See 50 Ohio Jurisprudence (2d), 30, Statutes, Section 20; Sutton, Use of “Shall” in Statutes (1939), 4 John Marshall Law Quarterly, 204. As was so aptly stated by Hart, J., in State, ex rel. Jones, v. Farrar (1946), 146 Ohio St., 467, at page 472:
+“Whether a statute is mandatory or directory is to be ascertained from a consideration of the entire act, its nature, its effect and the consequences which would result from construing it one way or another. In each instance, it is necessary to look to the subject matter of the statute and consider the importance of the provision which has been disregarded and the relation of that provision to the general object intended to be secured by the act.”
+Claimant’s petition is not jurisdictional. Section 4123.519 unequivocally provides that the filing of a notice of appeal with the Industrial Commission of Ohio and the Court of Common Pleas “shall be the only act required to perfect the appeal and vest jurisdiction in the court.”
+Where, as in the instant case, the claimant has been awarded workmen’s compensation by the administrative agency, and the employer appeals, the purpose of requiring a petition by the claimant is to give orderliness to the appellate proceeding. The court already has full jurisdiction over the action by virtue of the timely filed notice of appeal and consequently would entertain a motion to require the claimant to file his petition if he fails to do so within the 30-day period. Since some claimants, at least, are not represented by counsel, they may be unaware of their obligation to file a petition on appeal. To summarily grant a motion for judgment on the pleadings where the claimant fails to file his petition would be too harsh a consequence for the failure to file a timely petition.
+In conclusion, we find that the Common Pleas Court was in error in granting the employer’s motion for judgment on the pleadings and in denying claimant’s motion for leave to file his petition. Therefore, the judgment of the Court of Appeals is reversed and the cause remanded to the Common Pleas Court for further proceedings according to law.
+Judgment reversed and cause remanded.
+Taft, C. J., Zimmerman, O’Neill, Griffith and Herbert, JJ., concur.
+Matthias, J., not participating.
