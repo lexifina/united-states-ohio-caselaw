@@ -1,0 +1,64 @@
+---
+court: "Supreme Court of Ohio"
+docket: "37919"
+decided: "1964-04-08"
+citations: ["176 Ohio St. 85"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, O’Neill, Brown and Herbert, JJ., concur.", "Matthias, J., not participating.", "Brown, J., of the Fourth Appellate District, sitting by designation in the place and stead of Griffith, J."]
+parties: ["The State, ex rel. McElroy, Atty. Genl. (Saxbe, Atty. Genl., Substituted Relator), v. Trumbull Savings & Loan Co. et al."]
+source_url: "https://static.case.law/ohio-st/176/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1770026
+cites_cases: ["11 Ohio, 1", "11 Ohio, 126", "40 N. E., 408", "41 N. E., 205", "52 Ohio St., 460", "53 Ohio St., 189"]
+---
+
+# State ex rel. McElroy v. Trumbull Savings & Loan Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In the petition it is alleged ‘ ‘ that * * * Trumbull, has entered into a relationship with * * * Wayne, whereby Wayne has acted as a branch office of the Trumbull Savings & Loan Company, doing all of those things that a licensed and authorized branch office would do for and in behalf of the home office of a building and loan company,” and that Trumbull and Wayne are abusing their franchises in maintaining and continuing that relationship.
+In the answer of Wayne, it is affirmatively alleged “that the relationship now existing between * * * Wayne * * * and * * * Trumbull * * * has existed since * * * 1928; that said relationship has not been questioned for more than 20 years and that the statute of limitations prevents the Attorney General from proceeding in this action.”
+Substantially the same allegations are contained in the answer of Trumbull.
+In the reply, relator “admits that the relationship between * * * Trumbull * * * and # * Wayne * * * has existed since * * * 1928” and “has not been questioned for more than 20 years” but denies that the proceeding is barred by the statute of limitations.
+So far as pertinent, Section 2733.35, Revised Code, reads:
+“No action in quo warranto shall be brought against a corporation for the exercise of a power or franchise under its charter, which it has used and exercised for a term of 20 years.”
+In our opinion, no reasonable construction of those statu-: tory words would enable an escape from the conclusion that the relationship between Wayne and Trumbull, which is claimed to represent the exercise of powers and franchises which neither corporation has, cannot be attacked after its continuous and admitted exercise for over 20 years.
+This conclusion is supported by our decisions in State v. Granville Alexandrian Society (1841), 11 Ohio, 1, and State v. Miami Exporting Co. (1841), 11 Ohio, 126.
+In the court’s opinion by Hitchcock, J., in the Granville case, at page 19 et seq., it is stated:
+‘ ‘ The whole plea must be taken together, and if, taking the whole together, it shows that the defendants have, for the term of 20 years and more, used the franchise of banking, as that franchise is ordinarily used by banks, upon which it is expressly conferred, it is sufficient. This franchise is exercised, not by the performance of a single act, but of a variety of acts, which, taken together, constitute the business of banking.
+I 6 # * #
+“From a most careful examination, we are brought to the conclusion that this plea is well pleaded, and that it is sufficient, in law, to bar the prosecution. ’ ’
+In the Miami Exporting case, it is said in the opinion by Lane, C. J., at page 127 :
+“The act relating to quo warranto declares no proceeding shall be had to question the authority for exercising franchises which have been exercised more than 20 years, provided such proceedings shall not be barred if instituted within two years from the passage of the act.
+“The defendant relies, in this plea, upon the prescriptive right of 20 years. The prosecutor, instead of either denying the exercise of the franchise for this period of time, or of bringing himself within the two years’ proviso, gives no other answer, except to repeat the averment that the defendant has done those things which he claims a right to do under his plea.”
+The case of Ohio, ex rel., v. Railway Co. (1895), 53 Ohio St., 189, 41 N. E., 205, holds merely that the foregoing-quoted limitation-of-action provisions with respect to quo warranto proceedings would not in effect give a private company a prescriptive right to nse state lands. Unlike the Granville and Miami Exporting cases and this case, the exercise of corporate powers and franchises were not involved.
+It is undoubtedly true as pointed out in Heddleston, Supervisor, v. Hendricks (1895), 52 Ohio St., 460, 465, 40 N. E., 408, that the general rule is that the statute of limitations does not apply as a bar to the rights of the public unless it expressly provides that it shall so operate. In the instant case, the applicable statute of limitations does so expressly provide.
+Writ denied.
+Taft, C. J., Zimmerman, O’Neill, Brown and Herbert, JJ., concur.
+Matthias, J., not participating.
+Brown, J., of the Fourth Appellate District, sitting by designation in the place and stead of Griffith, J.
+
+## Dissent (Gibson, J.,)
+
+Gibson, J.,
+dissenting. This extraordinary legal proceeding in quo warranto is a creature of statute. Accordingly, in this, as in other cases of statutory construction, the issue is to determine the legislative intent.
+Turning first to the applicable statutory provisions, consideration should be given to the relevant portion of Section 2733.02, Revised Code, which creates the cause of action and reads as follows:
+“A civil action in quo warranto may be brought in the name of the state against a corporation:
+<<* # #
+“(D) When it has misused a franchise, privilege, or right conferred upon it by law, or when it claims or holds by contract or otherwise; or has exercised a franchise, privilege, or right in contravention of law.” (Emphasis supplied.) The right to bring a quo warranto action in the name of the state against a corporation is clearly conferred where a corporation has exercised (1) a franchise, (2) a privilege, or (3) a right in contravention of law, unless such action is barred by the time limitation of Section 2733.35, Revised Code.
+The pertinent portion of Section 2733.35, Revised Code, limiting the right to bring quo warranto against a corporation, provides:
+“Actions in quo warranto against a corporation for forfeiture of its charter shall be commenced within five years after the act complained of was done or committed. No action in quo warranto shall be brought against a corporation for the exercise of a power or franchise under its charter, which it has used and exercised for a term of twenty years.” (Emphasis supplied.)
+This being a limitation on the right to bring an action authorized by Section 2733.02, Revised Code, it should be construed strictly so as to preserve as much as possible of the right of action.
+From the face of the two statutory sections, it is clear that Section 2733.02, Revised Code, authorizes the bringing of an action in quo warranto where a corporation has exercised a franchise, privilege or right in contravention of law, whereas Section 2733.35, Revised Code, bars such an action only where the corporation has exercised a power or franchise under its charter. Section 2733.35 does not expressly bar such an action where the corporation has exercised a “privilege, or right in contravention of law.”
+The words employed in the 20-year statute of limitations indicate that the provision was enacted at a time when all corporations were chartered by special act of the General Assembly. This is borne out by the legislative history of the provision, which was enacted in 1838 (36 Ohio Laws, 68). Apparently, the General Assembly discontinued the practice of chartering corporations after the adoption of the Constituion of 1851. 12 Ohio Jurisprudence (2d), Corporations, 61, Section 16. Today, articles of incorporation for building and loan associations are recorded as a routine matter by tbe Secretary of State after being authorized to do so by the Superintendent of Building and Loan Associations. Section 1151.02, Revised Code.
+Ordinarily, a corporation may engage in any type of business activity. No special approval by the state is required as a condition precedent to extending the corporation’s business activities. There is no special public interest to protect. Thus, if a corporation engages in business activity beyond that set forth in its purpose clause, such activity is merely ultra vires. No harm generally is done to the public, which would justify a forfeiture of the activity if the corporation has engaged in such business over a long period of time. Obviously this is the kind of situation falling within the ambit of the limitation imposed by Section 2733.35, Revised Code.
+A corporation might well, under its articles of incorporation, have the power to engage in certain business activities but, because the nature of the business requires prior state approval, be unable to exercise its corporate power for lack of such approval. For example, a bank, an insurance agency, a private employment agency, a securities broker, a real estate broker, a sewage disposal system company, a motor transportation company, and many other businesses and professions could not legally operate, even though incorporated, without prior state approval or licensure, unless under a so-called “grandfather” clause, which does not apply in this case.
+In the instant ease, Chapter 1151, Revised Code, which provides for the regulation of state building and loan associations in the public interest, imposes conditions precedent and antecedent to the incorporation of such associations. The special approval of the Superintendent of Building and Loan Associations before such an association may be organized, or may establish more than one office or maintain branches, amounts to the grant of a privilege or a right. See Sections 1151.02 and 1151.05, Revised Code. Surely it would be unreasonable to construe Section 2733.35 so as to vitiate the regulatory purpose of Chapter 1151 and perhaps other statutory schemes for regulation of business activities affecting the public interest. In my opinion, this action concerns the unlawful exercise of a privilege, which must be conferred by the state, and as such the time limitation of Section 2733.35 is not applicable.
+Having determined that this action is not barred by the time limitation of Section 2733.35, attention should be directed to the statutory provisions relative to the establishment of more than one office of a building and loan association. Section 1151.05, Revised Code, provides:
+“No building and loan association shall establish more than one office, or maintain branches other than those established before July 3,1923, except with the approval of the superintendent of building and loan associations previously had in writing.”
+Clearly, except for those offices and branches established before July 3, 1923, the statute requires written state approval before any building and loan association may establish more than one office or maintain a branch for the transaction of its business.
+Section 1151.05, Revised Code, does not expressly state what, if anything, is required in addition to a physical office facility in order to establish an office. Respondent Trumbull contends that it has not established an office, but that respondent Wayne acts as an independent contractor. The establishment of an office within the meaning of the statute, in my opinion, includes more than the opening of a physical office facility of the association itself. Where arrangements are made by an association for another to act on its behalf in carrying on certain of its building and loan activities at another location, an office is established even though the one performing such acts at the other location does so under its own name. Any other view would permit an association to do by indirection that which the statutes prohibit it from doing directly, viz., the establishment of another office without prior approval of the state. This would thwart the regulatory program by permitting such associations to operate anywhere within the state by the utilization of so-called independent contractors, without having secured the approval of the state for the establishment of such offices.
+In the instant case, respondent Wayne clearly is carrying on some or all business functions of respondent Trumbull and is thus acting as an office of Trumbull, even though it operates under its own name. Accordingly, in my opinion, this court should oust the respondents from the relationship established between them.
