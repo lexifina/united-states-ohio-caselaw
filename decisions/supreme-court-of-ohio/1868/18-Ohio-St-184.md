@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1868-12"
+citations: ["18 Ohio St. 184"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, C. J., and Brinkerhoff, Scott, and Welch, JJ., concurred."]
+parties: ["*John B. Armstrong v. McAlpin, Hinman & Co."]
+source_url: "https://static.case.law/ohio-st/18/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 43729
+cites_cases: ["1 Pet. 386", "1 Story, 487", "10 Ohio St. 237", "10 Ohio St. 504", "11 Ohio, 100", "14 Ohio St. 457", "16 Mass. 405", "16 Pick. 145", "2 Johns. Ch. 62", "2 Jones Eq. 253", "27 N. Y. 546", "29 Ala. 662", "3 Denio, 33", "5 Met. 90"]
+---
+
+# Armstrong v. McAlpin, Hinman & Co.
+
+## Majority (White, J.)
+
+White, J.
+The record in this case is very voluminous, and it has been put together in such a disconnected and careless manner, that it has been somewhat difficult to get an intelligent understanding- of some of the questions sought to be raised in argument. We find, however, but few questions of law that we deem it necessary to specially notice.
+187] *The plaintiff in error, Armstrong, as sheriff, having in his possession sundry writs of attachment, issued against William Brown, levied the same upon a lot of furniture, the property of Brown-Brown subsequently executed a chattel mortgage upon the property to McAlpin, Hinman & Co. After the execution of the mortgage two other attachments were issued against Brown, one at the-suit of the Lawreneeburg Branch Bank, and the other at the suit of Joseph H. Buckam, both of which the sheriff levied upon the-same property.
+McAlpin, Hinman & Co., the plaintiffs below, having become the equitable owners of the claims upon which the attachments levied; prior to their mortgage were founded, instituted their action in replevin against Armstrong, to recover under their mortgage the-mortgaged property, stating in their petition the fact of their ownership of the prior claims. Issue was joined as to the right of the-plaintiffs to recover the property, which was found for them, and judgment rendered in their favor.
+Armstrong, by cross-petition, set up the claims in attachment in> favor of the bank and of Buckam; that Brown, the debtor in attachment, had an interest in the property subject to those attachments, over and above all valid prior liens; and asked to have the surplus ascertained and applied to the payment of the amounts due the-bank and Buckam. Neither the bank nor Buckam was a party.
+On a reference ordered, the master found that McAlpin, Hinman & Co. were entitled to be first paid out of the fund arising from the-property, both as to their mortgage and the prior claims in attachment which they had acquired; and this finding.was confirmed by the court. In this it is said the court erred.
+The claim of the plaintiff in error is that McAlpin, Hinman &• Co., in recovering possession of the property from the sheriff under their mortgage, extinguished the prior attachment liens, both at law and in equity; and that this extinguishment inured to the benefit of the bank and Buckam.
+The legal effect of the mortgage, as against Brown and the subsequent creditors in attachment, was to vest in the mortgagees the *title and right of possession to the property; and the posses- [188 sion of the sheriff, under the subsequent attachments, was bound to> yield to the paramount claims under the mortgage.
+The mortgagees, to obtain possession and protect their title, might purchase prior liens, and if they did so, and, by the enforcement of the mortgage, such liens should be technically extinguished,, yet, for the money thus expended, a corresponding equity would arise in their favor in the property. The latter had the legal title, and were in possession of the fund. The subsequent attachment creditors attached the property, it is true, but the operation of their attachments was limited to the interest of their debtor, which was subordinate to the prior attachments and to the mortgage. As against the mortgage, the subsequent attachment creditors had only an equity; and, in an equitable point of view, it would not affect them whether the amount recovered by the prior attachments should be paid to the creditors or to the mortgagees; and on distribution they have no right to insist upon the exoneration of the funds from all charge on account of the prior liens.
+The next question is whether the mortgagees are to be charged with the value of the property at the time they took it from the sheriff in replevin, or with the proceeds derived from it by private sale.
+The mortgagees were entitled to the possession of the property at the time they replevied it, and we see no ground on which they should be charged with its value at that time.
+The object of the cross-petition was to obtain an account of the surplus after paying the mortgage and the other prior liens. The master and the court found, and we think the finding is sustained by the evidence, that a proper degree of skill and prudence was used in effecting a sale of the property, and that all was realized from it that could be reasonably expected. There is no ground, therefore, for disturbing the action of the court below in this respect.
+The furniture replevied was added to other furniture of like description, and the whole stock sold from, in portions, as purchasers 189] could be found. It is claimed the mortgagees ^should be charged with the value at the time the addition was made.
+There was no such confusion of goods as that the identity of the property in question was lost; and the amount realized from its sale was as well ascertained-as if it had been sold separately.
+The fund was found to be sufficient only to pay the prior liens and part of the costs. It is claimed that the court erred in charging the plaintiff in error with the costs of the reference.
+The costs were made on the issues arising on the cross-petition, and which were found against the plaintiff in error. The court below was authorized to adjudge as to costs as, in its discretion, it thought right and equitable.
+The plaintiff in error, Armstrong, alone, filed and prosecuted the cross-petition. At special term, through inadvertence, no doubtr judgment for the unpaid costs was rendered against the bank and' Buckam, neither of whom were parties to the suit. On the hearing of the petition in error, in the Superior Court, at general term, prosecuted by Armstrong against McAlpin, Hinman & Co., the-court set aside the judgment for costs against the bank and Buckam, and ordered the costs taxed against them to be taxed against Armstrong ; and, in all other respects, the judgment at special term-was affirmed.
+By section 17 of the act establishing the Superior Court (S. & C. Stat. 390), the court at general term is authorized, on error, to render such judgment as should have been rendered at special term. The aim of the court at the special term, manifestly, was to tax the failing party with the costs which the fund failed to pay. It was supposed the bank and Buckam, for whose benefit alone Armstrong-was suing, were parties; but they were not. The judgment, therefore, against them was ineffectual, and the unpaid costs, in effect, were unprovided for. We think the court at general term was' warranted in correcting the mistake; and that the case does not come within section 527 of the code, which provides that where a. judgment is reversed in part, and affirmed in part, the costs shall be equally divided between the parties. As to all matters of an-adversary character, the judgment below was found to be correct.
+*We deem it unnecessary to notice any of the other ques- [190 tions made. We find no ground for disturbing the judgment, and it will therefore be affirmed.
+Day, C. J., and Brinkerhoff, Scott, and Welch, JJ., concurred.
