@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "23632"
+decided: "1932-12-21"
+citations: ["126 Ohio St. 78"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Jones, Day, Allen, Kinkade and Stephenson, JJ., concur.", "Matthias, J., not participating."]
+parties: ["The State, ex rel. Southard, Dir. of Health, v. City of Van Wert et al."]
+source_url: "https://static.case.law/ohio-st/126/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 314084
+cites_cases: ["104 N. E., 537", "112 Ohio St., 729", "115 N. E., 1013", "116 N. E., 37", "120 Ohio St., 426", "120 Ohio St., 432", "149 N. E., 136", "166 N. E., 370", "166 N. E., 377", "86 Ohio St., 1", "88 Ohio St., 403", "94 Ohio St., 447", "95 Ohio St., 108", "98 N. E., 1019"]
+---
+
+# State ex rel. Southard v. City of Van Wert
+
+## Majority (By the Court.)
+
+By the Court.
+This court has heretofore recognized the mandatory character of orders of the state department of health, issued pursuant to general laws. State Board of Health v. City of Greenville, 86 Ohio St., 1, 98 N. E., 1019, Ann; Cas., 1913D, 52. This conclusion has been reaffirmed since adoption of Section 3, Article XVIII, of the Constitution, relative to the power of municipalities to “exercise all powers of local self-government and to adopt and enforce within their limitations such local police, sanitary and other similar regulations as are not in conflict with general laws.” City of Bucyrus v. State Department of Health, 120 Ohio St., 426, 166 N. E., 370; also State, ex rel. Neal, Dir. of Health, v. Williams, Mayor, 120 Ohio St., 432, 166 N. E., 377, where the decisions following the Greenville ease are collected and adhered to.
+This is a proceeding to compel compliance with the provisions of Section 1259, G-eneral Code, in conformity with the order of the state health department, which section in and of itself has nothing to do with tax limitations. Said section, in part, provides:
+“Each municipal council, department or officer having jurisdiction to provide for the raising of revenue by tax levies, sale of bonds, or otherwise shall take all steps necessary to secure the funds for any such purpose or purposes.”
+The terms of this section are clear and mandatory. The only point in the case, then, is whether the 1% per cent. (15-mill) limitation of Section 5625-2, and of the Constitution, Section 2, Article XII, will prevent the issuance and payment of the bonds necessary to finance, the construction of the sewage plant.
+The amendment to Section 2, Article XII, adopted in November, 1929, effective January 1, 1931, provides, in part:
+“No property, taxed according to value, shall be so taxed in excess of one and one-half per cent of its true value in money for all state and local purposes * # # ??
+Section 5625-2, General Code, provides in part: “The aggregate amount of taxes that may be levied on any taxable property in any subdivision or other taxing unit of the state shall not in any one year exceed fifteen mills, on each dollar of tax valuation of such subdivision or other taxing unit, except taxes specifically authorized to be levied in excess thereof.”
+It does not affirmatively appear by the answer what proportion of the present tax rate of 18.6 mills is to be allocated for mandatory debt charges for the discharge of existing obligations. True, the payment of existing debts, as evidenced by bonds, and the payment of interest, and the creation of a sinking fund for the retirement of such bonds, are to be first provided for, and current expenses become a secondary consideration. This was the holding of the court in Rabe v. Board of Education of Canton School Dist., 88 Ohio St., 403, 423, 104 N. E., 537. That case was followed in State, ex rel. Heald, v. Zangerle et al., Budget Commrs., 94 Ohio St., 447, 115 N. E., 1013. In State, ex rel. Merydith Construction Co., v. Dean, Aud., 95 Ohio St., 108, 119, 116 N. E., 37, this court after referring to Section 2, Article XII, of the Constitution, said:
+“This language is capable of but one construction. Everything of a municipal nature, all current expenses of every kind, must yield to the imperative necessity of paying interest and providing a.sinking fund.”
+See, also, State, ex rel. Industrial Commission, v. Clinton Township Rural School District of Knox County, 112 Ohio St., 729, 149 N. E., 136.
+Therefore any new mandatory duty to issue bonds and levy taxes must of course be subject to existing mandatory levies. The averment of the current levy of 18.6 mills is not a defense to the enforcement of a mandatory duty involving an additional mandatory tax levy, unless it appears that 15 mills of the current levy must be allocated to existing mandatory debt charges. The answer not disclosing this fact, the demurrer to the same must be sustained.
+Much is said in brief of counsel, as well as in argument in open court, with reference to the constitutionality of Section 1259-1, General Code. But under our view of this case, that section is not involved, for the reason that it does not affirmatively appear in the answer that the tax commission of Ohio has certified to the director of health that the municipal corporation is unable to comply with the provisions of Section 1259 without a vote of the electors, by reason of existing debt and tax limitations.
+So that for the purposes of this case it is unnecessary to discuss the effect of the amendment of Section 2, Article XII, relative to tax limitations, as passed in November, 1929, effective January 1, 1931. However, Section 5625-2, General Code, relative to the 15-mill limitation, should be alluded to. In that section it is provided for a limitation of 15 mills on each dollar of tax valuation to be levied in any one year, except taxes specifically authorized to be levied in excess thereof; and it is further provided that the limitation known as the 15-mill limitation shall include both the limitation imposed by said section and the limitation imposed by Article XII, Section 2, of the Constitution.
+It is further to be noted that the amendment of Section 2 of Article XII, while fixing the 1% per cent, limitation for all state and local purposes, also provides that “laws may be passed authorizing additional taxes to be levied outside of such limitation, either when approved by at least a majority of the electors of the taxing district voting on such proposition, or when provided for by the charter of a municipal corporation.”
+This constitutional amendment became, effective January 1, 1931, and in June of that year Section 5625-15, General Code (114 Ohio Laws, 845), was amended by the Legislature to provide that:
+‘ ‘ The taxing authority of any subdivision * * * by a vote of two-thirds of all the members of said body, may declare by resolution that the amount of taxes which may be raised within the fifteen mill limitation will be insufficient to provide an adequate amount for the necessary requirements of the subdivision, and that it is necessary to levy a tax in excess of such limitation for any of the following purposes:
+“1. Current expenses of the subdivision.
+“2. For the payment of debt charges on certain described bonds, notes or certificates of indebtedness of the subdivision issued subsequent to January 1st, 1925.”
+Current expenses must be secondary to levies to meet mandatory requirements, such as discharge of bonded indebtedness, interest thereon, and also compliance with orders of the state department of health issued under general state laws, which we hold to be mandatory. If current expenses of the municipality cannot be provided for within the 15-mill limitation, and provision also be made for payment of bonds required to be issued in order to comply with the orders of the state department of health, then the current expenses must yield and the municipality take advantage of Section 5625-15, General Code, as authorized by the provisions of the constitutional amendment, Section 2, Article XII, to secure funds for current expenses.
+That the Legislature may impose upon a municipality the performance of certain duties of a public nature, and require it either to raise moneys for that purpose or to devote to it revenues already on hand, is well recognized. . 19 Ruling Case Law, 767; Mc-Quillin on Municipal Corporations (2d Ed.), vol. 1, 665 et seq.; Cooley’s Constitutional Limitations (8th Ed.), vol. 1, 491.
+For the reason that the answer does not affirmatively show that the levy necessary to pay the bonds which must be issued to comply with the order of the state board of health in financing the construction of the sewage plant, together with the mandatory levies, would result in exceeding the limitations of the Constitution or of the General Code, the demurrer to the second, third and fourth defenses of the answer must be sustained.
+Demurrer to answer sustained.
+Marshall, C. J., Jones, Day, Allen, Kinkade and Stephenson, JJ., concur.
+Matthias, J., not participating.
