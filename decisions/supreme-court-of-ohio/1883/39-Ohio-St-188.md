@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1883-01"
-citations: ["39 Ohio St. 188", "39 Ohio St. 58"]
+decided_precision: "month"
+citations: ["39 Ohio St. 188"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The State v. Commissioners."]
 source_url: "https://static.case.law/ohio-st/39/cases/0188-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 914212
-cites_cases: ["1 Johns. Ch. 561", "13 N. H. 377", "16 Mass. 442", "19 Ohio St. 97", "21 Ohio St. 311", "32 Ohio St. 554", "36 Ohio St. 326", "36 Ohio St. 330", "36 Ohio St. 331", "55 Miss. 71", "6 Hill, 415", "7 Johns. Ch. 154", "88 Pa. St. 198"]
+cites_cases: ["19 Ohio St. 97", "21 Ohio St. 311", "36 Ohio St. 326", "36 Ohio St. 330", "36 Ohio St. 331"]
 ---
 
 # State v. Commissioners
