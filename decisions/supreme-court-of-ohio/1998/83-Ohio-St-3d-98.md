@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "96-463"
+decided: "1998-09-09"
+citations: ["83 Ohio St. 3d 98"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["[The State ex rel.] Howard, Appellee, v. Industrial Commission of Ohio et al„ Appellants."]
+source_url: "https://static.case.law/ohio-st-3d/83/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 554861
+cites_cases: ["696 N.E.2d 591", "82 Ohio St.3d 417", "88 Ohio St.3d 98"]
+---
+
+# State ex rel. Howard v. Industrial Commission
+
+## Majority
+
+The judgment of the court of appeals is reversed on the authority of State ex rel. Tapp v. Parsec, Inc. (1998), 82 Ohio St.3d 417, 696 N.E.2d 591, and the cause is remanded to the court of appeals.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
