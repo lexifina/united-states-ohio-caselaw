@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19632"
 decided: "1926-02-22"
-citations: ["4 Ohio Law Abs. 142", "4 Ohio Law Abs. 394", "4 Abs. 142", "4 Ohio Law Abs. 193"]
+citations: ["4 Ohio Law Abs. 142", "4 Ohio Law Abs. 193", "4 Abs. 142"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
