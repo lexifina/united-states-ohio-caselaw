@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-484"
+decided: "1995-05-17"
+citations: ["72 Ohio St. 3d 217"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur."]
+parties: ["Warman, Auditor, Appellant, v. Tracy, Tax Commr.; Mercy Memorial Hospital, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/72/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1737386
+cites_cases: ["140 Ohio St. 114", "2 O.O.3d 275", "20 O.O.3d 156", "23 O.O. 329", "357 N.E.2d 381", "42 N.E.2d 646", "420 N.E.2d 123", "48 Ohio St.2d 122", "66 Ohio St.2d 136"]
+---
+
+# Warman v. Tracy
+
+## Majority (Douglas, J.)
+
+Douglas, J.
+The BTA determined that the house owned by Mercy Memorial and used as a residence for nuns employed by the hospital is exempt from real property taxation. For the reasons that follow, we find that the decision of the BTA is neither unlawful nor unreasonable. Accordingly, we affirm the decision of the BTA.
+R.C. 5709.12(B) provides, in part:
+“Real and tangible personal property belonging to institutions that is used exclusively for charitable purposes shall be exempt from taxation.” (Emphasis added.)
+R.C. 5709.121 provides, in part:
+“Real property and tangible personal property belonging to a charitable or educational institution or to the state or a political subdivision, shall be considered as used exclusively for charitable or public purposes by such institution, the state, or political subdivision, if it meets one of the following requirements:
+U * * *
+“(B) It is made available under the direction or control of such institution, the state, or political subdivision for use in furtherance of or incidental to its charitable, educational, or public purposes and not with the view to profit.” (Emphasis added.)
+In Cincinnati Nature Ctr., supra, 48 Ohio St.2d 122, 125, 2 O.O.3d 275, 277, 357 N.E.2d 381, 383, this court determined that:
+“To fall within the terms of R.C. 5709.121, property must (1) be under the direction or control of a charitable institution or state or political subdivision, (2) be otherwise made available ‘for use in furtherance of or incidental to’ the institution’s ‘charitable * * * or public purposes,’ and (3) not be made available with a view to profit.”
+In the case at bar, there is no dispute that the property in question satisfies the first and third requirements for exemption outlined in Cincinnati Nature Ctr. The subject property is under the direction or control of Mercy Memorial, an eleemosynary institution, and is not maintained with a view to profit. However, appellant challenges the BTA’s finding that the subject property satisfies the second requirement of R.C. 5709.121(B), to wit, that the property is used in furtherance of or incidental to the hospital’s charitable purpose.
+A review of the record supports the BTA’s finding that the property at 911 Bon Air Drive is used in furtherance of or incidental to the hospital’s charitable purpose. Mercy Memorial is owned by the Sisters of Mercy and is a member of the Mercy Health System. The hospital’s amended articles of incorporation provide that “the corporation affirms that it exists and functions pursuant to the teachings, disciplines, and laws of the Roman Catholic Church, and that it will be guided by and proceed in accordance with such teachings, disciplines, and laws.” As a member of the Mercy Health System, the hospital is required to employ nuns that have been assigned to Mercy Memorial by the Sisters of Mercy provincialate. The hospital is also required to care for the Sisters of Mercy that have been assigned to the hospital facility and to provide housing accommodations for them.
+In the past, the nuns assigned to Mercy Memorial were housed in the hospital facility. As the hospital expanded, it became necessary for the hospital to provide the nuns with other housing accommodations. Thus, in 1985, Mercy Memorial purchased the home at 911 Bon Air Drive as a permanent residence for the nuns employed by the hospital.
+There are four nuns who occupy the subject property. Sister Edith is Director of Pastoral Care for Mercy Memorial. Sister Mary Berding is the Director of Mission. She is charged with the responsibility to educate the doctors and employees of the hospital concerning the values of the Sisters of Mercy and the Christian-oriented mission of the hospital. Sister Virginia, a registered nurse, is Director of Patient Relations. Sister Marie Lipps is in charge of visiting patients at the McAuley Center Nursing Home, a facility physically attached to the hospital. The nuns are on call twenty-four hours a day, every day of the year. They perform their duties in furtherance of the charitable mission of the hospital.
+R.C. 5709.121 provides for a property to be tax exempt when it is used by an institution in furtherance of the institution’s charitable purpose. Here, the property is provided for the use of nuns to facilitate the carrying out of their duties and vows as Sisters of Mercy and as part of the professional team operating Mercy Memorial. The hospital is required to employ the nuns and to provide adequate housing accommodations for them as an incident to the operation of the hospital. The use of the property as a residence for the nuns is necessary for the hospital to accomplish its mission as a member of the Mercy Health System. Under these circumstances, we find it difficult to envision a use of property that would be any more related or incidental to the hospital’s charitable purpose.
+Nevertheless, appellant contends that a tax exemption does not apply, since the residence at 911 Bon Air Drive is located one block from the hospital. Specifically, appellant cites Cincinnati Nature Ctr., supra, 48 Ohio St.2d 122, 2 O.O.3d 275, 357 N.E.2d 381, and Wellsville v. Kinney (1981), 66 Ohio St.2d 136, 20 O.O.3d 156, 420 N.E.2d 123, claiming that the fact that the residence is not on hospital grounds is a fact of “huge legal significance” in determining whether the property is exempt from taxation. We disagree.
+Again, the only significant question in this appeal is whether the residence is used in furtherance of or incidental to the hospital’s charitable purpose. We find that it is. Moreover, Cincinnati Nature Ctr. and Wellsville clearly do not require a denial of the exemption in this case. Despite appellant’s protestations, there is simply no requirement in R.C. 5709.12(B) or 5709.121(B) that a residence owned by a charitable institution and used in furtherance of the institution’s charitable purposes must be located on the main grounds of the institution to be exempt from taxation. Likewise, there is no requirement that charitable activity occur within the residential premises so long as the residence itself is used in furtherance of or incidental to the institution’s charitable purpose. Indeed, we believe that granting a tax exemption in the case at bar is consistent with our holding in Aultman Hosp. Assn. v. Evatt (1942), 140 Ohio St. 114, 23 O.O. 329, 42 N.E.2d 646, wherein this court recognized a tax exemption for property owned by a nonprofit hospital association even though the subject property was used exclusively to house nursing students and was located approximately two blocks from the hospital proper.
+For the foregoing reasons, we affirm the decision of the BTA.
+Decision affirmed.
+Moyer, C.J., Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
+. In Cincinnati Nature Ctr. Assn. v. Bd. of Tax Appeals (1976), 48 Ohio St.2d 122, 2 O.O.3d 275, 357 N.E.2d 381, syllabus, this court held that “[h]ouses located on the tax-exempt property of a nonprofit nature center which serve as residences for employees of the center and which are used ‘in furtherance of or incidental to its [the center’s] charitable, educational or public purposes and not with the view to profit’ are exempt from taxation under R.C. 5709.121.” Similarly, in Wellsville v. Kinney (1981), 66 Ohio St.2d 136, 20 O.O.3d 156, 420 N.E.2d 123, we upheld a tax exemption for city-owned property that was used as a private residence by a cemetery caretaker and that was located on public cemetery grounds.
