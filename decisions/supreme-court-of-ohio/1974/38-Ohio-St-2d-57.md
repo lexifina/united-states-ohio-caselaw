@@ -1,0 +1,54 @@
+---
+court: "Supreme Court of Ohio"
+docket: "73-787"
+decided: "1974-04-24"
+citations: ["38 Ohio St. 2d 57"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["0 ’Neill, C. J., Herbert, StebN, Celebrezke, W. Brown and P, Brown, JJ., concur."]
+parties: ["The State, ex rel. Goodyear Tire & Rubber Co., Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/38/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6692828
+cites_cases: ["121 Ohio St. 472", "122 Ohio St. 142", "138 Ohio St. 439", "142 Ohio St. 439", "15 Ohio St. 2d 203", "15 Ohio St. 2d 237", "168 Ohio St. 477"]
+---
+
+# State ex rel. Goodyear Tire & Rubber Co. v. Industrial Commission
+
+## Majority (CoRrigaN, J.)
+
+CoRrigaN, J.
+The problem in the present ease arises from the fact that appellee’s claim alleges two disabilities resulting from the original injury. The first disability was of a temporary nature and consisted of congestion and swelling in the anterior or front portion of claimant’s right eye. Subsequent to the discovery of this injury by claimant’s physician, a posterior eye condition developed, described variously as chorioretinitis, posterior uveitis or macular edema, which resulted in claimant’s loss of vision of the right eye. This loss of vision was not alleged in her complaint before the Court of Common Pleas, but the medical descriptions of claimant’s posterior eye condition were alleged. Likewise, testimony was presented at trial on the question of loss of vision and its causal relationship to the injury. Clearly, two causal relationships resulting from the original injury were alleged before the Court of Common Pleas. The jury’s verdict found that claimant had a right to compensation for her right-eye injury.
+In view of the fact that the question of loss of vision was presented to the jury, both in the medical descriptions in claimant’s petition and in the testimony at trial, we cannot conclude, as appellant alleges, that the claimant eliminated this disability as an issue in the Court of Common Pleas.
+Further, the record before the Court of Common Pleas discloses that evidence upon the question of the causal relationship between claimant’s loss of vision and her right-eye injury was presented to the jury for its consideration, together with other issues raised by the pleadings. In fact, the denial of causal relationship was the basis for the commission’s refusal to hear an appeal in the first instance. The issue of the existence of the causal relationship between claimant’s injury and subsequent loss of vision was clearly in dispute.
+The jury, as required by R. C. 4123.519, found only that the claimant had a “right to participate under the Workmen’s Compensation Act for her right eye injury.” This is a decision as to the jurisdictional right of the claimant to participate in the Workmen’s Compensation Fund. It also expresses a determination as to the existence of the required causal relationship between the claimed disability or disabilities and the alleged injury necessary to invoke the commission’s jurisdiction. State, ex rel. Brecount, v. Procter & Gamble Co. (1957), 168 Ohio St. 477; State, ex rel. Kauffman, v. Indus. Comm. (1929), 121 Ohio St. 472.
+The Brecount and Kauffman decisions set out the issues requiring a determination by the jury.
+• Paragraph one of the syllabus in Brecount states:
+<<* * # q^e only issue for the jury to determine in. such a case is whether there is a causal connection between the claimed disability and the injury and', accordingly, whether the plaintiff is entitled to participate in the State Insurance Fund.”
+Paragraph one of the syllabus in Kauffman states:
+. “By virtue of Section 1465-90, General Code [R. C. 4123.51, repealed and incorporated into R. C. 4123.511 to 4123.519, following creation of the Bureau of Workmen’s Compensation in 1955], in cases heard on appeal to a Common Pleas- Court from the Industrial Commission,, the jury may only find whether or not the claimant is entitled to participate in the Workmen’s Compensation Fund, and the court may only pronounce judgment whether the claimant is entitled to participate in the Workmen’s Compensation Fund and to be paid in the manner provided by the Workmen’s Compensation law.”
+Clearly, the jury in the Court of Common Pleas acted in accordance with those mandates.
+Subsequently, the claim was certified to the Industrial Commission, pursuant to R. C. 4123.519.
+' The .authority of the commission upon certification is set forth in R. C. 4123.519, which, in pertinent part, reads:
+“If the finding of the court or the verdict of the jury is in favor of the claimant’s right to participate in the fund, the commission and the administrator shall thereafter proceed in the matter of the claim as if such judgment were the decision of the commission, subject to the power of modification provided by Section 4123,52 of the Revised-Code.”
+Paragraph two of the syllabus hi.Brecount states:
+“In the event plaintiff’s right to participate is established in snch case, the Industrial Commission has exclusive jurisdiction to determine, under the Workmen’s Compensation Act, the extent of such participation. (State, ex rel. Kauffman, v. Industrial Commission, 121 Ohio St. 472, and Fisher Body Co. v. Cheflo, 122 Ohio St. 142, approved and followed.) ”
+Likewise, paragraph two of the syllabus in Kauffman mandates:
+“A verdict and judgment so entered and certified to the Industrial Commission do not impose upon the Industrial Commission a duty to pay compensation to any particular future date or for any particular extent of disability ; it becomes the duty of the commission upon receiving such certificate to recognize the verdict and judgment as awarding some disability and to proceed to inquire the extent of such disability.”
+Clearly, upon certification of a judgment by the Court of Common Pleas, following resolution of the jurisdictional issues, the Industrial Commission has authority only to proceed with a determination as to the extent of disability, and such determination is nonappealable.
+In the present case, the administrator approved the payment of temporary total disability for the period of August 14, 1967, to September 9, 1967. Additionally, the order stated:
+“The administrator further finds that as a result of the instant injury, the claimant has suffered the complete loss of vision of the right eye. In compliance with Section 4123.57 of the Revised Code, it is ordered the claimant receive an award under Paragraph ‘C’ to compensate for the complete loss of sight of the right eye. # * *”
+Upon appeal, the regional board of review vacated the administrator’s order and ordered that claimant’s motion be denied.'
+The commission reversed the order of the board of review and affirmed the administrator’s order, stating:
+“Claimant’s appeal filed on August 1, 1972, is granted. The commission finds that claimant on the basis of a judgment entry in her appeal to the Common Pleas Court, involving a decision in the captioned claim, was awarded compensation for total loss of vision of the right eye as a result of the injury of August 23, 1967. The commission is advised that claimant has been awarded compensation by the employer for total loss of vision, therefore, this order affirms the action carried out by the employer based on the administrator’s finding. The order of the Columbus Regional Board of Review, dated July 24, 1972, is reversed.”
+The commission’s order is confusing in that it can he read to imply that the Court of Common Pleas awarded compensation for total loss of vision. This is clearly incorrect. The order can also be read to imply that the administrator awarded compensation for total loss of vision upon the basis of a judgment entry in claimant’s appeal to the Court of Common Pleas. This is also incorrect. The language in the order states only that the “ * * * commission finds that claimant * * * was awarded compensation for total loss of vision * * The only authority the commission had upon certification was to determine the extent of disability. The administrator’s order made such a finding. The commission affirmed the action of the employer in paying compensation based upon the administrator’s finding. Such action is consonant with the statutory authority of the commission.
+Mandamus will not lie to control the discretion vested in the Industrial Commission as long as its discretion is exercised soundly and within legal bounds. Copperweld Steel Co. v. Indus. Comm. (1944), 142 Ohio St. 439. Further, mandamus will not lie unless there has been a gross abuse of discretion. State, ex rel. Thompson, v. Indus. Comm. (1941), 138 Ohio St. 439.
+It has also been stated by this court that, where there is substantial evidence to support a finding by the Industrial Commission on a question of fact, the court cannot, as an essential basis for allowing a writ of mandamus, substitute its finding on that question of fact, State, ex rel. Szekely, v. Indus. Comm. (1968), 15 Ohio St. 2d 237. Where, however, there is no evidence to support an order and all the evidence in the record is contrary to the commission’s order, the commission has abused its authority.
+In the instant case, the record indicates that there is no dispute that claimant has suffered a total loss of vision in her right eye. Appellant’s allegation as to the commission ’s abuse of discretion is based upon the lack of medical evidence in the record establishing a probable causal relationship between claimant’s injury and loss of vision. Such allegation, however, challenges that the judgment of the Court of Common Pleas was against the weight of the evidence, since the causal relationship was determined by that court. If appellant had desired to challenge the judgment of the Court of Common Pleas by way of appeal, it could have done so.
+Further, this court has stated that, before a writ of mandamus may issue, there must be a clear legal duty on respondent to act. State, ex rel. Marshall, v. Keller (1968), 15 Ohio St. 2d 203.
+In the instant case, the Industrial Commission was under no legal duty to determine the issue of causal relationship, nor did it do so.
+Since there is no evidence in the record indicating an abuse of discretion by the commission, and there being no legal duty upon the commission to consider the causal relationship between claimant’s injury and total loss of vision upon certification by the Court of Common Pleas, mandamus will not lie.
+The judgment of the Court of Appeals, denying the writ of mandamus, is affirmed.
+Judgment affirmed.
+0 ’Neill, C. J., Herbert, StebN, Celebrezke, W. Brown and P, Brown, JJ., concur.
