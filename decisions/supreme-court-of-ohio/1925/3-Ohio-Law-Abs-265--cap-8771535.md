@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "16159"
 decided: "1925-04-21"
-citations: ["3 Ohio Law Abs. 265", "3 Ohio Law Abs. 266"]
+citations: ["3 Ohio Law Abs. 265"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
