@@ -1,0 +1,54 @@
+---
+court: "Supreme Court of Ohio"
+docket: "98-2435 and 98-2444"
+decided: "2000-01-19"
+citations: ["87 Ohio St. 3d 517"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, Pfeifer and Lundberg Stratton, JJ., concur.", "Douglas, J., concurs separately.", "Cook, J., dissents."]
+parties: ["Hillabrand, Appellant, v. Drypers Corporation, Appellee, et al."]
+source_url: "https://static.case.law/ohio-st-3d/87/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 176382
+cites_cases: ["1997 WL 459983", "1998 WL 401158", "1998 WL 668201", "22 OBR 133", "22 Ohio St.3d 99", "488 N.E.2d 881", "620 N.E.2d 935", "647 N.E.2d 1361", "684 N.E.2d 319", "712 N.E.2d 729", "72 Ohio St.3d 124", "80 Ohio St.3d 46", "86 Ohio App.3d 279", "86 Ohio St.3d 151"]
+---
+
+# Hillabrand v. Drypers Corp.
+
+## Majority (Francis E. Sweeney, Sr., J.)
+
+Francis E. Sweeney, Sr., J.
+Hillabrand argues in this case that the trial court prematurely granted appellee’s Civ.R. 37 motion for sanctions, dismissing his case with prejudice, without allowing him sufficient time to contest the motion. We agree and therefore reverse the judgment of the court of appeals.
+Civ.R. 41(B)(1) permits a trial court to dismiss an action for failure to comply with a court order, but only after notice to plaintiffs counsel. This court has held that a dismissal with prejudice is proper only “when counsel has been informed that dismissal is a possibility and has had a reasonable opportunity to defend against dismissal.” (Emphasis added.) Quonset Hut, Inc. v. Ford Motor Co. (1997), 80 Ohio St.3d 46, 684 N.E.2d 319, syllabus. “[T]he notice requirement of Civ.R. 41(B)(1) applies to all dismissals with prejudice, including those entered pursuant to Civ.R. 37(B)(2)(c) for failure to comply with discovery orders.” (Emphasis sic.) Ohio Furniture Co. v. Mindala (1986), 22 Ohio St.3d 99, 101, 22 OBR 133, 135, 488 N.E.2d 881, 883; Sazima v. Chalko (1999), 86 Ohio St.3d 151, 712 N.E.2d 729. “The purpose of notice is to ‘provide the party in default an opportunity to explain the default or to correct it, or to explain why the case should not be dismissed with prejudice.’ ” Logsdon v. Nichols (1995), 72 Ohio St.3d 124, 128, 647 N.E.2d 1361, 1365, quoting McCormac, Ohio Civil Rules Practice (2 Ed.1992) 357, Section 13.07.
+Hillabrand argues that the trial court erred'when it ruled on appellee’s motion for sanctions prior to the time specified in Civ.R. 6(D) and without allowing him the opportunity to file a written response. Civ.R. 6(D), as well as Civ.R. 7(B)(2), regulate the time frame for submitting and responding to motions. Civ.R. 6(D) states:
+“Time: motions. A written motion, other than one which may be heard ex parte, and notice of the hearing thereof shall be served not later than seven days before the time fixed for the hearing, unless a different period is fixed by these rules or by order of the court.”
+Civ.R. 7(B)(2) gives a trial court the authority to enact a local rule of court modifying the seven-day period between the filing and hearing of a motion under Civ.R. 6(D). The rule also gives the trial court the authority to hear motions without an oral hearing. McGlone v. Grimshaw (1993), 86 Ohio App.3d 279, 283-284, 620 N.E.2d 935, 937-938. The rule states that “[t]o expedite its business, the court may make provision by rule or order for the submission and determination of motions without oral hearing upon brief written statements or reasons in support and opposition.”
+In this case, there was a local rule modifying the time to respond to motions. Loc.R. 3.6 of the Court of Common Pleas of Marion County states the following regarding motions:
+“3.6 All Other Motions.
+“All other motions \i.e., motions other than those for summary judgment or for a continuance] will be decided without oral hearing unless oral argument is requested and determined necessary by the Court.
+“3.6.1 The moving party shall file a brief supporting memorandum containing the authorities relied upon and any other documents supported by affidavit required or appropriate to support the motion.
+“3.6.2 Each party opposing the motion shall file a written response within fourteen (If days after receipt of the motion.” (Emphasis added.)
+Both Quonset and Mindala involved situations where the parties had an opportunity to file a responsive motion to the request for sanctions before dismissal was granted. However, unlike the plaintiffs in Mindala and Quonset, Hillabrand did not even have an opportunity to file a written response to defend against dismissal before the judge granted appellee’s motion. The trial court in this case granted appellee’s motion for sanctions just two days after it was filed, and on the same day that Hillabrand received the motion for sanctions from appellee. In a similar case, Cook v. Harris (May 18, 1998), Stark App. No. 1997CA00411, unreported, 1998 WL 401158, the Fifth District Court of Appeals held that the trial court abused its discretion under Quonset and Mindala when it dismissed the plaintiffs case only four days after a motion to dismiss was filed, without regard to a local rule allowing a party fourteen days to respond. See, also, Noles v. Bennett (Sept. 30, 1998), Lorain App. No. 97CA006988, unreported, 1998 WL 668201 (immediate dismissal for failure to appear at pretrial conference). A “reasonable opportunity to defend against dismissal” under Quonset contemplates that a trial court allow the party opposing dismissal the opportunity to respond at least within the time frame allowed by thé procedural rules of the court.
+Accordingly, the judgment of the court of appeals is reversed, and the cause is remanded to the trial court for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Moyer, C.J., Douglas, Resnick, Pfeifer and Lundberg Stratton, JJ., concur.
+Douglas, J., concurs separately.
+Cook, J., dissents.
+. Not only did the trial court prematurely grant appellee’s motion for sanctions, it also failed to allow Hillabrand sufficient time to respond to appellee’s initial motion to compel discovery, granting it the day after it was filed. Furthermore, we are not persuaded by appellee’s argument that Hillabrand had sufficient opportunity to explain his inaction after the motion to compel discovery was granted and thus failed to protect his rights. Regardless of the fact that Hillabrand could have taken additional steps to explain his noncompliance after the motion to compel discovery was granted, this does not excuse the trial court from disregarding Hillabrand’s right to respond under the Ohio Rules of Civil Procedure.
+
+## Concurrence (Douglas, J.,)
+
+Douglas, J.,
+concurring. I concur with the well-reasoned opinion of the majority. I write separately to point out that this case is about Civ.R. 41(B)(1) and, not surprisingly, the dissent does not even mention the rule or its wording— and for good reason. In part, the rule states that a court may, “after notice to the plaintiffs counsel, dismiss an action or claim.” This court ruled on the “notice” provision in Logsdon v. Nichols (1995), 72 Ohio St.3d 124, 647 N.E.2d 1361. That case ended any confusion until our decision in Quonset Hut, Inc. v. Ford Motor Co. (1997), 80 Ohio St.3d 46, 684 N.E.2d 319, which once again clouded the issue. In agreeing with the majority herein, I continue to adhere to the teachings of Logsdon and to my dissent in Quonset Hut. See id. at 49-51, 684 N.E.2d at 322-324.
+
+## Dissent (Cook, J.,)
+
+Cook, J.,
+dissenting. Because I believe that Hillabrand received a reasonable opportunity to defend against dismissal, I respectfully dissent.
+As the majority recognizes, a dismissal with prejudice is proper only “when counsel has been informed that dismissal is a possibility and has had a reasonable opportunity to defend against dismissal.” Quonset Hut, Inc. v. Ford Motor Co. (1997), 80 Ohio St.3d 46, 684 N.E.2d 319, syllabus. Although the majority determines that Hillabrand was deprived of the opportunity to defend, I am convinced that the events surrounding the dismissal compel the opposite conclusion.
+The trial court’s February 18 order gave Hillabrand approximately two weeks to produce the requested interrogatory information or risk sanctions, including dismissal. At that point Hillabrand knew that dismissal was a possibility and had two weeks to comply or respond with an explanation as to why compliance was not possible and/or dismissal was inappropriate. Although he chose to do nothing, this time frame provided him with more than an adequate opportunity “ ‘to explain the default or to correct it, or to explain why the case should not be dismissed with prejudice.’ ” Logsdon v. Nichols (1995), 72 Ohio St.3d 124, 128, 647 N.E.2d 1361, 1365, quoting McCormac, Ohio Civil Rules Practice (2 Ed.1992) 357, Section 13.07.
+Despite this two-week period, the majority focuses upon the fact that the case was dismissed before the applicable response time for motions. See Civ.R. 7(B)(2) and Loc.R. 3.6 of the Court of Common Pleas of Marion County. Specifically, the majority concludes that a “ ‘reasonable opportunity to defend against dismissal’ under Quonset contemplates that a trial court allow the party opposing dismissal the opportunity to respond at least within the time frame allowed by the procedural rules of the court.”
+The filing of the motion to dismiss, however, ought to have no effect upon the determination of whether Hillabrand received a reasonable opportunity to defend against dismissal. That motion, after all, was not necessary to the proper dismissal of this case. The trial court had already ordered Hillabrand to comply with the discovery request, stating explicitly that failure to comply within the allotted time period could result in dismissal. Consequently, the court could have properly dismissed this case sua sponte when that time period elapsed without response. Civ.R. 37(B); see, e.g:, Bratton v. E. Ohio Gas Co. (Aug. 6, 1997), Summit App. No. 18137, unreported, 1997 WL 459983.
+Although the trial court chose to dismiss the case following Drypers’s motion rather than sua sponte, that fact is of no significance to the analysis. To conclude that the motion to dismiss enlarged the time period for response to the trial court’s order allows the response time for the dismissal motion to override the time frame given in the trial court’s order. Regardless of Drypers’s motion, the fact remains that Hillabrand ignored an explicit court directive to respond within a set time. After that period had elapsed without response, dismissal was absolutely appropriate and the mere filing of a motion to dismiss should not afford Hillabrand additional time to respond.
+Based upon the foregoing, I would affirm the appellate court’s decision.
