@@ -1,0 +1,52 @@
+---
+court: "Supreme Court of Ohio"
+docket: "69-465"
+decided: "1970-12-16"
+citations: ["24 Ohio St. 2d 123"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Corrigan and Leach, JJ., concur.", "Schneider, Herbert and Duncan, JJ., dissent.", "Schneider and Duncan, JJ., concur in the foregoing dissenting opinion."]
+parties: ["Krupp, Appellant, v. Poor et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/24/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1790786
+cites_cases: ["112 Ohio St. 667", "12 N. J. 152", "120 Ohio St. 154", "128 Ohio St. 535", "130 Ohio St. 530", "131 Ohio St. 319", "137 Ohio St. 168", "165 N. E. 730", "191 N. E. 757", "200 N. E. 762", "28 N. E. 2d 503", "3 N. E. 2d 39", "91 A. 2d 65", "96 A. 2d 63"]
+---
+
+# Krupp v. Poor
+
+## Majority (Stern, J.)
+
+Stern, J.
+The issue presented is whether the trial court properly exercised judicial discretion in preventing inquiry of prospective jurors concerning their own or their immediate family members’ connection with, interest in, or relationship to a casualty insurance company in an assault and battery case in which defense counsel informed the court prior to this examination out of the presence and hearing of the prospective jurors that one defendant was uninsured and that the other defendant was insured?
+“The purpose of the examination of a prospective juror upon his voir dire is to determine whether he has both the statutory qualification of a juror and is free from bias or prejudice for or against either litigant.” Paragraph one of the syllabus of Pavilonis v. Valentine (1929), 120 Ohio St. 154. See, also, paragraph one of the syllabus of Vega v. Evans (1934), 128 Ohio St. 535, and paragraph one of the syllabus of Dowd-Feder v. Truesdell (1936), 130 Ohio St. 530. Moreover, the voir dire examination serves as the foundation upon which an intelligent exercise of the litigants’ right to peremptory challenge may be made. Pavilonis v. Valentine, supra, and Dowd-Feder v. Truesdell, supra.
+To achieve that purpose, reasonable latitude must be given to counsel on the voir dire examination. Questions will vary with the issues, the circumstances and the parties involved in the case. The questions propounded in voir dire examination must be asked in good faith, and this involves a question of fact for determination by the trial judge.
+‘ ‘ The scope of the inquiry will not be confined strictly to the subjects which constitute grounds for the sustaining of a challenge for cause; but if it extends beyond such subjects it must be conducted in good faith with the object of obtaining a fair and impartial jury and must not go so far beyond the parties and the issues directly involved that it is likely to create a bias, a prejudice, or an unfair attitude toward any litigant.” Paragraph two of the syllabus of Vega v. Evans, supra.
+“It is neither wise nor desirable for this court to prescribe the specific form such interrogatories are to take, or the manner of their presentation. That is a matter wholly for the trial court to determine in the exercise of its sound discretion and in the light of all the facts and surrounding circumstances.” Dowd-Feder v. Truesdell, supra, 535.
+In exercising this discretion with regard to the standard insurance questions, the trial court is confronted “* * * with the problem of granting plaintiff in a personal injury case reasonable safeguards against obtaining a jury composed of men and women having insurance connections or interests and of relieving defendant from possible prejudice which interrogation concerning the jury’s interests may tend to provoke.” Dowd-Feder v. Truesdell, supra, 531.
+Numerous attempts have been made by this and other courts to define judicial discretion. State v. Ferranto (1925), 112 Ohio St. 667; 27 Corpus Juris Secundum, 292. In State v. Winne (1952), 21 N. J. Sup. 180, 207, 91 A. 2d 65 (reversed on other grounds 12 N. J. 152, 96 A. 2d 63), the court stated:
+“Judicial discretion is the option which a judge may-exercise between the doing and not doing of a thing which cannot be demanded as an absolute legal right, guided by the spirit, principles and analogies of the law, and founded upon the reason and conscience of the judge, to a just result in the light of the particular circumstances of the case.”
+The trial court properly exercised its discretion under the facts of this case. It is obvious that any question asked of prospective jurors, as to their connection with or interest in a casualty insurance company may suggest to them that the defendant is insured by a liability insurance company. As stated in Vega v. Evans, supra, 541:
+“# * # £he injection of the insurance company into the case by innuendo creates the assumption on the part of the jurors that the insurance company has been paid to indemnify the injured plaintiff for Ms loss, and that it is attempting to escape such liability.”
+UMike previous cases arising in this state in wMch the propriety of the standard insurance questions has been raised, tMs case involves personal injuries resulting from a claim of an intentional tort rather than from negligence such as an auto accident. “It is a matter of common knowledge that automobile owners rather generally carry casualty insurance, and that jurors rather generally own automobiles # * #.” Pavilonis v. Valentine, supra, 159. Confronted by an assault and battery action, however, jurors would not necessarily expect the defendant to be insured. Therefore, the mere mention of casualty insurance during voir dire examination could have a much greater prejudicial effect against the defendant, especially in a case such as this where one defendant is uninsured.
+How was the plaintiff prejudiced by denying him the opportunity to ask these questions? The trial court furnished to both counsel the responses to questionnaires presented to all the jurors. The present employment of the jurors and fheib spouses was indicated in these questionnaires, and counsel for the plaintiff was free to propound questions regarding past employment. Moreover, the special verdict pertaining to whether defendant Poor was an agent of defendant Fullerton was answered favorably to the plaintiff. Finally, the special verdict as to defendant Poor having committed an assault and battery upon plaintiff was answered by the jury favorably to the defendants.
+Even if one were to assume that the denial of the right to ask the proffered questions, haec verba, was erroneous and thus constituted an abuse of discretion on the part of the trial court, there has been no showing or even any claim that any of the members of the jury which actually tried the case, or any of the members of their immediate families had any connections whatsoever with any casualty insurance company. Furthermore, the nature of the jurors’ employment, sought to be elicited by question number one, was obtained in voir dire. No attempt was made in voir dire to simply inquire as to the nature of the employment of members of the jurors’ immediate families, but instead it is insisted that the order of the court as to proposed question number two automatically results in prejudice.
+As to questions number three and four, no attempt was made to merely inquire as to whether the juror or any members of his immediate family had any ownership or interest in any company. Had such inquiry been made and answered in the affirmative, a follow-up question as to the nature of the company would have become proper.
+The basic purpose of all questions on voir dire is to insure to the litigants a fair and impartial jury. No claim is made herein that the jury was other than fair and impartial.
+To order a new trial, under such circumstances, and even assuming that the proffered questions were proper, would be to equate a trial with a game rather than a procedure for ascertaining truth and determining justice.
+Considering the conflicting interests of the parties in the light of the facts in this case, the trial court did not abuse its discretion. The judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+O’Neill, C. J., Corrigan and Leach, JJ., concur.
+Schneider, Herbert and Duncan, JJ., dissent.
+
+## Dissent (Herbert, J.,)
+
+Herbert, J.,
+dissenting. Prom 1929 to 1936, this court appraised and reappraised the complicated and highly controversial struggle represented by the case at bar. Pavilonis v. Valentine (1929), 120 Ohio St. 154, 165 N. E. 730; Vega v. Evans (1934), 128 Ohio St. 535, 191 N. E. 757; Dowd-Feder v. Truesdell (1936), 130 Ohio St. 530, 200 N. E. 762. Although this judicial churning may have been regrettable at the time, Chief Justice Weygandt noted in his concurrence with Dowd-Feder, supra, that “possibly this pronouncement of the court may mark the adoption of a rule of sufficient permanency and practicality to be of some value to the bench and bar of the state in the solution of this seemingly interminable controversy.”
+The court reaffirmed its position on the question in Morrow v. Hume (1936), 131 Ohio St. 319, 3 N. E. 2d 39; and in Petro v. Donner (1940), 137 Ohio St. 168, 176, 28 N. E. 2d 503, we sustained the granting of a new trial because a juror falsely answered the question: “Have you done any work for any automobile liability insurance company that insures motorists?”
+Dozens of lower court decisions over the last 34 years have stabilized a thorough and accepted settlement in this controversy.
+As I view the decision of the majority in this case, it represents the unfortunate commencement of a new era of unnecessary uncertainty for litigants, courts and prospective jurors. The proper and ethical testing of the limits of today’s announcement by astute trial counsel should be a foregone conclusion.
+It is true that the majority reaffirms the important test of good faith, but it a]so goes far beyond that point. The questions held to be improper in this case were considerably less explicit than those found to be free from error in Pavilonis, Dowd-Feder and Petro, supra.
+In the case at bar, the trial court either did or did not adhere to the letter or spirit of the Pavilonis, Dowd-Feder and Morrow decisions. That is the question before us and, in my opinion, that is the question we should answer.
+Schneider and Duncan, JJ., concur in the foregoing dissenting opinion.
