@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1884-01"
+citations: ["41 Ohio St. 298"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Franc v. Nirdlinger."]
+source_url: "https://static.case.law/ohio-st/41/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 919361
+cites_cases: ["39 Ohio St., 614"]
+---
+
+# Franc v. Nirdlinger
+
+## Majority (Granger, C. J.)
+
+Granger, C. J.
+The motion for judgment on the pleadings was properly overruled. Lovell v. Woodworth, 39 Ohio St., 614. By treating the new facts in the answer as denied, Franc waived his right, if any he had, to call for judgment in default of a reply.
+The question raised upon the action of the trial court touching the charge to the jury calls for an examination of the Act of March 30th, 1871, (68 Ohio L., 48.) (Section 3109 Revised Stats, is substantially the same.) It reads thus: “Any personal property belonging to any woman at her marriage, or which may have come to her during coverture * * shall be and remain her separate property, and under her sole control, and shall not be liable to be taken by any process of law for the debts of her husband. This act shall not affect the title of any husband to any personal property reduced to his possession with the express assent of his wife; provided that said personal property shall not be deemed to have been reduced to possession by the husband by his use, occupancy, care, or protection thereof, but the same shall remain her separate property, unless by the terms of said assent, full authority shall have been given by the wife to the husband to sell, encumber or otherwise dispose of the same for his own use and benefit.”
+It is not necessary that the assent of the wife shall be established by evidence proving words spoken or written by her. If it be clearly proved that the wife was called to act upon a definite proposal that she should consent to her husband’s reduction to possession of a specific article, or part, of her separate property, for Ms own use and benefit, and that she did act affirmatively upon that proposal, the assent is express within the obvious meaning of this statute. Pollock’s Principles of Contract, 28, and cases cited; 1 Story on Contract, sec. 14, Alexander v. Vane, 1 M. & W., 511. If legal evidence established that Nirdlinger said, in substance, to his wife “ Franc has paid my debts, I owe him more than the amount of your La Porte draft; I have told him I would get that draft for him as a payment on my debt. If you consent to this write your name on the back of the draft and give it me. I will then pay it to him on my debt: ” that she then, without saying a word, got the draft — wrote her name on its back and handed it to him; and he, with her knowledge, handed it to Franc as a payment on said debt, her express assent under this act would have been shown. “ Yes ” may be, substantially said by the wife, although neither her lips nor tongue be used. An affirmative nod of the head in response to a. question, saj^s “yes ” to what is asked as effectually as if the words were spoken. In the case just supposed the getting of the draft, the indorsement, the delivery, and the omission to recall either, although the wife knew that the husband was on his way to use her draft in paying his debt, unmistakably expressed her assent to it all. But under the evidence in the case before us the mere indorsement and delivery of the draft by Mrs. Nirdlinger did not constitute the assent required by the statute. It was a consent that he might collect the money, but not that he might do so “ for his own use and benefit.”
+When Franc presented his request for the charge herein-before quoted, there was no evidence in the case on which he could rightfully claim that the jury should find that Mrs. Nirdlinger had any knowledge of her husband’s promise to Franc, or_ that she indorsed and delivered the draft in response to any request for her consent to its application on his debt. If there had been evidence tending to prove that her consent had been asked and that, in response to such asking, she had indorsed and delivered the draft and permitted its transfer to Franc, it would have been the duty of the court to tell the jury that if she had so acted, she thereby fully divested herself of all property in the draft and that the defendant wouíd in such case be entitled to a verdict. But, as the case was, the refusal to charge as requested was right. The instruction actually given, and hereinbefore quoted, was pertinent to the evidence and, as we think, gave to defendants the full benefit of the law' applicable to the case made. As a reviewing court looking only at a record, and seeing no witness, we cannot adjudge that the verdict was not supported by the evidence.
+Judgment affirmed.
