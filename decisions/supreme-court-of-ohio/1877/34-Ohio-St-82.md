@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1877-12"
+citations: ["34 Ohio St. 82"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hamilton v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-st/34/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 904811
+cites_cases: ["11 Ohio St. 114", "14 Ohio St. 55", "17 Ill. 453", "17 Ohio St. 242", "18 Ohio, 221", "18 Ohio, 318", "20 Ohio St. 460", "32 Mich. 484", "4 Denio, 431", "6 Allen, 406", "97 Mass. 405"]
+---
+
+# Hamilton v. State
+
+## Majority (Okey, J.)
+
+Okey, J.
+1. Burke’s ease, ante, 79, is decisive as to the .■sufficiency of the indictment. There the objection that the indictment contained no averment of the incorporation of the injured party, was not taken, as in this case, by motion to quash, but the decision was placed on grounds which require us to sustain such an indictment, in whatever form •that objection may be made.
+2. If the court entertained the opinion that the testimony of Steinberger, as to the truth and veracity of Murphy, was incompetent for the reason that Murphy had then been confined in the penitentiary for more than two years, "that opinion was erroneous. Possibly some objection might have been made to the weight of the evidence, as it related to a period more than two years before the witness was called to testify. But there is a general principle that when a condition of things is once shown to exist, it is presumed to continue until the contrary is shown; and that principle would seem to be peculiarly applicable in this case. It is claimed that Hamilton proposed to show Murphy’s reputation for truth and veracity down to the time he was sent to the penitentiary for a robbery, and that he was still a convict. In that penal institution, where silence is enforced, it is difficult to see .how that reputation could materially change. To be sure, penitentiaries are erected with a twofold object — first, to protect .■society; and, secondly, to reform criminals; and confinement is, furthermore, punishment to the convict. But it is painful truth that the second object is; in many cases, .never attained. While confinement in the penitentiary does not necessarily affect the convict’s reputation for truth —as, for instance, where the conviction is for manslaughter —there is certainly no presumption that a man who, at the time of his conviction for a robbery, has a tarnished reputation for truth, improves in that particular during his confinement. On the contrary, the former state of things is presumed to continue; and we see no reason why it was not ¡competent, in this case, to show what Murphy’s reputation was, in that particular, prior to his conviction.
+"We are of opinion, however, that the objection to this; ruling is not presented in snch form as to be available to-Hamilton. There is no statement in the record that he proposed or expected to prove that the reputation of Murphy for truth and veracity was bad. We may believe that such was his object, but that is not sufficient. The rule on the subject was thus strongly but correctly stated by Gholson, J., in Gandolfo v. The State, 11 Ohio St. 114-116: “ It is incumbent on those who insist upon the right to put particular questions to a witness, to establish that right beyond any reasonable doubt, for the very purpose stated by them. The Philadelphia and Trenton Railroad Co. v. Stimpson, 14 Peters, 448-460; Bain v. W. & F. Junction R. Co., 3 H. L. Cas. 1—16.” It does not clearly appear that Hamilton was injured by the ruling.
+3. In permitting the counsel for the state to cross-examine-the witness Hafner, for the purpose of eliciting the fact that indictments were pending against him, there would have been no error, if the inquiry had been limited to that fact. Wroe v. The State, 20 Ohio St. 460. But the inquiry was not so confined. The question was, whether the witness was not indicted for burglary and larceny jointly with the defendant. The defendant might have offered evidence as to his general character, but he did not do so. Until lie-offers such evidence, the prosecution is not permitted, to offer testimony on that subject. Griffin v. Ihe State, 14 Ohio St. 55-63. A fortiori, the state, under such circumstances, can not' offer evidence of particular facts for the-purpose of affecting character. Barton v. The State, 18 Ohio, 221; Reg. v. Rowton, Leigh & Cave, C. C. 520; s. c., 10 Cox C. C. 25. And the better opinion is that the state-can not prove particular facts, for such purpose, even in-rebuttal. 1 Wharton’s Or. L., § 637; 1 Wharton’s Ev.,.. § 49. For error of the court in permitting evidence that other indictments were pending against Hamilton, the-judgment will be reversed, and the cause remanded to the. court below for a new trial.
+Judgm.ent reversed.
