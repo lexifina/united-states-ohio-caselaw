@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "00-1238"
+decided: "2001-02-07"
+citations: ["91 Ohio St. 3d 46"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Pfeifer and Cook, JJ., concur.", "Resnick, F.E. Sweeney and Lundberg Stratton, JJ., dissent.", "Resnick and F.E. Sweeney, JJ., concur in the foregoing dissenting opinion."]
+parties: ["The State ex rel. Sharif, Appellee, v. McDonnell, Judge, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/91/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1149949
+cites_cases: ["11 OBR 1", "11 Ohio St.3d 1", "13 O.O.3d 17", "2000 WL 1231480", "391 N.E.2d 343", "462 N.E.2d 410", "575 N.E.2d 219", "59 Ohio St.2d 29", "61 Ohio St.3d 1431", "613 N.E.2d 232", "647 N.E.2d 792", "66 Ohio St.3d 440", "72 Ohio St.3d 98"]
+---
+
+# State ex rel. Sharif v. McDonnell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Abdul K. Sharif, appellee, was convicted of murder on June 15, 1989, in Cuyahoga County Common Pleas Court. The Court of Appeals for Cuyahoga County affirmed this judgment on March 18, 1991, State v. Sharif, Cuyahoga App. No. 30260, unreported, and we overruled a motion for leave to appeal this decision on August 7, 1991, 61 Ohio St.3d 1431, 575 N.E.2d 219.
+Sharif filed a petition for postconviction relief on August 11, 1999, and Judge Nancy R. McDonnell, appellant, to whom the case was assigned, dismissed the petition summarily on August 18, 1999, apparently because Sharif had not timely filed the petition. On September 16, 1999, Judge McDonnell denied Sharifs motion for findings of fact and conclusions of law. Sharif appealed the dismissal of his petition to the court of appeals, and that court, on April 3, 2000, ordered, sua sponte: “[T]he appeal is dismissed pursuant to R.C. 2953.21. Once the trial court issues findings of fact and conclusions of law, appellant may file an appeal.” Judge McDonnell did not issue any findings of fact or conclusions of law.
+Sharif then filed a petition for writ of mandamus in the Court of Appeals for Cuyahoga County seeking to compel Judge McDonnell to issue findings of fact and conclusions of law according to the court of appeals’ order. The same panel of the court of appeals that dismissed the appeal in the postconviction-relief matter granted the requested writ.
+The court of appeals, in granting the writ, first noted that R.C. 2953.21 did not appear to require Judge McDonnell to issue findings of fact and conclusions law because Sharif had not timely filed his petition. The court, nevertheless, ruled that the law-of-the-case doctrine required Judge McDonnell to issue these findings and conclusions. According to the court of appeals, under this doctrine, its order on the dismissal of the petition for postconviction relief was the law of that case on the legal questions involved for all subsequent proceedings in the case. This same panel has since ruled, in State ex rel. Jackson v. Cuyahoga Cty. Court of Common Pleas (Aug. 31, 2000), Cuyahoga App. No. 77999, unreported, 2000 WL 1231480, that a trial court has no duty to issue findings of fact and conclusions of law on an untimely filed petition for postconviction relief.
+This cause is now before the court upon an appeal as of right.
+We do not decide whether a trial court must issue findings of fact and conclusions of law when a petitioner untimely files his petition for postconviction relief. But we hold that under the law-of-the-case doctrine, Judge McDonnell must issue findings of fact and conclusions of law in this case because the court of appeals’ order that she issue findings and conclusions is the law for all subsequent proceedings in this case. Thus, we affirm the judgment of the court of appeals.
+Sixteen years ago, in Nolan v. Nolan (1984), 11 Ohio St.3d 1, 11 OBR 1, 462 N.E.2d 410, we explained the law-of-the-case doctrine, which we set forth in the syllabus:
+“Absent extraordinary circumstances, such as an intervening decision by the Supreme Court, an inferior court has no discretion to disregard the mandate of a superior court in a prior appeal in the same case. (State ex rel. Potain v. Mathews [1979], 59 Ohio St.2d 29, 32 [13 O.O.3d 17, 18-19, 391 N.E.2d 343, 345], approved and followed.)”
+We explained that, under this doctrine, a reviewing court’s decision was the law in the reviewed case for all legal questions and for all subsequent proceedings in the case. We observed that “the rule is necessary to ensure consistency of results in a case, to avoid endless litigation by settling the issues, and to preserve the structure of superior and inferior courts as designed by the Ohio Constitution.” As it operates, “the doctrine functions to compel trial courts to follow the mandates of reviewing courts.” 11 Ohio St.3d at 3, 11 OBR at 2-3, 462 N.E.2d at 412-113.
+In State ex rel. Potain v. Mathews, the decision that Nolan approved and followed, decided five years earlier, the court ruled that a trial court must “follow the mandate, whether correct or incorrect, of the Court of Appeals. A lower court has no discretion, absent extraordinary circumstances, to disregard the mandate of a superior court in a prior appeal in the same case.” (Emphasis added.) 59 Ohio St.2d at 32, 13 O.O.3d at 18, 391 N.E.2d at 345.
+Consequently, Judge McDonnell had to comply with the court of appeals’ order to issue findings of fact and conclusions of law. Mandamus, moreover, is an appropriate remedy to enforce the law-of-the-case doctrine. Potain; State ex rel. Heck v. Kessler (1995), 72 Ohio St.3d 98, 100, 647 N.E.2d 792, 795. Further, as we noted, the same appellate panel issued the order on the petition for postconviction relief and the decision on this writ of mandamus. This panel is in the best position to state the import of its order on the appeal of the dismissal of the petition for postconviction relief.
+Judge McDonnell argues that R.C. 2953.21 through 2953.23 do not entitle Sharif to findings of fact and conclusions of law. She argues, further, that granting him this writ provides him a benefit that no one else receives. According to Judge McDonnell, this application of the law-of-the-case doctrine achieves an unjust result, an outcome against which Nolan cautions. We disagree.
+We have not yet decided whether a petitioner who files an untimely petition for postconviction relief need not receive findings of fact and conclusions of law if the trial court dismisses the petition. Thus, this question does not have a definitive answer. We do not conclude that an unjust result occurs if the critical question in the reviewed case is still in dispute.
+Accordingly, we affirm the judgment of the court of appeals.
+Judgment affirmed.
+Moyer, C.J., Douglas, Pfeifer and Cook, JJ., concur.
+Resnick, F.E. Sweeney and Lundberg Stratton, JJ., dissent.
+
+## Dissent (Lundberg Stratton, J.,)
+
+Lundberg Stratton, J.,
+dissenting. I respectfully dissent for two reasons. First, I disagree with the majority’s conclusion that the law-of-the-case doctrine compelled the trial judge to render findings of fact and conclusions of law regarding the dismissal of petitioner’s postconviction-relief petition. The April 3, 2000 order of the court of appeals stated: “[T]he appeal is dismissed pursuant to R.C. 2953.21. Once the trial court issues findings of fact and conclusions of law, appellant may file an appeal.” In my view, this order did not mandate the trial judge to issue findings of fact and conclusions of law. Instead, the order merely instructed the petitioner when it would be proper to file his appeal, ie., that it would be proper to file an appeal only when the trial court rendered findings of fact and conclusions of law. Because the law-of-the-case doctrine only requires a lower court to follow a mandate of a reviewing court, and this was not a mandate, the law-of-the-case doctrine does not apply to these facts.
+Abdul K. Sharif, pro se.
+William D. Mason, Cuyahoga County Prosecuting Attorney, and Randi Marie Ostry, Assistant Prosecuting Attorney, for appellant.
+Second, I find it especially troubling that the majority decides not to decide whether a trial court must issue findings of fact and conclusions of law when a petitioner untimely files his or her petition for postconviction relief. I believe that this issue was properly presented on appeal. The court of appeals acknowledged that the trial judge did not have a legal duty to issue findings of fact and conclusions of law when dismissing an untimely petition. If we require judges to render findings on untimely appeals, the time limits become meaningless. Thus, petitioner clearly was not entitled to a writ of mandamus. See State ex rel. Manson v. Morris (1993), 66 Ohio St.3d 440, 613 N.E.2d 232 (to be entitled to a writ of mandamus, a relator must establish [1] that he or she has a clear legal right to the relief prayed for, [2] that respondents are under a clear legal duty to perform the act, and [3] that relator has no plain and adequate remedy in the ordinary course of law). Therefore, I would hold that the petitioner did not have a right to findings of fact and conclusions of law on his untimely petition.
+Moreover, the majority’s decision achieves an unjust result by providing petitioner with a benefit that no other defendant in Ohio receives, namely, findings of fact and conclusions of law in an untimely petition for postconviction relief. Accordingly, I dissent and would reverse the judgment of the court of appeals.
+Resnick and F.E. Sweeney, JJ., concur in the foregoing dissenting opinion.
