@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "12899"
+decided: "1912-05-28"
+citations: ["86 Ohio St. 353"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, C. J., Shauck and Donahue, JJ., concur."]
+parties: ["The City of Akron et al. v. Rentschler et al."]
+source_url: "https://static.case.law/ohio-st/86/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 985256
+---
+
+# City of Akron v. Rentschler
+
+## Majority
+
+Judgment affirmed.
+Davis, C. J., Shauck and Donahue, JJ., concur.
