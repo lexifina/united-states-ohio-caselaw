@@ -1,0 +1,73 @@
+---
+court: "Supreme Court of Ohio"
+docket: "91-1240"
+decided: "1992-03-11"
+citations: ["63 Ohio St. 3d 190"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur."]
+parties: ["The State, ex rel. Taft, Secy, of State, et al., v. Court of Common Pleas of Franklin County et al."]
+source_url: "https://static.case.law/ohio-st-3d/63/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1714669
+cites_cases: ["1 OBR 166", "1 Ohio St.3d 129", "11 Ohio St.2d 128", "14 O.O.3d 441", "228 N.E.2d 320", "24 Ohio St.2d 74", "263 N.E.2d 568", "285 N.E.2d 22", "30 Ohio St.2d 326", "332 N.E.2d 79", "39 Ohio App.3d 183", "398 N.E.2d 777", "40 O.O.2d 129", "43 Ohio App.2d 18", "438 N.E.2d 434", "51 Ohio App.3d 1", "53 O.O.2d 158", "530 N.E.2d 928", "553 N.E.2d 1371", "572 N.E.2d 1387", "59 O.O.2d 387", "60 Ohio St.2d 188", "60 Ohio St.3d 40", "72 O.O.2d 162"]
+---
+
+# State ex rel. Taft v. Court of Common Pleas
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+For the following reasons, we deny the writ.
+I
+Supplemental Complaint
+Civ.R. 15(E) states:
+“Supplemental pleadings. Upon motion of a party the court may, upon reasonable notice and upon such terms as are just, permit him to serve a supplemental pleading setting forth transactions or occurrences or events which have happened since the date of the pleading sought to be supplemented. Permission may be granted even though the original pleading is defective in its statement of a claim for relief or defense. If the court deems it advisable that the adverse party plead to the supplemental pleading, it shall so order, specifying the time therefor.”
+Relators’ supplemental complaint adds the allegation that respondent judge announced his decision in the underlying action on July 11, 1991, after the filing of the original complaint in this case on June 19, 1991. This is relevant, though not determinative. Although respondents oppose the supplemental complaint, their motion for judgment on the pleadings is based on the fact that respondent judge has entered his decision. Moreover, the fact of the decision is acknowledged in the agreed statement of facts.
+Respondents have also filed an answer to the supplemental complaint. Taking into account all these facts, we grant the motion to supplement the complaint, finding this just and reasonable, as required by Civ.R. 15(E).
+II
+Motion to Strike
+Respondents have moved to strike additional evidence submitted by relators. The additional evidence involves matters that have taken place before the Ohio Elections Commission. Respondents assert that these matters are irrelevant to the question of whether respondent judge had authority to proceed with the declaratory judgment action in the common pleas court. The evidence is not totally irrelevant to setting the factual background to this case, but the exhibits are not properly authenticated under Evid.R. 902(4), which requires copies of public documents to be “certified as correct by the custodian or other person authorized to make the certification.” The exhibits herein are not certified. Accordingly, respondents’ motion to strike is well taken and it is hereby granted. See Seringetti Constr. Co. v. Cincinnati (1988), 51 Ohio App.3d 1, 553 N.E.2d 1371.
+Ill
+Motions for Judgment on the Pleadings
+Relators argue that whenever a special statutory proceeding would be bypassed, a court lacks jurisdiction to hear an action for declaratory judgment. They cite State, ex rel. Iris Sales Co., v. Voinovich (1975), 43 Ohio App.2d 18, 72 O.O.2d 162, 332 N.E.2d 79; Arbor Health Care Co. v. Jackson (1987), 39 Ohio App.3d 183, 530 N.E.2d 928; and State, ex rel. Albright, v. Delaware Cty. Court of Common Pleas (1991), 60 Ohio St.3d 40, 572 N.E.2d 1387.
+Iris involved a class action in which a group of taxpayers sought a declaration that county officers had created a discriminatory real-property-tax classification. Affirming dismissals by the trial court, the court of appeals held that although a declaratory judgment may be obtained even when another adequate remedy exists, “where a special statutory method for the determination of a particular type of case has been provided, it is not proper to by-pass this statutory procedure by means of a declaratory judgment action. * * * ” (Citations omitted.) Iris, supra, 43 Ohio App.2d at 19, 72 O.O.2d at 163, 332 N.E.2d at 80-81.
+The Iris court stated that if that declaratory judgment action were to go forward, it would bypass a statutory adjudication procedure for hearing valuation complaints before the county board of revision, with appeal to the Board of Tax Appeals.
+Arbor also held that when an adjudicatory hearing would be bypassed, a declaratory judgment could not be had:
+“A declaratory judgment is a remedy in addition to other legal and equitable remedies and is to be granted where the court finds that speedy relief is necessary to the preservation of rights which might otherwise be impaired. Where, however, a specialized statutory remedy is available in the form of an adjudicatory hearing, a suit seeking declaration of rights which would bypass, rather than supplement, the legislative scheme ordinarily should not be allowed.” Arbor, supra, at paragraph two of the syllabus.
+Albright is similar. There, we held that annexation procedure was a special statutory proceeding that could not be bypassed by declaratory judgment. We also stated that the statutes conferred exclusive jurisdiction of the proceedings on the board of county commissioners of the county where the proposed annexation would take place, or on the county where more of the qualified voters reside. The case held for the first time, however, that prohibition would lie to prevent a declaratory judgment action in this context.
+Accordingly, we must inquire whether relators have special statutory jurisdiction over the election matters that precludes respondent judge from hearing the issues raised in the declaratory judgment action.
+As stated in its motion for summary judgment in the underlying action, OFRI asked respondents to declare that:
+“1) Advocating any view concerning the reapportionment and redistricting of Ohio’s state and congressional legislative Districts is a subject matter outside the domain of the R.C. 3599.03 prohibition against corporate contributions. Such advocacy is not partisan political activity under Ohio’s election laws since it does not exhort the election of any identified candidate over his/her opponent (i.e., it is not express advocacy); and
+“2) Advocating any view concerning the reapportionment and redistricting of Ohio’s state and congressional legislative districts could not constitute direct or indirect influence of an election or support of a political party under Ohio’s political action committee (‘PAC’) laws since such advocacy does not exhort the election of any identified candidate over his/her opponent (i.e., it is not express advocacy).
+“3) If R.C. 3599.03 and the Ohio PAG laws apply to corporations or other groups (TAGS’) advocating a view on reapportionment and redistricting, the statutes are unconstitutionally vague and overbroad since they do not put people of ordinary intelligence on notice that advocating a view on reapportionment or redistricting is a crime;
+“4) If R.C. 3599.03 and Ohio’s PAC laws apply to corporations or other groups (PACS) advocating a view on reapportionment and redistricting, the statutes impermissibly burden First Amendment rights of speech and association and the right to petition the government.”
+Respondent judge granted the motion for summary judgment, stating:
+“ * * * [T]he Court declares that Plaintiff’s corporate activities are beyond the scope of 3599.03 R.C. and related sections of Chapter [sic] 35 of the Revised Code.”
+The decision did not reach the constitutional issues raised by OFRI. The apparent effect of the decision is to declare that OFRI is not a political action committee.
+R.C. 3517.15(B), 3599.09, 3599.091, and 3599.092 grant the commission jurisdiction to hear complaints alleging violations of R.C. 3517.08 through 3517.13, 3517.17, 3517.18, 3599.09, 3599.091, and 3599.092, which set forth election-law crimes. The complaint and affidavit filed before the commission alleged that OFRI had violated R.C. 3599.03, 3517.10, 3517.13(G), 3599.09, and 3599.091. The commission admits it has no jurisdiction over violations of R.C. 3599.03. Therefore, the only impediment to respondent judge’s hearing a declaratory judgment action concerning R.C. 3599.03 is the Secretary of State’s claim of exclusive jurisdiction under R.C. 3501.05.
+In his request for the Secretary of State to investigate OFRI under R.C. 3501.05, the same complainant who raised the above issues before the commission alleged that OFRI had violated R.C. 3599.03(A) and 3517.10.
+R.C. 3501.05 states:
+“The secretary of state shall:
+(t * * *
+“(N) Investigate the administration of election laws, frauds, and irregularities in elections in any county, and report violations of election laws to the attorney general or prosecuting attorney, or both, for prosecution * *
+This general obligation of the Secretary of State to investigate and report violations of the election laws imposes no specific adjudicatory procedure, does not even grant quasi-judicial authority, and is thus not comparable to the special statutory proceedings in Iris, Arbor, and Albright. It commands an administrative act — an investigation — not an adjudicatory proceeding. Thus, relator Secretary of State’s authority does not preclude an action in declaratory judgment. Moreover, since neither relator has exclusive authority over alleged violations of R.C. 3599.03, we hold that respondent judge had authority to hear a declaratory judgment action concerning OFRI’s rights under R.C. 3599.03 under the declaratory judgment statutes, R.C. Chapter 2721.
+A different analysis is required for alleged violations of sections within the commission’s jurisdiction, over which respondent judge also exercised jurisdiction.
+R.C. 3517.01(B)(8) defines “political action committee” as:
+“ * * * a combination of two or more persons the primary or incidental purpose of which is to support or oppose any candidate, political party, or issue, or to influence the result of any election, and that is neither a political party nor a campaign committee.”
+This section is not directly within the jurisdiction of the commission, which, as stated above, is limited to R.C. 3517.08 through 3517.13, 3517.17, 3517.18, 3599.09, 3599.091, and 3599.092. Some of these sections define election crimes involving political action committees. In the action before the commission, OFRI is accused of violating R.C. 3517.10, 3517.13(G), 3599.09, and 3599.091. These sections are within the commission’s jurisdiction and apply to political action committees. We conclude that the commission’s jurisdiction implicitly extends to declaring whether an organization is a political action committee in order to determine whether election violations of these statutes have occurred.
+When the commission has jurisdiction under R.C. 3517.15 and 3599.09, it must, upon finding a violation, do only one of three things: (1) impose a civil fine established under R.C. 3517.991, (2) refer the matter to the appropriate prosecuting attorney, or (3) enter a finding why there is not good cause to take either of these actions. Jurisdiction under R.C. 3599.091 is similar, except that that section omits choice (3) above. Imposition of civil fines is appealable under the Administrative Procedure Act. Under R.C. 3517.991, civil fines may not exceed the statutory criminal fines for the same violations.
+In Peltz v. South Euclid (1967), 11 Ohio St.2d 128, 40 O.O.2d 129, 228 N.E.2d 320, paragraph one of the syllabus, we held that a person has standing to bring a declaratory judgment action concerning criminal municipal ordinances without first having had to violate the ordinances. Pack v. Cleveland (1982), 1 Ohio St.3d 129, 1 OBR 166, 438 N.E.2d 434, paragraph one of the syllabus, extended this holding to state criminal statutes. We see no reason why Peltz and Pack should not apply with equal force to prosecutions before the commission that may result in civil fines just as severe as criminal fines for the same offenses, or may result in criminal prosecution after the hearing before the commission via referral for prosecution by the commission.
+Accordingly, we hold that the adjudication proceedings of the commission are not the same type of proceedings held exclusive in Iris, Arbor, and Albright. They are quasi-criminal and expose a potential violator to criminal penalties or sanctions that may be as severe as criminal penalties. Far from precluding declaratory judgment in such circumstances, Peltz and Pack suggest that such an action is highly appropriate. Accordingly, relators’ motion for judgment on the pleadings is overruled.
+Respondents also ask for judgment on the pleadings solely on the basis that respondent judge has already decided the case. They cite State, ex rel. Flannery, v. Sidwell (1970), 24 Ohio St.2d 74, 53 O.O.2d 158, 263 N.E.2d 568, where we held that a writ of prohibition will not issue to review an accomplished act. However, after Flannery, we held in State, ex rel. Adams, v. Gusweiler (1972), 30 Ohio St.2d 326, 59 O.O.2d 387, 285 N.E.2d 22, that a writ may sometimes issue to arrest a continuing order, where a court totally lacks jurisdiction. Therefore, we also overrule respondents’ motion for judgment on the pleadings.
+IV
+
+## On the merits
+
+On the Merits
+Although both motions for judgment on the pleadings have been overruled, what has already been said decides the case on the merits. Relators have failed to prove that respondent judge’s assumption of power is “clearly unauthorized by law.”
+Accordingly, since respondent judge has statutory authority under R.C. Chapter 2721 to issue declaratory judgments, the writ is denied.
+Writ denied.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.
+. For a writ of prohibition to issue, relators must establish that (1) respondents are “ * * * about to exercise judicial or quasi-judicial power, (2) the exercise of such power must be clearly unauthorized by law, and (3) it must appear that the refusal of the writ would result in injury for which there is no adequate remedy in the ordinary course of law.” State, ex rel. Celebrezze, v. Butler Cty. Common Pleas Court (1979), 60 Ohio St.2d 188, 189, 14 O.O.3d 441, 398 N.E.2d 777, 778.
