@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1834-04"
-citations: ["1 Wright 492", "1 Ohio Ch. 492", "1 Wright 491", "1 Ohio Ch. 491"]
+decided_precision: "month"
+citations: ["1 Wright 492", "1 Ohio Ch. 492"]
 reporter: "wright"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
