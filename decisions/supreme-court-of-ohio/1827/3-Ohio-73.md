@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1827-12"
+citations: ["3 Ohio 73"]
+reporter: "ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Jacob Burnet v. The Corporation of Cincinnati."]
+source_url: "https://static.case.law/ohio/3/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 211599
+cites_cases: ["15 Johns. 538", "16 Johns. 50", "2 Johns. Ch. 162", "2 Johns. Ch. 463", "2 Johns. Ch. 471", "2 Ohio, 495", "20 Johns. 430", "20 Johns. 432", "20 Johns. 438", "4 Johns. Ch. 26", "4 Johns. Ch. 352", "4 Johns. Ch. 53", "5 Bin. 26", "6 Johns. Ch. 30", "6 Johns. Ch. 31", "9 Wheat. 738"]
+---
+
+# Burnet v. Corp. of Cincinnati
+
+## Majority (By the Court:)
+
+By the Court:
+The billin this ease, represents, that under a proceeding altogether illegal and void, but nevertheless under legal color, the defendants-are about to sell a part of the real estate of the complainant, and prays the interference of the *court, in the exercise of its chancery powers, to restrain them by injunction. The demurrer, and the argument in support of it, admit the truth of the allegations, and deny that this court can aid the party. If this be a tenable position, it results that public officers, having authority t® operate upon the property of their fellow-citizens, must be permitted to proceed, however illegal, unjust, or oppressive their conduct may be. It follows, too, that the property of a citizen may be exposed to sale, under circumstances that render it impossible for the-parties to know whether a title can pass or not. Thus involving great hazard to all concerned, and perplexing th.e titles to real-estate, for no beneficial purpose to any person whatever. If such be the rule of the law, we-must so administer it. But nothing short of a series of repeated adjudications, would be sufficient to-demonstrate that the law is so settled.
+The authorities which have been referred to, do not lead to the-conclusion insisted upon by the defendants. They all proceed upon-the principle, that in very many cases, this court may interpose to-prevent mischief, and to protect individuals in the enjoyment of their rights. Whore aid has been decreed, it has always arisen-from the circumstances of the particular case. And the confusion and seeming contradictions in the eases, are occasioned by the dicta -of the judges, and not by any conflietion in the principle decided.
+In regard to real estate, it is well established that chancery may interpose by injunction, to prevent what is considered as destruction. But destruction in the sense used, does not mean annihilation. It means no more than that injury which greatly impairs its intrinsic value. In a city, the sale of part of a lot for assessments, may often be very destructive to the interest of the proprietor, though no title passed by such sale. A cloud would be cast upon the title, which litigation only could remove, and until removed, the }3roperty might be valueless to the owner, subject, too, during the period of litigation, to additional assessments and embarrassments.
+When an assessment of a tax is made, and its legality disputed, the uncertainty attendant upon the final result puts the estate upon which it operates in imminent jeopardy. If no title pass by a sale, the party has remedy at law. He *can defend his possession, but if title do pass, he is remediless altogether. A mode, therefore, of deciding the question before any right is affected, is safest for all parties. It was upon this ground, the court entertained jurisdiction in the case of the Bank of the United States v. Schultz, from which, in principle, this case is not distinguishable.
+The defendants concede that if a sale were made, this bill might be sustained under our statute. To sustain it now, is clearly within its letter. A claim is set up, not to enter in and enjoy under title, but to create a title under which another may so enter. Setting up a claim to dispose of the title, is “ setting up a claim thereto,” which are the terms employed in the statute. The case is clearly within the mischief intended to be remedied, as it is within the words of the law. The power to interpose, might be safely grounded upon the statute alone. But we think it stands upon the general principles that govern the court, with respect to injuries to which no other adequate remedy can be extended.
+Consequences that might ensue in respect to the collection of revenue, furnish no. reason why the court should not interpose. The application for an injunction is addressed to the sound discretion of the judge who allows it, and there is no reason to apprehend that it will be allowed upon trivial grounds. The case of the Bank of the United States v. Osborn and others, 9 Wheat. 738, is a case directly in point, of enjoining the collection of a tax. That case was most earnestly litigated, and yet the counsel who resisted the injunction did not attempt to maintain that the jurisdiction could not be sustained, on the ground that it interfered with the collection of the revenue.
+We overrule the demurrer, and send back the cause, at the suggestion of the defendants, for further proceedings.
