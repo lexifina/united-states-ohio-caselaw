@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2002-1116"
+decided: "2003-05-16"
+citations: ["99 Ohio St. 3d 32"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Pfeifer, Lundberg Stratton and O’Connor, JJ., concur.", "Resnick and F.E. Sweeney, JJ., dissent and would reverse the judgment of the court of appeals."]
+parties: ["The State ex rel. Hiatt, Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/99/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 149616
+cites_cases: ["12 OBR 63", "12 Ohio St.3d 72", "2003-Ohio-2453", "465 N.E.2d 433", "551 N.E.2d 1265", "707 N.E.2d 940", "85 Ohio St.3d 290"]
+---
+
+# State ex rel. Hiatt v. Industrial Commission
+
+## Majority (Cook, J.)
+
+Cook, J.
+{¶ 1} Decedent, James F.A. Knowles, applied for a normal service retirement from appellee Millenium Petrochemicals, Inc. in September 1985 at the age of 65. His retirement was to be effective three months later. Prior to this effective date, Knowles saw a physician complaining of “minimal respiratory difficulties.” The physician diagnosed asbestosis and opined that Knowles was 25 percent impaired. His only instructions were for Knowles to have a yearly pulmonary test as well as an annual vaccination against pneumonia and flu.
+{¶ 2} Knowles continued to work without problem and retired as planned. He did not work thereafter. Appellee Industrial Commission allowed an occupational disease claim for asbestosis in 1989, and specifically noted that Knowles had sustained no compensable lost time. A 1992 medical examination noted that Knowles was doing well, denying any shortness of breath, chest pain, fevers, chills, or hemoptysis. Chest x-rays, however, led the physician to suspect primary bronchogenic carcinoma and he recommended further testing. Knowles refused the further testing because he claimed to be “feeling well.” The physician’s suspicions unfortunately proved to be correct, and Knowles died from metastatic lung cancer four years later.
+{¶ 3} A district hearing officer allowed widow-claimant, appellant herein, the minimum death benefit payable for decedent’s year of death pursuant to R.C. 4123.59. A staff hearing officer affirmed this order.
+{¶ 4} Claimant appealed to the commission, seeking a death benefit increase to the AWW for the year prior to the diagnosis of asbestosis rather than the standard AWW for the year prior to the onset of disability. The commission disagreed with claimant, finding that this court’s newly released decision in State ex rel. Thompson v. Ohio Edison Co. (1999), 85 Ohio St.3d 290, 707 N.E.2d 940, supported awarding the statutory minimum. The commission reasoned that the minimum rate was proper under Thompson since decedent’s AWW for the year preceding the onset of disability was zero, given that decedent never suffered any disability due to his voluntary retirement.
+{¶ 5} The Tenth District Court of Appeals agreed and denied a writ of mandamus, prompting claimant’s appeal to this court as of right.
+{¶ 6} For dependents of those whose deaths were caused by industrial injury or occupational disease, weekly compensation is based on “sixty-six and two-thirds per cent of the average weekly wage * * * and not in any event less than a minimum of weekly compensation which is equal to fifty percent of the statewide average weekly wage” R.C. 4123.59(B). AWW, in turn, derives from “the decedent’s average weekly wage for the year preceding * * * the date the disability due to the occupational disease begins.” R.C. 4123.61.
+{¶ 7} Appellant generally claims that the commission should have found that decedent’s diagnosis date governed the award of death benefits and that decedent’s AWW should be calculated based upon earnings for the year prior to that date. This court has previously resisted, however, pegging a claimant’s disability date to the date of diagnosis, noting instead that disability is the inability to work. State ex rel. Preston v. Peabody Coal Co. (1984), 12 Ohio St.3d 72, 73-74, 12 OBR 63, 465 N.E.2d 433. Appellant reluctantly concedes — as she must — that her decedent had no legally cognizable date of disability.
+{¶ 8} The absence of any disability in this case did not leave the commission completely without guidance. Four years ago, this court considered this issue in State ex rel. Thompson v. Ohio Edison Co., 85 Ohio St.3d 290, 707 N.E.2d 940. Thompson is remarkably similar to this case. In each, the decedent took a normal service retirement unrelated to any health concerns and never worked thereafter. Years later, both were diagnosed with long-latency occupational diseases that ultimately claimed their lives. In both instances, the commission set the death compensation amount at fifty percent of the statewide average weekly wage for the year of death, i.e., the statutory maximum.
+{¶ 9} Thompson approved the commission’s award, using a two-step analysis. It first determined that the commission could deviate from R.C. 4123.61’s standard formula because “special circumstances” pursuant to that same statute indeed existed in that case. Id. at 292, 707 N.E.2d 940. The “special circumstances” were comprised of (1) the presence of a slow-onset occupational disease, (2) the fact that the standard calculation necessarily produced a zero AWW, and (3) the fact that decedent was never removed from work — i.e., disabled — by the occupational disease. From there, the next “more difficult” question was “whether ‘special circumstances’ notwithstanding, the AWW set by the commission is substantially just.” Id. The court answered affirmatively:
+{¶ 10} “AWW ‘ “is designed to find a fair basis for award for the loss of future compensation.” ’ (Emphasis added.) [State ex rel.] Wireman [v. Indus. Comm. (1990) ], 49 Ohio St.3d [286] at 287, 551 N.E.2d 1265. Here, when mesothelioma struck, the decedent had no future compensation to lose. He had withdrawn from the labor market without evidence of an intent to reenter.” Thompson at 292, 707 N.E.2d 940.
+{¶ 11} Appellant seeks to distinguish Thompson by arguing that her decedent — unlike Thompson — worked the year prior to diagnosis. While true, it is an irrelevant distinction, since date of diagnosis is not germane to compensation calculation. Accordingly, claimant’s assertions concerning lack of disability and character of disease merely echo those already discussed and discarded in Thompson and do not advance her cause.
+{¶ 12} Appellant also claims that the commission’s calculation penalizes dependents of those with long-latency occupational diseases by arguing the concepts of “zero AWW” and “zero compensation” interchangeably. But zero AWW does not translate into no compensation. R.C. 4123.59(B) specifically states that dependents of those killed by industrial causes must receive at least 50 percent of the statewide AWW. Moreover, since the purpose of workers’ compensation benefits is to replace future earnings, appellant’s pursuit of wages that her decedent long ago voluntarily relinquished by his retirement from the labor force for reasons unrelated to any industrial injury or occupational disease.
+{¶ 13} We agree with the decisions of both the commission and the court of appeals that Thompson dictates the result here.
+{¶ 14} The judgment of the court of appeals is hereby affirmed.
+Judgment affirmed.
+Moyer, C.J., Pfeifer, Lundberg Stratton and O’Connor, JJ., concur.
+Resnick and F.E. Sweeney, JJ., dissent and would reverse the judgment of the court of appeals.
+Stewart Jaffy & Associates Co., L.P.A., Stewart R. Jaffy, Marc J. Jaffy and Sue A. Fauber; Siebold & Hammelrath Co., L.P.A., and W. Smith Hammelrath, for appellant.
+Jim Petro, Attorney General, and William J. McDonald, Assistant Attorney General, for appellee Industrial Commission of Ohio.
+Dinsmore & Shohl, L.L.P., Gary E. Becker and Brian C. Thomas, for appellee Millenium Petrochemicals, Inc.
+. Claimant, at one point in her brief, claims that the commission’s 2/28/00 order established a date of disability. This is not true. It is clear that the commission simply inserted a claimant’s date of diagnosis into the wrong space. All prior commission orders reflect no compensable lost time — a concession noted by claimant regarding the 2/29/00 order.
