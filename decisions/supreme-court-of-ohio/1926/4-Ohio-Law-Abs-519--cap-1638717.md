@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19830"
 decided: "1926-05-19"
-citations: ["4 Ohio Law Abs. 519", "4 Ohio Law Abs. 338", "4 Ohio Law Abs. 456", "4 Abs. 338"]
+citations: ["4 Ohio Law Abs. 519"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
