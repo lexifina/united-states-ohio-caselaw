@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1877-12"
+citations: ["33 Ohio St. 186"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Truesdell v. Combs."]
+source_url: "https://static.case.law/ohio-st/33/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 903126
+cites_cases: ["11 Wend. 545", "19 Barb. 283", "19 Ohio St. 270", "2 Allen, 61", "2 Cush. 63", "2 Cush. 68", "21 Wend. 551", "4 Gray, 83", "5 Johns. 282", "7 Wall. 335", "7 Wall. 523", "7 Wend. 200", "9 Johns. 396", "9 Johns. 452", "9 Johns. 895"]
+---
+
+# Truesdell v. Combs
+
+## Majority (Scott, J.)
+
+Scott, J.
+By section 14 of the bill of rights, embodied in the constitution of this state, it is declared that “ the right of the people to be secure in their persons against unreasonable . . seizures shall not be violated; and no warrant shall issue but upon probable cause, supported by oath or affirmation,” etc.
+This safeguard against unreasonable seizures the legislature has undertaken to carry into effect, by prescribing the-conditions under which the power to issue process for the apprehension of alleged criminals maybe exercised by justices of the peace.
+The power is conferred and the conditions of its exercise are prescribed by sections 23 and 24 of the code of criminal procedure (66 Ohio L. 291), which are as follows :
+“ Sec. 23. The magistrates enumerated in the first sec-lion of this code shall have power to issue process for the apprehension of any person charged with a criminal offense, and to execute the powers and duties conferred in this title.
+“ Sec. 24. "Whenever a complaiut in writing and upon oath, signed by the complainant, shall be filed with the-magistrate, charging any person with the commission of an offense, it shall be the duty of such magistrate to issue a warrant for the arrest of the person accused, if he shall have reasonable grounds to believe that the offeuse has been committed.”
+In this case the written complaint made by Truesdell, and recited in the warrant issued by the justice, very clearly contained no charge of the commission of a criminal offense by any one. The acts charged to have been committed by Combs would, if truly stated, show him guilty of a bare trespass. If we suppose both the plaintiffs in error to have been honestly mistaken, yet their mistake was. one of law, not of fact. They were ignorant of the distinction between a mere trespass committed under a claim of right and larceny. By their testimony on the trial below, they both show that the acts complained of by Trues-dell w’ere fully stated by him to the justice before the complaint was drawn up by the latter, and they are correctly stated in the complaint. On such a state of facts, the justice had no authority to issue a warrant. His mistaken belief that the statute gave him power to issue a states warrant on such a complaint could not confer jurisdiction, nor legalize his usurpation of authority.
+It is true, that justices of the peace, while acting within the scope of their authority, as well as the judges of the higher courts, are not answerable in a private action for the erroneous exercise of the judicial functions with which they are invested by law. Such protection is essential to. the honest and independent administration of justice. Pratt v. Gardner, 2 Cush. 68; Yates v. Lansing, 5 Johns. 282 ; 9 Johns. 895 ; and authorities there cited.
+But, on the other hand, it would seem to be well settled that inferior tribunals, invested with special jurisdiction only, and persons clothed with limited authority, such as justices of the peace, must, at their peril, keep within their prescribed jurisdiction; and if they transcend the limits of their authority, they are answerable to any one whose rights are thereby invaded. And honesty of purpose, in such a case, while it may mitigate, damages, can not justify .a clear usurpation of powér. Clark v. May, 2 Cray, 410 ; Knowles v. Davis, 2 Allen, 61; Cohoon v. Speed, 2 Jones (Law), 133 ; Lawrenson v. Hill, 10 Tr. C. L. 177.
+If this view of the law be correct, it is clear that the second instruction asked to be given to the jury was properly refused. The question was as to the authority of the justice to issue the warrant for the arrest of Combs, under the oircumstances stated. The limits of his authority were defined by the statute, and could not be affected, either by his ignorance or his honesty.
+Whether the first instruction asked for was given or refused by the court below, does not very clearly appear from, the record. But, assuming it to have been refused, as is claimed by plaintiffs in error, we think such refusal was not error. Counsel thought by that instruction to have the jury pass upon a question of fact, not put in issue by the pleadings ; that is to say, whether Combs had in fact been guilty of stealing milk from Truesdell; and to have them instructed that if they found him guilty of such stealing, .-and if it was the intent to charge him with such stealing in the complaint, then the defendants would be entitled to .a verdict. We find no evidence, offered on the trial, tending to prove, a felonious intent on the part of Combs in .milking the cow, the ownership of which was in dispute between himself and Truesdell. There was no evidence tending to prove anything more culpable than was alleged in the complaint; and certainly none which would have warranted the finding contemplated by the instruction asked. The answer of defendants below had not alleged that Combs had in fact been guilty of stealing, but only that Truesdell when he made the complaint believed him to be thus guilty. Under these circumstances, the instruction asked could only .have misled the jury.
+Another ground of the motion for a new trial was error in the charge of the court. But as no part of the charge is found in the record, we must presume that it was in all •respects unexceptionable.
+A further ground of the motion for a new trial is that the verdict was against the weight of the evidence and the ’law of the case. We do not think this ground is sustained 'by the record, and conceive it to be unnecessary, on this .subject, to add anything to what has been already said.
+The only remaining ground of the motion is that the damages awarded by the jury were excessive.
+The case was not without circumstances of aggravation. The plaintiff below was kept under arrest for'some threp days ; procured his x-elease by the payment of twelve dollars ; was subjected among his neighbors to the humiliating charge of pettit lax-ceny ; and this chax’ge the plaintiffs in error, through their counsel, seem to have pei’sisted in xxxaking upon the trial in the coxxx’t below.
+If the jury fouixd this charge to be wholly unsupported 'by the evidence, as we think they well might, we can not say that their verdict for $150 was the result of anything •else than the exex’cise of their cool, dispassionate judgments.
+We find no exror in the overruling of the motion for a xxew tidal, and think the jxxdgmeixt of the common pleas was pi’operly affirmed by the district court.
+Judgment of the district court affirmed.
