@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+docket: "40465"
+decided: "1967-04-19"
+citations: ["10 Ohio St. 2d 90"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Zimmerman, Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur."]
+parties: ["Pennington, Appellee, v. Dudley, Admr., Bureau of Unemployment Compensation, et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-2d/10/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788173
+cites_cases: ["1 Ohio St. 2d 103", "131 N. E. 2d 390", "155 A. 2d 427", "155 N. E. 2d 202", "164 Ohio St. 275", "168 N. E. 2d 564", "168 Ohio St. 351", "171 Ohio St. 207", "205 N. E. 2d 13", "235 P. 2d 303", "258 Minn. 541", "270 App. Div. 124", "270 App. Div. 311", "3 Ohio App. 2d 314", "39 Wash. 2d 356", "82 A. 2d 64"]
+---
+
+# Pennington v. Dudley
+
+## Majority (Taut, C. J.)
+
+Taut, C. J.
+As its only reasons for reversing the decision of the Board of Review, the judgment entry of the Common Pleas Court states generally that the board’s decision is “unlawful, unreasonable and against the manifest weight of the evidence.” Especially since this court is not required to and does not generally weigh evidence, it is reasonably arguable that this judgment entry might interfere with our consideration of the legal questions argued by the parties. However, prior to signing that judgment entry, the trial judge filed a written “decision” specifying the reasons for the judgment of reversal. The reasons specified in the written “decision” do not conflict with the general grounds for reversal stated in the judgment entry. In such an instance, a reviewing court should consider the reasons so specified in determining what the trial court meant by the general grounds stated in its journal entry. See paragraph four of the syllabus of Andrews v. Board of Liquor Control (1955), 164 Ohio St. 275, 131 N. E. 2d 390; Akron v. Klein (1960), 171 Ohio St. 207, 211, 168 N. E. 2d 564; State v. Gilkerson (1965), 1 Ohio St. 2d 103, 104, 205 N. E. 2d 13. Thus, such a written “decision” filed by the trial court prior to a judgment entry may have an effect comparable to special findings under Section 2315.22, Revised Code.
+The written decision of the trial court reads in part:
+“# * # aft;er claimant had been notified by his foreman, he would be given a notice of a lay-off effective in two weeks, and before the expiration of that time he was called to personnel and was offered a job with the same company as a flight line electrician with a base pay of $2.93 per hour, which, with benefits, would amount * * * [to] $3.12 per hour.
+“At the time of the offer he was receiving $3.49 [$3.63] per hour and apparently without any discussion, queries or explanation, he immediately refused the offer and continued in his then present job until the layoff came at the time stated by the foreman in his original notice.
+“In the meantime claimant did nothing further and not until after the separation did he make any inquiry through personnel or elsewhere as to whether the opening he had refused was still open.
+<<* # #
+“It is the claim of appellant that the refusal to accept the offered employment while he was still employed, and which employment was understood to be continued a few days longer, may not now be considered on the question as to whether he quit his work without just cause. ’ ’
+The “decision” of the trial court then refers to Leach, Admr., v. Board of Review, supra (3 Ohio App. 2d 314), as “holding that the offer of a job is immaterial unless the offer is made while the employee is not employed.” After criticizing that holding, the “decision” then states that it “must be followed” and states further:
+“Appellee seeks to avoid the effect of this decision by arguing that the offer made to appellant was a continuing offer.
+“The court can find nothing in the record to support this claim, and in view of the ruling in * * * Leach v. Board of Review, the court feels impelled to reverse the ruling appealed from and orders that appellant is entitled to unemployment benefits.”
+There is no other criticism in the “decision” of the trial court of the decision of the Board of Review. The board’s decision specifically found that the position of flight line electrician offered to Pennington was “suitable work” within the meaning of those words as used in Section 4141.29, Revised Code. Actually, some of the statements of the trial court’s “decision” that criticized the Leach case indicate the trial court’s approval of that finding.
+Pennington, by his contention that “the pay reduction was substantial,” contends that this position of flight line electrician was not suitable work within the meaning of Section 4141.29, Revised Code.
+Whether work is “suitable work” within the meaning of those words as used in Section 4141.29, Revised Code, will ordinarily be a question of fact for determination by the trier of the facts. In our opinion, the reduction in pay involved in the instant case, amounting to less than 15%, does not require the conclusion as a matter of law that the job offered to Pennington did not represent “suitable work” within the meaning of those statutory words. See Zanesville Rapid Transit, Inc., v. Bailey et al., Bureau of Unemployment Compensation (1958), 168 Ohio St. 351, 155 N. E. 2d 202; In re Anderson (1951), 39 Wash. 2d 356, 235 P. 2d 303; Glenn Alden Coal Co. v. Unemployment Compensation Board of Review (1951), 169 Pa. Sup. 356, 82 A. 2d 64; Hessler v. American Television & Radio Co. (1960), 258 Minn. 541, 104 N. W. 2d 876; Eckley, Unemployment Compensation Case (1959), 191 Pa. Sup. 93, 155 A. 2d 427; In re Medrick (1945), 270 App. Div. 124, 58 N. Y. Supp. 2d 493; In re Heater (1946), 270 App. Div. 311, 59 N. Y. Supp. 2d 793.
+This brings us to the question whether suitable work offered by an employer to his employee prior to the separation of the employee from work for the employer can be “suitable work” within the meaning of those words as used in Section 4141.29, Revised Code. Leach v. Board of Review, supra (3 Ohio App. 2d 314), held that it could not. In our opinion, the statutory language, relied upon by the Court of Appeals in so holding, does not require that holding.
+We see nothing in our statutes to indicate that one, who is employed but has been informed by his employer that he will be unemployed within a few days, should not be prevented from getting benefits if, to use the words of what is now Section 4141.29(D)(2)(b), Revised Code, he “has refused without good cause to accept an offer of suitable work when made by an employer,” and nothing to indicate that those words are to apply only when “made by an employer” other than his present employer.
+Claimant contends that he had not been given notice of his impending layoff or separation when he refused the offer of work as flight line electrician. However, the claimant’s testimony fully supports the finding that he had been given such notice prior to that time.
+Even if we follow the reasoning of the opinion in the Leach case, then, after Pennington started for home on the day of his separation from employment, he would be unemployed; and, if he had then been offered suitable work with North American by an authorized representative, his claim for benefits under the Unemployment Compensation Act would be barred by either (A) or (D) (2) (b) of Section 4141.29, Revised Code. We do not believe it would be reasonable to hold that such an offer of suitable work could never be effective merely because made before the actual separation.
+There may be instances where an offer of other work by an employer to an employee, who is about to be separated from employment, would not amount to suitable work within the meaning of Section 4141.29, Revised Code, or where such employee might have “good cause” within the meaning of that statute for refusing an offer of such work. It does not follow that such an offer may never amount to such suitable work or that such employee may always have good cause for refusing such offer of work.
+For the foregoing reasons, the judgment of the Court of Appeals, affirming the judgment of the Common Pleas Court, is reversed, and the decision of the Board of Review is affirmed.
+Judgment reversed.
+Zimmerman, Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur.
