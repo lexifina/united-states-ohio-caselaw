@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1871-12"
+citations: ["21 Ohio St. 596"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Welch, C. J., and Day, McIlvaine and West, JJ., concurred."]
+parties: ["Levi Jones v. Shadrack R. Timmons."]
+source_url: "https://static.case.law/ohio-st/21/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 885744
+cites_cases: ["1 J. J. Marsh. 405", "1 Ohio St. 222", "1 Ohio St. 25", "14 Ohio, 344", "19 Verm. 521", "2 Johns. Cas. 27", "3 Mon. 318", "3 Ohio St. 438", "3 Ohio, 264", "38 Verm. 64", "4 B. Mon. 85", "4 J. J. Marsh. 439", "4 Johns. Ch. 287", "4 Mon. 561", "4 Ohio St. 71", "4 Ohio, 205", "45 N. H. 313", "5 B. Mon. 326", "5 Dana, 122", "6 Mon. 561", "6 Ohio, 371", "6 Watts & Serg. 375", "8 Ohio, 41"]
+---
+
+# Jones v. Timmons
+
+## Majority (White, J.)
+
+White, J.
+Three grounds are mainly relied on to justify the reversal of the judgment of the court of common pleas ; and these are the only grounds we deem it necessary here to notice '.
+1. That the plaintiff upon his own hypothesis as to the facts is not entitled to recover.
+2. That the court erred in excluding the parol evidence offered to show that the defendant reserved the right to .the possession of the premises for one year after the delivery of the deed.
+3. That like error was committed in excluding the parol evidence offered to show that the defendant reserved the right to cut a sufficient number of trees to make the specified quantity of lumber.
+Neither of these objections, in our opinion, is well taken.
+In regard to the first, it is said the plaintiff cannot recover as in assumpsit for use and occupation, because the relation of landlord and tenant did not exist, the defendant’s possession being adverse; and, secondly, that he cannot recover as in trespass for mesne profits, because there has been no recovery in ejectment.
+Assuming the right of possession to be determinable by the deed, the plaintiff, on its delivery, acquired a clear right to the possession, which the defendant, by his deed, was es-topped from questioning.
+After the delivery of the deed the defendant refused to admit the plaintiff into possession. This gave the plaintiff the right to recover in ejectment; and, if he had doue so, he would, admitedly, have been entitled to recover the mesne profits. But as the plaintiff did not recover the premises by action, it is claimed there is no mode of recovering the rents and profits of which he was deprived. We do not so understand the law. The refusal of the defendant, against his own deed, to allow the plaintiff to take posses sion was equivalent to a disseizin. True, it was necessary, to enable the plaintiff to maintain an action for mesne profits, that he should have obtained possession ; but, as was said in Reid v. Stanley (6 Watts & Serg. 375), “it is a mistake tc say that it must necessarily be acquired by means of a recovery in ejectment: for if the plaintiff can show that he has the freehold, and is entitled to the possession, he may enter upon the lot without legal process of any description whatever ; and having thus acquired possession, may maintain the action in the same manner and to the same extent as he could have done had he been put in possession by reason of a recovery in ejectment.” See also Catting v. Cox, 19 Verm. 521; Adams on Eject. * pp. 388, ’9.
+There is another decisive answer to this objection: The deed contained both a covenant against incumbrances, and a covenant of warranty. By these covenants the defendant assured the plaintiff that the premises (with certain specified exceptions) were free of incumbrances, and that he would warrant and defend them to the plaintiff “ against all claim or claims of all persons whomsoever.” The defendant, by refusing to allow the plaintiff to enter and enjoy the premises conveyed, and by maintaining an adverse interest in himself, committed a breach of his covenant, for which he thereby gave the plaintiff a right of action.
+The covenants are set out in the petition, as well as the facts showing the breach. No objection was made to the form of the petition; and, under the code, it is immaterial what the form of action would have been at common law.
+What has been said as to the effect of the deed and its covenants, answers the second objection in regard to excluding parol evidence offered to show the reservation of a term in the premises to the grantor. The fact sought to be proved was in plain contradiction of the deed. This was not a case in equity for the 'reformation of the deed, or for the enforcement of a trust. The rights of the parties were defined by the deed and mortgage. Under the deed, with the exceptions therein named, the plaintiff as against the defendant was invested with the whole estate, which included the right to immediate possession. If a term for a year could be carved out by parol, so, also, might a term for any number of years, or any greater interest less than the whole; and, thus, the estate conveyed would be determinable, net by the deed, but by parol evidence.
+The third and last objection has reference to the exclusion of parol evidence offered to prove the reservation of a right by the grantor, notwithstanding the deed, to select and cut trees from the land to make a certain quantity of lumber. In considering this question, we do not deem it necessary to determine whether the agreement sought to be proved would come within the statute of frauds. On questions of this nature the authorities are quite conflicting. The principal cases are collected and analyzed in Ch. 12 of Brown’s Treatise on the Statute of Frauds. In § 254 the author says, “it is well settled that, if those crops which are fructus industriales growing on lands arc purchased with the land, and by one entire contract, they are considered as part of the land, and no recovery can be had upon a special valuation of the crops. It seems, therefore, that unless these crops are severed in law, when the contract is made, or to be severed in fact before the contract takes effect upon them, the contract must be bad without writing, by the fourth section. And the same is certainly true of the prima vestura.,J
+In this State it was held, in Baker v. Jordan, (3 Ohio St. 438,) that growing corn may be severed and reserved by parol, to the grantor, from the operation of a deed conveying the land whereon it grows; and this case was approved and followed in Youmans v. Caldwell et al. 4 Ohio St. 71.
+These cases, however, go no further than, to decide that crops may be reserved by parol, which are produced annually by labor and cultivation, such as wheat, corn, potatoes and the like.
+The principle in these cases seems to be to consider things which go to the administrator as assets, or are subject to levy as personal property, as severed from the realty, and thus withdrawn from the operation of the deed, where the parties in dealing, in respect to such property, have treated it as personalty.
+The trees now in question were the spontaneous growth of the land. They were not raised by labor for the purpose of trade, as in the case of trees grown in a" nursery. They would go to the heir, and not to the administrator; nor could they be levied on as personalty, even with the consent, of the owner of the land.
+To allow them to be excepted by parol evidence from the-operation of the deed, would be, we think, to recognize a dangerous innovation on the salutary and well established rule of evidence, that treats all parol negotiations and understandings of the parties, in regard to the subject matter of a written instrument, which are not reduced to writing, as abandoned.
+Judgment of the district court reversed, and that of the common pleas affirmed.
+Welch, C. J., and Day, McIlvaine and West, JJ., concurred.
