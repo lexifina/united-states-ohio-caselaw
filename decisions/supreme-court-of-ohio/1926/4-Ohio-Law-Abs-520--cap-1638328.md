@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19834"
 decided: "1926-05-21"
-citations: ["4 Ohio Law Abs. 520", "4 Ohio Law Abs. 868", "OS. Pend. 4 Abs. 520", "4 Abs. 338", "4 Ohio Law Abs. 338", "4 Ohio Law Abs. 456"]
+citations: ["4 Ohio Law Abs. 520"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
