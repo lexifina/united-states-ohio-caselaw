@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "88-136"
+decided: "1989-04-26"
+citations: ["42 Ohio St. 3d 113"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Douglas, Wright and Resnick, JJ., concur.", "Holmes, J., concurs in judgment only."]
+parties: ["Miller et al., Appellees, v. City of Dayton, Appellant, et al."]
+source_url: "https://static.case.law/ohio-st-3d/42/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1418208
+cites_cases: ["11 O.O. 3d 31", "28 OBR 165", "28 Ohio St. 3d 66", "36 Ohio St. 3d 60", "38 Ohio St. 3d 65", "384 N.E. 2d 1294", "40 Ohio St. 3d 141", "40 Ohio St. 3d 349", "42 Ohio St. 3d 109", "454 N.E. 2d 564", "459 N.E. 2d 873", "502 N.E. 2d 611", "521 N.E. 2d 793", "526 N.E. 2d 300", "532 N.E. 2d 722", "533 N.E. 2d 738", "537 N.E. 2d 1298", "57 Ohio App. 2d 33", "7 OBR 142", "7 Ohio App. 3d 110", "9 OBR 508", "9 Ohio St. 3d 194"]
+---
+
+# Miller v. City of Dayton
+
+## Majority (H. Brown, J.)
+
+H. Brown, J.
+The primary issue is whether Miller was a “recreational user” at the time of his injury. “Recreational user” is defined in R.C. 1533.18 (B) as “a person to whom permission has been granted, without the payment of a fee or consideration to the owner, lessee, or occupant of premises * * * to enter upon premises to hunt, fish, trap, camp, hike, swim, or engage in other recreational pursuits.” For the following reasons we find Miller was a recreational user and reverse the court of appeals.
+A
+In determining whether a person is a recreational user under R.C. 1533.18 (B), the analysis should focus on the character of the property upon which the injury occurs and the type of activities for which the property is held open to the public. See Light v. Ohio University (1986), 28 Ohio St. 3d 66, 28 OBR 165, 502 N.E. 2d 611; Loyer v. Buchholz (1988), 38 Ohio St. 3d 65, 526 N.E. 2d 300; Fryberger v. Lake Cable Recreation Assn., Inc. (1988), 40 Ohio St. 3d 349, 533 N.E. 2d 738; Sorrell v. Ohio Dept. of Natural Resources (1988), 40 Ohio St. 3d 141, 532 N.E. 2d 722.
+In Light we held that the use of a gymnasium did not make a person a “recreational user.” This conclusion was supported by the fact that “R.C. 1533.18(B) is included in Title 15 of the Revised Code, having to do with conservation of natural resources and is part of R.C. Chapter 1533, dealing with fishing and hunting.” Light, supra, at 68, 28 OBR at 167, 502 N.E. 2d at 613. The gymnasium was not the type of “premises” covered by the recreational-user statute. Rather, it was a completely enclosed, man-made facility.
+However, the presence of man-made improvements on a property does not remove the property from statutory protection. “Premises,” as defined in R.C. 1533.18(A), “means all * * * lands, ways, waters, and any buildings and structures thereon * * (Emphasis added.) To qualify for recreational-user immunity, property need not be completely natural, but its essential character should fit within the intent of the statute.
+Generally speaking, recreational premises include elements such as land, water, trees, grass, and other vegetation. But recreational premises will often have such features as walks, fences and other improvements. The significant query is whether such improvements change the character of the premises and put the property outside the protection of the recreational-user statute. To consider the question from a different perspective: Are the improvements and man-made structures consistent with the purpose envisioned by the legislature in its grant of immunity? In other words, are the premises (viewed as a whole) those which users enter upon “* * * to hunt, fish, trap, camp, hike, swim, or engage in other recreational pursuits?”
+The phrase “other recreational pursuits” has been broadly construed by this court and the courts of appeals to include snowmobiling, Johnson v. New London (1988), 36 Ohio St. 3d 60, 521 N.E. 2d 793; sledding, Marrek v. Cleveland Metroparks Bd. of Commrs. (1984), 9 Ohio St. 3d 194, 9 OBR 508, 459 N.E. 2d 873; horseback riding, Crabtree v. Shultz (1977), 57 Ohio App. 2d 33, 11 O.O. 3d 31, 384 N.E. 2d 1294; watching others swim, Fetherolf v. State (1982), 7 Ohio App. 3d 110, 7 OBR 142, 454 N.E. 2d 564; motorcycle riding, Kelley v. Differential Corp. (May 6, 1982), Hancock App. No. 5-81-35, unreported; swinging, Vitai v. Sheffield Lake (Jan. 21, 1987), Lorain App. No. 4045, unreported; merry-go-round rides, Miller v. Sheffield Lake (Apr. 8, 1987), Lorain App. No. 4133, unreported; and watching others play baseball, Buchanan v. Middletown (Aug. 24, 1987), Butler App. No. CA86-10-156, unreported. At least one court has held that softball is a recreational pursuit for purposes of the statute. Diederich v. Catholic Diocese of Cleveland (July 31, 1986), Cuyahoga App. No. 51053, unreported.
+The foregoing review of cases prompts us to make a caveat. The existence of statutory immunity does not depend upon the specific activity pursued by the plaintiff at the time of the plaintiff’s injury. Rather, the inquiry should focus on the nature and scope of activity for which the premises are held open to the public. The goal is to determine the character of the premises. If the premises qualify as being open to the public for recreational activity, the statute does not require a distinction to be made between plaintiffs depending upon the activity in which each was engaged at the time of injury. For example, we recognize immunity to the owner of a park (which qualifies as recreational premises), whether the injury is to one who is jogging in the park, tinkering with a model airplane or reading poetry to satisfy a school homework assignment. Thus we attach no significance to the fact that Miller’s injury may have occurred during a highly competitive softball tournament. The essential character of Dayton’s Kettering Field is that of premises held open to the plaintiff, without fee, for recreational purposes.
+Applying these principles we find that a park which otherwise meets the definition of “premises” under the Ohio recreational-user statute does not lose its immunity because (1) the park includes a softball field with dugouts, fences, base plates and similar man-made structures and (2) the plaintiff was engaged in a softball tournament played on those premises.
+B
+Miller contends that he is not a recreational user because his team paid a $200 entry fee to the “occupant” of the softball field, i.e., the tournament sponsor. We disagree.
+Recreational-user immunity attaches to property owners who hold their property open for recreational use to the general public without the payment of a fee or other consideration. Sorrell v. Ohio Dept. of Natural Resources, supra. It is undisputed that Kettering Field was open to the public without the payment of a fee or other consideration.
+We reject the argument that the tournament sponsor, to whom a fee was paid, is an occupant of Kettering Field as “occupant” is used in R.C. 1533.18(B). The tournament sponsor, the organizations fielding teams, the players and the spectators were all users of the property. The “owner, lessee or occupant” was the city of Dayton. The status of owner, lessee or occupant is conferred upon the one who has the right to admit or exclude entry onto the property.
+C
+Finally, Miller argues that recreational-user immunity is not available to municipalities because of R.C. 723.01. This argument was raised and rejected in LiCause v. Canton (1989), 42 Ohio St. 3d 109, 537 N.E. 2d 1298.
+For these reasons we find that Miller was a recreational user and the city of Dayton is entitled to the protection of the recreational-user statutes. The judgment of the court of appeals is 'reversed and summary judgment for the city of Dayton is reinstated.
+Judgment reversed.
+Moyer, C.J., Sweeney, Douglas, Wright and Resnick, JJ., concur.
+Holmes, J., concurs in judgment only.
+Though the affidavits before the trial court leave it unclear as to who sponsored the tournament and what the entry fee was used for, Miller, the party opposing summary judgment, is entitled to have the evidence construed most strongly in his favor. Civ. R. 56(C).
