@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+docket: "18937"
+decided: "1925-06-02"
+citations: ["113 Ohio St. 1", "3 Ohio Law Abs. 360"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Jones, Bay, Allen, Kinkadb and Bobinson, JJ., concur."]
+parties: ["The Foundry Appliance Co. v. Ratliff, Admr."]
+source_url: "https://static.case.law/ohio-st/113/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 981451
+cites_cases: ["109 Ohio St., 341", "112 Ohio St., 337", "120 N. E., 229", "14 A. L. R., 812", "142 N. E., 678", "147 N. E., 342", "98 Ohio St., 61"]
+---
+
+# Foundry Appliance Co. v. Ratliff
+
+## Majority (Matthias, J.)
+
+Matthias, J.
+The principal question presented for our aetermination grows out of the charge of the court with reference to the issue of contributory negligence and that turns upon the applicability of Section 0245-2, General Code, to this ease. That section provides as follows:
+“That in all such actions where a minor employee has been employed or retained in employment contrary to any statute or law of the state or United States, such employee shall not be deemed or held to have been guilty of contributory negligence, nor to have assumed any of the risks of such employment; but the employer may show by way of defense any fraud or misrepresentation made by such employee.”
+The defendant company had complied with the provisions of the Workmen’s Compensation Act, and, by reason of that fact, is, of course, entitled to the benefit of all its provisions. By virtue of the provisions of Section 1465-76, General 'Code, it is exempted from proceedings for damages resulting from the injury of an employee, except where such injury arises from the willful act of the employer, or from his failure to comply with any lawful requirement for the protection of the lives and safety of employees. It is there provided as follows:
+“Such employer shall not be liable for any injury to any employee or his legal representative in case death results, except as provided in this section; and in all actions authorized by this section, the defendant shall be entitled to plead the defense of contributory negligence.”
+It is to be observed that this provision is broad and comprehensive in its terms and applies to all actions brought under authority of said section.
+This suit is an action authorized by Section 1465-76, General Code, and is brought pursuant thereto. It necessarily follows that the defense of contributory negligence of the injured party may be asserted by the defendant.
+The question whether a minor, particularly one whose employment was illegal because in contravention of law, came within the provisions of the Workmen’s Compensation Law, has been before this court in other cases, and it has been clearly and concisely determined that as a result of specific and definite changes in the legislation upon the subject, embodied in Sections 1465-61 and x465-93, General Code (108 O. L., 316, 324), sucia minor has been brought within the provisions of the Workmen’s Compensation Act. That was decided in the very recent case of Mueller v. Eyman, 112 Ohio St., 337, 147 N. E., 342. As there shown, by amendment of the statute since the decision of the case of Acklin Stamping Co. v. Kutz, 98 Ohio St., 61, 120 N. E., 229, 14 A. L. R., 812, legality of the contract with the minor is not now essential to bring him within the provisions of the Workmen’s Compensation Act. By virtue of such legislation a minor employee is sm juris for the purpose of such act, and under its express terms is entitled to all the benefits thereof. As we have seen, it is incumbent upon any employee instituting an action under the Workmen’s Compensation Law to meet the defense of contributory negligence, if it be asserted by the employer. No exception is made. It applies to “any employee” suing his employer under favor of the Workmen’s Compensation Law, and it applies to “all actions” brought pursuant to its provisions. The compensation law must be construed and applied as a whole, and the burdens thereof must necessarily be accepted by any one who seeks to secure its benefits. Section 6245-2, General Code, is not a part of the Workmen’s Compensation Act, and, although not expressly repealed, cannot be held to apply to actions with reference to which a later statute prescribes a rule entirely different and wholly inconsistent therewith. The benefits of the compensation act can be accepted only with the burdens attached thereto. The right to maintain an action thereby conierred cannot be enjoyed without the restrictions therein imposed.
+This court had before it a question quite similar in the case of Gildersleeve v. Newton Steel Co., 109 Ohio St., 341, 142 N. E., 678. That was an action where it was sought to recover damages for an injury claimed to have been caused by the willful act of an employer, or its officers or agents. This court held in the syllabus of that ease that “the common-law defense of the fellow-servant rule is available to an employer in a suit brought by an employee under Section 1465-76, General Code. Section '6242, General Code, is an abrogation of that rule, applying to separate departments, and is a departure therefrom, and to- that extent denies to the employer the defense of the fellow - servant rule given without limitation by Section 29 of the Workmen’s Compensation Act.”
+As there pointed out, such provisions were a part of the Norris Act, and, though still effective, have no application to suits against employers who have complied with the Workmen’s Compensation Act. They were in existence prior to the enactment of the compensation law, which, under authority of Section 35, Article II, of the Constitution as amended in 1912, gave the injured employee an option to maintain an action for damages if the injury arose from a willful act or failure.to observe a lawful requirement, but, while doing so, in the same section granted the employer the right to set up as a defense in all such actions contributory negligence of such employee.
+As we have seen, a minor employee, whether his employment be legal or illegal, is brought fully and completely within the provisions of the Workmen’s Compensation Act. It follows that, in an action brought pursuant to the provisions of that act, the employer is entitled to the benefit of the defense of contributory negligence, and hence the instruction of the court taking away or modifying such right was prejudicial error which requires reversal of the judgment.
+Judgment reversed.
+Marshall, C. J., Jones, Bay, Allen, Kinkadb and Bobinson, JJ., concur.
