@@ -1,0 +1,84 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89-1768"
+decided: "1991-01-16"
+citations: ["57 Ohio St. 3d 50"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Holmes and H. Brown, JJ., concur.", "Sweeney, Douglas and Wright, JJ., separately concur in part and dissent in part.", "Sweeney, J., concurs in the foregoing opinion."]
+parties: ["The State of Ohio, Appellant and Cross-Appellee, v. Mateo, Appellee and Cross-Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/57/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1428055
+cites_cases: ["1 Wall. 223", "105 N.E. 2d 259", "117 Ohio St. 102", "157 N.E. 388", "157 Ohio St. 175", "380 U.S. 545", "407 U.S. 67", "424 U.S. 319", "47 O.O. 122", "48 Ohio St. 3d 81", "549 N.E. 2d 520", "909 F.2d 170", "911 F.2d 870"]
+---
+
+# State v. Mateo
+
+## Majority (Alice Robie Re snick, J.)
+
+Alice Robie Re snick, J.
+The state of Ohio has appealed that portion of the court of appeals’ decision vacating the forfeiture of appellee’s motor vehicle. Appellee has cross-appealed raising various issues. We will first address the state’s arguments on appeal.
+I
+The state argues that the court of appeals erred when it applied R.C. 2933.43(C) to the present case. We agree. Appellee was indicted in count three with a violation of R.C. 2925.13, which, at the time pertinent herein, provided in part:
+“(A) No person, being the owner, operator, or person in charge of a locomotive, watercraft, aircraft, or other vehicles as defined in division (A) of section 4501.01 of the Revised Code, shall knowingly permit such vehicle to be used for commission of a felony drug abuse offense.
+U * * *
+“(D) Vehicles used in violation of division (A) of this section shall be seized and forfeited to the municipal corporation or county in which such violation occurred, upon motion to the common pleas court, except that if the violation occurs in a township and the offender is lawfully arrested by a law enforcement officer employed by the township, the court shall order the vehicle forfeited to the township. Forfeiture shall not apply to common carriers or innocent owners, nor shall they affect the rights of a holder of a valid lien.” (Emphasis added.)
+As can be readily seen, R.C. 2925.13 contains its own forfeiture provision. Appellee was charged with violating R.C. 2925.13 and, thus, it is this statute’s forfeiture procedures that must be complied with by the state. R.C. 2933.43 is simply not applicable to this case. Appellee’s motor vehicle was not, and is not, classified as contraband under R.C. 2933.43— which specifically relates to the disposition of contraband under a different set of circumstances. Consequently, the appellate court erred when it applied R.C. 2933.43 to the present case. Thus, we hold that the forfeiture provisions of R.C. 2925.13 and 2933.43 are independent of one another. Likewise, when a defendant is charged with violating R.C. 2925.13, the state must comply with the procedural requirements contained therein prior to obtaining an order of forfeiture.
+Upon examining R.C. 2925.13, we find that the statute requires that vehicles used in violation of division (A) of the statute shall be seized and forfeited “* * *upon motion to the common pleas court* * *.” The procedural requirement, as provided in the statute, is that the state must make a motion in order to seek the forfeiture of a vehicle whose owner or operator has permitted its use in a felony drug abuse offense. Turning to the record in the present case, the following discussion was had at appellee’s sentencing hearing:
+“THE COURT: Mr. Horn [prosecutor], I take it you did not wish to move for the vehicle to be seized?
+“MR. HORN: Judge, it has been seized, and the state intends to keep it.
+“THE COURT: You understand that the Cadillac has been seized and the state intends to keep it? Does that affect your decision in entering pleas of guilty?
+“THE DEFENDANT: The only thing, I had property that was still in til© trunk
+“THE COURT: Well, your lawyer probably will file if it’s not contraband. The lawyer can file a replevin to get that back. That’s a civil—
+“THE DEFENDANT: That’s the only thing.
+“THE COURT: All right.”
+From the above, it can be seen that the state indicated that appellee’s vehicle was seized, and that “the state intends to keep it.” While the proper procedure for the state would have been to make a formal motion stating the grounds upon which forfeiture is being sought and referencing R.C. 2925.13, we conclude that based on the facts of this case the state has substantially complied with the procedural requirements of R.C. 2925.13.
+The United States Supreme Court has stated that the essence of due process is notice and an opportunity to be heard: “For more than a century the central meaning of procedural due process has been clear: ‘Parties whose rights are to be affected are entitled to be heard; and in order that they may enjoy that right they must first be notified.’* * * [Citations omitted.] It is equally fundamental that the right to notice and an opportunity to be heard ‘must be granted at a meaningful time and in a meaningful manner.’ Armstrong v. Manzo [1965], 380 U.S. 545, 552.” Fuentes v. Shevin (1972), 407 U.S. 67, 80. See, also, Mathews v. Eldridge (1976), 424 U.S. 319, 333. “As a general rule, due process requires that the government give notice and an opportunity to be heard before taking an individual’s liberty or property.” (Emphasis sic.) United States v. 141st Street Corp. (C.A.2, 1990), 911 F.2d 870, 874. Likewise, “[procedural due process requires that all parties be given reasonable notice of the pendency of an action and an opportunity for a hearing where their objections can be presented.” Faries v. Director, Office of Workers’ Comp. Prog. (C.A.6, 1990), 909 F.2d 170, 173. “Due process of law involves only the essential rights of notice, hearing or opportunity to be heard before a competent tribunal. * * *” State v. Luff (1927), 117 Ohio St. 102, 157 N.E. 388, at paragraph four of the syllabus. See, also, State v. Edwards (1952), 157 Ohio St. 175, 178, 47 O.O. 122, 123, 105 N.E. 2d 259, 262, at paragraph one of the syllabus.
+Due process, in this case under R.C. 2925.13(D), requires a motion made by the prosecution and the jour-nalization of the forfeiture order by the court. While there has not been strict compliance in this case, we find no prejudice resulting to appellee. Ap-pellee was present with his attorney at sentencing; there were no ex parte proceedings. Moreover, from the conversation appellee had with the trial judge, it is apparent (1) that appellee knew the state was seeking forfeiture of his vehicle, and (2) that the knowledge of this fact did not affect his decision to plead no contest. Nor did this knowledge cause him to raise any other issues. Thus, appellee was provided with notice and an opportunity to be heard and yet made no objections to the proceedings that were taking place, except to say that he wanted his personal items from the car. Therefore, appellee has not been prejudiced by the lack of a formal motion by the state. We therefore reverse the court of appeals on this issue, and reinstate the trial court’s forfeiture order.
+II
+In his cross-appeal, appellee first raises several arguments attacking R.C. 2929.71, the firearm enhancement statute. Initially, appellee argues that the firearm found in his vehicle bore no relationship to the offense with which he was charged, and further that the General Assembly intended the enhancement statute to apply only to crimes of violence. Appellee’s assertions are without merit. R.C. 2929.71 stated, at the time pertinent herein, in part:
+“(A) The court shall impose a term of actual incarceration of three years in addition to imposing * * * an indefinite term of imprisonment pursuant to section 2929.11 of the Revised Code, if both of the following apply:
+“(1) The offender is convicted of, or pleads guilty to, any felony other than a violation of section 2923.12 of the Revised Code;
+“(2) The offender is convicted of, or pleads guilty to, a specification charging him with having a firearm on or about his person or under his control while committing the felony.* * *” (Emphasis added.)
+The enhancement statute applies when two conditions are met: First, that a person be convicted of or plead guilty to any felony other than carrying a concealed weapon; and second, that the person had a firearm on or about his person or under his control while committing the felony. Both conditions were satisfied in the present case. The statute does not distinguish between crimes of violence and nonviolence. In this case, appellee pled no contest to a felony in count one and pled no contest to the firearm specification. The trial court found ap-pellee guilty on both the substantive offense and the specification, and properly sentenced appellee to an additional three-year term of actual incarceration in accordance with R.C. 2929.71.
+Appellee next contends he was im-permissibly subjected to multiple punishments for the possession of the same firearm. In count four, the firearm was listed as a criminal tool; in count five, appellee was charged with carrying a concealed weapon; and lastly, in count six, appellee was charged with having a handgun while under disability. Thus, appellee argues that sentencing on all these counts was impermissible. However, no two of the offenses appellee was charged with constitute allied offenses of similar import. Each of the six charged offenses contains at least one element that is not common to any of the other offenses. See Newark v. Vazirani (1990), 48 Ohio St. 3d 81, 549 N.E. 2d 520. Hence, it was permissible for the trial court to sentence appellee on each count. Appellee’s arguments are without merit.
+Appellee also claims his pleas of no contest were made without full knowledge of the potential penalties. We have thoroughly examined the record, and conclude that the trial court fully complied with Crim. R. 11.
+Next, appellee asserts that the trial court erred when it refused to apply the money seized from him as a “credit” towards the fines imposed in this case. In support, appellee cites R.C. 2925.03(L), which provides that no mandatory fine shall be imposed if the defendant files an affidavit of in-digency. As the court of appeals noted, no affidavit of indigency can be found in the record. It has not been established in the record that appellee is indigent. Thus, R.C. 2925.03(L) is inapplicable to this case.
+Lastly, appellee contends that he may not be convicted of possession of criminal tools, to wit: a snort tube, as the item in question was subject to another specific statute. Appellee argues that the snort tube is a drug abuse instrument pursuant to R.C. 2925.12, and therefore he cannot be subjected to prosecution under the criminal tools statute, R.C. 2923.24. However, we note that R.C. 2925.12 (A) provides as follows:
+“No person shall knowingly make, obtain, possess, or use any instrument, article, or thing whose customary and primary purpose is for the administration or use of a dangerous drug, other than marihuana, when the instrument involved is a hypodermic or syringe * * *.” (Emphasis added.)
+Thus, R.C. 2925.12(A) states that only hypodermics and syringes are within the scope of the statute. Since a snort tube cannot be classified as either of these instruments, R.C. 2925.12 is inapplicable to this case. Rather, R.C. 2923.24 is applicable to this fact pattern, and appellee was properly charged thereunder.
+Finding no merit to appellee’s arguments in his cross-appeal, we affirm the court of appeals as to ap-pellee’s convictions and sentence.
+Accordingly, the judgment of the court of appeals is reversed in part and affirmed in part.
+Judgment reversed in part and affirmed in part.
+Moyer, C.J., Holmes and H. Brown, JJ., concur.
+Sweeney, Douglas and Wright, JJ., separately concur in part and dissent in part.
+Effective November 20, 1990, Am. Sub. S.B. No. 258 has substantially modified the civil and criminal forfeitures of property associated with felony drug abuse offenses, including R.C. 2925.13 and 2933.43. We note that R.C. 2925.13 no longer contains a forfeiture provision.
+
+## Concurring in part and dissenting in part (Douglas, J.,)
+
+Douglas, J.,
+concurring in part and dissenting in part. I concur with the judgment of the majority and the majority’s reasoning as found in Part II of the opinion. Thus, I would affirm the judgment of the court of appeals as to appellee’s convictions and sentence and find the cross-appeal not well-taken.
+I respectfully dissent from the judgment and reasoning of the majority as found in Part I of the opinion. R.C. 2925.13(D) requires that a motion be made to the common pleas court if forfeiture is sought. The record reflects, and counsel for appellant/ cross-appellee conceded at oral argument, that no motion had been made to the trial court. Thus, the dictates of the statute have simply not been met. I would, therefore, affirm the judgment of the court of appeals (although for a different reason than given by the court of appeals) and thereby find the appeal also not well-taken.
+
+## Concurring in part and dissenting in part (Wright, J.,)
+
+Wright, J.,
+concurring in part and dissenting in part. While I concur in the bulk of the majority’s decision, I vigorously dissent from the forfeiture of Mateo’s automobile.
+The majority discovers that the trial court afforded Mateo due process sufficient to confiscate his Cadillac from the following colloquy:
+“THE COURT: Mr. Horn, I take it you did not wish to move for the vehicle to be seized?
+“MR. HORN: Judge, it has been seized, and the state intends to keep it.
+“THE COURT: You understand that the Cadillac has been seized and the state intends to keep it? Does that affect your decision in entering pleas of guiltyl
+“THE DEFENDANT: The only thing, I had property that was still in the trunk.
+“THE COURT: Well, your lawyer probably will file if it’s not contraband. The lawyer can file a replevin to get that back. That’s a civil—
+“THE DEFENDANT: That’s the only thing.
+“THE COURT: All right.” (Emphasis added.)
+The United States Constitution is explicit: no state shall “deprive any person of life, liberty, or property, without due process of law.” Section 1, Fourteenth Amendment. The Supreme Court of the United States has given the following guidance as to the procedural requirements of due process:
+“For more than a century the central meaning of procedural due process has been clear: ‘Parties whose rights are to be affected are entitled to be heard; and in order that they may enjoy that right they must first be notified.’ Baldwin v. Hale [1863], 1 Wall. 223, 233.* * * [Further citation omitted.] It is equally fundamental that the right to notice and an opportunity to be heard ‘must be granted at a meaningful time and in a meaningful manner.’ Armstrong v. Manzo [1965], 380 U.S. 545, 552.” Fuentes v. Shevin (1972), 407 U.S. 67, 80.
+What has happened to the express language of the Due Process Clause of the Fourteenth Amendment? The quoted exchange between court and defendant vividly demonstrates that Mateo’s Cadillac was taken from him by the state without any semblance of meaningful notice or any opportunity for a meaningful hearing.
+Further, the majority somehow concludes that the foregoing exchange between court and defendant constitutes “substantial compliance” with R.C. 2925.13. This, of course, is nonsense.
+R.C. 2925.13(D) states that:
+“Vehicles used in violation of division (A) of this section shall be seized and forfeited* * * upon motion to the common pleas court* * *.” (Emphasis added.)
+Manifestly, the motion requirement is intended to secure meaningful notice and a meaningful hearing, and hence provide due process. The Rules of Civil Procedure provide some guidance as to the requirements of a motion: “* * * A motion, whether written or oral, shall state with particularity the grounds therefor, and shall set forth the relief or order sought.* * *” Civ. R. 7(B)(1). The majority appears to ignore these requirements. The state failed to move for forfeiture; the state asserted no grounds, with or without particularity, in support of forfeiture; and the trial court afforded Mateo little or no opportunity to be heard in order to contest the forfeiture, limiting its query to what effect the “forfeiture” may have had on the guilty pleas. Due to the failure of the state to move for forfeiture, the total absence of both notice to Mateo and a meaningful opportunity for Mateo to be heard, I must strenuously dissent from the portion of the majority’s opinion that affirms the forfeiture to the state of Mateo’s automobile.
+Sweeney, J., concurs in the foregoing opinion.
