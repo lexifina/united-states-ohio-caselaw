@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1901-12-17"
+citations: ["65 Ohio St. 403"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Minshall, C. J., Burket, Spear, Davis . and Shauck, JJ., concur."]
+parties: ["The Pennsylvania Co. v. Files."]
+source_url: "https://static.case.law/ohio-st/65/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 954828
+cites_cases: ["1 Ohio St., 26", "10 Ohio St., 557", "104 Ind., 264", "105 N. Y. 294", "11 Allen, 322", "11 Ohio St., 475", "110 Mich., 212", "110 Mich., 512", "111 Mass., 63", "116 Ind., 546", "12 Ohio St., 437", "128 Mass., 244", "13 L. R. A., 465", "145 U. S. 285", "146 Ind., 688", "15 N. Y., 415", "15 Ohio St., 392", "154 Mass., 520", "156 Mass., 99", "16 L. R. A., 437", "17 Wash., 263", "170 Ill., 508", "18 N. Y., 534", "18 Ohio St., 343", "2 Am. St. Rep., 31", "20 Ill., 544", "20 Ohio St., 516", "20 Ohio, 361", "21 Pick., 142", "22 Ohio St., 62", "22 Pick., 427", "25 Ind., 395", "28 Conn., 317", "29 Wis., 580", "3 Ohio, 107", "32 Ohio St., 328", "35 Am. Rep., 372", "36 Kans., 769", "36 Neb., 794", "37 L. R. A., 199", "38 Mich., 544", "38 N. W. Rep., 155", "44 N. H. 223", "45 N. Y., 574", "46 Pac. Rep., 463", "48 N. E. Rep., 996", "48 Wis., 513", "49 Ohio St., 25", "51 Fed. Rep., 649", "52 Conn., 309", "59 Pa. St., 74", "6 Ohio St., 288", "6 Ohio, 409", "61 Fed. Rep., 573", "61 N. W. Rep., 771", "64 Mo., 591", "64 N. W. Rep., 1041", "66 Ga., 259", "66 N. W. Rep., 166", "68 N. W. Rep., 294", "69 Vt., 175", "69 Vt., 364", "76 Ga., 209", "9 Gray, 244", "9 Ohio St., 1", "95 Ia., 566", "97 Ia., 737", "98 Ia., 410", "98 Ia., 585", "99 Mass., 88"]
+---
+
+# Pennsylvania Co. v. Files
+
+## Majority (By the Court :)
+
+By the Court :
+The action below was commenced by Files, a passenger on a train of the Lake Erie and Western Railway Company, to recover damages for injuries sustained by him in a collision between the train he was on, and a train of the Pennsylvania Company, occurring at a crossing of the two roads, both companies being made defendants. But, as it appeared that the Lake Erie and Western Company was not at fault, the suit was dismissed as to it; and the Pennsylvania Company, admitting its liability, a trial was had to the jury on the* amount of the damages to be recovered. A verdict for $500 was rendered.
+The principal error assigned is on the admission of evidence at the trial. The plaintiff introduced as a witness Dr. Bland, who testified as to an examination he had made of the plaintiff before the trial, and as to statements made by the plaintiff at that time, in regard to his suffering from the injury. This was excepted to by the defendant as incompetent, but admitted over its objection. , It appeared that the examination was not made for the purpose of treating the plaintiff, but for the purpose of enabling the physician to testify as an expert at the trial. This evidence, we think, was incompetent. It is.to be distinguished from evidence of a like character, given by a physician called on for treatment. In such case, what the patient may say to his medical adviser as to his condition and how he suffers may be admitted. It is to be presumed in such case, that he states the truth, as it is to his interest that he should do so, and not mislead the physician by false statements as to his condition. He is under a strong .motive in such case to state the truth, and it is on this ground that such evidence is admitted. But where the physician is called on, not for the purpose of treatment, but to enable him to give evidence in a pending, or proposed suit, no such sanction of the truth of what he says exists; on the contrary he is under a strong motive to deceive the physician, and not being under oath, may with impunity, make such statements as he sees fit. What he says to a physician under such circumstances is self-serving in character and should not be admitted. Darrigan v. Railroad Co., 52 Conn., 309; Railroad Co. v. Huntley, 38 Mich., 544; and for a stronger reason, like statements made to third persons, not physicians, under similar circumstances, are incompetent.
+Again, the court instructed the jury on the subject of damages, as follows: “You may consider as an element of damage the pain he has suffered, resulting from such injuries, and also such prospective damages, if any, as the jury may believe he has sustained or will sustain.” This, we think, was too broad. The jury in assessing prospective damages should have been confined to such as were reasonably certain to follow from the injury complained of. This precise point seems, from the record, not to have been called to the attention of the court, otherwise than by excepting to what was said. It is possible that had this been done, the court would have made the correction; so that if this were the only error, we might not reverse the judgment.
+Reversed and cause remanded for a new trial.
+Minshall, C. J., Burket, Spear, Davis . and Shauck, JJ., concur.
