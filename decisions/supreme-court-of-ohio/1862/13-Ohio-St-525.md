@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1862-12"
+citations: ["13 Ohio St. 525"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sutliff, C.J., and Peck, Brinkerhoff and- Scott, JJ., concurred. ."]
+parties: ["Catharine Stevens et al. v. Benjamin Hartley."]
+source_url: "https://static.case.law/ohio-st/13/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8843028
+cites_cases: ["17 Ohio Rep. 161", "2 Ohio St. Rep. 1", "9 Ohio St. Rep. 558"]
+---
+
+# Stevens v. Hartley
+
+## Majority (GholsoN, J.)
+
+GholsoN, J.
+The questions presented in this case, involve the construction of the 4th section of the act to provide for the settlement of the estates of deceased persons, passed March 23,1840 (1 S. & C. 567).
+The preceding section requires an executor, before entering upon the execution of his trust, to give bond, payable to the State of Ohio, with condition: 1st. To make and return an inventory of money, goods, etc., and also if required, of real estate. 2d. To administer according to law, and to the will of the testator, all his goods, etc;, and the proceeds of real estate which may be sold, etc. 3d. To render upon oath, a just and true account of his administration, within eighteen months, and at any other times when required by the court or the law.
+Section 4, provides: “ That if the executor is residuary legatee, he may, instead of the bond prescribed in the preceding section, give bond in a sum, and with two or more sureties, to the satisfaction of the court, with condition to pay all the debts and legacies of the testator; in which case he shall not be required to return an inventory.”
+The 5th section provides that, “ the giving of such bond as is prescribed in the preceding section, shall not discharge the lien on the real estate of the testator, for the payment of his debts, except only on such part thereof as shall have been lawfully sold by the executor, to one who purchased in good faith, and for a valuable consideration.”
+From these provisions, it appears that the payment of debts and legacies stands in the place of all the matters specified in the condition of the bond of an executor, and the placing in the hands of the court that which, it is evident from various provisions of the statute, is essential to the proper accountability of an executor, an inventory of the goods, etc., is expressly dispensed with. A residuary legatee is not required to give such a bond — he may do it, and it must be supposed would not do it, unless satisfied that the amount of assets would exceed the amount of debts and legacies. And prima faeie, at least, the bond he voluntarily gives, must bind him according to its terms, and be the measure of his legal liability. The law evidently contemplates that the assets are sufficient to pay, and that the sum fixed as the penalty of the bond will cover all the debts and legacies. If, in any case there should be a mistake in either particular, whether any course can be taken to prevent injustice to the parties interested, we need not decide. This is not such a case.
+'The residuary legatee being supposed to be cognizant of the debts, and having agreed to pay them, the reason which requires the presentation of claims to an executor or administrator in the ordinary course of administration, does not apply. The objection, therefore, to the petition that it shows no cause of action, because it is not stated that the claim was presented to the executrix, can not be sustained.
+The residuary legatee who gives the bond is also the executor, and the bond is instead of the bond ordinarily required of an executor. It creates a liability or affords a remedy which the latter does not, but it is only intended to provide for the payment of the debts of the testator, and it by no means follows that any substantial provision of law, intended to -guard the estate of the testator against unjust claims, does not apply. The residuary legatee, it must be supposed, has only agreed to pay just claims against the estate he represents, and for 'their ascertainment may well claim the benefit of any rule of law, or evidence, applicable to such an inquiry. If a creditor may sue on the bond given for the payment of the debts, without a previous ascertainment of the claim in an action directly against the executor (a point which does not arise in this case, as from the course of the proceedings it has been clearly waived), he should not be placed in a better position than if he had adopted that course. He must be regarded as adopting a remedy given by statute in the place of an action against the executor — a remedy which permits him, at the same time, to establish his claim, and obtain the benefit of security for its payment. But if the justice of his claim be disputed, he must be prepared to establish it by the same character of testimony which would be required if the action was against the executor merely in his representative capacity.
+Section 313 of the code is in the nature of a statute against frauds and perjuries. The testimony of the party to the action, though generally admissible, is excluded when it relates to transactions between him and a deceased person, against whose estate he asserts a claim. It was considered that there would be a temptation, in such a case, to fraud and perjury, against which protection should be given by excluding the testimony. The reason of the law certainly applies in this case with the same force as if the residuary legatee had given the ordinary bond and had been sued as executrix. The form which the remedy given to the creditors of the estate assumes can properly make no difference.
+We think, therefore, that the court of common pleas erred in permitting the plaintiff in the action to testify as to transactions which occurred between him and the testator, against whose estate he was seeking to establish a claim. For this error, the judgment of the court of common pleas must be reversed, and the case remanded to that court for further proceedings.
+Judgment reversed.
+Sutliff, C.J., and Peck, Brinkerhoff and- Scott, JJ., concurred. .
