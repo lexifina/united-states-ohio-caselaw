@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+docket: "76-1046"
+decided: "1977-04-27"
+citations: ["50 Ohio St. 2d 43"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Hebbeet, Celebeezze, W. Beown, Steen, SweeNey and Lochee, JJ., concur.", "Steen, J., retired, assigned to active duty under authority of Section 6(C), Article IV, Constitution, sitting for P. Beown, J."]
+parties: ["Smith et al., Appellants, v. Travelers Insurance Company, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/50/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6697537
+cites_cases: ["152 Ind. App. 75", "152 W. Va. 699", "166 S. E. 2d 157", "193 S. E. 2d 782", "193 So. 2d 224", "202 So. 2d 561", "212 N. E. 2d 499", "213 Pa. Super. 8", "213 Va. 540", "219 Tenn. 560", "22 Utah 2d 183", "234 A. 2d 250", "237 A. 2d 471", "244 Ark. 1159", "245 A. 2d 478", "253 Ore. 307", "278 Minn. 45", "281 N. E. 2d 919", "30 A. D. 2d 1", "32 Ohio App. 2d 281", "339 Mich. 574", "458 S. W. 2d 214", "48 Ala. App. 172", "48 Wis. 2d 290", "517 S. W. 2d 737", "64 Ill. App. 2d 465", "64 N. W. 2d 713", "81 Nev. 361", "83 N. M. 280", "96 Idaho 115", "97 N. J. Super. 54"]
+---
+
+# Smith v. Travelers Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The specific question certified below is as follows:
+“Whether a single canse of action for personal injuries may be divided to the extent that an insurer, subrogat-ed to the medical payments claim assigned by the insured, may prosecute this claim in a separate action against the tortfeasor?”
+In the opinion written by Judge Holmes, the Court of Appeals below stated: “We feel that the latter position as taken by the Hamilton County Court of Appeals, in * * * [Hartford Accident Co. v. Elliott (1972), 32 Ohio App. 2d 281], is the more reasonable view, and one which would express the better public policy in regard to an insured assigning his rights in an injury claim for medical expenses, as well as in the instance of assigning to the insurance company subrogee his interests in a property damage situation. We feel that the subrogee, upon such assignment, would become the real party in interest and have the right to maintain an action in the name of the subrogee as against the tort feasor for damages sustained to personal property of the insured, as well as for personal medical expenses as suffered by the insured.” We agree with this conclusion.
+This result is consistent with what appears to be the overwhelming majority of cases in those jurisdictions which have determined whether various subrogation agreements are valid and enforceable. See Alabama Farm Bureau Mut. Cas. Ins. Co. v. Anderson (1972), 48 Ala. App. 172, 263 So. 2d 149, 154; Shipley v. Northwestern Mut. Ins. Co. (1968), 244 Ark. 1159, 428 S. W. 2d 268, 270; Higgins v. Allied Amer. Mut. Fire Ins. Co. (D. C. App. 1968), 237 A. 2d 471, 472; DeCespedes v. Prudence Mutual Cas. Co. (Fla. App. 1966), 193 So. 2d 224, 225, approved, 202 So. 2d 561; Rinehart v. Farm Bureau Mut. Ins. Co. (1974), 96 Idaho 115, 524 P. 2d 1343, 1344-46; Bernardini v. Home & Auto Ins. Co. (1965), 64 Ill. App. 2d 465, 212 N. E. 2d 499, 500-01; Imel v. Travelers Indemnity Co. (1972), 152 Ind. App. 75, 281 N. E. 2d 919, 921; State Farm Mut. Auto Ins. Co. v. Roark (Ct. App. Ky. 1974), 517 S. W. 2d 737, 739; Michigan Medical Service v. Sharpe (1954), 339 Mich. 574, 64 N. W. 2d 713, 714; National Union Fire Ins. Co. v. Grimes (1967), 278 Minn. 45, 153 N. W. 2d 152, 155; Davenport v. State Farm Mut. Auto Ins. Co. (1965), 81 Nev. 361, 404 P. 2d 10, 13; Busch v. Home Ins. Co. (1967), 97 N. J. Super. 54, 234 A. 2d 250, 251; Jacobson v. State Farm Mut. Auto Ins. Co. (1971), 83 N. M. 280, 491 P. 2d 168, 170; Silinsky v. State-Wide Ins. Co. (1968), 30 A. D. 2d 1, 289 N .Y. Supp. 2d 541, 548; Geertz v. State Farm Fire & Cas. (1969), 253 Ore. 307, 451 P. 2d 860, 862; Bradford v. American Mut. Liability Ins. Co. (1968), 213 Pa. Super. 8, 245 A. 2d 478, 480; Foundation Reserve Ins. Co. v. Cody (Tex. Civ. App. 1970), 458 S. W. 2d 214, 216; State Farm Mut. Ins. Co. v. Farmers Ins. Exchange (1969), 22 Utah 2d 183, 450 P. 2d 458, 459; Collins v. Blue Cross (1973), 213 Va. 540, 193 S. E. 2d 782, 785; Travelers Indemnity Co. v. Rader (1969), 152 W. Va. 699, 166 S. E. 2d 157, 161; and State Farm Mut. Auto Ins. Co. v. Geline (1970), 48 Wis. 2d 290, 179 N. W. 2d 815, 819.
+In our opinion, the majority of jurisdictions arrived at their ultimate conclusion mainly from the straightforward application of contract principles, and we adopt that ratio decidendi in the case at bar. As the Supreme Court of Tennessee has held: “It is common knowledge that a plaintiff holding an automobile liability policy providing for medical benefits is entitled to those payments when injured in an automobile accident and * * * is also entitled to recover # # * from the tort-feasor. If such plaintiff and his insurance company wish to enter into an agreement whereby the insurance company is subrogated to such medical payments, we fail to see the unfairness of such contract. * * * [S]abrogation agreements are permitted for property damage payments and we know of no reason why subrogation should not be allowed for medical payments. Generally, parties may contract as they wish and we cannot see that it is against public policy for the parties to contract for subrogation of medical payments. To hold otherwise would permit an injured plaintiff to recover twice for the same medical expenses.” Wilson v. Tenn. Farmers Mut. Ins. Co. (1966), 219 Tenn. 560, 566, 411 S. W. 2d 699, 701-02.
+In view of all the foregoing, the judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+O’Neill, C. J., Hebbeet, Celebeezze, W. Beown, Steen, SweeNey and Lochee, JJ., concur.
+Steen, J., retired, assigned to active duty under authority of Section 6(C), Article IV, Constitution, sitting for P. Beown, J.
