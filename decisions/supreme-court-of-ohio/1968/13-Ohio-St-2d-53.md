@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "40547"
+decided: "1968-01-24"
+citations: ["13 Ohio St. 2d 53"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, Matthias, O’Neill, Hebbebt and Schneider, JJ., concur."]
+parties: ["Anderson, Appellant, v. Brown, Mayor of Village of Chesapeake, Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/13/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6703218
+cites_cases: ["108 Ohio St. 263", "131 Ohio St. 447", "133 Ohio St. 560", "162 Ohio St. 120", "173 Ohio St. 444", "38 Ohio St. 558", "4 Ohio App. 2d 7", "56 Ohio App. 1", "57 Ohio St. 1", "93 Ohio St. 314"]
+---
+
+# Anderson v. Brown
+
+## Majority (Bbown, J.)
+
+Bbown, J.
+In this injunction action the appellant seeks to test the constitutionality of ordinances Nos. 348 and 349 of the village of Chesapeake.
+With respect to the appellant’s attack upon ordinance No. 349, which he claims is a tax upon house trailers located in the village and therefore in conflict with Section 4503.06, Eevised Code, there is the problem of standing. The appellant has not shown that he is within the purview of this ordinance or will be affected by its operation. In short, he has not alleged he is the owner of a trailer located within the village, hence he has shown no direct interest in the ordinance of such a nature that his rights will be adversely affected by its enforcement, and under such circumstances he has no standing to attack it. France v. State, 57 Ohio St. 1, 22; Prentiss v. Dittmer, 93 Ohio St. 314, 323; Witham v. South Side Building & Loan Assn. of Lima, 133 Ohio St. 560, 562; State v. Eubank, 56 Ohio App. 1, paragraph one of syllabus. The denial of the requested relief with respect to ordinance No. 349 was therefore proper.
+With respect to appellant’s attack upon ordinance No. 348, the first problem is whether an injunction is available as a remedy. Since the appellant has already been charged with the violation of this ordinance, it may appear that he has an adequate remedy at law in defending against the prosecution of that action.
+The fact that the constitutional issues raised in this case could also be raised as a defense in the criminal action does not necessarily mean that such a defense is an adequate remedy. Where each day of noncomplianee results in a separate offense, a defendant under this ordinance is faced with a set of undesirable choices. He may stop his violations by closing down his trailer park, thereby incurring business losses; he may continue to violate the ordinance, thereby risking further prosecution and additional fines; or he may comply by obtaining a permit, thereby submitting for at least a year to the very ordinance which he believes to be invalid. If he chooses the last-mentioned course of action he takes the risk that, compliance once obtained, prosecution of the criminal action against him might be stopped in order to avoid testing the constitutionality of a questionable ordinance. The clearer the unconstitutionality of such an ordinance, the greater would be the likelihood of cessation of prosecution upon compliance.
+Despite the inadequacy of the legal remedy of defending against the criminal action, the general rule is that equity will not interfere with criminal actions even though their statutory basis may be unconstitutional. Nevertheless, there is a widely recognized exception to this rule where nronerty rights are threatened, since such rights may form the basis of equity iurisdiction. 1 Hmh on Injunctions (4 Ed.) 68. We articulated this exception in Olds v. Klotz, 131 Ohio St. 447, in holding that where an ordin-anee is clearly unconstitutional and its enforcement will infringe upon property rights and do irreparable injury to one’s business, leaving no adequate remedy at law, equity will give relief through injunction. The instant case involves the infringement of property rights, and in other respects is quite similar, factually, to the Olds case.
+We therefore hold that the remedy sought is proper with respect to ordinance No. 348.
+We pass to the merits of the controversy under the rule announced under the third paragraph of the syllabus of Neil v. Neil, 38 Ohio St. 558:
+“3. Where the District Court dismisses a proceeding in error on the erroneous ground that the judgment complained of is not reviewable, the Supreme Court is vested with discretion, on reversal of such erroneous order, to remand the cause to the District Court for further proceedings, or render such judgment as that court should have rendered.”
+There can be no doubt that the pertinent parts of ordinance No. 348 are police regulations. They set up drainage, plumbing, space, sanitation, and other requirements that may logically be categorized as health regulations, and then require all trailer park operators within the village to obtain a village permit, which will be issued only to those operators who comply with the regulations.
+Municipal corporations derive their authority to enact police regulations directly from Section 3, Article XVIII of the Constitution of Ohio, which provides:
+“Municipalities shall have authority to exercise all powers of local self-government and to adopt and enforce within their limits such local police, sanitary and other similar regulations, as are not in conflict with general laws.”
+Appellant contends that the licensing provisions of ordinance No. 348 are in conflict with the general laws in Chapter ?733 of the Revised Code, which Provide for the regulation by the public health council and the licensing by the district boards of health of all house trailer parks within the state, and therefore that those provisions are Tin-constitutional. The particular sections of Chapter 3733 which support the allegation of conflict are the following:
+Section 3733.04: “The board of health of the district in which a house trailer park or travel trailer park or overnight port is located may charge an annual fee for the right to operate such park or port. * * *”
+Section 3733.06: “Upon a license being issued under Sections 3733.03 to 3733.05, inclusive, of the Revised Code, any park operator shall have the right to rent or use each trailer lot or space for the parking of a house trailer or trailers to be used for human habitation without interruption for any period coextensive with any license or consecutive licenses issued under Sections 3733.03 to 3733.05, inclusive, of the Revised Code.”
+Section 3733.07: “Fees authorized or charged at the rate provided under Section 3733.04 of the Revised Code-shall be in lieu of all license and inspection fees on or with respect to the operation or ownership of trailer parks or ports'within this state.”
+These above-quoted amended sections of the Code were enacted after decision in Stary v. Brooklyn, 162 Ohio St. 120, and that case is therefore distinguishable. See Noland v. Sharonville, 4 Ohio App. 2d 7.
+Section 3733.06, Revised Code, gives a park operator with a state license the right to operate his house trailer park. It follows that any municipal ordinance which prohibits the operation of a trailer park without a municipal license, which is obtainable only upon paying a fee, would conflict with Section 3733.06, Revised Code. Auxter v. Toledo, 173 Ohio St. 444.
+In this case, the ordinance forbids and prohibits that which the statute permits and licenses; it is in conflict with the general laws of this state; and such a conflict is of the type referred to in Section 3, Article XVIII of the Ohio Constitution. Struthers v. Sokol, 108 Ohio St. 263, Auxter v. Toledo, supra. Therefore, the sections of ordinance No. 348 pertaining to the trailer park permit, specifically, Sections 9, 10,11, 12, 13, 14, 15 and 17, are clearly unconstitutional.
+We need not discuss the effect of Section 3733.07, Revised Code, because it can not operate to invalidate any more of ordinance No. 348 than we have already found to be invalid.
+We do not believe it is necessary, nor is it possible on the record before us, to consider the validity of the other provisions of ordinance No. 348. These may or may not conflict with the specific regulations established by the public health council, and they may or may not be able to stand as zoning regulations.
+Our conclusion with respect to ordinance No. 348 is that the action for injunction was proper, and that Sections 9, 10, 11, 12, 13, 14, 15 and 17 of the ordinance which deal with village permits for the operation of trailer parks are in conflict with Section 3733.06, Revised Code, and, therefore, are unconstitutional.
+The judgment of the Court of Appeals, with respect to ordinance No. 349, is affirmed, and, with respect to the last mentioned sections of ordinance No. 348, the judgment of that court is reversed and the enforcement or ordinance No. 348 is enjoined.
+Judgment affirmed in part and reversed in part.
+Taft, C. J., Zimmerman, Matthias, O’Neill, Hebbebt and Schneider, JJ., concur.
