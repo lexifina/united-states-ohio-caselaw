@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19608"
 decided: "1926-01-28"
-citations: ["4 Ohio Law Abs. 88", "4 Ohio Law Abs. 339", "4 Abs. 88", "4 Ohio Law Abs. 239"]
+citations: ["4 Ohio Law Abs. 88", "4 Ohio Law Abs. 239", "4 Abs. 88"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
