@@ -1,0 +1,66 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1876-12"
+citations: ["28 Ohio St. 589"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio, on relation of Daniel Flanagan, v. Robert F. McConnell, Auditor of Hardin County."]
+source_url: "https://static.case.law/ohio-st/28/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 894647
+---
+
+# State ex rel. Flanagan v. McConnell
+
+## Majority (Scott, J.)
+
+Scott, J.
+An alternative writ of mandamus was allowed and issued in this case March 24,1873, from which it appears that the relator is a printer, in Hardin county ; that he was employed by the clerk of the court of common pleas of said county, in the month of October, 1872, to furnish certain blanks necessary for the prompt discharge of the duties of said clerk, and having done so, on the 5th day of February, 1873, he presented his account for such blanks, certified by said clerk, to the defendant, who is auditor of said county, and demanded that he should draw his warrant on the treasurer of said county in behalf of relator for the amount of said account, to wit, for the sum of $174; that the defendant refused to draw such warrant. Relator thereupon asks for a writ of mandamus commanding defendant, as such auditor, to draw said warrant.
+The said account and certificate is as follows:
+Kenton, Ohio, February 5, 1873.
+HARDIN CO UNTY, by John M. Pearce, Cleric Court of Common Pleas,
+Account with Daniel Flanagan.
+1872.
+October 10. To printing 200 undertaking cost blanks................... $ 8 00
+“ 11. “ “ 200 blanks........................................... 10 00
+“ 12. “ “ ■ 100 district court sub............................. 8 00
+“ 14. “ 11 100 common pleas sum. in error.............. 8 00
+“ 15. “ “ 200 common pleas summons.................... 24 00
+“ 16. “ “ 200 execution cost blanks....................... 16 00
+“ 17. “ “ 100 distinct summons............................. 8 00
+“ 18. “ “ 100 undertaking for arrest blanks............ 6 00
+“ 18. “ “ 200 duces tecum subpenas....................... 8 00
+“ 19. “ “ 200 capias ad respondendum................... 10 00
+“ 21. “ “ 200 summons in divorce ....... 8 00
+“ 22. “ ' “ 600 verdict blanks................................. 24 00
+23. “ “ 200 transcript blanks............................. 13 00
+“ 24, “ 11 100 certificates to common pleas records... 6 00
+“ 25. “ “ 200 undertaking in error blanks.............. 8 00
+<• 26. “ “ 100 undertaking by pltf. for injunction...... 6 00
+“ 26. “ “ 100 judgt. blanks, with certificate............ 4 00
+$174 00
+Clerk’s Oeeice, Hardin County,
+Kenton, O., February 4,1873.
+}
+I, John M. Pearce, clerk of the Court of Common Pleas of Hardin county, Ohio, hereby certify that the blanks named in the foregoing account were procured by me, and that the same were necessary to the prompt discharge of my duties as clerk as aforesaid; that said account is. correct, and that there is due and owing to said Daniel Flanagan therefor the sum of one hundred and seventy-four dollars, for which the auditor of said county is hereby requested to draw his warrant on the treasurer of said county in favor of said Daniel Flanagan.
+Witness my hand and the seal of said court, at Kenton, this 4th day of February, a. d. 1873.
+John M. Pearce, H. C. P.
+To the alternative writ of mandamus the defendant demurs ; and for ground of demurrer says:
+“ 1. Said writ does not show that the relator’s said account was ever presented to the board of county commissioners of said Hardin county for their allowance.
+“ 2. The said writ does not show that the amount of the relator’s said account is fixed by law, nor does it show that the same has been fixed by any person, board, or tribunal authorized by law so to do.
+“ 8. Said writ does not show that the relator’s said account was ever presented for allowance to any person, board, or tribunal authorized by law to pass upon and allow the same.
+“ 4. It does not appear from said writ but that the relator has a plain, adequate remedy by ordinary action at law against the county of Hardin to recover whatever may be due him on his said account.
+“ 5. Said writ does not state facts sufficient in law to entitle the relator to the remedy sought by mandamus.”
+The case now comes before us for hearing on the alternative writ and the demurrer of the defendant thereto.”
+The question raised by the demurrer is, was it the clear legal duty of the county auditor to draw a warrant on the treasury of his county for the amount of the relator’s account, certified, as it was, by the clerk of the court, and without any act of allowance by the county commissioners ?
+Section 13 of “ an act prescribing the duties of county auditors” (S. & C. 98) provides that, “No claims against the county shall be paid otherwise than on the allowance of the county commissioners, upon the warrant of the county auditor, except in the cases in which the amount is fixed by law, or is authorized to be fixed by some other person or tribunal, in which cases the same shall be paid upon the warrant of the county auditor, upon the proper certificate of the person or tribunal allowing the same.”
+It is not claimed that the amount to be paid the relator for the blanks which he furnished is fixed by any law of the state. It can, then, only be paid on the allowance of the county commissioners, unless “ some other person or tribunal” has been authorized by law to fix the amount, and has accordingly so fixed, allowed, and duly certified the same. It is claimed that the statute authorized the clerk of the court of common pleas conclusively to fix and determine the amount and justice of relator’s claim against the county. On behalf of the county, this claim is denied, and it is insisted that it is not the duty of the county auditor to draw his warrant on the treasury until the relator’s claim shall have been allowed by the county commissioners.
+By an act of the legislature of this state, passed May 1, 1852, it was provided, “ That the county commissioners shall furnish to the clerks of courts of their respective counties all blank books, stationery, and all other things necessary to the prompt discharge of their duties.” 3 Curwen, 1833, sec. 10. This statute was repealed by the act of May 1, 1854, in which the following provision was substituted : “ That the county commissioners shall furnish to the clerks of courts of their respective counties all blank books, blanks, stationery, and all other things necessary to the prompt discharge of their duties; all which articles the clerks may themselves procure, and shall be allowed for upon their certificate.” S. & G. 630, sec. 6.
+This statute was in turn repealed by “ an act to regulate the fees of clerks of the court of common pleas,” passed April 13, 1865, which contains the following corresponding provision : “ The county commissioners shall furnish to the clerks of the courts of their respective counties all blank books, blauks, stationery, and all other things necessary to the prompt discharge of their duties ; all of which articles the clerks may themselves procure, and shall be allowed and paid for upon their certificate.” S. & S. 362.
+Did the legislature, by this last enactment, clearly intend to clothe the clerks of courts with unlimited power to procure whatever articles they should deem necessary to the prompt discharge of their duties, and to fix the prices of all such articles according to their sole discretion ; and was it intended that the certificate of such clerk should be conclusive evidence as against the county, not only that the articles were in fact procured for the use of the clerk, but that they were necessary for the prompt discharge of his duties, and that the prices stated in the account or claim are just and reasonable ? A power so liable to great abuse ought not to be raised by doubtful implication. To justify its recognition, the terms which confer it should be clear and unmistakable.
+The clause of the statute on which the doubt in this case arises, is in these words : “ All of which articles the clerks may themselves procure, and shall be allowed and paid for upon their certificate.” In the former statute the language was: “All of which articles the clerks may themselves procure, and shall be allowed for,” etc. In the present statute the words “ and paid ” are added — “ shall be allowed and paid for.” Construed grammatically, I think it pretty clear that the former statute, in terms, directed that the clerks should “ be allowed for ” all of the designated articles which they might have themselves procured, either by purchase, manufacture, or otherwise.
+The present act expresses in terms what the former one implied, and directs that the clerks shall not only be allowed for such articles, but paid for them. This, I think, is the grammatical import of the phraseology employed, which, by a slight transposition, would read thus: “ The clerks may themselves procure, and shall be allowed and paid for, .all of such articles.” This construction certainly renders the clause in question neither senseless, nor in any respect unreasonable. 'And if this be the true meaning of the clause in question, then the clerk who procured the blanks in this case is the proper party to complain, and he, if any one, should be relator. And, under .this construction, we think it clear that the statutory provision, directing that the clerk shall be allowed and paid for all articles so by him procured and certified to, does not authorize’ the clerk to determine conclusively, as against the county, how much he shall be allowed and paid for such articles. In fixing the prices proper to be allowed and paidj the county commissioners would be entitled to a voice. His duty would be to procure the articles at fair prices, if possible. His violation of this duty should not increase the amount to be allowed and paid him. But suppose I am wrong in this construction, and suppose the true construction to be (what I understand both parties here to claim), that it is not the clerk procuring the articles who is to be allowed and paid for them, but the articles thus procured which are to be allowed and paid for, has the relator a right to demand payment of his account without first obtaining its allowance by the county commissioners ? We think not. The statute does not in terms authorize the clerk, on behalf of the county, to fix the price to be paid from its treasury for the articles procured by him. Nor do we think the authority to procure the articles necessarily implies a power to bind the county to pay whatever price he may think proper. He may procure them on his own responsibility, or he may agree that the county shall pay for them whatever they are reasonably worth; and in either case, if they be articles necessary to the prompt discharge of his duties as clerk, he may thereby create a liability or obligation on the part of the proper county officers to allow and pay a fair and reasonable price for them. But we are not satisfied that the certificate of the clerk, in such a case, was intended to be evidence of anything more than the fact that the articles for which payment is demanded from the county were procured by him, for the purpose of being used in the discharge of his official duties. Suppose the clerk is a stationer or printer, and furnishes his own stationery or blanks. Is his certificate to be conclusive evidence to the auditor, that the prices charged by him for such articles are fair and just? "
+The provision in the auditors’ act, to which we have referred, is that when any person or tribunal other than the county commissioners, is authorized to fix the amount of a claim against the county, “the same shall be paid upon the warrant of the county auditor, upon the certificate of the person or tribunal allowing the same.” In such case the allowance precedes the certificate, and the certificate should show that the allowance has been made by the proper tribunal. But in the case of articles procured by a clerk, and which are necessary for the prompt discharge of his duties, they are directed to be allowed and paid for upon his certificate. Here, the certificate precedes the allowance, which is based upon it; and it would be absurd to suppose that the intention was to authorize the clerk to allow a claim, and fix its just amount, upon his own certificate addressed to himself. It is true that the statute requires that articles of a certain kind, when procured by the clerk, shall he allowed and paid for upon his certificate. But this mandatory form of expression is not inconsistent with the intention that the persons or tribunal allowing the claim should exercise such judgment and discretion, in regard to the amount proper to be paid, as an act of allowance necessarily implies.
+"We think the clerk was not authorized conclusively to fix the amount of relator’s claim against the county; and ■that until such amount shall be fixed by the allowance of the commissioners of the county, or by the judgment of a court of competent jurisdiction, it will not be the duty of the defendant to draw his warrant for its payment.
+Peremptory mandamus refused.
