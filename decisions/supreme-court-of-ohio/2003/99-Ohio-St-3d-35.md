@@ -1,0 +1,54 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2002-1207"
+decided: "2003-05-16"
+citations: ["99 Ohio St. 3d 35"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Cook, Lundberg Stratton and O’Connor, JJ., concur."]
+parties: ["The State ex rel. Franks, Appellant, v. Industrial Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/99/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 149198
+cites_cases: ["2003-Ohio-2456", "322 N.E.2d 660", "41 Ohio St.2d 64", "56 Ohio St.3d 28", "564 N.E.2d 91", "626 N.E.2d 666", "68 Ohio St.3d 315", "70 O.O.2d 157", "739 N.E.2d 329", "90 Ohio St.3d 434"]
+---
+
+# State ex rel. Franks v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Appellant-claimant, Nicholas Franks, broke his left great toe in 1999. A workers’ compensation claim was allowed, and he eventually sought scheduled loss compensation under R.C. 4123.57(B) for a total loss of use. After that request was denied, claimant refiled his application, seeking a loss of use for only one-half of the toe.
+{¶ 2} Five medical reports were before appellee Industrial Commission of Ohio. An April 6, 2000 letter from Dr. Paul C. Martin indicated that claimant’s interphalangeal (“IP”) joint was permanently fused. He did not discuss loss of use. Three months later, in response to claimant’s initial loss-of-use motion, he wrote:
+{¶ 3} “I have again reviewed the medical records in this case, my April 6, 2000 report, as well as the Ohio Revised Code 4123-57(B) [sic] regarding the standards for the determination of scheduled awards. With respect to Mr. Franks’ great toe, he does not meet the definition for a scheduled loss award for total loss of the great toe. In order to meet such a standard, an individual must have incurred a loss beyond the interphalangeal joint of the great toe, which in Mr. Franks’ particular case, did not occur. However, because Mr. Franks’ injury did result in a fusion (ankylosis) of the interphalangeal joint, he is entitled to a scheduled award of one-half of the great toe.”
+{¶ 4} A June 28, 2001 report from that same doctor stated:
+{¶ 5} “The interphalangeal joint of Mr. Franks’ left great toe has been fused and is, therefore, ankylosed at that level. However, he still maintains some active motion at the metatarsophalangeal joint. To properly consider Mr. Franks’ request, a copy of the Supreme Court case of Miller v. Armstrong Air Conditioning was provided with your letter. Based upon this document, a claimant must show a total loss of use of the affected toe in order to be entitled for an award of compensation of ankylosed toes.
+{¶ 6} “A scheduled total loss of use for a toe requires the finding that the same effect and extent of impairment has occurred as if the toe had been amputated or severed. In Mr. Franks’ particular case, he still maintains some degree of function with the great toe, although the interphalangeal joint has been fused. The great toe is utilized to help with weight distribution and stability in the foot, and is important as part of the gait cycle. Mr. Franks still maintains a portion of this normal function of the left great toe.
+{¶ 7} “Because of his residual active motion at the metatarsophalangeal joint and the maintenance of some degree of great toe function, Mr. Franks does not, in my opinion, meet the guidelines as set forth by the Industrial Commission of Ohio and referenced Supreme Court case of [State ex rel.] Miller v. Armstrong Air Conditioning [ (2000), 90 Ohio St.3d 434, 739 N.E.2d 329] for a total loss of use award for the great toe.”
+{¶ 8} Two reports from Dr. Owen W. Logee were also presented. On June 21, 2000, he reported:
+{¶ 9} “Nicholas Franks had a crush injury to his left big toe on 12/29/99. This was an open injury into the IP joint of his big toe; with marked damage patient had debridement and primary fusion of the IP joint of his left big toe. * * *
+{¶ 10} “When last seen [on] 5/24/00 patient was five months post-injury. He had about 50% loss of strength of the left big toe and dorsiflexion and plantar flexion. The fusion appeared to be solid clinically; he was not having pain at the site. He walks without difficulty though he has’ difficulty raising up on his toes and has not been able to run satisfactorily yet.
+{¶ 11} “To answer your specific question; patient’s injury is at the IP joint of the big toe, but he did not have any amputation at that level. He still has the tip of his toe with a fairly normal nail growing, but with complete loss of the IP joint in that left big toe.”
+{¶ 12} An August 14, 2000 letter from Dr. Logee also indicated:
+{¶ 13} “* * * I performed a debridement of skin, subcutaneous tissue and bone, and primary fusion of the IP joint of the left big toe with wound closure.
+{¶ 14} “In doing so, I removed four pieces of the proximal end of the distal phalanx of the left big toe while performing the primary fusion of the IP joint of the left big toe. The distal phalanx and the proximal phalanx were completely separated until I fused them. I had to make a modified V-cut removing the articular surface of the distal end of the proximal phalanx. [T]his was then contoured slightly and fit was what was left on the distal phalanx. This shortened the toe about a quarter to three-eight’s [sic] of an inch.
+{¶ 15} “In my opinion this fusion is the equivalent of the amputation of one-half of the big toe.”
+{¶ 16} A district hearing officer denied claimant’s motion:
+{¶ 17} “The District Hearing Officer finds that the claimant has not met the criteria for a scheduled loss award of one-half loss of the left big toe; therefore, the request for same is denied.
+{¶ 18} “There is no dispute that the claimant’s left great toe is fused at the interphalangeal joint per the reports of Drs. Logee and Martin. However, there is no medical evidence currently on file which establishes that the fusion at the interphalangeal joint has rendered the toe, or in this case the one-half of the toe, useless as if amputated. To the contrary, the 06/28/2001 report of Dr. Martin indicates that the claimant still maintains function despite the fusion at the interphalangeal joint.
+{¶ 19} “Pursuant to Ohio Revised Code 4123.57, there must be loss included up to the interphalangeal joint to sustain a one-half loss of the great toe.
+{¶ 20} “The District Hearing Officer noted the holding in State ex rel. Miller v. Armstrong Air [C]onditioning (2000), 90 Ohio St.3d 434, 739 N.E.2d 329.”
+{¶ 21} That order was administratively affirmed.
+{¶ 22} Claimant sought relief in mandamus in the Court of Appeals for Franklin County, alleging that the commission abused its discretion in denying his award. The court of appeals held that the commission’s decision was supported by “some evidence” and denied the writ, prompting claimant’s appeal to this court ás of right.
+{¶ 23} Under R.C. 4123.57(B), “the loss of the great toe up to the interphalangeal joint is co-equal to the loss of one-half of the great toe; the loss of the great toe beyond the interphalangeal joint is considered equal to the loss of the whole great toe.”
+{¶ 24} It is undisputed that the claimant’s great toe is fused at the IP joint. Claimant does not presently seek an award for loss of use of the entire toe but rather for loss of one-half of the toe. This will require claimant to prove that the affected area is as useless as if it had been amputated. State ex rel. Gassmann v. Indus. Comm. (1975), 41 Ohio St.2d 64, 67, 70 O.O.2d 157, 322 N.E.2d 660. Based on Dr. Martin’s June 28, 2001 report, the commission determined that the requisite degree of loss did not exist. The question is whether that report is indeed “some evidence” supporting that conclusion. We find that it is not.
+{¶ 25} Dr. Martin’s June 28, 2001 report mentions several times that claimant has some remaining motion in the great toe. From this, he concludes that claimant has residual toe use. Reading the report closely in its entirety, however, reveals two things. The toe motion that Martin references is at the metatarsophalangeal (“MTP”) joint — the joint that basically connects the toe to the foot. Tennenhouse, Attorneys Medical Deskbook (3d Ed.2002), Section 16:3, illustration at 44. Claimant, though, is not alleging the loss of the MTP joint or its proximal phalange. He is claiming a loss of the IP joint and the distal phalanx, and Dr. Martin never discusses the effect of this alleged loss in his narrative. Dr. Martin’s report, moreover, contains three references to the standard for a total loss of use. Again, claimant is not claiming that degree of loss — he is claiming a one-half loss of use.
+{¶ 26} We find, therefore, that the commission erred in relying on Dr. Martin’s June 28, 2001 report as “some evidence” negating the one-half loss award. Contrary to claimant’s representation, however, none of Martin’s other reports support an award either. His April 6, 2000 report does not discuss loss of use at all. His July 8, 2000 report does, but inappropriately. In that report, Dr. Martin’s assessment is based on his reading of R.C. 4123.57(B) and his belief that ankylosis of the IP joint is per se a one-half loss. Two flaws plague this reasoning. First, he relies on legal analysis, and legal conclusions are within the sole discretion of the commission. State ex rel. Nelson McCoy Pottery Co. v. Wilson (1990), 56 Ohio St.3d 28, 30, 564 N.E.2d 91. Second, ankylosis in a toe— unlike a finger — does not automatically translate into a compensable loss of use. State ex rel. Miller v. Armstrong Air Conditioning (2000), 90 Ohio St.3d 434, 739 N.E.2d 329.
+{¶ 27} A loss of use of a body part is compensable when it is “to the same effect and extent as if [it] had been amputated or otherwise physically removed.” Gassmann, 41 Ohio St.2d at 67, 70 O.O.2d 157, 322 N.E.2d 660. The only evidence to address claimant’s injury in this light is Dr. Logee’s August 14, 2000 report, which specifically says that the claimant’s IP fusion “is the equivalent of the amputation of one half of the big toe.”
+M. Blake Stone Co., L.P.A., and M. Blake Stone, for appellant.
+Jim Petro, Attorney General, and Dennis L. Hufstader, Assistant Attorney General, for appellee.
+{¶ 28} We, therefore, find that since there is only one report that addresses the question presented, State ex rel. Gay v. Mihm (1994), 68 Ohio St.3d 315, 626 N.E.2d 666, permits us to proceed directly to judgment. Since this lone report favors claimant, so, too, does our judgment.
+{¶ 29} The judgment of the court of appeals is reversed.
+Judgment reversed.
+Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Cook, Lundberg Stratton and O’Connor, JJ., concur.
