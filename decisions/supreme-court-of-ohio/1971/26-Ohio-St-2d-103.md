@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-351 and 70-357"
+decided: "1971-05-05"
+citations: ["26 Ohio St. 2d 103"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Schneider, Herbert, Duncan, Stern and Leach, JJ., concur."]
+parties: ["Jolliff et al., Appellees, v. Hardin Cable Television Co., Appellant, et al. Jolliff et al., Appellees, v. Hardin Cable Television Co.; Ohio Power Co., Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/26/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2339294
+cites_cases: ["146 Ohio St. 497", "173 N. E. 502", "176 Ohio St. 209", "18 Ohio St. 2d 101", "273 Mass. 321"]
+---
+
+# Jolliff v. Hardin Cable Television Co.
+
+## Majority (Corrigan, J.)
+
+Corrigan, J.
+The determinative issue raised in these appeals is whether, under the easements granted to Ohio Power by plaintiffs’ predecessors in title, Ohio Power can apportion its rights thereunder and permit Hardin Cable, as sub-lessee, to make use of the easements for the purpose of attaching its coaxial cable.
+On that issue, the Court of Appeals expressed the view that the easements in question did not convey to Ohio Power “an exclusive right to use the servient tenement for electric or other power right of way purposes” and that “for Ohio Power to apportion its rights” would constitute “competition with the owners for the sale of easement rights, not contemplated by the deeds of easement.” It concluded that “the assignment (or lease) * * * to Cable TY was not authorized,” and that “the sharing of the rights of way and easements pursuant thereto constituted an unlawful surcharge on the servient tenements.”
+Although we are referred in the briefs to the rules of construction governing easements in gross, we are bound first to examine the deeds in question to ascertain whether the language employed therein is capable of an interpretation which will resolve the issue presented. As stated in Hinman v. Barnes (1946), 146 Ohio St. 497, 508, “ if the intention of the parties is apparent from an examination of the deed “from its four corners,” it will be given effect regardless of technical rules of construction.’ ”
+We therefore must study the deeds to see if the language used casts light on the question of the apportionability of the easements granted therein.
+In the deeds, the grantors conveyed to Ohio Power, “* * * its successors and assigns forever, a right of way and easement with the right, privilege and authority to said party of the second part [Ohio Power], its successors, assigns, lessees, and tenants to construct, erect, operate and maintain a line of poles and wires for the purpose of transmitting electric or other power, including telegraph or telephone wires * *
+The crucial words of the grants which are determinative of the intention of the grantors are “successors, assigns, lessees, and tenants.” (Emphasis added.) The words “lessees and tenants” indicate, particularly, that it was clearly intended by the parties to the grants that Ohio Power could lease some portion of its interests to third parties. Such language (“its * * * lessees” obviously means “its * * * sub-lessees,” in the absence of any restrictive definition of “lessee” in the easements—and there is none) is open to no other interpretation.
+In view of that clearly expressed intention, we find it unnecessary to employ rules of construction in interpreting the easements in question. We merely note the statement found in 5 Restatement of the Law, Property, 3053, Section 493b, that: “* * * Where it [easement in gross] is created by conveyance, apportionability depends upon the intention of the parties to the conveyance.” That intention here, as expressed in the language of the easements, is that the easements are apportionable and we so hold.
+We proceed now to determine whether the sub-lease granted by Ohio Power to Hardin Cable results in the imposition of an additional burden on the servient estates beyond the terms of the grants so as to constitute, as the Court of Appeals stated, an “unlawful surcharge on the servient tenements.”
+In Friedman Transfer & Construction Co. v. Youngstown (1964), 176 Ohio St. 209, this court held that a water pipeline installed by a city on a bridge, under an aerial easement granted to the state for construction of the bridge, “did not constitute an additional burden upon the abutting freeholder, such as to require the payment of additional compensation * * *.”
+Subsequently, in Ziegler v. Ohio Water Service Co. (1969), 18 Ohio St. 2d 101, it was held that:
+“The construction and maintenance underground of a water pipeline, for public purposes, in real property outside a municipal corporation which is subject to an easement for highway purposes, is not an added burden on such property for which compensation must be awarded.”
+Although both Friedman and Ziegler were concerned with highway easements, while here we are dealing with a -sub-lease to a private company of certain easement rights of a public utility, the question whether the added use constitutes an additional burden on the property is the same.
+It is noteworthy that, in both Friedman and Ziegler, the added uses, construction and maintenance of pipelines, were of an entirely different nature than the highway-purpose uses which were specified in the original grants.
+The easements involved here were granted for “transmitting electric or other power, including telegraph and telephone wires.” It is apparent that the attachment of a television coaxial cable, which is comprised of bound wires for transmitting high frequency electrical impulses, is a use similar to that granted in the easements to Ohio Power. In fact, such use constitutes no more of a burden than would the installation of telegraph and telephone wires. That burden was clearly contemplated at the time of the grants, as evidenced by the specific reference to telegraph and telephone wires therein.
+In American Tel. and Tel. Co. v. McDonald, 273 Mass. 321, 173 N. E. 502, a telephone company, as grantee in an easement to erect and maintain telephone poles and wires, granted another telephone company the right to attach a telephone toll cable on its poles. In addressing itself to the question whether attachment of the toll cable constituted an additional burden, the court there said, at page 326:
+“There is no additional burden imposed by the grantee. Nothing granted to the plaintiff enables it to do anything which the original grantee could not have done. The latter could have hung a toll cable of its own from the cross arms upon its poles. It could have put up guy wires or poles needed for the support of the poles carrying the cable, and such apparatus as was necessary to enable its wires so hung to transmit telephone and telegraph messages. The plaintiff has done no more * * *.”
+That reasoning, with which we agree, is equally applicable here, where Hardin Cable, in attaching its television cable to Ohio Power’s pole*, is doing no more’’ than Ohio Power or a telegraph or telephone lessee could have done under the terms of the original grants. We therefore conclude that the attachment of the television cable involved herein does not impose an additional burden on plaintiffs’ lands.
+In respect to the argument that the insertion of the word “company” in one of the deeds of easement demonstrates that that grantor, Frazer, intended to limit use of the poles to Ohio Power, we are of the opinion that such addition to the terms of the deed does not overcome the clearly expressed language contained therein that the easement was granted to Ohio Power, “its successors, assigns, lessees, and tenants.”
+From the foregoing, we conclude that an easement granted to a power company, “its successors, assigns, lessees, and tenants to construct, erect, operate and maintain a line of poles and wires for the purpose of transmitting electric or other power,, including telegraph or telephone wires,” is, by its terms, apportionable and that the grantee of such easement may by sub-lease assign a portion of its interest in the easement to a television cable company. In snch case, the attachment of the television cable constitutes a use similar to that granted in the easement and does not create an additional bnrden on the land of the original grantor.
+The judgment of the Court of Appeals is reversed and, in each case, final judgment is rendered for the defendant.
+Judgment reversed.
+O’Neill, C. J., Schneider, Herbert, Duncan, Stern and Leach, JJ., concur.
