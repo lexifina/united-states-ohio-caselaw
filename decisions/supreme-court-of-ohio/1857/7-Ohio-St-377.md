@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1857-12"
+citations: ["7 Ohio St. 377"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartley, C. J., and Swan, Brinkerhoee, and Scott, JJ., concurred."]
+parties: ["The Schooner Muskegan v. Samuel Moss."]
+source_url: "https://static.case.law/ohio-st/7/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 512393
+cites_cases: ["10 Ohio, 387", "2 Ohio St. 31", "20 Ohio, 54", "3 Ohio St. 325"]
+---
+
+# Schooner Muskegan v. Moss
+
+## Majority (Sutliff, J.)
+
+Sutliff, J.
+This case depends upon the legal construction of the first section of the statute under which the action was instituted.
+That section provides: “ That steamboats and other water-crafts navigating the waters within, or bordering upon this state, shall be liable for debts contracted on account thereof by the master, owner, steward, consignee, or other agent, for materials, supplies, or labor, in the building, repairing, furnishing, or equipping the same, or due for wharfage; and also for any damages ^arising out of any contract for the transportation of goods or persons, or for injuries done to persons or property by such craft; or for any damage or injury done by the captain, mate, or other officer thereof, or by any person under the order or sanction of either of them, to any person who may be a passenger or hand on such steamboat or other water-craft at the time of the infliction of such damage or injury.”
+It thus appears, from the language of the statute, that the watercraft is made liable for: 1. Debts contracted on account thereof, for materials, supplies, or labor in building, repairing, furnishing, or equipping the same, or due for wharfage. 2. For damages arising out of any contract for transportation of goods or persons, or for injuries done to persons or property by such craft; and, 3. For any injury done by the captain, mate, or other officer thereof, or by any person under the order or sanction of either of them to any one at the time a passenger on the craft.
+The claim under consideration, as stated by the plaintiff below, was for the non-performance of a parol contract entered into by Ebenezer Gr. Allen, the master of the schooner, for the purchase of' a certain windlass, as furniture or equipment for the vessel, from the plaintiff. It is not stated that the windlass was delivered, or even that it was adapted or fit for the use of the vessel, so that it could be used by the craft as an equipment. The plaintiff says-that he shewed the master a windlass that he had on hand, and the master promised if he would repair it, that he, the master, would buy it of him for said vessel; and that he, the plaintiff, agreed to de so, and did repair the windlass according to the master’s instructions, as he understood them, and had it ready at his shop to be delivered to said Allen, or to said vessel whenever it should be called for; that the windlass still remains at his shop, and is worth $22.26, the amount charged to the schooner for the same.
+The plaintiff does not prefer a claim for work done for the-schooner. The claim preferred is in no sense, as stated, a debt, in-the common acceptation of that term. Indeed, an action of debt could not at common law be maintained upon the facts constitoting the canse of action against Allen, if the credit had been *given to him. The plaintiff still retains the property; and even if there were the necessary averments in the petition, that the windlass was ready for delivery according to the terms of the contract, and the defendant Allen notified thereof, the ¡plaintiff’s right of action would only be for damages for the non-performance of the contract by said Allen.
+It is obvious, from reading the statute under consideration, that its object was only to give a right of action against the water-craft, in the particular cases mentioned therein.
+It is only where the craft has been in receipt of the consideration out of which the indebtedness arises, as for work done upon or for the craft, or materials, provisions, or wharfage furnished to and received by the craft or its operatives in operating the same, that the action of debt arises against the craft by force of the statute. It is true the statute also provides that the water-craft may be sued by name for the recovery of damages in certain cases; but this case is not one included by the statute. The only cases mentioned in the statute for the recovery of damages against the watercraft by name, except for the malfeasance of the craft, or its officers, agents, and operatives, are for damages arising from the nonfeasance or misfeasance of duties actually assumed and undertaken by the water-craft, such as duties in respect of freight or passengers received to be carried. Any damages arising from the nonfeasance or misfeasance of such duties so assumed and undertaken, as well as damages arising from the malfeasance of the water-craft, or some of the officers ’or hands thereof in their respective relations, may, by the provisions of the statute, be recovered in an action against the craft by name.
+In the case of Canal-boat Montgomery v. Kent et al., 20 Ohio, 54, it was held that an executory contract made with the master of a water-craft to carry flour, and a refusal on his part to carry the same, is not such a contract that a suit can be maintained against the water-craft by name, for a refusal on the part of the master to convey. An application of the same doctrine would exonerate the water-craft in this action from liability, even if the contract had been well stated in the petition.
+*But it is sufficient in this case to say that the cause of action stated in the petition is not included in the causes of action enumerated in the statute for which an action can be brought against the water-craft by name. The only right of action, as stated, is one against the master or his principal, for the non-performance of the contract, and not against the water-craft.
+The judgment of the court of common pleas must therefore be reversed.
+Bartley, C. J., and Swan, Brinkerhoee, and Scott, JJ., concurred.
