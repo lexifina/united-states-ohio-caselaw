@@ -2,7 +2,8 @@
 court: "Supreme Court of Ohio"
 docket: "19372"
 decided: "1925"
-citations: ["4 Ohio Law Abs. 162", "4 Ohio Law Abs. 26"]
+decided_precision: "year"
+citations: ["4 Ohio Law Abs. 162"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
