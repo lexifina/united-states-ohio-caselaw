@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1884-01"
+citations: ["41 Ohio St. 682"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williamson v. Gerlach."]
+source_url: "https://static.case.law/ohio-st/41/cases/0682-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 919675
+cites_cases: ["17 N. Y. Sup. Ct., 117", "4 Edw. Ch., 412"]
+---
+
+# Williamson v. Gerlach
+
+## Majority (McCauley, J.)
+
+McCauley, J.
+The plaintiff in error, Williamson, who held a mortgage on certain lands, which was the second mortgage in priority on the lands, commenced an action to foreclose, and made all other mortgagees and lienholders parties. He made his motion for the appointment of a receiver to collect the rents and income of the lands. The motion was overruled and the appointment refused. At the same term at which this appointment was refused, a receiver was appointed for the same purpose in another action commenced by a junior mortgagee for a foreclosure to which action he made all lienholders parties.
+The receiver was appointed generally to take charge of and connrol the lands, collect rents and income and hold the same subject to the further order of the court. When the lands carne to be sold the proceeds of the sale were not sufficient to pay the liens prior to the lien of the mortgagee on whose motion the receiver was appointed. The prior lienholders claimed that the fund in the hands of the receiver should be distributed and paid upon the liens in the order of their priority; and the subsequent lienholder on whose motion the receiver was appointed, claimed the fund in the hands of the receiver should be applied upon his lien, for the reason that his superior diligence-had produced the fund.
+It is to be noticed that there were two actions here, to each of which all lienholders were parties. The court refused the appointment of a receiver on the application of the second lienholder who was plaintiff in the first action and granted it to the holder of a junior lien who was plaintiff in the second action. After an appointment was made in the case and not limited to any party or li$n and it afterward appeared that the appointment was in fact necessary for both lienholders, the fund collected by the receiver should have been treated as a part of the general security of the mortgages and be controlled by their priorities. If the receiver had been appointed on the motion and for the benefit of a particular lienholder, the receivership might have been extended to other liens; but when it was not limited it was of no consequence upon whose application the appointment was made. The fund collected by the receiver under such an appointment was not appropriated to any particular lien.
+In Washington Ins. Co. v. Fleischauer, 17 N. Y. Sup. Ct., 117, a junior mortgagee had the rents of the property applied to his mortgage to the exclusion of prior mortgagees. But the appointment of a receiver in the case was made for the benefit of this lienholder only, and no other lienholder asked to have the receivership extended to any other lien. In Sowell v. Ripley, 10 Paige, ch. 48, a junior mortgagee filed his bill to foreclose and had a receiver appointed. Afterwards a prior mortgagee filed his bill for the same purpose and had a receiver appointed also. It was there held that the prior mortgagee was only entitled to the rents and profits due at the time of the appointment of the receiver in his suit, and to such as accrued thereafter, and that the junior mortgagee was entitled to all the rents and profits in the possession of the receiver in his suit, at the time the receiver in the suit of the prior mortgagee was appointed. The same rule was applied in Post v. Dorr, 4 Edw. Ch., 412. Where an incumbrancer has a receiver appointed for his benefit, and other parties .to the action who may be entitled to have the receivership extended to their liens take no steps to have the receivership thus extended, the party procuring the appointment will be entitled to the fund produced thereby, because of his superior diligence. The cases in which a junior mortgagee has had rents and profits collected by a receiver and applied to his lien are those in -which, either the senior mortgagee was not a party to the action or the receiver was appointed for the benefit of the junior mortgagee and the receivership was not extended to the other liens. In this case the receiver was appointed generally without reference to the liens, on the motion of the junior mortgagee, after the appointment had been refused in the other action to the holder of a prior lien. Where the appointment is intended to be for the benefit of the party only, on whose motion it is made it should be limited to the lien of such party.
+Judgment reversed.
