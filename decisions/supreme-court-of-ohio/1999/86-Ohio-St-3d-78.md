@@ -1,0 +1,52 @@
+---
+court: "Supreme Court of Ohio"
+docket: "97-1618"
+decided: "1999-07-14"
+citations: ["86 Ohio St. 3d 78"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.", "Moyer, C.J., Douglas and Patton, JJ., dissent.", "John T. Patton, J., of the Eighth Appellate District, sitting for Resnick, J..", "Douglas and Patton, JJ., concur in the foregoing dissenting opinion."]
+parties: ["Ameritech Ohio, Appellant, v. Public Utilities Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/86/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 870049
+cites_cases: ["12 O.O.3d 112", "363 N.E.2d 730", "38 Ohio St.3d 266", "388 N.E.2d 1237", "4 O.O.3d 341", "4 OBR 341", "4 Ohio St.3d 91", "447 N.E.2d 733", "50 Ohio St.2d 144", "527 N.E.2d 777", "58 Ohio St.2d 103", "587 N.E.2d 814", "589 N.E.2d 1292", "63 Ohio St.3d 310", "63 Ohio St.3d 555"]
+---
+
+# Ameritech Ohio v. Public Utilities Commission
+
+## Majority (Pfeifek, J.)
+
+Pfeifek, J.
+We affirm the commission’s ruling that Ameritech’s participation in Ameritech New Media’s AmeriCheck promotional program constituted violations of R.C. 4905.33 and 4905.35.
+R.C. 4905.33 provides:
+“No public utility shall directly or indirectly, or by any special rate, rebate, drawback, or other device or method, charge, demand, collect, or receive from any person, firm, or corporation a greater or lesser compensation for any services rendered, or to be rendered, * * * than it charges, demands, collects, or receives from any other person, firm, or corporation for doing a like and contemporaneous service under substantially the’ same circumstances and conditions.”
+R.C. 4905.35(A) provides:
+“No public utility shall make or give any undue or unreasonable preference or advantage to any person, firm, corporation, or locality, or subject any person, firm, corporation, or locality to any undue or unreasonable prejudice or disadvantage.”
+Appeals of commission decisions are subject to the standard of review contained in R.C. 4903.13, which provides:
+“A final order made by the public utilities commission shall be reversed, vacated, or modified by the supreme court on appeal, if, upon consideration of the record, the court is of the opinion that such order was unlawful or unreasonable.”
+This court has consistently interpreted the statutory standard of review as follows:
+“ ‘Under the “unlawful or unreasonable” standard specified in R.C. 4903.13, this court will not reverse or modify a PUCO decision as to questions of fact where the record contains sufficient probative evidence to show the PUCO’s determination is not manifestly against the weight of the evidence and is not so clearly unsupported by the record as to show misapprehension, mistake, or willful disregard of duty. Dayton Power & Light Co. v. Pub. Util. Comm. (1983), 4 Ohio St.3d 91, 4 OBR 341, 447 N.E.2d 733; Columbus v. Pub. Util. Comm. (1979), 58 Ohio St.2d 103, 12 O.O.3d 112, 388 N.E.2d 1237.’ ” Ohio Edison Co. v. Pub. Util. Comm. (1992), 63 Ohio St.3d 555, 556, 589 N.E.2d 1292, 1294, quoting MCI Telecommunications Corp. v. Pub. Util. Comm. (1988), 38 Ohio St.3d 266, 268, 527 N.E.2d 777, 780.
+The record before the commission demonstrated that in its marketing promotion, New Media issued and funded the AmeriChecks, which could be used by its cablevision customers to pay their bills for telephone service provided by Ameritech. The commission saw the obvious — Ameritech attempted to aid its cablevision affiliate by offering, in effect, lower telephone service rates for its customers 'who would use Americast. In collaboration with its cablevision affiliate, by accepting AmeriChecks from its customers who were also New Media customers, Ameritech thus indirectly received less compensation from those customers for their telephone service, violating R.C. 4905.33. As the commission pointed out, the statute prohibits public utilities either “directly or indirectly” charging or receiving greater or lesser compensation for services rendered under substantially the same circumstances. Though Ameritech’s intrafamilial means were indirect, the company did violate R.C. 4905.33.
+Ameritech also favored New Media customers over the class of telephone service customers who were not New Media customers, violating R.C. 4905.35. Ameritech separated its customers into two classes, with the class of Americast subscribers in effect gaining the exclusive benefit of a price break on their telephone service. This activity constituted an “undue or unreasonable preference” prohibited by R.C. 4905.35.
+A review of the record in the complaint case indicates that there was sufficient probative evidence before the commission to show that its determinations were not manifestly against the weight of the evidence and not so clearly unsupported by the record as to show misapprehension, mistake, or willful disregard of duty. Based on the record before it, the commission’s order was lawful and reasonable.
+For the foregoing reasons we affirm the commission’s order.
+Order affirmed.
+F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.
+Moyer, C.J., Douglas and Patton, JJ., dissent.
+John T. Patton, J., of the Eighth Appellate District, sitting for Resnick, J..
+
+## Dissent (Moyer, C.J.,)
+
+Moyer, C.J.,
+dissenting. I respectfully dissent and would reverse the order of the commission.
+The majority states that Ameritech violates R.C. 4905.33 because it receives less compensation from New Media customers than it does from customers who do not subscribe to New Media. I do not agree. Ameritech has a standard rate for all customers, unrelated to whether a customer also subscribes to New Media services. It bills the customers based on this standard rate. Ameritech also receives payment at the same rate for accounts held by New Media customers and by customers who do not subscribe to New Media. The only difference is the source of the money used to pay the bills.
+Admittedly, New Media customers have an added potential source of funding for their Ameritech payment. New Media customers may choose to use an AmeriCheck to pay a portion of their bill. This is an option available to some but not all Ameritech customers, just as a credit card or a third-party check may be an optional source of payment for some but not all Ameritech customers. An AmeriCheck is a thing of value owned by a subscriber to New Media’s Americast cable television service. The AmeriCheck is funded by New Media, but the subscriber owns the AmeriCheck; New Media does not own it. It is worth $10 in the possession of an Americast subscriber.
+If the subscriber elects to use an AmeriCheck in partial payment for Ameritech home telephone service, the customer pays Ameritech, in part with the endorsed AmeriCheck. New Media funds the payment just as a bank funds payments charged to a credit account. It is the customer’s decision to use the thing of value — the check — to pay on an Ameritech account. Ameritech receives the same amount of income regardless of the source. All customers pay the same amount for service because they all transfer the same amount of value to Ameritech, albeit in differing forms. Therefore, Ameritech’s acceptance of an AmeriCheck in partial payment of a customer’s phone bill does not violate R.C. 4905.33.
+The commission reasoned that if this practice were allowed to continue, “nothing in the Ohio statutes would preclude a public utility from setting up corporate affiliates to underwrite the utility bills of selected customers.” If anything in the record indicated that New-Media was created by Ameritech to underwrite the utility bills of selected customers, my opinion might well be different. Ohio law does recognize that a corporation which is the mere alter ego of an affiliate or is established for the sole purpose of circumventing the law will not be recognized as an independent entity. However, nothing in the record supports a finding that New Media and Ameritech are mere alter egos of each other. New Media was not established by Ameritech. Rather, both New Media and Ameritech are subsidiaries of Ameritech Corporation. There is no evidence to suggest that Ameritech has any control or influence over New Media. Further, there is nothing on the record that would suggest New Media was established to, or ever intended to, circumvent state law.
+Though the majority opinion presumes a bad faith motive and collaboration between Ameritech and New Media, the record does not support this assumption. Absent any evidence of such a bad faith motive, or sufficient overlapping control, Ohio law dictates that separate corporations, whether affiliated or not, are to be accepted as wholly separate entities. See, e.g., Indep. Ins. Agents of Ohio, Inc. v. Fate (1992), 63 Ohio St.3d 310, 587 N.E.2d 814; Associated Adjusters of Ohio, Inc. v. Ohio Dept. of Ins. (1977), 50 Ohio St.2d 144, 148, 4 O.O.3d 341, 343, 363 N.E.2d 730, 733.
+There is nothing in the record to suggest Ameritech benefits more from this arrangement than from any direct payment made by a customer on an account. Whether the customer uses a credit card, a personal check, an AmeriCheck, a third-party check, or cash to pay the bill, the customer is responsible for the same full tariff amount payable to Ameritech. Although New Media may benefit from the arrangement, New Media is not a public utility and, therefore, is not precluded from offering rebates or other financial incentives to entice customers into subscribing to its services.
+The commission concluded that Ameritech’s acceptance of AmeriChecks violates R.C. 4905.35 because it extends a preference to customers of New Media and because acceptance of this alternative source of payment is equivalent to Ameriteeh offering a rebate to New Media customers. In the same report, the commission acknowledges that Ameriteeh would accept similar types of payment from any customer, whether the payment was funded by New Media or any other competing cable company. Absent some indication on the record that Ameriteeh would not accept payments funded by a nonaffiliate, there is no factual basis to support a finding that Ameriteeh is extending a preference to New Media or to New Media customers.
+For the foregoing reasons, I respectfully dissent and would reverse the commission’s order.
+Douglas and Patton, JJ., concur in the foregoing dissenting opinion.
