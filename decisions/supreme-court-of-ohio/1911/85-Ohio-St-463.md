@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "12106"
+decided: "1911-11-28"
+citations: ["85 Ohio St. 463"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear, C. J., Davis, Shauck, Price, Johnson and Donahue, JJ., concur."]
+parties: ["Pogue et al., Partners, v. Hellman et al."]
+source_url: "https://static.case.law/ohio-st/85/cases/0463-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 983354
+---
+
+# Pogue v. Hellman
+
+## Majority
+
+Judgment affirmed.
+Spear, C. J., Davis, Shauck, Price, Johnson and Donahue, JJ., concur.
