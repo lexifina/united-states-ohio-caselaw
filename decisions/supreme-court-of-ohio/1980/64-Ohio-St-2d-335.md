@@ -1,0 +1,52 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-501"
+decided: "1980-12-30"
+citations: ["64 Ohio St. 2d 335"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["P. Brown, Sweeney, Locher, Holmes and Stillman, JJ., concur.", "Celebrezze, C. J., and W. Brown, J., dissent.", "Stillman, J., of the Eighth Appellate District, sitting for Dowd, J."]
+parties: ["The State of Ohio, Appellant, v. Deener, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/64/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712632
+cites_cases: ["171 Conn. 644", "190 Colo. 105", "28 Utah 2d 310", "367 U. S. 643", "372 A. 2d 82", "381 U. S. 953", "392 U. S. 1", "40 Cal. Rptr. 100", "401 U. S. 560", "408 U. S. 471", "411 U. S. 778", "429 U. S. 1106", "57 Harv. L. Rev. 269", "93 Cal. Rptr. 816"]
+---
+
+# Ohio v. Deener
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The issue presented in the instant cause is whether a police officer can validly arrest a probationer on the basis of an order to arrest for an active probation violation received via teletype from the sheriffs office of another county. We hold that a valid arrest can be made under such circumstances. Since the arrest was valid, the search incident to the arrest was lawful and the trial court properly overruled defendant’s motion to suppress the gun found during the search.
+The Court of Appeals held that the arrest was invalid because the state presented no evidence concerning the pre-arrest existence of a written order of the chief probation officer pursuant to R. C. 2951.08. That statute provides:
+“During a period of probation any field officer or probation officer may arrest the defendant without a warrant and bring him before the judge or magistrate before whom the cause was pending. Such arrest may also be made by any* * * police officer upon the written order of the chief probation officer, if the defendant is under the supervision of a county department of probation***.” (Emphasis added.)
+Because the state had failed to place evidence into the record that a written order of the chief probation officer actually existed at the time of the arrest, the Court of Appeals felt compelled to find that R. C. 2951.08 was not complied with and that the arrest was invalid.
+We, too, are constrained to hold that the arrest does not comport with the requirements of R. C. 2951.08. While it is highly probable that a written order of the chief probation officer did exist at the time of the arrest, we have no proof of it. It is possible that the Franklin County Sheriffs Office issued the order pursuant to a verbal request instead of a written order.
+Unlike the Court of Appeals, however, we do not find that, because R. C. 2951.08 was not complied with, the arrest was invalid. We believe that R. C. 2951.08 is a method by which a probationer can be arrested for a probation violation; we do not believe that it is the exclusive method. We conclude that other arrest procedures may also be used as long as they are in accordance with constitutional standards.
+An arrest is considered a seizure in terms of the Fourth Amendment to the United States Constitution and thus is subject to the dictates of that constitutional provision. Terry v. Ohio (1968), 392 U. S. 1. While probationers and parolees possess Fourth Amendment rights, these rights are more limited in scope than those possessed by others. People v. Hernandez (1964), 229 C.A. 2d 143, 40 Cal. Rptr. 100, cer-tiorari denied, 381 U. S. 953. In Reeves v. Turner (1972), 28 Utah 2d 310, 501 P. 2d 1212, the Supreme Court of Utah addressed an issue very similar to the one presented in the instant cause. The Utah statute involved provided that a parolee could be arrested on the written certified order of the secretary of the Board of Pardons. The court held that the statute did not provide the exclusive method for arrest of parolees, and upheld an arrest made by police after they had received a telephonic communication from the Adult Parole and Probation office to pick up the parolee. The court reasoned in part that:
+“A parole officer’s physical apprehension of his prisoner for suspected violation of parole is not an ‘arrest’ in the sense that a peace officer arrests a private individual who is suspected of a crime, but is merely a transfer of the subject from constructive custody into actual or physical custody. Furthermore, a parole officer may properly request police assistance in the apprehension and investigation of a parole violator. The standards governing the arrest and search of citizens possessed of full civil rights, are not applicable to the act of taking physical custody of a parolee.” Id. at 313. See, also, State v. Villafane (1976), 171 Conn. 644, 653, 372 A. 2d 82, 88, certiorari denied 429 U. S. 1106; People v. Bergstrom (1975), 190 Colo. 105, 544 P. 2d 396.
+The reasoning applied by the Utah court to parolees, can be applied with equal force to probationers. In Gagnon v. Scarpelli (1973), 411 U. S. 778, 782, the Supreme Court stated that it perceived no “difference relevant to the guarantee of due process between the revocation of parole and the revocation of probation.” The court went on to hold that the guidelines it set down in Morrissey v. Brewer (1972), 408 U. S. 471, for the revocation of parole applied equally to the revocation of probation. Further, the court in Morrissey stated, at page 480, that “[r] evocation deprives an individual, not of the absolute liberty to which every citizen is entitled, but only of the conditional liberty properly dependent on observance of special parole [and probation] restrictions.”
+While the record is sparse we are able to glean from it that the teletype ordering the arrest was issued at the request of the Franklin County Probation Department. We believe that a teletyped arrest order requested by probation authorities provides an adequate basis for a police officer to make a valid arrest of a probationer. See Hernandez v. Superior Court (1971), 16 C.A. 3d 169, 93 Cal. Rptr. 816.
+For the above stated reasons, the judgment of the Court of Appeals is reversed.
+Judgment reversed.
+P. Brown, Sweeney, Locher, Holmes and Stillman, JJ., concur.
+Celebrezze, C. J., and W. Brown, J., dissent.
+Stillman, J., of the Eighth Appellate District, sitting for Dowd, J.
+On redirect examination, Patrolman Messmore, the arresting officer was asked, “After you got back to the station did you check in any farther [sic] concerning this warrant from Columbus?” He responded, “Yes. I called the Franklin County Probation Department, and they advised that it was a valid order that they had issued, and that they would be up to pick him up.”
+We also note that defendant does not contest the validity of the probation violation charge.
+
+## Dissent (Celebrezze, C. J.,)
+
+Celebrezze, C. J.,
+dissenting. I must respectfully dissent from the majority opinion for two reasons. The essential statutory prerequisite for a valid R. C. 2951.08 arrest — a written order of the chief probation officer — is conspicuous by its absence from this case. Consequently, the weapon seized as a direct result of this unlawful arrest was introduced into evidence in contravention of the exclusionary rule. Mapp v. Ohio (1961), 367 U. S. 643.
+The critical consideration in the case at bar is, as the Court of Appeals unanimously recognized, that, at the time appellee was arrested by the Mansfield Police Department, there was no valid written order of the chief probation officer. As Judge Putman stated in his concurring opinion, “the particular written order which the government elected to place into evidence is dated one day after the arrest.” The General Assembly specifically and unambiguously required such an order to effectuate a valid arrest of a probationer.
+As an appellate court, we are limited by the record before us. The irrefutable fact remains that no written order of the chief probation officer existed at the time of the arrest in question. The teletype itself was not made part of the record. Indeed, no witnesses from the Franklin County Sheriffs Office appeared, either in support of or in opposition to the motion to suppress.
+Nevertheless, the majority opines: “While it is highly probable that a written order of the chief probation officer did exist at the time of the arrest, we have no proof of it. It is possible that the Franklin County Sheriffs Office issued the order pursuant to a verbal request instead of a written order.”
+While I acknowledge the need for a court, on occasion, to take judicial notice of indisputable facts, see Evid. R. 201; Morgan, Judicial Notice, 57 Harv. L. Rev. 269,1 must disagree with the majority’s attempt to take judicial notice of “probable” and “possible” written orders. Either there was a valid written order or there was not. Since the only genuine, tangible written order that the government placed into evidence is dated one day after appellee's arrest, this arrest is unlawful.
+Nor does the good faith reliance of the Mansfield Police Department on the Franklin County telex justify the arrest. The United States Supreme Court specifically rejected this concept in Whiteley v. Warden (1971), 401 U. S. 560, 568:
+“We do not, of course, question that the Laramie police were entitled to act on the strength of the radio bulletin. Certainly police officers called upon to aid other officers in executing arrest warrants are entitled to assume that the officers requesting aid offered the magistrate the information requisite to support an independent judicial assessment of probable cause. Where, however, the contrary turns out to be true, an otherwise illegal arrest cannot be insulated from challenge by the decision of the instigating officer to rely on fellow officers to make the arrest.”
+Thus, the Franklin County Sheriffs Office did not have adequate justification to order appellee’s arrest. This inadequate justification did not ripen into adequate justification by the time the telex reached the Mansfield Police Department.
+Having decided that the arrest of appellee was unlawful, I must conclude, therefore, that the weapon was seized from his person in violation of his Fourth Amendment right to be free from an unreasonable search and seizure and must, under the exclusionary rule, be suppressed.
+W. Brown, J., concurs in the foregoing dissenting opinion.
