@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "10305"
+decided: "1908-03-31"
+citations: ["78 Ohio St. 403"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shauck, C. J., Crew and Spear, JJ., concur."]
+parties: ["Martin, Admr., v. Leonard."]
+source_url: "https://static.case.law/ohio-st/78/cases/0403-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 973492
+---
+
+# Martin v. Leonard
+
+## Majority
+
+Judgment affirmed.
+Shauck, C. J., Crew and Spear, JJ., concur.
