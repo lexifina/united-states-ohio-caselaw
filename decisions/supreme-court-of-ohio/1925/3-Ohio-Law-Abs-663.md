@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19361"
 decided: "1925-09-24"
-citations: ["3 Ohio Law Abs. 663", "3 Abs. 610", "4 Ohio Law Abs. 12", "OS. Pend. 3 Abs. 663"]
+citations: ["3 Ohio Law Abs. 663", "3 Abs. 610"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
