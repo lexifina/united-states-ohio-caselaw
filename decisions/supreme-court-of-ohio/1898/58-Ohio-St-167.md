@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1898-03-22"
+citations: ["58 Ohio St. 167"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gertrude Hesse, Admx., v. The Columbus, Sandusky and Hocking Railroad Co."]
+source_url: "https://static.case.law/ohio-st/58/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 941045
+cites_cases: ["49 Ohio St., 598", "51 Ohio St., 146", "53 Ohio St., 43", "54 Ohio St., 10", "64 Iowa, 652"]
+---
+
+# Hesse v. Columbus, Sandusky & Hocking Railroad
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+The general rule is established in this state and elsewhere that in an action by a servant against his employer for an injury resulting from the latter’s negligence in furnishing machinery or appliances, about which the servant is employed, the plaintiff must allege that he was ignorant of the defect from which the injury resulted; or that, having knowledge of such defect, he informed the employer and continued in the service relying upon his promise to remedy the defect. This requirement is not answered by an averment that the injury occurred without fault of the plaintiff. Acquiescence with knowledge is not synonymous with contributory negligence. One having full knowledge of defects in machinery with which he is employed may use the utmost care to avert the dangers which they threaten. Coal & Car Co. v. Norman, 49 Ohio St., 598; Coal Co. v. Estievanard, 53 Ohio St., 43.
+The servant must be required to communicate to his employer such knowledge as he may have of defects in machinery or appliances about which he is employed, or the law will not be administered according to the reason which is its life. Fully justified by considerations of policy, the courts require of railway companies with respect to their patrons and the public the exercise of that high degree of care which is commensurate with the dangers of their operation. To the end that such care may be exacted from them, they are, with obvious propriety, charged with knowledge of such defects as are or might be discovered by the senses of their officers and employees. It is with like propriety that the communication of such knowledge is required from all with whose knowledge they are chargeable.
+But the most confident contention of counsel for the plaintiff is that the act of April 2,1890 (87 Ohio Laws, 149) releases the employee of. a railroad company from this general rule. The act applies to railroad corporations only. Reliance is upon the second section of the act which is as follows:
+“Section 2. It shall be unlawful for any such corporation to knowingly or negligently use or operate any car or locomotive that is defective, or any car or locomotive upon which the machinery or attachments thereto belonging are in any manner defective. If the employee of any such corporation shall receive any injury by reason of any defect'in any car or locomotive, or the machinery or attachments thereto belonging, * * * such corporation shall be deemed to have had knowledge of such defect before and at the time such injury is so sustained and when the fact of such defect shall be made to appear in the trial of any action in the courts of this state brought by such employee, or his legal representatives, against any railroad corporation for damages, on account of such injuries so received, the same shall be prima, facie evidence of negligence on the part of such corporation. ’ ’
+The act by its terms affects the rules of evidence. It does not affect the duty of the employee, nor the rules of pleading with respect to it. In the cases to which it applies it raises against the corporation a prima facie presumption of negligence from evidence showing that the employee received an injury by reason of a defect in the car or locomotive, or the machinery or attachments thereto belonging. In Coal & Car Co. v. Norman, the general rule governing cases of this character is stated:
+“The servant in order to recover for defects in appliances, must establish three propositions: 1. That the appliance was defective. 2. That the master had or should have had notice thereof. 3. That the servant did not know of the defect.”
+The force of the statute under consideration is wholly expended in relieving the servant of the duty of establishing the second of these propositions. His duty with respect to the first and third remains wholly unaffected. Although recoveries were sustained in Railway Co. v. Erick,, 51 Ohio St., 146 and Pennsylvania Co. v. McCann, 54 Ohio St., 10, the view taken of the statute was consistent with that which is here expressed.
+Nor do we think that the circuit court erred in the second ground of reversal stated in its entry. Against the objection of the defendant the trial court permitted witnesses to testify that the plaintiff’s intestate was in the line of promotion when he received the fatal injuries. The jury were otherwise fully informed as to the intestate’s habits, health, position and capacity to earn. These and other like circumstances constituted the existing facts from which the jury were to determine the amount of damages which they should assess. The evidence to which the objection was made was introduced to show a supposed probability that his capacity to earn would have become greater in the future. It started an inquiry which could have no other effect than to consume time unduly and to introduce speculative considerations into the assessment of damages. Brown, Adm'r, v. The Chicago, R. I. & Pac. Ry. Co., 64 Iowa, 652.
+We observe no other errors for which the judgment of the common pleas court should have been reversed. It does not appear that in either of the courts below it was thought that there could be a recovery without evidence establishing the fact that the explosion was due to defects in the boiler.
+Judgment affirmed.
