@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19416"
 decided: "1925-11-13"
-citations: ["4 Ohio Law Abs. 358", "3 Abs. 722", "4 Ohio Law Abs. 26"]
+citations: ["4 Ohio Law Abs. 358", "3 Abs. 722"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
