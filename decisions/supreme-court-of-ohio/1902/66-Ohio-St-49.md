@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1902-02-25"
+citations: ["66 Ohio St. 49"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Minshall, C. J., Williams, Burket, Spear and Davis, JJ., concur."]
+parties: ["The City of Cincinnati v. Lewis, Auditor."]
+source_url: "https://static.case.law/ohio-st/66/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 958407
+cites_cases: ["1 Ohio St., 563", "1 Ohio St., 622", "10 Kan., 442", "104 Ga., 292", "111 N. Y., 505", "115 N. C., 489", "124 Ill., 636", "153 Mass., 185", "154 Mass., 15", "157 Mo., 51", "157 N. Y., 42", "160 Pa. St., 123", "161 Pa. St., 307", "167 Mass., 505", "173 Ill., 243", "173 U. S., 231", "19 Ohio, 110", "25 Ind., 518", "25 Ohio St., 229", "26 Ill., 482", "28 Ohio St., 521", "29 Ohio St., 201", "32 N. Y. App. Dec., 197", "32 N. Y. App. Dec., 203", "36 Ohio St., 253", "39 Neb., 432", "39 S. W. Rep., 836", "42 Pa. St., 21", "44 Conn., 360", "46 Cal., 549", "46 Ohio St., 153", "5 Ohio St., 589", "50 Md., 321", "50 Md., 449", "51 Ill., 37", "54 Kan., 542", "54 Ohio St., 264", "55 S. W. Rep., 554", "57 Ark., 445", "57 S. W. Rep., 532", "58 N. H., 306", "60 Iowa, 717", "62 Ark., 481", "63 Tex., 14", "64 Iowa, 554", "65 Ark., 343", "71 Conn., 316", "8 Kan., 344", "8 Ohio, 189", "80 Ga., 159", "86 Tenn., 213", "89 Cal., 114", "99 U. S., 149"]
+---
+
+# City of Cincinnati v. Lewis
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+From the numerous cases cited in the briefs of counsel it appears to be the general rule that property owned by a municipality and not used in the actual exercise of its municipal functions is subject to taxation. This is for the obvious reason that where the systems of taxation are similar to ours the tax collected is not for the benefit of a municipality alone, but also for that of the state and county. Nevertheless it must be admitted that the conclusions reached upon the subject have been much influenced, if not actually controlled, by the different policies defined by the constitutions and statutes of the several states, it being everywhere conceded that the municipal ownership of property offers no impediment to taxation if that is provided for by law. The policy of this state has its foundation in section 2 of article 12 of the constitution which describes the property which shall be taxed as well as that which may, by general laws, be exempted from taxation: “Laws shall be passed, taxing by uniform rule * * * all real estate and personal property; but * * * public property used exclusively for any public purpose, * * * may, by general laws, be exempted from taxation.” That the public ownership of property was not alone thought sufficient to exempt it from taxation is made obvious by the requirement that an exclusive use for a public purpose shall coincide with such ownership. In the performance of the duty thus imposed upon it, the general assembly has enacted sections 2731 and 2732 of the Revised Statute^, By the former section it is enacted that “all property, Avhether real or personal, in this state, and whether belonging to individuals or corporations, * * * shall be subject to taxation except only such as may be expressly exempted therefrom.” The exempted property is described in the several subdivisions of the latter section. The seventh subdivision provides for the exemption of “all fire engines and other implements used for the extinguishment of fires, together with the buildings used exclusively for their safe keeping.” The eighth subdivision, which is much relied upon as providing for the exemption of this property, is as follows: “All market houses, public squares or other public grounds, town or township houses or halls used exclusively for public purposes, or erected by taxation for public purposes, notwithstanding some parts thereof may be leased under and by virtue of section 2566 of the Revised Statutes of Ohio, and all works, machinery, pipe-lines and fixtures belonging to any town and used exclusively for conveying water to such town, or for heating or lighting the same, and any unpaid taxes assessed against any property comprised in this subdivision, with any penalty thereon, is hereby remitted.” The property Avhich may be leased under section 2566 is a public building or a part thereof, and that provision can have no application to the present case. The description of municipal property which is exempt from taxation indicates with unmistakable accuracy that the exemption is to extend to such property only as is actually employed in the exercise of municipal functions. If this conclusion were doubtful it would nevertheless be required by the established rule that all exemptions from taxation are to be strictly construed.
+[This case was decided previous to the retirement from the bench of Judge Minshall. — Reporter.]
+The question here presented was not decided nor considered in Zumstein v. Coal & Mining Co., 54 Ohio St., 264.
+Judgment affirmed.
+Minshall, C. J., Williams, Burket, Spear and Davis, JJ., concur.
