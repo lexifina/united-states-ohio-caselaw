@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89- 1623"
+decided: "1990-12-06"
+citations: ["56 Ohio St. 3d 706"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Industrial Elec. Consumers of the Ohio Power Co. v. Pub. Util. Comm."]
+source_url: "https://static.case.law/ohio-st-3d/56/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1427603
+---
+
+# Industrial Elec. Consumers of the Ohio Power Co. v. Pub. Util. Comm.
+
+## Majority
+
+Public Utilities Commission, No. 89-01-EL-EFC. Cause dismissed, on appellant’s application to dismiss, effective December 4, 1990.
