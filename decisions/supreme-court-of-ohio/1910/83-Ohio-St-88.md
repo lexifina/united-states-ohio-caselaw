@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+docket: "11573"
+decided: "1910-11-22"
+citations: ["83 Ohio St. 88"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Summers, C. J., Crew, Spear, Davis and Price, JTJ., concur."]
+parties: ["The Akron & Chicago Junction Railroad Co. v. Weedman, Executor."]
+source_url: "https://static.case.law/ohio-st/83/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 980768
+cites_cases: ["11 C. C., 565", "24 Ohio St., 481", "28 Ohio St., 90", "35 Ohio St., 660", "39 Ohio St., 218", "49 Ohio St., 372", "6 Ohio St., 81", "61 Ohio St., 96", "62 Ohio St., 633", "65 Ohio St., 401", "69 Ohio St., 414", "70 Ohio St., 88", "72 Ohio St., 494", "9 Ohio St., 519"]
+---
+
+# Akron & Chicago Junction Railroad v. Weedman
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+If it is assumed that attorneys-at-law are agents in the ordinary sense only of the parties whom they represent in courts of justice, the familiar rule that the authority' of an agent is revoked by the death of his principal affords justification for the action of the circuit court in overruling the motion of the plaintiff in error to amend the proceeding in error, as well as in sustaining that of the defendant in error to dismiss ' it. But the subject of a proceeding in error is the judgment whose reversal is sought. Although, unlike an appeal, a petition in error is requisite as the basis of the proceeding, legislation designed to make the proceeding practicable and to relieve it, as far as may be, of difficulty and uncertainty, naturally considers the intimate relation of the jurisdiction exercised by the original and appellate courts, as well as the peculiar representative character of counsel who represent parties in the court of first instance. To facilitate the acquisition of jurisdiction in the reviewing court, and to prevent its failure, Sections 6713 and 6714, Revised Statutes, were enacted. The former section provides that service of the summons in error shall be sufficient if made on the attorney of record in the original case. Section 6714 provides: “The summons mentioned in the last section shall, upon the written precipe of the plaintiff in error, or his attorney, be issued by the- clerk of the court in which the petition is filed, to the sheriff of any county in which the defendant in error, or his attorney of record is found * * * and the defendant in error, or his attorney, may waive in writing the issue or service of the summons.”
+To say that counsel who appear as representatives of parties litigant can have no authority except that which depends upon the terms of their employment, or its actual continuance, or which is subject to annulment by any act of the parties, or that it may be revoked in any way by one party without the knowledge of his adversary and to his prejudice, even to the extent of defeating the review of a judgment, is to deny all effect to these provisions of the statute and to introduce unnecessary confusion and uncertainty. It results from these provisions that when a party authorizes an attorney to represent him in the court of record in which the cause is originally tried, he thereby authorizes him to represent him in the steps required to effect the jurisdiction of the reviewing court, and that until that jurisdiction is effected, a revocation of his authority, to be effective, must be of record.
+The jurisdiction of the circuit court was complete when the counsel who had represented Mrs. Ramey in the court of common pleas, in strict pursuance of the terms and obvious purpose of the statute, entered in writing their waiver of a summons on the petition in error, and the circuit court should have not only overruled the motion to dismiss the proceeding, but it should have sustained the motion for the amendment of the proceeding. It cannot be necessary to repeat recent discussions which have conducted this court to the conclusion that Section 5114, Revised Statutes, provides for the amendment of proceedings in error and that it extends to such amendment as was here sought. The cases have been intelligently collected by counsel and they will be found in the reporter’s abstract of the briefs.
+The action of the circuit court in dismissing the petition in error was in accordance with the decision in McGuire et al. v. Ranney, 49 Ohio St., 372. But in that case the statute authorizing service of summons in error upon the attorney of record in the original case, and authorizing such counsel in writing to waive the issuance of summons, does not appear to have been cited by counsel nor considered by the court. The basis of the conclusion reached in that case was thus stated by the court: “The decease of the defendant in error terminated the authority of the attorneys of record in the original case, and hence the entry of appearance on the petition in error is without legal effect.” However obviously that proposition comports with the general law of agency it cannot be reconciled with the statutory provisions above cited, nor with the considerations which should control in the administration of remedial statutes. That case is overruled: The order of the circuit court will be reversed and the cause will be remanded to that court with instruction to overrule the motion to dismiss the petition in error and grant the motion to amend and for further proceedings.
+Judgment reversed.
+Summers, C. J., Crew, Spear, Davis and Price, JTJ., concur.
