@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-597"
+decided: "1971-07-21"
+citations: ["27 Ohio St. 2d 264"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Duncan, Stern and Leach, JJ., concur.", "O’Neill, C. J., Herbert and Corrigan-, JJ., dissent."]
+parties: ["[The State, ex rel.] Owens, Appellant, v. Campbell, Sheriff, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/27/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705333
+cites_cases: ["397 U. S. 436"]
+---
+
+# State ex rel. Owens v. Campbell
+
+## Majority (Sohneider, J.)
+
+Sohneider, J.
+Presented is a substantive proposition interwoven with a procedural question. The latter is the more compelling for the reason that the Supreme Court of the United States has written a prescription for the solution of the former in Ashe v. Swenson (1970), 397 U. S. 436, 25 L. Ed. 2d 469, 90 S. Ct. 1189. It remains for us to apply the law of that case to the instant record and to decide whether appellant’s choice of forum was correct. We find ihat appellant demonstrates a federal constitutional right for the enforcement of which Ohio affords him no remedy in the ordinary course of the law.
+The petition for a writ of habeas corpus filed in the Court of Appeals alleges that appellant was indicted separately for breaking and entering an inhabited dwelling in the night season, assault with a dangerous weapon, and rape. All three charges arose from the same incident in which someone broke into the apartment occupied by a man and his wife, demanded money, assaulted them and raped the wife.
+Appellant was tried on the breaking and entering charge by a jury which returned a general verdict of not guilty. The petition prayed for discharge from his imprisonment by the sheriff pending the trial of the other charges.
+The answer of the prosecuting attorney on behalf of appellee does not join the issues. It is argumentative in form and is directed to the proposition that since the rape and assault charges were not litigated, the issue of the identity of the perpetrator of those offenses was not reached and that Ashe v. Swenson, supra (397 U. S. 436), is distinguishable because it involves several victims of the same criminal act, whereas here several distinct crimes were committed upon two different victims and proof of the elements of one does not necessarily include proof of the others.
+The Court of Appeals denied the writ without reasons given therefor, and the petitioner appealed to this court as a matter of right.
+The transcript of the evidence of the trial for breaking and entering is a part of the record upon appeal in this case. . It shows that the uncontradicted testimony of the victims was that all three offenses were committed in rapid succession by the same person. A police officer, who inspected the scene after the couple were taken to the hospital, confirmed the fact of forcible entry, a disarray in the rooms and a blood-spotted bed. The victims’ testimony as to the identity of the accused was conflicting and contra^ dictory. The defense offered no testimony to the jury. Defense counsel made no attempt to question the testimony regarding the fact that the crimes were committed.
+In this situation, Ashe v. Swenson, supra (397 U. S. 436, 444), “requires a court to ‘examine the record of a prior proceeding, taking into account the pleadings, evidence, charge, and other relevant matter, and conclude whether a rational jury could have grounded its verdict upon an issue other than that which the defendant seeks to foreclose from consideration.’ ”
+It appears to us that, in the words of Mr. Justice Stewart, in Ashe v. Swenson, supra (397 U. S. 436, 445), “the single rationally conceivable issue in dispute before the jury was whether the . . . [appellant] had been . . . [the burglar, assailant and rapist]. And the jury by its verdict found that he had not.”
+The trial judge, ruling upon appellant’s subsequent motion for dismissal of the assault and rape charges and upon the motion for reconsideration of that ruling, commented that the jury “could well have found that there was no breaking or entering or that there was no intent.” Of course, they could have so found. But it is an irrational inference based upon this record. Furthermore, if there was no breaking, it would be only rational to conclude that there was no assault and rape.
+The sole remaining question is: To what forum, and in what forum, should the appellant have addressed his right? Some of the members of this court are of the opinion that R, C. 2943.03 et seq, furnishes the answer, i, e., pleas of once in jeopardy or former judgment of acquittal or conviction of the offense. But, neither those statutes nor the entire statutory criminal procedure of this state comprehend the doctrine of collateral estoppel. Moreover, a direct appeal from an adverse finding on the question of jeopardy, is not authorized. Thus, the accused is’ forced to run the gauntlet a second time. However, .compare Civil Bule 19.1.
+The majority of the court, therefore, agree that, normally, an extraordinary writ is the proper remedy, jurisdiction of which is conferred upon the appellate courts, and this court, for the express purpose of supervision of the lower courts and of the executive branch in matters demanding pre-emptory attention, adjudication and disposition. Although the county sheriff is the nominal party here, the prosecuting attorney, as the representative of the state and the statutory counsel to all county officers, including the judges thereof, is counsel of record. B. C. 309.09. Thus, all the ingredients are present for the exercise of an adjudicatory, as opposed to an advisory, function and we do not fear that any officer or judge would consider himself not bound by the adjudication by reason of his absence as a direct party hereto.
+Appellant admits that since the commencement of this action he has been convicted of a separate and unrelated offense, and is, pursuant to that conviction, in the actual custody of the warden of the Ohio Penitentiary. This does not render the cause moot. The controversy remains real and alive.
+We might, in the exercise of jurisdiction recently granted to this court by Section 2(B)(1)(f) of Article IV of the Ohio Constitution, retain the case until the warden has been added as a further party. The sole effect of that device would be to introduce the attorney general, on the warden’s behalf, to an unfamiliar case and to one in which he does not have primary responsibility.
+Bather than affirm the trial court on the ground of lack of a proper nominal party or for failure of appellant to label correctly his invocation of the Court of Appeals’ proper original jurisdiction, we reverse the judgment entered by it and enter that which it ought to have rendered, namely, that the petitioner-appellant be released from custody on the instant indictments. Further, the Court of Common Pleas of Summit County and the prosecuting attorney thereof are bound thereby to dismiss the indictments now pending against appellant, with prejudice.
+Judgment reversed. .
+Duncan, Stern and Leach, JJ., concur.
+O’Neill, C. J., Herbert and Corrigan-, JJ., dissent.
+Thereupon, appellant filed motions to quash the remaining indictments, which motions were overruled. He next filed for a writ of prohibition in the Court of Appeals for Summit County which was dismissed. Following the decision of the United States Supreme Court in Ashe v. Swenson, supra, he filed a motion to reconsider the ruling on the motions to quash the indictments, which motion to reconsider was also overruled.
+Appellant then filed a petition for habeas corpus and a motion to stay the proceedings in the state court in the United States District Court for the Northern District of Ohio. The stay of proceedings was granted pending petitioner’s initiating the present proceedings in the Court of Appeals,
