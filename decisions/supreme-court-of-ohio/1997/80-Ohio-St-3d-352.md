@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-743"
+decided: "1997-12-03"
+citations: ["80 Ohio St. 3d 352"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State ex rel. Eaton Corporation, Cross-Appellant and Cross-Appellee, v. Industrial Commission of Ohio, Cross-Appellee; Baker, Cross-Appellee and Cross-Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/80/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1132485
+cites_cases: ["15 OBR 134", "15 Ohio St.3d 34", "23 O.O.3d 518", "40 Ohio St.3d 321", "40 Ohio St.3d 404", "433 N.E.2d 586", "472 N.E.2d 328", "533 N.E.2d 344", "534 N.E.2d 46", "69 Ohio St.2d 630"]
+---
+
+# State ex rel. Eaton Corp. v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Two distinct compensation awards are at issue. Claimant contests the vacation of temporary total disability compensation paid October 25, 1986 to August 27, 1992. Eaton objects to the award of permanent total disability compensation. We reject both challenges.
+The commission found claimant to be medically incapable of sustained remunerative employment and, as a result, properly dispensed with nonmedical analysis. See State ex rel. Lawrence v. Am. Lubricants Co. (1988), 40 Ohio St.3d 321, 533 N.E.2d 344. In awarding permanent total disability compensation, it relied on reports from Drs. Zacour and Kraus — reports which Eaton claims are not “some evidence” supporting the payment of compensation. Eaton’s assertion is unpersuasive.
+Dr. Kraus unequivocally stated that claimant could not do sustained remunerative employment due to the allowed conditions. Eaton nevertheless challenges his report.
+Eaton initially criticizes Dr. Kraus for not discussing claimant’s nonallowed degenerative condition and for not specifically excluding it from his disability assessment. This criticism is meritless for two reasons. First, a doctor is not required to expressly state that a nonallowed condition was not factored into his/her impairment assessment. It is enough for the doctor to attribute the impairment to the allowed conditions. Second, as the court of appeals wrote, “Since Dr. Kraus, in his examination, did not indicate he found any evidence of such disease, he could not be expected to comment on it, and his failure to do so does not call into question the value of his report as some evidence to support a finding of permanent total disability.” Contrary to Eaton’s representation, Dr. Kraus is not bound by Dr. Zacour’s opinion that claimant’s condition had a degenerative component. Dr. Kraus was an examining, not reviewing, physician and was, therefore, bound only by his own findings, not the findings of others.
+In this same vein, Eaton argues that Dr. Kraus’s reference to claimant’s “allowed conditions and their complications ” (emphasis added) is so suggestive of inclusion of nonallowed conditions as to merit the report’s disqualification. This argument, too, fails. Nothing in the report suggests that by “complications” Dr. Kraus meant nonallowed conditions. Dr. Kraus’s report never referred to any nonallowed conditions. To the contrary, it discussed in considerable detail the symptomatology arising from the allowed conditions. As the referee aptly observed:
+“While Dr. Kraus does not specify in his report what he means by the complications of the allowed conditions of the claim, this does not necessarily mean that Dr. Kraus relied upon nonallowed conditions to support his finding. In his report, Dr. Kraus extensively discusses the pain resulting from claimant’s industrial injury and the treatments that have been rendered to alleviate the pain. Dr. Kraus also extensively discusses how the industrial injury limits [claimant’s] ranges of motion with respect to her right shoulder and how there is reduced sensation in the right upper extremity. These are apparently the complications that Dr. Kraus is referring to when he states that the allowed conditions and their complications render the claimant unable to perform any sustained remunerative employment. There is simply no other evidence in Dr. Kraus’s report, and none that relator has pointed out, to indicate that the word complications refers to any other matter. Under such circumstances, Dr. Kraus’s reference to complications need not be a reference to nonallowed conditions of the claim.” (Emphasis sic.)
+Eaton also apparently advocates different standards of review for claims allowed for internal as opposed to external ailments. Eaton seems to assert that certain conditions demand certain diagnostic tests, the absence of which should disqualify the report. We reject this argument, since Eaton is effectively asking us to second-guess a doctor’s medical expertise by substituting our judgment for that of the doctor as to what medical procedures are necessary.
+Dr. Kraus’s report is, therefore, “some evidence” supporting the commission’s award of permanent total disability compensation.
+The second issue before us involves the commission’s award of temporary total disability compensation from October 25, 1986 to August 27, 1992. When a claimant’s condition reaches maximum medical improvement (“MMI”) or becomes permanent, temporary total disability compensation is precluded. See State ex rel. Ramirez v. Indus. Comm. (1982), 69 Ohio St.2d 630, 23 O.O.3d 518, 433 N.E.2d 586; R.C. 4123.56. For many years, the commission — in response to the long interval between the filing and adjudication of permanent total disability motions — routinely extended temporary total disability compensation to claimants awaiting permanent total disability adjudication whose conditions had reached MMI. The present claimant received nearly six years of temporary total disability compensation pursuant to that policy.
+In 1988, we invalidated the commission’s practice. See State ex rel. Eaton Corp. v. Lancaster (1988), 40 Ohio St.3d 404, 534 N.E.2d 46. Claimant concedes that her award of temporary total disability compensation was inconsistent with the declaration of her condition’s permanency. She nevertheless vigorously opposes her employer’s attempt to have the award overturned.
+Claimant asserts that laches prevents Eaton from challenging the award of temporary total disability compensation. This assertion is incorrect. Laches is “ ‘an omission to assert a right for an unreasonable and unexplained length of time, under circumstances prejudicial to the adverse party.’ ” Connin v. Bailey (1984), 15 Ohio St.3d 34, 35, 15 OBR 134, 135, 472 N.E.2d 328, 329. That prejudice, moreover, must be material prejudice. Id. at 35-36, 15 OBR at 135, 472 N.E.2d at 329. Because claimant asserts no such prejudice, her argument cannot be sustained.
+Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
