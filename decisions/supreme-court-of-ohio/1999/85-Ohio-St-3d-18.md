@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "98-1814"
+decided: "1999-03-17"
+citations: ["85 Ohio St. 3d 18"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.", "Pfeifer, J., dissents and would affirm the judgment of the court of appeals."]
+parties: ["The State ex rel. Bona et al., Appellants, v. Village of Orange, Ohio, et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/85/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716691
+cites_cases: ["174 Ohio St. 11", "176 Ohio St. 288", "185 N.E.2d 438", "199 N.E.2d 596", "21 O.O.2d 35", "27 O.O.2d 200", "49 Ohio St.3d 102", "551 N.E.2d 150", "600 N.E.2d 240", "602 N.E.2d 622", "65 Ohio St.3d 175", "65 Ohio St.3d 40", "650 N.E.2d 859", "662 N.E.2d 339", "685 N.E.2d 1219", "685 N.E.2d 754", "689 N.E.2d 50", "690 N.E.2d 6", "700 N.E.2d 1234", "701 N.E.2d 371", "72 Ohio St.3d 411", "75 Ohio St.3d 381", "80 Ohio St.3d 224", "80 Ohio St.3d 255", "81 Ohio St.3d 1430", "81 Ohio St.3d 191", "83 Ohio St.3d 490", "83 Ohio St.3d 562"]
+---
+
+# State ex rel. Bona v. Village of Orange
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+P & Y contends that laches and mootness require dismissal of this appeal. For the following reasons, P & Y’s contention has merit.
+First, the Bonas did not act with the requisite diligence and promptness required in this election case. “ ‘Extreme diligence and promptness are required in election-related matters.’” State ex rel. Manos v. Delaware Cty. Bd. of Elections (1998), 83 Ohio St.3d 562, 563, 701 N.E.2d 371, 372, quoting In re Contested Election of November 2, 1993 (1995), 72 Ohio St.3d 411, 413, 650 N.E.2d 859, 862. If a party seeking extraordinary relief in an election-related matter .fails to act with the requisite diligence and promptness, laches may bar the action. State ex rel. Ascani v. Stark Cty. Bd. of Elections (1998), 83 Ohio St.3d 490, 493, 700 N.E.2d 1234, 1236.
+Even though the Bonas and the referendum petitioners requested that Ordinance No. 1997-30 be submitted to the village electors at the November 3, 1998 general election and advised the court of appeals that time was of the essence, they delayed thirty-five days to file their notice of appeal from the court of appeals’ judgment and another forty days following the record transmittal to file their merit brief, which was the same date as the November 3, 1998 general election at which they requested that the ordinance be considered by village electors as a referendum issue. The Bonas also did not request expedited treatment of this appeal. By contrast, appellants in similar cases have taken steps to assure an expedited determination of their appeals. Cf. Keenan v. Leis (1998), 81 Ohio St.3d 1430, 689 N.E.2d 50 (motion to expedite granted and expedited briefing schedule set in appeal as of right); State ex rel. Sinay v. Sodders (1997), 80 Ohio St.3d 224, 685 N.E.2d 754 (appellants in election case filed motions for expedited briefing schedule and review of appeal, filed their merit brief within seven days of their notice of appeal, and filed their reply brief within five days of appellee’s merit brief, permitting the court to render determination in election-related appeal before the November 4, 1997 general election); State ex rel. Arnett v. Winemiller (1997), 80 Ohio St.3d 255, 685 N.E.2d 1219 (appellants in election case filed motions to expedite appeal and filed merit and reply briefs in time for court to render determination before the November 4, 1997 general election).
+Second, because the Bonas and the referendum petitioners requested that Ordinance No. 1997-30 be submitted to the village electors at the November 3, 1998 general election and that election has now passed, this appeal is moot. See, e.g., State ex rel. Gutierrez v. Trumbull Cty. Bd. of Elections (1992), 65 Ohio St.3d 175, 177, 602 N.E.2d 622, 623; State ex rel. Snider v. Stapleton (1992), 65 Ohio St.3d 40, 41-42, 600 N.E.2d 240, 241. This conclusion comports with the general rule that “election cases are moot where the relief sought is to have a name or an issue placed on the ballot and the election was held before the case could be decided.” In re Protest Filed by Citizens for the Merit Selection of Judges, Inc. (1990), 49 Ohio St.3d 102, 103, 551 N.E.2d 150, 151, citing State ex rel. Gyurcik v. Brown (1964), 176 Ohio St. 288, 27 O.O.2d 200, 199 N.E.2d 596, and State ex rel. Santora v. Bd. of Elections of Cuyahoga Cty. (1962), 174 Ohio St. 11, 21 O.O.2d 35, 185 N.E.2d 438; but, cf., State ex rel. Huebner v. W. Jefferson Village Council (1996), 75 Ohio St.3d 381, 662 N.E.2d 339, where the issue of mootness was not raised.
+This is also not a case in which the merit issues raised are capable of repetition yet evading review. Cf. In re Protest, 49 Ohio St.3d at 103, 551 N.E.2d at 151-152. If the Bonas had acted with the requisite diligence, the merits of their appeal would not have necessarily evaded review. Nor is this appeal still viable because the Bonas also requested in their complaint that the village council reconsider Ordinance No. 1997-30 so that if the council repealed it within thirty days after certification, no election would be necessary. There is no evidence in the record that suggests that the village council would have repealed Ordinance No. 1997-30. Mandamus will not issue to compel a vain act. State ex rel. Thomas v. Ghee (1998), 81 Ohio St.3d 191, 192, 690 N.E.2d 6, 7.
+Based on the foregoing, we dismiss this appeal due to laches and mootness.
+Appeal dismissed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.
+Pfeifer, J., dissents and would affirm the judgment of the court of appeals.
+. Section 3, Article VII of the village of Orange Charter provides:
+“Within ten (10) days after any referendum petition is filed, - the Clerk shall determine its sufficiency and if found sufficient, shall certify the same to the Council. Council shall, within thirty (30) days after such certification, reconsider such ordinance or resolution. If Council fails to repeal the ordinance or resolution within that thirty (30) days it shall submit such ordinance or resolution to a vote of the electors at the next general election occurring more than ninety (90) days after the certification of such petition by the Clerk. * * * ”
