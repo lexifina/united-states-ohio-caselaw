@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "3620"
+decided: "1896-03-24"
+citations: ["54 Ohio St. 646"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear, Shauck and Minshall, JJ., dissent."]
+parties: ["Commercial Gazette Job Printing Company v. Kline."]
+source_url: "https://static.case.law/ohio-st/54/cases/0646-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 50827
+---
+
+# Commercial Gazette Job Printing Co. v. Kline
+
+## Majority
+
+Judgment affirmed.
+Spear, Shauck and Minshall, JJ., dissent.
