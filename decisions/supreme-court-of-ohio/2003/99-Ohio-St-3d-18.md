@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2001-1796"
+decided: "2003-05-16"
+citations: ["99 Ohio St. 3d 18"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Cook, Lundberg Stratton and O’Connor, JJ., concur."]
+parties: ["The State ex rel. Ohio Treatment Alliance, Appellant, v. Paasewe et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/99/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 149135
+cites_cases: ["2002-Ohio-5305", "2003-Ohio-2449", "40 Ohio St.3d 44", "531 N.E.2d 678", "650 N.E.2d 469", "72 Ohio St.3d 401", "732 N.E.2d 383", "776 N.E.2d 51", "89 Ohio St.3d 407", "97 Ohio St.3d 25"]
+---
+
+# State ex rel. Ohio Treatment Alliance v. Paasewe
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Appellee-claimant Eric Paasewe was injured in a work-related accident on May 11, 2000, while employed by appellant Ohio Treatment Alliance (“OTA”), a residential treatment facility. His workers’ compensation claim was allowed for left-foot contusion, left-ankle contusion, left-shoulder sprain, and lumbar sprain.
+{¶ 2} Claimant first sought treatment with Dr. David Sampson on June 7, 2000. Dr. Sampson certified claimant as having been temporarily and totally disabled since May 11, 2000, even though he had not seen claimant initially until a month later. After a second examination on July 6, Dr. Sampson certified claimant as temporarily and totally disabled through July 9, 2000, releasing claimant to return to his former job with some restrictions on July 10, 2000.
+{¶ 3} Claimant returned on July 13 and worked without any reported medical problems on July 13, 14, and 15. On the morning of July 14, a coworker entered a client’s apartment to distribute medication and discovered claimant asleep under a blanket on the client’s sofa. Claimant was fired two days later for the offense.
+{¶ 4} The issue of temporary total disability compensation (“TTC”) came before a staff hearing officer of appellee Industrial Commission of Ohio on October 2, 2000. Claimant had presented a new C84 supplemental physician’s report from Dr. Sampson that certified a continuous period of disability from May 11, 2000, through October 11, 2000, despite the doctor’s prior release of claimant to work and claimant’s actual return to work. The hearing officer’s order, however, was based primarily on claimant’s discharge and its effect on eligibility for TTC. Despite OTA’s characterization of the separation as tantamount to a voluntary abandonment of employment, the hearing officer found that claimant’s discharge was not consistent with the requirements of State ex rel. Louisiana- Pacific Corp. v. Indus. Comm. (1995), 72 Ohio St.3d 401, 650 N.E.2d 469. Accordingly, the hearing officer found that the firing did not preclude TTC. Based on the C84s of Dr. Sampson, TTC was awarded. That order was administratively affirmed.
+{¶ 5} OTA asked the Court of Appeals for Franklin County to issue a writ of mandamus ordering the commission to vacate the award, alleging that the commission had abused its discretion in awarding 'TTC for a period after claimant’s discharge. The court of appeals disagreed and denied the writ, prompting OTA’s appeal to this court as of right.
+{¶ 6} The effect of a firing on eligibility for TTC has been clarified since briefing was completed in this case. State ex rel. McCoy v. Dedicated Transport, Inc., 97 Ohio St.3d 25, 2002-Ohio-5305, 776 N.E.2d 51, held that discharge — like a voluntary resignation — does not automatically bar TTC. McCoy involved terminations deemed to be voluntary abandonments of employment because they were the result of intentional misconduct. This immediately distinguishes it from the present case, in which the discharge was not shown to be tantamount to voluntary abandonment of employment and hence did not foreclose TTC. State ex rel. Rockwell Internatl. v. Indus. Comm. (1988), 40 Ohio St.3d 44, 531 N.E.2d 678. It is critical, however, to recognize that neither McCoy nor an involuntary termination renders the fact of firing completely irrelevant. To the contrary, in situations such as that now before us firing can still be material.
+{¶ 7} Cognizant of the medical implications involved, we have carefully scrutinized — and will continue to carefully scrutinize — claims for TTC that are close in time to a claimant’s termination, particularly where the claimant either had been released or had actually returned to the former position of employment. See State ex rel. McClain v. Indus. Comm. (2000), 89 Ohio St.3d 407, 732 N.E.2d 383. A determination of temporary total disability inherently declares that a claimant is medically unable to return to his or her former job. Where a claimant works that job on Wednesday morning, is fired on Wednesday afternoon, and alleges on Thursday morning that he or she is now temporarily and totally disabled, a single question emerges: what happened in 12 hours to transform a nondisabling condition into a disabling one? It is a situation that is — and will remain— inherently suspicious. As we observed in upholding denial of TTC in McClain:
+{¶ 8} “[CJlaimant reported for his regular shift on September 4, 1997, and did not complain of any work-prohibitive problems at that time. It was only after claimant tested positive for alcohol consumption that his condition suddenly became work-prohibitive.” Id. at 409, 732 N.E.2d 383.
+{¶ 9} Medical evidence will, therefore, be pivotal in determining eligibility for TTC when a claimant is fired near the time of a claimed disability. If documentation can, for example, indeed establish coincidental injury-related circumstances or demonstrate that the claimant’s return to work was not without continuing medical problems, then the claimant may be able to sustain his or her burden of proof. Many claimants, however, will have difficulty establishing that a sudden onset of “disability” that coincides with termination of employment is truly related to the industrial injury.
+Taft, Stettinius & Hollister, L.L.P., and C. Bradley Howenstein, for appellant.
+Norman J. Ullom-Morse, for appellee Eric Paasewe.
+Jim Petro, Attorney General, and Erica L. Bass, Assistant Attorney General, for appellee Industrial Commission.
+{¶ 10} The present claimant is no exception. Dr. Sampson on July 6, 2000, released claimant to return to work on July 10, and claimant returned to work on July 13. He worked without any reported problems on July 13, 14, and 15. On July 14, he was caught sleeping in a client’s room and was formally terminated on July 16 as a result. He now claims a new period of disability that coincidentally arose on the date of his discharge — a claimed disability for which claimant failed to seek treatment for a month.
+{¶ 11} Claimant’s medical evidence mentions nothing of a corresponding relapse or reaggravation. To the contrary, Dr. Sampson’s subsequent C84s in effect repudiate his earlier release to work without explanation and, in fact, ignore claimant’s actual return.
+{¶ 12} Within the space of a few hours, claimant asserts, his nondisabling condition deteriorated into a disabling one, on a date that coincided with his firing. His medical evidence is silent on this, consisting instead of an unexplained repudiation of an earlier release and a failure even to acknowledge claimant’s actual return. For this reason, we reverse the judgment of the court of appeals and order the commission to vacate the award of TTC.
+Judgment reversed and writ allowed.
+Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Cook, Lundberg Stratton and O’Connor, JJ., concur.
