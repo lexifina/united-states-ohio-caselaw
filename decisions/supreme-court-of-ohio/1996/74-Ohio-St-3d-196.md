@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-2194"
+decided: "1996-01-03"
+citations: ["74 Ohio St. 3d 196"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur."]
+parties: ["Pal, Appellant, v. Budget Commission of Hamilton County, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/74/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743348
+cites_cases: ["14 O.O.3d 209", "396 N.E.2d 767", "60 Ohio St.2d 50"]
+---
+
+# Pal v. Budget Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The only issue before this court is whether the BTA properly dismissed Pal’s appeal under R.C. 5705.341 for failure to join as necessary parties to the appeal the County Commissioners and the Mental Health Board.
+The Budget Commission contends that both the Mental Health Board and the County Commissioners should have been named as appellees, and that the failure to name them deprived the BTA of jurisdiction over the necessary parties. Pal on the other hand contends that the Budget Commission is the only necessary party to an appeal under R.C. 5705.341.
+R.C. 5705.341 provides that “[a]ny person required to pay taxes on real, public utility, or tangible personal property in any taxing district or other political subdivision of this state may appeal” certain actions of the county budget commission to the BTA. R.C. 5705.341 requires copies of the notice of appeal to be filed with the BTA, Tax Commissioner, county auditor and the fiscal officer of each taxing district or other political subdivision authorized to levy the tax at issue. While R.C. 5705.341 states specifically with whom copies of the notice of appeal must be filed, it is silent as to who must be named as necessary parties to the appeal.
+The Budget Commission, composed of the county auditor, county treasurer, and the prosecuting attorney (R.C. 5705.27), is a statutorily created administrative and ministerial body. Its function is generally to review the tax budget of the county and to certify for collection the appropriate taxes among the various subdivisions and other taxing units within the county. R.C. 5705.31. The Budget Commission is required by R.C. 5705.31 to examine each budget and determine the total amount of money to be raised in the county for purposes of each subdivision and other taxing units therein. Id.
+A single-county mental health board does not have the authority to levy taxes. R.C. 5705.01(C) and 5705.03. Therefore, it does not have the ability to propose any tax levy to the voters in its own name. The single-county mental health board must obtain its funds through the county commissioners because R.C. 340.07 designates the county commissioners as the tax-levying entity to make appropriations for a single-county mental health service district and because R.C. 5705.221(A) authorizes the county commissioners to levy a tax in excess of the ten-mill limitation for the benefit of that district. Thus, while the 1.99 mill levy passed by the Hamilton County voters was a levy proposed by the County Commissioners, it was a levy to fund the Mental Health Board. Any changes made by the Budget Commission to the 1.99 mill levy would affect the budgets of both the County Commissioners and the Mental Health Board, whose budget is part of the County Commissioners’ budget.
+The Budget Commission examined the budget of the County Commissioners, which included the budget for the Mental Health Board. Under R.C. 5705.32(A), the Budget Commission is to adjust the estimated amounts required from the general property tax for each fund, as shown by the budgets, to bring the tax levies required therefor within the limitations specified in R.C. 5705.01 to 5705.47. In this case the Budget Commission voted to reduce the mental health levy from 1.99 mills to 1.81 mills.
+This is a case of first impression for this court. Three principal sections provide for appeals from the actions of a budget commission: (1) R.C. 5747.55 allows appeals of the commission’s apportionments of the county’s undivided local government fund and undivided local government revenue assistance fund; (2) R.C. 5705.37 allows appeals by taxing authorities and certain other entities dissatisfied with any action of the county budget commission; and (3) R.C. 5705.341 allows appeals by taxpayers concerning the fixing of uniform rates, and the rate necessary to be levied. Of these three statutes, only R.C. 5747.55 contains an express provision identifying the necessary parties to the appeal. R.C. 5747.55(C)(3) and (D) require that subdivisions that are alleged to have received more than a proper share of the funds are to be named as appellees. It allows no changes to be made in the amount allocated to any subdivision not named as an appellee. R.C. 5747.55(D).
+R.C. 5705.37, like R.C. 5705.341, does not specify the necessary parties to an appeal. It merely states that copies of the notice of appeal must be filed with the BTA and the budget commission. It further states that the budget commission is to give notice of the appeal to all persons who were parties to the proceedings before the budget commission.
+In Berea City School Dist. v. Cuyahoga Cty. Budget Comm. (1979), 60 Ohio St.2d 50, 14 O.O.3d 209, 396 N.E.2d 767, we had to determine which parties were necessary parties for an appeal under R.C. 5705.37. To determine who the necessary parties were in Berea, we turned for guidance to another appeal statute, R.C. 5747.55, which had recently been amended to provide that the only necessary parties to an appeal under that statute were those subdivisions which were alleged to have received a disproportionate share of the tax millage. The similarities between appeals under R.C. 5747.55 and 5705.37 led us to conclude that the requirements for both should be uniform. Thus, we held that necessary parties under R.C. 5705.37 were those subdivisions within the county which are affected by the appeal.
+Applying these concepts to this case, it is clear that, while both the County Commissioners and the Mental Health Board are affected by the outcome of the appeal, only the County Commissioners represent a subdivision. Therefore, the County Commissioners should have been named as a necessary party in the appeal. This result allows the County Commissioners, the only subdivision affected by the outcome of the appeal, to present evidence and cross-examine witnesses.
+By this decision, R.C. 5747.55, 5705.37, and 5705.341 are now uniform in requiring that all tax-levying entities whose funding is affected by the outcome of an appeal under these sections of the Revised Code are necessary parties to an appeal to the BTA and must be named as appellees in the notice of appeal.
+Therefore, we hold that, in an appeal to the BTA under R.C. 5705.341 concerning a tax levy, the taxing entity or entities whose funding is affected by the outcome of the appeal must be named as appellees in the notice of appeal because they are necessary parties to the appeal.
+The decision of the BTA, being neither unreasonable nor unlawful, is hereby affirmed.
+Decision affirmed.
+Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
+. Although R.C. 5705.37 is never cited in Berea, it is clear from the BTA orders being appealed in that case that it is the statute being reviewed.
