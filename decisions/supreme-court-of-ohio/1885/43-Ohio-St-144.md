@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1885-01"
+citations: ["43 Ohio St. 144"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Teeters v. Lamborn."]
+source_url: "https://static.case.law/ohio-st/43/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 920624
+cites_cases: ["10 Hun. 66", "11 Iowa, 87", "11 Ohio, 444", "124 Mass. 254", "14 Ohio St. 372", "26 Ill. 282", "26 N. J. Eq. 504", "30 Ohio St. 389", "30 Ohio St. 405", "36 Mo. 384", "39 Ohio St. 607", "4 Ohio St. 191", "40 Ohio St. 347", "51 Conn. 89", "6 Gray, 317", "69 N. Y. 280", "73 N. Y. 215", "73 N. Y. 315", "76 N. Y. 274", "8 Ohio St. 215", "94 N. Y. 611"]
+---
+
+# Teeters v. Lamborn
+
+## Majority (McIlvaine, G. J.)
+
+McIlvaine, G. J.
+Ve will first consider the questions raised by the demurrer to the petition in case No. 970. The cause of action contained therein may be stated thus: The defendants, in consideration that plaintiff would release them from personal liability on the note held by him against them, and look to the mortgage security solely for his pay, promised the plaintiff to remove and discharge the prior lien of Hull upon the mortgaged premises, so that the plaintiff’s mortgage would become the first lien thereon. The debt for which Hull held a lien was the defendants’ debt, and they were the owners of the equity of redemption.
+The plaintiff released the personal liability of defendants in writing, but the defendants failed to perform their promise. Hull’s mortgage was foreclosed and was held to be a prior lien to that- of plaintiff. Of'the proceeds of mortgaged premises Hull received $4,9-13.37, leaving a balance insufficient to satisfy plaintiff’s claim.
+We can see no defect in tbe cause of action thus stated. It is contended by plaintiffs in error that the petition did not state facts sufficient to constitute a cause of action, inasmuch as it did not aver “that defendants had agreed in writing to pay the debt due to Hull.” It was not necessary to so aver. The debt to Hull was their own debt and not the “debt of another.” The case was not within the •statute of frauds. It was sufficient to allege a verbal promise.
+It is also contended that it was not alleged that Lam-born had released defendants from personal liability on the note. We understand from the petition that such release was actually made.
+Eor error in sustaining the demurrer to this petition, we think the judgment of the court of common pleas was rightfully reversed by the district court.
+If the facts be as stated in the petition in case 970, or as stated in thq first defense in the answer in case 699, as they are admitted by the demurrer to be, the personal liability of defendants below' on the note sued on in case 699 can not be maintained, and as such personal liability is the only contention in 699, it would follow that the matter set up in the second defense in the answer in case 699 would be wholly unimportant and immaterial betw’een the parties. True, the demurrer to the first defense was sustained, but as final judgment in the case was rendered for the defendants, no complaint as to that.ruling on the demurrer was made in the district court and none is made here, yet it follow's from what has been said above as to the sufficiency of the petition in 970, that the demurrer to the first defense in 699 ought to have been overruled.
+The admission of the facts by the demurrer, however, is to be regarded only for the purposes of the demurrer, and if it turn out that the facts so pleaded be not true, the matters set up in the second defense, upon which issue was taken by reply, become material in the case.
+The matters relied on in the second defense raise this question : Where a mortgagor sells the mortgaged premises to a third person who, as part of the price, assumes and agrees with the mortgagor to pay the mortgage debt, of which assumption the mortgagee has notice, does an agreement with the purchaser by the mortgagee to extend the payment of the mortgage debt, without the consent of the mortgagor, discharge the mortgagor from personal liability to pay the debt?
+The question raised here does not involve the element of novation of the debt, as it is clear from the testimony that the mortgagee did not agree to accept the purchaser as his sole debtor.
+The point relied on by plaintiffs in error is, that after such assumption by the purchaser he becomes the principal debtor, and the maker of the note is his surety merely, so that the familiar doctrine applies, that the giving of additional time for payment by the creditor to the principal debtor, by a valid agreement between them, without.the knowledge or consent of the surety, releases the surety.
+The solution of this question, we think, depends upon another. It may be admitted that as between mortgagor and purchaser, the relation of principal and surety exists, but, whether the creditor is effected thereby is another question. We are aware that decided cases differ upon this point. Boardman v. Larrabee, 51 Conn. 89; Murray v. Marshall, 94 N. Y. 611.
+In our own state, the general doctrine is discussed in Ide v. Churchill, 14 Ohio St. 372, but the exact point is not decided. It is, however, laid down that “any material alteration of the terms of the agreement to which the surety acceded, made by a valid agreement between the principal parties, without his consent, will work his entire discharge from all liability; but where the original obligation remains unchanged, and only his equitable rights or remedies have been invaded by the wrongful act or omission of the creditor, he will be relieved only to the extent of his actual injury.”
+At the time the note in suit was executed, Teeters & Son became absolutely and in all events bound to Lamborn for the payment thereof. This obligation was without condition, and no alteration has been since made by the contracting parties.
+Teeters & Son afterward, for a valuable consideration, obtained a promise from a third person to pay the note, whereof the payee had notice, but he was not a party to this contract. True, he consented to receive payment if tendered from the third person, but he did not consent to look to such third person as his sole or even principal debtor. The obligation of the makers of the note as to him remained as it was when the note was executed.
+The fact that the creditor could enforce the promise of the purchaser by action in his own name does not change the legal relations between the parties. The right to such remedy on collateral securities held by the creditor would also exist, but the relation of creditor and principal debtor existing between the parties to the note is not thereby changed.
+No doubt any loss sustained by the debtor by reason of the extension of the time of payment given by the creditor to the purchaser would, pro tanto, discharge the debtor, but we can find no good reason for holding that the mere facts of such extension should, ipso facto, discharge the debtor from, his liability to pay the whole or any portion of the debt,-whether or not any loss resulted from such extension.
+The second defense does not allege auy loss or damage to the defendants by reason of the extension. We are of opinion, therefore, that it did not state facts sufficient-to constitute a defense to the action.
+Judgment affirmed.
