@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-710 and 80-711"
+decided: "1980-12-23"
+citations: ["64 Ohio St. 2d 237"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Locher and Holmes, JJ., concur."]
+parties: ["The State, ex rel. Hammond, Appellant, v. Industrial Commission of Ohio et al., Appellees. The State, ex rel. Jones, Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/64/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712308
+cites_cases: ["125 Ohio St. 197", "13 Ohio St. 2d 103", "138 Ohio St. 618", "139 Ohio St. 601"]
+---
+
+# State ex rel. Hammond v. Industrial Commission
+
+## Majority (Dowd, J.)
+
+Dowd, J.
+These two cases present the question of whether a worker’s permanent partial loss of hearing is com-pensable as a partial disability under the provisions of R. C. 4123.57(B).
+R. C. 4123.57 provides generally for three types of benefits where a worker suffers a permanent partial disability. R. C. 4123.57(A) grants an allowance of benefits where the “injury***resulting in partial disability***[results in an] impairment of his earning capacity.” Neither appellant has attempted any demonstration that he has suffered an impairment of his earning capacity.
+R. C. 4123.57(B) provides benefits for permanent partial disability which are more in the nature of general damages. See State, ex rel. Latino, v. Indus. Comm. (1968), 13 Ohio St. 2d 103; Young, Workmen’s Compensation Law of Ohio (2d Ed.), 144, Section 7.22. Proof of impairment of earning capacity is not a predicate for recovery under R. C. 4123.57(B). The first sentence of division (B) specifically states that the statute will provide for benefits for a disability “except such as is subject to division (C) of this section.”
+R. C. 4123.57(C) also provides for benefits which are in the nature of general damages, but for which the General Assembly has chosen to fix a specific award by allowing compensation at a specified level for a stated number of weeks, depending on the injury, such as 60 weeks for the loss of a thumb, 175 weeks for the loss of a hand and 200 weeks for the loss of a leg.
+R. C. 4123.57(C) expressly prohibits an award for less than a permanent and total loss of hearing of one ear.
+Thus it is apparent where, as here, a claimant suffers less than a permanent and total loss of hearing of one ear, recovery under R. C. 4123.57(C) is not authorized.
+The appellants argue that recovery for a permanent partial loss of hearing of one ear is nonetheless compensable under the provisions of R. C. 4123.57(B). It is their contention that all work-related injuries are compensable in some manner, and that those not provided for under R. C. 4123.57(C) are therefore eligible to be compensated for under one of the other divisions of that statute. In support of this argument, appellants cite State, ex rel. Young, v. Indus. Comm. (1942), 139 Ohio St. 601, and State, ex rel. Vosnosky, v. Indus. Comm. (1932), 125 Ohio St. 197, for the proposition that recovery may be had under more than one division for a single injury, where the injured worker’s earnings impairment is greater than the limitation provided by division (C).
+We have no disagreement with such a statement, made as it was under a statute which read differently and, indeed, was designed differently from the one presently before us. This does not, however, speak to the situation at hand. Divisions (B) and (C) serve similar purposes, i.e., the compensation of injuries which result in permanent partial disabilities to a worker. Certainly, the approaches taken by the two sections are different, but, when read together, they comprise a single scheme for the compensation of such injuries. R. C. 4123.57(C) provides an extensive schedule of specific awards to be made in a number of common, easily identifiable situations. Division (B) allows the determination of compensation in those instances where an uncommon injury occurs, one which does not fall within one of the specific categories contained within division (C).
+When thus viewed, the preliminary language of (B) becomes clear as a prescription to read the two divisions together. Any disability specifically provided for under (C) is not subject to compensation under the provisions of (B) to the extent that compensation is provided for in (C). Where an injury is not provided for under (C), then resort may be had to (B) to determine what compensation, if any, the injured worker is entitled to. Regarding an injury related to hearing, as with sight, the General Assembly has specified in (C) a threshold injury level, below which no compensation will be allowed.
+The effect of this scheme on the cases presently before us is clear. The fallacy in the argument of the appellants is to presume that no work-related permanent partial disability will be uncompensated. The General Assembly, however, has specified that no compensation will be paid under divisions (B) or (C) in the event of a partial loss of hearing, and it is our duty to enforce the scheme as it is designed.
+The dissent to the Court of Appeals’ opinion below argues that R. C. 4123.57(D) indicates that payments may be made under both (B) and (C) for a permanent partial disability involved in the same claim. It is easy to conceive of a situation where a person might be entitled to recovery under both divisions, e.g., a worker is badly burned, causing him to lose two fingers, and also slightly impairing the use of that arm. In this situation, presumably the worker would be compensated under division (C) for the loss of his fingers, and would look to division (B) for compensation related to the burn injury, an injury not covered, i.e., not “subject to division (C) of this section.” R. C. 4123.57(B). This does not, however, mean that division (B) may be applied when the injury is one of the subjects of division (C).
+Appellants also contend that such a reading of the statute results in a denial of equal protection of the laws. We do not find that the actions of the General Assembly in classifying the injuries as it did were clearly arbitrary or unreasonable. See State, ex rel. Lourin, v. Indus. Comm. (1941), 138 Ohio St. 618. A reasonable basis for the classification can be found in Young, Workmen’s Compensation Law, supra, 147, Section 7.27:
+“** * Partial loss of hearing statutes are particularly hard to administer because of the complicated standards that must be established to determine loss and exposure to hazard. A major.problem is encountered in knowing the efficiency of hearing prior to exposure to hazard.”
+In sum, we hold that a claim for workers’ compensation benefits for a partial loss of hearing will not be allowed under the permanent partial disability provisions of R. C. 4123.57(B) or (C).
+Accordingly, the judgments of the Court of Appeals denying the writs of mandamus are affirmed.
+Judgments affirmed.
+Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Locher and Holmes, JJ., concur.
+R. C. 4123.57(B) provides, in relevant part:
+“The district hearing officer, upon such application, shall determine the percentage of the employee’s permanent disability, except such as is subject to division (C) of this section, based upon that condition of the employee resulting from the injury or occupational disease and causing permanent impairment evidenced by medical or clinical findings reasonably demonstrable. * * * "
+R. C. 4123.57(C) provides, in relevant part:
+“In cases included in the following schedule the compensation payable per week to the employee shall be sixty-six and two-thirds per cent of his average weekly wage, but not more than a maximum of fifty per cent of the statewide average weekly wage as defined in division (C) of section 4123.62 of the Revised Code per week regardless of the average weekly wage, and not less than twenty-five per cent of the statewide average weekly wage as defined in division (C) of section 4123.62 of the Revised Code per week and shall continue during the periods provided in the following schedule:
+t( * * *
+“For the permanent and total loss of hearing of one ear, twenty-five weeks; but in no case shall an award of compensation be made for less than permanent and total loss of hearing of one ear.”
+R. C. 4123.57(C) states in part:
+“For the permanent partial loss of sight of an eye, such portion of one hundred twenty-five weeks as the commission may in each case determine, based upon the percentage of vision actually lost as a result of the injury or occupational disease, but, in no case shall an award of compensation be made for less than twenty-five per cent loss of uncorrected vision. * * * ”
+R. C. 4123.57(D) provides, in relevant part:
+“Compensation for partial disability under divisions (A), (B), and (C) of this section shall be in addition to the compensation paid the employee for the periods of temporary total disability resulting from the injury or occupational disease, but the amount of compensation paid for partial disability under division (A) of this section is not in addition to the compensation paid for permanent partial disability under division (B) or (C) of this section and the amount of compensation paid for partial disability under division (A) of this section shall be deducted from the amount of compensation payable for permanent partial disability under division (B) or (C) of this section for permanent partial disability involved in the same claim.”
