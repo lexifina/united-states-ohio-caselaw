@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1872-12"
+citations: ["23 Ohio St. 97"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Allen v. The First National Bank of Xenia, Ohio."]
+source_url: "https://static.case.law/ohio-st/23/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421505
+cites_cases: ["1 Ohio St. 321", "1 Ohio St. 41", "10 Ohio, 110", "11 Barb. 213", "11 Wall. 369", "13 Conn. 260", "14 Ohio, 56", "16 Me. 224", "17 Barb. 378", "17 Mass. 259", "17 Wis. 372", "19 Barb. 568", "2 Doug. 124", "2 Md. 171", "2 Pet. 527", "22 Conn. 502", "22 N. Y. 258", "22 N. Y. 259", "22 O. S. 493", "22 O. S. 502", "3 Blatchf. 367", "3 Rand. 136", "40 Penn. St. 439", "42 Me. 589", "5 Litt. 45", "5 Ohio St. 61", "6 Cow. 23", "6 Ohio St. 527", "7 How. 508", "7 Ohio, 35", "7 Wend. 31", "8 Ohio, 286", "8 Wheat. 338", "9 Ohio St. 27"]
+---
+
+# Allen v. First National Bank
+
+## Majority (White, C. J.)
+
+White, C. J.
+One of the assignments in error in this case has already been decided, at the present term, adversely to the plaintiff in error. The First National Bank of Columbus v. Garlinghouse et al., 22 O. S. 493.
+In considering that case, we had before us the argument in this ease of the counsel of the present plaintiff in error on the question then decided; and it is sufficient now to say, that we are satisfied with that decision.
+2. Another ground of error assigned is, that the notes sued on were taken by the defendant in error in violation of. section 30 of the national currency act of June 3, 1864-That section provides as follows:
+“ That the total liabilities to any association of any person, or of any company, corporation, or firm, for money borrowed, including in the liabilities of a company or firm the liabilities of the several members thereof, shall at no time exceed one-tenth part of the amount of the capital stock of such association actually paid in: Provided,, that the bona fide bills of exchange drawn against actually existing values, and the discount of commercial or business paper actually owned by the person or persons, corporation or firm negotiating the same, shall not be considered as-money borrowed.”
+We are not called on by the facts of this case to determine what would be the rights of the bank on a note or other.evidence of indebtedness given for money borrowed-of it in excess of the amount allowed by this section; for-we do not regard the notes sued on in this case as coming; within the operation of the section. 'The consideration .of the four notes in controversy was the two notes previously held by the bank against- Allen and his sureties. If these notes were valid, there could be no objection to the bank, if it saw proper, extending the time of payment for the convenience of Allen, the principal debtor, or to its taking other security in lieu of what it then held, to insure final payment.
+That the two previous notes were not' affected by the section of the statute in question, to us seems clear.
+The balance due on the note of $16,000 was for money borrowed by Allen of the Xenia Branch of the State Bank of Ohio before its conversion into a national bank. This indebtedness passed to and became the property of the defendant in error on its organization. The indebtedness, it is true, had been continued by renewals, and reduced by payments, from time to time. But the consideration of the note was at no time money borrowed of the defendant in error.
+The consideration of the note of $10,000 was for money originally borrowed of the bank by Merrick, McClure & Co. Of this indebtedness, Allen assumed to pay $14,000, and gave his note to the bank therefor. This amount was for more than one-tenth of the capital stock of the bank paid in. Allen’s note to the bank was from time to time renewed and reduced by payments, until this note of $10,000 was given.
+Assuming, for the purposes of this case (though not conceding the correctness of the assumption), that Allen’s note for $14,000 is to be regarded as given for money borrowed by him of the bank, and that the note for this amount would have been invalid; yet, if such were the case, it would not affect the validity of the note now under consideration. No part of the consideration was illegal in the sense of the maxim, ex turpi causa, non oritur actio. If invalid at all, it would be so simply from want of corporate capacity on the part of the' bank to make a contract in derogation of the authority conferred by its charter, and not because of any illegal element entering into the consideration of the note. First National Bank of Columbus v. Garlinghouse, 22 O. S. 502; Bissell v. The Michigan Southern and Northern Indiana R. R. Co., 22 N. Y. 259; Parish v. Wheeler, Ib. 494.
+Regarding Allen as having borrowed a larger sum of money from the bank than it was authorized to loan to him, its repayment was neither contra bonos mores, nor. forbidden by law. It was just and right for him to repay it. And having, by voluntary payments, reduced his apparent indebtedness below the amount which the bank was authorized to loan to a single borrower, the fact that it may have before taken his obligation for a loan in excess of its authority, can constitute no ground for his discharge from an obligation given to the bank for the balance, and which it was clearly within the corporate capacity of the bank to take.
+3. The remaining ground of error is the alleged invalidity of the mortgage.
+By section 28 of the national currency act, the defendant in error is authorized to purchase and hold such real estate as may be mortgaged to it in good faith, by way of security for debts previously contracted. .
+"We think the mortgage in this case comes within this provision of the statute. It was given to secure a debt previously contracted. The debt was valid to the extent of the principal sum included in the notes. The usury operated no further than to defeat the iuterest; and to the extent that there was a valid indebtedness, the mortgage was a bona fide security. The fact that time was given for payment, can make no difference.
+Nor do we think the objection is well taken that the mortgage was made to Merrick, and not assigned by him to the bank. The notes and mortgage were both made to Merrick, and the circumstances show this to have been done with his consent. The mortgage was a mere security for the payment of the notes; and both notes and mortgage were delivered to the bank in pursuance of an .arrangement made between it and Allen for extending time on his indebtedness, and for giving up the securities the bank then held. By the indorsement and delivery of the notes, the bank acquired the equity in the mortgage.
+Judgment affirmed.
