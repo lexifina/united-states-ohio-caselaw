@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "96-369"
+decided: "1996-02-22"
+citations: ["75 Ohio St. 3d 44"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.", "Douglas, J., concurs in judgment only."]
+parties: ["The State ex rel. Harbarger et al. v. Cuyahoga County Board of Elections."]
+source_url: "https://static.case.law/ohio-st-3d/75/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1746154
+cites_cases: ["649 N.E.2d 1205", "651 N.E.2d 995", "72 Ohio St.3d 289", "72 Ohio St.3d 581"]
+---
+
+# State ex rel. Harbarger v. Cuyahoga County Board of Elections
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In order to obtain a writ of prohibition, relators must establish that (1) the board is about to exercise judicial or quasi-judicial power, (2) the exercise of that power is legally unauthorized, and (3) denying the writ will result in injury for which no other adequate remedy exists in the ordinary course of law. State ex rel. Thurn v. Cuyahoga Cty. Bd. of Elections (1995), 72 Ohio St.3d 289, 291, 649 N.E.2d 1205, 1207. A protest hearing in election matters is a quasi-judicial proceeding. Id. Therefore, relators have established the first requirement for extraordinary relief in prohibition.
+Relators assert that the board’s attempt to hold a hearing on Capretta’s protests is unauthorized because of R.C. 3501.39, which provides:
+“(A) The secretary of state or a board of elections shall accept any petition described in section 3501.38 of the Revised Code unless one of the following occurs:
+“(1) A written protest against the petition or candidacy, naming specific objections, is filed, a hearing is held, and a determination is made by the election officials with whom the protest is filed that the petition is invalid, in accordance with any section of the Revised Code providing a protest procedure.
+“(2) A written protest against the petition or candidacy, naming specific objections, is filed, a hearing is held, and a determination is made by the election officials with whom the protest is filed that the petition violates any requirement established by law.
+. “(3) The candidate’s candidacy or the petition violates the requirements of this chapter, Chapter 3513. of the Revised Code, or any other requirements established by law.
+“(B) A board of elections shall not invalidate any declaration of candidacy or nominating petition under division (A)(3) of this section after the fiftieth day prior to the election at which the candidate seeks nomination to office, if the candidate filed a declaration of candidacy, or election to office, if the candidate filed a nominating petition.”
+R.C. 3501.39(A)(1) requires a hearing on a written protest against any petition or candidacy, at which election officials can determine the validity or invalidity of the petition “in accordance with any section of the Revised Code providing a protest procedure.” R.C. 3513.05, relating to declarations of candidacy and petitions in primary elections, provides the applicable protest procedure here, since Capretta protested relators’ petitions based on R.C. 3501.38(E) (“On each petition paper the circulator shall indicate the number of signatures contained thereon, and shall sign a statement made under penalty of election falsification and that he witnessed the affixing of every signature * * *.”). See R.C. 3513.05 (“[E]ach separate petition paper shall be governed by the rules set forth in section 3501.38 of the Revised Code.”).
+Protests against the candidacy of any person filing a declaration of candidacy “must be filed not later that four p.m. of the sixty-fourth day before the day of the primary election, or if the primary election is a presidential primary election, not later than four p.m. of the forty-ninth day before the day of the presidential primary election.” R.C. 3513.05. January 30 was the forty-ninth day before the March 19 primary, which is a presidential primary. Capretta’s protests were not filed until February 8 and, thus, were not timely pursuant to R.C. 3513.05 and 3501.39(A)(1).
+Further, the board lacks authority under R.C. 3501.39(A)(3) to sua sponte invalidate relators’ petitions, since the fiftieth day prior to the March 19 election, January 29, has passed. See R.C. 3501.39(B). In addition, the protestors cannot rely on the protest procedure in R.C. 3501.39(A)(2), which contains no time requirement, to circumvent the specific statutory protest procedure of R.C. 3513.05, as incorporated in R.C. 3501.39(A)(1). To hold otherwise would permit R.C. 3501.39(A)(2) to render R.C. 3501.39(A)(1) and incorporated statutory protest procedures a nullity, a result that the General Assembly could not have intended. R.C. 1.47(B) and (C) (“In enacting a statute, it is presumed that * * * [t]he entire statute is intended to be effective * * * [and a] just and reasonable result is intended[.]”). The board’s assertion that it possesses authority under R.C. 3501.11 to review petitions that might affect relators’ placement on the primary ballot even in the absence of a timely protest ignores the time limitations specified in R.C. 3501.39 and is meritless. Similarly, although the board now claims that any protest hearing would not affect the candidacies of four of relators, it did not so restrict the scope of the hearing originally scheduled for February 13.
+Consequently, the board’s attempt to hold a protest hearing on relators’ petitions is legally unauthorized under R.C. 3501.39 and 3513.05, insofar as it would rule on the validity of the petitions filed by relators and placement of their names on the primary election ballot. Nevertheless, as the Secretary of State contends, and relators do not seem to contradict, the board possesses authority under R.C. 3501.11(J) to investigate the alleged fraud and to refer its findings to the prosecuting attorney. See State ex rel. Herman v. Klopfleisch (1995), 72 Ohio St.3d 581, 586, 651 N.E.2d 995, 999 (“[W]hen an election statute is subject to two different, but equally reasonable, interpretations, the interpretation of the Secretary of State, the state’s chief election officer, is entitled to more weight.”). Therefore, the board may hold a hearing limited to investigating the alleged violation of R.C. 3501.38(E) pursuant to R.C. 3501.11(J).
+Finally, as to any unauthorized protest hearing to determine the validity of relators’ petitions, it is evident that if we deny the requested writ and the board subsequently determines that relators’ names should be removed from the March 19 ballot, any further action in the ordinary course of law to reverse the board’s decision would not provide complete, beneficial, and speedy relief to remedy the board’s unauthorized action. See, e.g., Thurn, supra, 72 Ohio St.3d at 292, 649 N.E.2d at 1208 (An injunction would arguably not constitute an adequate remedy, since any appellate process would not be finalized until following the election.).
+Accordingly, for the foregoing reasons, we grant relators a writ of prohibition to prevent the board from conducting a hearing pursuant to R.C. 3513.05 and 3501.39 on the protests or otherwise engaging in proceedings challenging the validity of the declarations of candidacy and petitions of relators.
+Writ granted.
+Moyer, C.J., Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
+Douglas, J., concurs in judgment only.
