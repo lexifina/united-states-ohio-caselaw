@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "00-1549"
+decided: "2001-01-17"
+citations: ["91 Ohio St. 3d 27"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Office of Disciplinary Counsel v. Allen."]
+source_url: "https://static.case.law/ohio-st-3d/91/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1149939
+cites_cases: ["Registration No. 0007261,"]
+---
+
+# Office of Disciplinary Counsel v. Allen
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In September 1983, respondent, Craig A. Allen of Ironton, Ohio, Attorney Registration No. 0007261, represented Paul E. Carman in negotiations with James Heald to transfer Carman’s D-5 liquor permit, assets, and inventory to Shadybrook Inn, a company that respondent was later to incorporate and in which he and Heald would each have a twenty-percent interest.
+In November 1983, respondent filed incorporation papers for Shadybrook Inn, Inc., which was to become the holder of the liquor permit when the Ohio Department of Liquor Control (“ODLC”) approved a transfer of ownership. In December 1983, respondent filed an application for transfer of location requesting that the liquor permit for Paul E. Carman, d.b.a. Myra Maes, be transferred to Paul E. Carman, d.b.a. Shadybrook Inn, at a different location. Respondent listed himself in the application as Carman’s attorney. The application to transfer location was approved, and Shadybrook Inn opened for business in February 1984.
+In March 1984, respondent submitted to the ODLC an application for transfer of ownership of the D-5 liquor permit from Paul E. Carman, d.b.a. Shadybrook Inn, to Shadybrook Inn, Inc., d.b.a. Shadybrook Inn. The ODLC returned the application unapproved, requesting a stockholders’ affidavit and a fingerprint card for Heald. Respondent waited until December 1985 to resubmit the application for transfer of ownership, indicating at that time that he was representing both the seller, Paul E. Carman, and the buyer, Shadybrook Inn, Inc.
+In the meantime, in mid-1984, Carman had moved to Kentucky, having been advised by respondent that the transfer of ownership of the license was in process. Carman remained in Kentucky from 1984 until 1993. Respondent sent correspondence to Carman in April and June 1984 and in January 1986, but otherwise did not write to, speak to, or meet with Carman while he was in Kentucky.
+Although Carman believed he had transferred the assets of Shadybrook Inn and was not involved in its operation, the ODLC sent annual renewal applications for the liquor permit to Carman “d.b.a. Shadybrook Inn” at the company’s Ohio location. From 1984 through 1992, respondent signed renewal applications for the liquor permit in order that it not expire. In 1984, he signed as agent for Paul E. Carman, d.b.a. Shadybrook Inn; in 1985 and 1986, he signed Paul E. Carman’s name as “president” of Shadybrook Inn; and from 1987 through 1992, he signed the application as “Craig Allen, Secretary,” in each case representing that no one other than the permit holder had an interest in the business. Respondent was the secretary of Shadybrook, Inc., but not the secretary of Paul E. Carman.
+In May 1992, the ODLC rejected both the application for transfer of ownership and the application for renewal of the license. Because the license had remained in Carman’s name, in 1992 the Ohio Bureau of Employment Services filed liens against him for $9,566.49 for Shadybrook’s unpaid BES contributions. By July 1998, the BES liens against Carman for the operation of Shadybrook Inn amounted to $36,476.44, which Shadybrook, Inc. settled in full that same month. Shadybrook Inn also accrued sales tax deficiencies during this same period, which Shadybrook, Inc. paid in May 1995.
+Some of the contribution deficiencies were accrued during the period beginning in January 1991, when respondent as secretary of Shadybrook, Inc., without the knowledge of Carman, entered into a two-year lease agreement with Terri Harrison and Kevin Tolley. As the reputed secretary of Paul E. Carman, Inc. and Shadybrook, Inc., respondent hired Harrison and Tolley as managers of the inn. In fact, the Ohio Secretary of State had cancelled the charter of a corporation known as P.E. Carman, Inc. in January 1986 for failure to pay franchise taxes, respondent was never secretary of P.E. Carman, Inc., and the license was never in the name of P.E. Carman, Inc.
+On August 23, 1999, relator, Office of Disciplinary Counsel, filed a six-count complaint charging that respondent’s conduct in these matters violated numerous provisions of the Code of Professional Responsibility. Respondent answered and the matter was referred to a panel of the Board of Commissioners on Grievances and Discipline of the Supreme Court (“board”).
+The panel concluded that respondent’s representation of Carman in the sale of assets to Shadybrook, Inc., in which he had an interest, his actions that resulted in the accrual of BES employment contributions and sales taxes against Carman, and his 1991 lease on behalf of Carman all violated DR 5-101(A)(l) (except with consent after full disclosure a lawyer shall not accept employment if the exercise of his professional judgment may be affected by the lawyer’s personal interests). It concluded that respondent’s twenty-one-month delay between the March 1984 submission of the original application for transfer of the liquor license until the December 1985 application violated DR 6-101(A)(3) (a lawyer shall not neglect an entrusted legal matter). It said that respondent’s failure to take prompt steps to remove the tax liens that accrued against Carman also violated DR 6-101(A)(3). It further concluded that respondent’s signing of Carman’s name and representing that he was Carman’s agent on liquor renewal applications, which should have been signed by the permit holder, and his false representations in general to the ODLC violated DR 1-102(A)(4) (a lawyer shall not engage in conduct involving dishonesty, fraud, deceit, or misrepresentation). Finally, it concluded that all of respondent’s actions violated DR 1-102(A)(6) (a lawyer shall not engage in conduct that adversely reflects on the lawyer’s fitness to practice law).
+The panel noted that respondent had been a lawyer for thirty-three years with no prior disciplinary violation, that he cooperated completely in the investigation, and that numerous letters attested to respondent’s good character. Consequently, the panel recommended that respondent be suspended from the practice of law for eighteen months with nine months stayed. The board adopted the findings, conclusions, and recommendation of the panel.
+Jonathan E. Coughlan, Disciplinary Counsel, and Dianna M. Anelli, Assistant Disciplinary Counsel, for relator.
+Geoffrey Stem and Christopher J. Weber, for respondent.
+We adopt the findings, conclusions and recommendations of the board. Respondent is hereby suspended from the practice of law for eighteen months with nine of those months stayed.
+Judgment accordingly.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
