@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-2208 and 88-1282"
+decided: "1990-02-28"
+citations: ["49 Ohio St. 3d 123"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Wright, H. Brown and Resnick, JJ., concur.", "Douglas, J., concurs in judgment only."]
+parties: ["Ohio Bell Telephone Company, Appellant, v. Public Utilities Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/49/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422547
+cites_cases: ["14 OBR 444", "14 Ohio St. 3d 49", "25 Ohio St. 2d 11", "266 N.E. 2d 838", "326 N.E. 2d 651", "40 Ohio St. 3d 184", "42 Ohio St. 2d 122", "43 Ohio St. 3d 96", "471 N.E. 2d 475", "532 N.E. 2d 1307", "538 N.E. 2d 1049", "54 O.O. 2d 154", "71 O.O. 2d 85"]
+---
+
+# Ohio Bell Telephone Co. v. Public Utilities Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Ohio Bell contends the commission erred in finding that it provided Carpet Color with legally inadequate telephone service. We disagree and affirm the orders of the commission.
+In the proceeding below, the burden rested upon Carpet Color to demonstrate, by a preponderance of the evidence, that the telephone service provided by Ohio Bell was inadequate. See, e.g., Ohio Bell Tel. Co. v. Pub. Util. Comm. (1984), 14 Ohio St. 3d 49, 14 OBR 444, 471 N.E. 2d 475; Boyle-Midway v. Pub. Util. Comm. (1971), 25 Ohio St. 2d 11, 54 O.O. 2d 154, 266 N.E. 2d 838, and the cases therein cited.
+Ohio Bell maintains that with respect to causation, the commission adopted a res ipsa loquitur approach, or indulged in a presumption at law, which effectively shifted the burden of proof from Carpet Color to Ohio Bell. It reasons that Carpet Color should have been required not only to demonstrate the existence of numerous service problems, but also to “present direct factual evidence of fault,” while Ohio Bell, in order to prevail, should not have been required to “conclusively prove” that Carpet Color’s facilities were, or that Ohio Bell’s own facilities were not, defective. Ohio Bell concludes that because the commission defined and applied an inappropriate burden of proof, the evidence was not properly weighed.
+Thus, we initially must decide whether the commission properly defined Carpet Color’s burden of proof. In the September 9, 1987 order, Carpet Color was required to demonstrate only “problems to such a degree as to be tantamount to inadequate service.” Although evidence of a particular type of problem may be of probative value for purposes of demonstrating fault, we do not believe that causation can reasonably be inferred from the number of problems alone. Accordingly, we find that the commission did not properly state Carpet Color’s burden of proof.
+However, even though the commission misstated Carpet Color’s burden of proof, we do not find reversible error. Carpet Color did not rest its case only on a showing of numerous problems but presented sufficient evidence to sustain its burden of proof on the issue of causation. Therefore, Ohio Bell has not been prejudiced by the commission’s error. Absent a showing of prejudice, we will not reverse an order of the commission. See, e.g., Allen v. Pub. Util. Comm. (1988), 40 Ohio St. 3d 184, 187, 532 N.E. 2d 1307, 1311.
+At the hearings below, Carpet Col- or introduced extensive evidence demonstrating that it had experienced numerous, serious telephone service problems that continued, uncorrected, for many years; that the Ohio Bell cable serving Carpet Color was not in satisfactory condition and could be causing the difficulties; that there was not a working non-defective cable pair in one of the two cables serving Carpet Color; that cable splices were not in good condition; and that the same service problems occurred prior to, and after, installation of the Toshiba system, and when this terminal equipment was bypassed for testing.
+Ohio Bell argues that this evidence is not sufficient. It reasons that because the problems could have been caused by other than Ohio Bell’s facilities or equipment, Carpet Color should have been required to “present direct factual evidence of fault.” However, in Westinghouse Electric Corp. v. Dolly Madison Leasing & Furniture Corp. (1975), 42 Ohio St. 2d 122, 71 O.O. 2d 85, 326 N.E. 2d 651, we rejected a similar argument.
+In Westinghouse, the primary issue was whether a defendant was entitled to a directed verdict on the ground that there was insufficient evidence from which the jury could infer that careless smoking was the cause of a fire. The only evidence of causation was circumstantial evidence and expert testimony. The defendant argued that careless smoking was only one of several equally probable causes, and that plaintiffs failed to effectively eliminate those causes. The jury awarded a judgment for the plaintiffs, but the court of appeals reversed. We reversed the court of appeals, explaining that because there was sufficient proof offered from which it was reasonable to infer that the fire was caused by the negligence of defendant’s employee, the fact that other causes of the fire were possible did not prevent an inference of defendant’s liability. Westinghouse, supra, at 128-129, 71 O.O. 2d at 89, 326 N.E. 2d at 656-657.
+Accordingly, it was not incumbent upon Carpet Color to present “concrete evidence” eliminating each possible cause that was suggested by Ohio Bell. It was only necessary for Carpet Color to introduce sufficient proof from which the commission could reasonably infer that the complained-of problems were caused by the equipment or facilities of Ohio Bell. As indicated above, Carpet Color introduced testimony establishing that there were defects in Ohio Bell’s cable, and that these defects could be causing the problems. From this, the commission could reasonably infer that Ohio Bell was at fault.
+Last, Ohio Bell argues that it should not have been required to “conclusively prove” that Carpet Color’s facilities were, or that Ohio Bell’s own facilities were not, defective. However, from a review of the May 17, 1988 entry, it is clear that Ohio Bell was only required to present sufficient evidence refuting the testimony regarding the deficiencies in its own equipment and facilities. The commission’s determination that Ohio Bell failed to refute this testimony does not appear to be manifestly against the weight of the evidence or so clearly unsupported by the record as to show misapprehension, mistake, or willful disregard of duty. See, e.g., Atwood Resources, Inc. v. Pub. Util. Comm. (1989), 43 Ohio St. 3d 96, 102, 538 N.E. 2d 1049, 1055.
+In that the finding of inadequate telephone service is neither unreasonable nor unlawful, we affirm the orders of the commission.
+Orders affirmed.
+Moyer, C.J., Sweeney, Holmes, Wright, H. Brown and Resnick, JJ., concur.
+Douglas, J., concurs in judgment only.
+We recognize that the burden-of-proof standard set forth in the September 9,1987 order is the same as that which was before us in Ohio Bell, supra. However, because we resolved that case without reaching the issue of causation, we find it unnecessary to reconcile Ohio Bell with today’s decision.
