@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "85-216"
+decided: "1986-04-09"
+citations: ["23 Ohio St. 3d 53"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur."]
+parties: ["The State, ex rel. Bailey, Appellee, v. Industrial Commission of Ohio et al.; Anchor Template Die Company, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/23/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1822552
+cites_cases: ["136 Ohio St. 440", "15 Ohio St. 3d 73", "17 O.O. 220", "6 Ohio St. 3d 295"]
+---
+
+# State ex rel. Bailey v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The question presented in this appeal is whether the court of appeals erred by granting a writ of mandamus ordering the Industrial Commission to conduct a hearing on appellee’s application for an additional award for a specific safety requirement violation. On an appeal as a matter of right from a judgment of the court of appeals in an action for an extraordinary writ, we must review the judgment as if the action had been originally filed with this court. State, ex rel. Halloran, v. Zapatony (1984), 15 Ohio St. 3d 73, at fn. 2. The standard for review of an action in mandamus is well-established. A writ of mandamus will only issue if the party seeking the writ establishes that (1) relator has a clear legal right to relief prayed for, (2) there is a clear legal duty on respondent to act, and (3) relator has no plain and adequate remedy at law.
+For the following reasons we find that appellee has not established his clear legal right to a hearing before the commission based on his application in its present form. We do find, however, that appellee has established a clear legal right to amend his application in order to comply with Ohio Adm. Code 4121-3-20, despite the running of the statute of limitations for such amendments.
+In reaching the above conclusions we first examine whether appellee’s application for an additional award was specific enough to put appellant and the commission on notice as to which safety requirements were allegedly violated. Ohio Adm. Code 4121-3-20 sets forth procedural requirements concerning applications for specific safety requirement violations as follows:
+“(A) An application for an additional award of compensation founded upon the claim that the injury * * * resulted from the failure of the employer to comply with * * * [a] specific [safety] requirement * ^ * must be filed * * * with the industrial commission, within two years of the injury * * *. Such applications should set forth the facts which are the basis, of the alleged violation and shall cite the section or sections of the law or code of specific safety requirements which it is claimed have been violated. i(* * *
+“(D) * * * Within thirty days from the receipt of the investigation report, the claimant may amend his application to include any violation demonstrated by the investigation, but in no event more than two years from the date of the injury.”
+This court in State, ex rel. Dillon, v. Dayton Press, Inc. (1983), 6 Ohio St. 3d 295, interpreted the above provisions and concluded that it is not essential to the procedural validity of an application for an additional award that the application cite by number a specific Ohio Administrative Code section. The Dillon court at 299 stated that the claimant’s detailed statements of the accident were sufficiently explicit to put the commission and the employer on notice as to which specific safety requirements were claimed to have been violated.
+In the instant case, as in Dillon, appellee cited no specific safety requirement. Instead appellee cited an entire chapter of requirements. Under the Dillon interpretation of Ohio Adm. Code 4121-3-20(A), if appellee had included in his application a detailed description of the circumstances surrounding the accident, his failure to cite a specific regulation would not have been error. Appellee, however, gave only a “cryptic” description of the accident. This lack of description in conjunction with the failure to cite a specific regulation indicates that appellant and the commission were not sufficiently notified of the claimed violation. Without access to appellee’s perception of the accident or a specific administrative code section, appellant would be hard pressed to construct any defense other than disproving violations of every regulation in the cited chapter. Therefore, absent both a detailed description of the accident and designation of a violation of a specific code section on appellee’s application, we conclude that appellant and the commission were not sufficiently notified of the alleged violation of the safety code.
+We next turn to the question of whether appellee should be permitted to amend his application despite the expiration of the two-year statute of limitations set forth in Ohio Adm. Code 4121-3-20. The Dillon court, relying on Kaiser v. Indus. Comm. (1940), 136 Ohio St. 440 [17 O.O. 220], noted with regard to the two-year statute of limitations for amending applications that “* * * technical rules of procedure should not be allowed to defeat an otherwise valid claim * * *.” The Kaiser court at 445-446 reasoned as follows:
+“* * * A petition in a civil action may be amended after the running of the statute of limitation provided the cause of action is not changed, upon the theory that the amended pleading relates back to the commencement of the action. * * * If a petition, which is governed by more or less technical rules of pleading, may be so amended, a fortiori, an application for compensation not governed by technical rules may be.
+“* * * [Occasions may arise in which an amendment may be necessary by reason of a mistake or incompleteness in the original application. In such cases an amended application or an amendment to the application may be filed.”
+In this case the application was filed within the two-year statute of limitations. Appellee was not notified of the insufficiency of his application prior to the expiration of the two-year limitation period. Further, the required amendment would not raise an unstated claim, it would merely clarify the previously alleged violation. Thus, appellee should be permitted to amend his application to the extent necessary to notify appellant and the commission of the alleged violation. This can be accomplished by citing a specific regulation or by giving a detailed description of the accident, or by doing both.
+We, therefore, reverse in part and affirm in part the court of appeals’ decision granting appellee’s requested writ of mandamus. The writ of mandamus is granted to compel the commission to allow appellee to amend his application for an additional award to the extent necessary to notify appellant and the commission of the alleged violation. In all other respects the writ is denied.
+Judgment affirmed in part and reversed in part.
+Celebrezze, C.J., Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.
+Appellee’s description of the accident was referred to as “cryptic” by the court of appeals.
