@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+docket: "11713"
+decided: "1911-03-28"
+citations: ["84 Ohio St. 1"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear, C. J., Davis, Si-iauck, Price and Johnson, JJ., concur."]
+parties: ["Lytle et al. v. Baldinger et al."]
+source_url: "https://static.case.law/ohio-st/84/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 981982
+cites_cases: ["1 Ohio, 469", "109 Ky., 51", "21 Ohio St., 295", "35 N. Y. Supp., 136", "39 Ohio St., 206", "48 Ohio St., 266", "50 Pa. St., 75", "58 S. W. Rep., 473", "68 Ohio St., 373", "73 Ohio St., 383", "84 Mich., 625", "89 Hun, 609", "9 C. C., 111", "94 Ala., 570", "95 Tenn., 505", "98 Ill., 58"]
+---
+
+# Lytle v. Baldinger
+
+## Majority (Donahue, J.)
+
+Donahue, J.
+The general demurrer of Emma C. Baldinger to the plaintiffs' petition presents two questions.
+Is it necessary to aver in a petition filed for the purpose of setting aside a sale or transfer claimed to be in fraud of creditors that the person or persons to whom the sale, conveyance, transfer, mortgage or assignment is made in violation of the provisions of Section 6343, Revised Statutes, as amended, 1902, knew of the fraudulent intent on the part of the debtor or debtors?
+Do the provisions of Sections 3628 and 3629, Revised Statutes of Ohio, permit a transfer to a wife of a policy of insurance then in force on the life of the husband, the husband at the time of making the transfer being insolvent.
+It would appear that Section 6343 as amended May 12, 1902, is sufficient answer to the first proposition. The presumption is, that every amendment of a statute is made to effect some purpose. That purpose may be either to add new provisions and conditions to the section as it then stands, or for the purpose of making plain the meaning and intent thereof. Whether this amendment changes the construction of the statute or simply makes its construction plain, is of little importance, the result must be the same, and every person seeking ■ to avail himself of the provisions of this section mtist by his- pleading and proof bring himself within the provisions of this statute, including, as a matter of course, the amendment of May 12, 1902, which is as follows: “Provided,however, that the provisions of this section shall, not apply unless the person or persons to whom such sale, conveyance, transfer, mortgage or assignment be made knew of such fraudulent intent on the part of such debtor or debtors.”
+This provision of the section as it now stands would require an averment in the petition that the person making such purchase, or receiving such conveyance, transfer, mortgage or assignment knew of such fraudulent intent on the part of such debtor or debtors at the time of the transaction complained of.
+It would also appear that Section 3628 and Section 3629, Revised Statutes, construed together sufficiently answer the second question presented; by the demurrer. It would seem to be the policy of the law, not only to permit, but to encourage-every husband to provide by insurance upon his life for the maintenance and support of his widow and children after his death. At the same time the law protects his creditors to the extent of the funds actually diverted from his estate by reason of the procuring and keeping in effect such insurance. It would not appear that the creditor ' could be injured, delayed or defrauded beyond the amount of money actually expended in the purchase of this insurance. A debtor is under no legal obligation to insure his life for the benefit of his creditors. All that the law requires of him is that the property and means of which he is possessed, saving and excepting certain property-exempt by law from execution, shall be honestly applied to the payment of his debts, and he is not permitted to give £¡,way that which in justice belongs to his creditors. So that when the law provides for the return to his estate of the money used in the purchase of this insurance, it gives to the creditor everything he is entitled to have, or could have reached by any process of law.
+The same reasoning equally applies to the assignment to the wife of a policy then in forpe, for there is no provision requiring the debtor to keep that policy in force or to pay any further premiums thereon. The creditor cannot reach the policy by any process of law. It would only become available to his estate upon the death of the insured, then of course it would be applicable to the payment of his debts. But the possibilities of it ever becoming assets of his estate are so remote and so dependent entirely upon the will and the pleasure of the debtor, and not upon any legal obligation that he owes to his creditors to keep the insurance in force until his death, that the assignment of the same to his wife cannot be held to be an assignment in fraud of creditors nor could such assignment in any way, manner or form hinder or delay his creditors in the collection of their debt for there is no process known to the law that could reach the proceeds of this policy until by the terms of the policy itself it becomes an absolute obligation on the part of the insurance company to pay. The proposition that the failure of the insured to keep this policy of insurance in force by the annual payment of dues would be in fraud of creditors, and hinder and delay creditors, is just as tenable as the proposition that they have been defrauded, hindered and delayed by the assignment of the same to his wife.
+The statute under consideration is even broader than above stated, for it also provides that if any person, other than the husband, either effects or transfers insurance upon his life to a married woman, that such insurance cannot be reached either by the person effecting the insurance on his own life in her behalf, or transferring the same to her after it has been effected, nor can it be reached by his creditors. From these statutes it would clearly appear that the only relief the creditor could have, is that provided in Section 3628, Revised Statutes of Ohio.
+Judgment affirmed.
+Spear, C. J., Davis, Si-iauck, Price and Johnson, JJ., concur.
