@@ -1,0 +1,64 @@
+---
+court: "Supreme Court of Ohio"
+docket: "83-369"
+decided: "1984-02-15"
+citations: ["9 Ohio St. 3d 164"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["W. Brown, Sweeney, C. Brown and J. P. Celebrezze, JJ., concur.", "Locher, J., concurs in judgment only.", "Holmes, J., dissents."]
+parties: ["Baltimore Savings & Loan Company et al., v. Frye; Griffin, Appellant; Supt., Ohio Division of Real Estate, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/9/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814805
+cites_cases: ["108 Ohio App. 49", "153 Ohio St. 335", "16 Cal. App. 3d 682", "17 A.L.R. 2d 1012", "174 Ohio St. 301", "22 O.O.2d 369", "25 Ohio Law Abs. 208", "26 Ohio St. 2d 61", "27 O.O.2d 245", "27 Ohio App. 2d 214", "37 Ohio Law Abs. 470", "41 O.O. 334", "55 O.O.2d 120", "640 S.W. 2d 432", "9 O.O.2d 111", "94 Cal. Rptr. 232"]
+---
+
+# Baltimore Savings & Loan Co. v. Frye
+
+## Majority (Celebrezze, C.J.)
+
+Celebrezze, C.J.
+This appeal presents two questions for our determination. The first is whether R.C. 4735.12 permits payment of punitive damages included in a judgment against a real estate broker. If the answer is in the affirmative, the second question concerns the statutory dollar limit upon recovery.
+I
+The superintendent concedes that the amount of the judgment against Frye which represents $12,872.84 in compensatory damages, including $2,500 in attorney fees, is recoverable up to the statutory limit from the Account. The remainder of the judgment, representing $10,000 in punitive damages, is the subject of this appeal.
+The superintendent maintains that R.C. 4735.12 does not allow recovery for punitive damages. We do not agree and conclude that the statute allows payment of punitive damages which are included in a final judgment.
+R.C. 4735.12 provides in pertinent part:
+“(B) When any person, except a bonding company when it is not a principal in a real estate transaction, obtains a final judgment in any court of competent jurisdiction against any broker or salesman licensed under this chapter, on the grounds of an act, omission, representation, transaction, or other conduct that is in violation of this chapter or the rules adopted under it, and which occurred after March U, 1975, such person may upon exhaustion of all appeals, file a verified application in any court of common pleas for an order directing payment out of the real estate recovery special account of the amount of the judgment which remains unpaid.” (Emphasis added.)
+The superintendent does not dispute that Griffin satisfied these statutory requirements to receive payment from the Account. The question is whether she should be paid the full amount of the final judgment or should the judgment be reduced by the amount of punitive damages.
+The statutory language clearly indicates that a person, who obtains a final judgment, may apply for an order directing payment of the amount of the judgment which remains unpaid. Both references in the statute are to a “judgment” without any qualification or limitation to preclude recovery of punitive damages. The only qualification is that it be a final judgment.
+The General Assembly could have inserted language limiting recovery to a judgment for actual or direct losses or compensatory damages. For example, the language of a California statute, with respect to applications for payments from the state’s Real Estate, Education, Research and Recovery Fund, provides for recovery of “actual and direct loss * * *.” In construing the statute, the appellate court, in Circle Oaks Sales Co. v. Real Estate Commissioner (1971), 16 Cal. App. 3d 682, 684, 94 Cal. Rptr. 232, stated that “the language of the statute expressly limits recovery from the Fund to ‘actual and direct loss’ and thus by implication precludes recovery of treble damages, which are punitive and exemplary in nature. * * * Had the Legislature intended exemplary or punitive damages to be included in an award against the Fund, it could simply have called for payment of the judgment rather than payment of ‘actual and direct loss.’ ”
+A comparable Texas statute also contains language which limits recovery. It allows payments for “reimbursing aggrieved persons who suffer monetary damages * * In State v. Pace (Tex. App. 1982), 640 S.W. 2d 432, the appellate court concluded that the term “reimburse” means to refund, repay or restore, and does not contemplate treble damages.
+In contrast to these statutes, R.C. 4735.12 does not contain limiting language. It clearly provides for payment of “a final judgment * * * against any [real estate] broker” from the Real Estate Recovery Special Account, and we hold that it permits payment of punitive damages included in a final judgment.
+Because the statutory language is clear, it is unnecessary to resort to R.C. 1.49 to construe any ambiguity. However, the court of appeals incorrectly followed R.C. 1.49 in reaching its decision. It relied upon appellate court cases construing former R.C. 4735.12 which required that real estate brokers post a bond and a surety make payments to cover unsatisfied judgments against the broker. The former statute did not allow imposition of punitive damages unless the surety was involved in the misconduct.
+In 1975, the statute was amended and the bond requirement was replaced by a Real Estate Recovery Fund (now Real Estate Recovery Special Account), funded by license application fees paid by real estate brokers and salespersons. Upon payments from the Account, the license of the real estate person involved is automatically suspended until that person fully reimburses the Account. The new system eliminates the need for a surety, because bonds are not utilized. Thus, the common law relied upon by the court of appeals no longer applies to the new type of funding under the current statute.
+Public policy reflected in the current statute supports the allowance of payment of punitive damages included in a judgment. The Account was established to aid victims of real estate persons’ misconduct. Repayment of compensatory damages only may not serve this end, as it would merely require the real estate broker in this case to repay the money he wrongfully used, and presumably benefited from, for several years.
+In Circle Oaks Sales Co., supra, at 685, the court reached a similar conclusion that the “assessment of treble damages against an errant real estate broker or salesman would unquestionably serve the purpose of promoting ethical practices.” However, the court concluded that payment of treble damages would not punish the broker because he did not have to reimburse the fund. In contrast, R.C. 4735.12 requires brokers to reimburse the Fund for payments made on their behalf. Pursuant to the Ohio statutory scheme, therefore, punitive damages serve as a penalty for misconduct and act as a deterrent to others.
+II
+Having determined that punitive damages included in a final judgment are recoverable under R.C. 4735.12, we now consider the statutory limit upon recovery. The statutory limit is significant because the trial court awarded Griffin $22,872.84. The superintendent argues that the limit is $20,000 because the cause of action was filed before the statutory amendment raising the limit became effective.
+Amended R.C. 4735.12(D), effective August 25,1981, raised the recovery limit to $40,000. Subdivision (B) is dispositive on the question of the date of actions to which the amended limit applies. As previously quoted in this opinion, it provides that any person who obtains a final judgment, based upon wrongful conduct which occurred after March 4, 1975 may apply for an order directing payment. All the facts in this case occurred after August 1976, when the parties entered into a land installment contract, and the misuse of funds took place. Therefore, we conclude that the statutory limit of $40,000 applies.
+Ill
+Griffin also contends that the superintendent is not a proper party because he failed to file an application to intervene pursuant to Civ. R. 24. This argument was neither adequately briefed in nor addressed by the court of appeals. Therefore, we need not consider it.
+Accordingly, the judgment of the court of appeals is reversed.
+Judgment reversed.
+W. Brown, Sweeney, C. Brown and J. P. Celebrezze, JJ., concur.
+Locher, J., concurs in judgment only.
+Holmes, J., dissents.
+Cal. Bus. & Prof. Code, Section 10471.
+19 Vernon’s Ann. Civ. St., Article 6573a, Section 8.
+See, e.g., Vicario v. Jenkins (1958), 108 Ohio App. 49 [9 O.O.2d 111].
+
+## Dissent (Holmes, J.,)
+
+Holmes, J.,
+dissenting. I dissent from the majority opinion in that today’s decision significantly misinterprets R.C. 4735.12 and will jeopardize the very existence of the Real Estate Recovery Special Account.
+A brief historical review of the former version of R.C. 4735.12, and case law decided thereunder, is required in order to establish that the General Assembly did not intend for punitive damages to be available under R.C. 4735.12 as amended. The previous statute required a real estate broker to maintain a bond to indemnify any person damaged by the broker’s failure to observe the law. This provision was construed by several courts of this state to limit the extent of a surety’s liability to compensatory damages only. See Phillip Metro. Colored Methodist Episcopal Church v. Wahn-Evans & Co. (1950), 153 Ohio St. 335 [41 O.O. 334]; Divito v. Buckeye Union Cas. Co. (1963), 174 Ohio St. 301 [22 O.O.2d 369]; Vicario v. Jenkins (1958), 108 Ohio App. 49 [9 O.O.2d 111]; Hesson v. Fidelity & Cas. Co. (App. 1937), 25 Ohio Law Abs. 208; Guie v. Enyeart (App. 1942), 37 Ohio Law Abs. 470. See, also, Annotation (1951), 17 A.L.R. 2d 1012.
+In light of this interpretation, it is my view that if the General Assembly intended for punitive damages to be available under the amended version of R.C. 4735.12 it certainly would have included such language in the amendment. Since the amendment is void of any punitive language, I believe that the General Assembly approved of the previous judicial interpretation which surrounded the statute. See Seeley v. Expert, Inc. (1971), 26 Ohio St. 2d 61 [55 O.O.2d 120]; State v. Glass (1971), 27 Ohio App. 2d 214 [27 O.O.2d 245].
+The crux of my disagreement with today’s decision is its long range effects on the Real Estate Recovery Special Account. Punitive damages are imposed to punish the offending party and to deter others from acting in such a manner. However, the purpose of the Special Account is to compensate those who suffer losses by the broker’s wrongful actions.
+I am concerned that numerous awards of punitive damages will deplete the Special Account to such an extent that others with valid compensatory awards will be precluded from participating in the Account. Thus, any award of punitive damages will not punish the broker but will deter other claimants with legitimate out of pocket losses. This result was certainly not intended by the General Assembly.
+In addition, the majority states that since R.C. 4735.12 requires a broker to reimburse the Special Account, punitive damages will serve as a penalty for his misconduct. However, the majority fails to recognize the realities of the situation. In most circumstances, if a broker is guilty of misconduct and a judgment is rendered against him, the broker is also subject to disciplinary actions pursuant to R.C. Chapter 4735. As in the case subjudice, the broker’s license will usually be revoked. Thus, there is no longer any remaining motive for the unlicensed broker to repay the amount of damages to replenish the Special Account.
+Finally, the court’s determination as to the maximum recovery limit is particularly troublesome. R.C. 4735.12(D) was amended effective August 25, 1981 to raise the maximum amount of recovery to forty thousand dollars. The amount had previously been twenty thousand dollars. It is clear from the record in this case that all facts precipitating judgment occurred before the effective date of the amendment. In fact, appellant filed her claim against the Account before the effective date. Therefore, the majority’s holding is in clear violation of R.C. 1.58.
+Accordingly, I would affirm the decision of the court of appeals.
+R.C. 1.58 provides in pertinent part as follows:
+“(A) The reenactment, amendment, or repeal of a statute does not * * *:
+“(4) Affect any investigation, proceeding, or remedy in respect of any such privilege, obligation, liability, penalty, forfeiture, or punishment; and the investigation, proceeding, or remedy may be instituted, continued, or enforced, and the penalty, forfeiture, or punishment imposed, as if the statute has not been repealed or amended. * * *”
