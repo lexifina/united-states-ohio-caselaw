@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "17848"
+decided: "1923-12-04"
+citations: ["109 Ohio St. 29"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, C. J., Matthias and Day, JJ., concur."]
+parties: ["Riley v. McNicol et al., Board of County Commissioners."]
+source_url: "https://static.case.law/ohio-st/109/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 973644
+cites_cases: ["103 Ohio St., 249", "117 N. E., 166", "133 N, E., 67", "96 Ohio St., 163"]
+---
+
+# Riley v. McNicol
+
+## Majority (Jones, J.)
+
+Jones, J.
+The controlling facts relating to the construction of the highway at the point of injury are not in dispute. The Court of Appeals reversed the judgment of the trial court because the evidence did not indicate such a structure, or present such a condition, as was contemplated by the Legislature in enacting the guard rail statutes, and because the structure was not such as is required to be safeguarded by guard rails.
+The traveled highway at the point of injury was 24 feet wide. In the center was a brick pavement 14 feet in width. Thirteen feet below the surface of the highway, at the time of construction, there had been inserted a 12-inch pipe, 44 feet in length. This pipe was substantially at the bottom of the embankment, and served the purpose of carrying the water underneath from one side of the road to the other. The end of the conduit on each side of the highway was about 15 feet from the brick paved road and 10 feet from the berme bank, or dirt highway, on either side of the brick pavement.
+The question arises whether this was a culvert within the meaning of the statute, and whether guard rails were required to be placed either over the points occupied by the conduit or upon the contiguous approaches of the highway thereto. Section 7563, General Code, requires the county commissioners to erect or cause to be erected “one or more guard rails on each end of a * * * culvert more than five feet high,” and “one or more guard rails on each side of every approach to a * * * culvert if the approach or embankment is more than six feet high.”
+This court has on various occasions announced the principle that these county boards are not liable in their official capacity for negligent discharge of official duties, unless such liability is created by statute, and that “such liability shall not be extended beyond the clear import of the terms of the statutes.” Weiher v. Phillips, 103 Ohio St., 249, 133 N, E., 67. In Board of County Comm’rs of Franklin County v. Darst, 96 Ohio St., 163, it is stated in the opinion, at page 167, 117 N. E., 166, at page 167, that the statutory terms, if doubtful or ambiguous, should be resolved against the imposition of liability upon the board for official delinquencies.
+It may be conceded that the 44-foot conduit, laid 13 feet under the traveled highway, answered the description of a “culvert,” as given by lexicographers; but does it answer the description of a “culvert” within the purpose and intendment of the quoted section? By its express terms the statute requires one or more guard rails to be erected on each end of a culvert more than 5 feet high. If the exact language of the statute be followed, this would require guard rails, in this particular instance, to be placed at the foot of the embankment on each side in order to connect with each end of the culvert. Manifestly this would be useless, for it would give no protection to the traveling public if erected at such points. Furthermore, if this be not deemed a statutory culvert, within the purview of the quoted section, it naturally follows that the approaches thereto are likewise not comprehended within the statute. Had this conduit or culvert not been inserted at the bottom of the embankment, the accident would have occurred in any event. There are many places along the public highways sustaining the same character of construction as shown in the instant case. We are constrained to the view that simply placing the alleged culvert 13 feet under the embankment was not intended by the Legislature as imposing liability upon the board where none would exist had there been no conduit inserted.
+Invoking the principle that a statute importing an intention to impose liability upon the board, if doubtful or ambiguous, should be resolved against it® imposition, we are of the opinion that this 12-inch pipe, inserted at the bottom of the embankment, and 13 feet under the level of the highway, the ends extending 10 feet beyond the traveled surface of the highway, is not a “culvert” within the meaning of Section 7563, General Code, which requires the erection of guard rails; nor are guard rails required to be erected on the approaches thereto. The fact that the statute associates comity bridges, viaducts, and culverts in the same clause implies that the construction of each should extend substantially to tbe level of the traveled highway, thus becoming a source of danger at that point. If the Legislature intended to safeguard the public highways and embankments of the kind under consideration, it would have protected the declivities on each side thereof, whether a conduit had been inserted or not.
+Entertaining these views, we are of the opinion that the judgment of the Court of Appeals, reversing the judgment of the trial court, was not erroneous,. With the facts conceded, we are unable to see why the Court of Appeals did not render judgment in favor of the board, instead of remanding, since a retrial of the case would be useless.
+In the trial court one of the defenses of the board was that at the time of the accident that part of the highway was an intercounty highway, and under the control of the state highway department. In the Court of Appeals and in this court counsel for the board complain that that feature of the cause was not submitted to the jury under the evidence offered. However, it is unnecessary to dispose of that feature, in view of our decision upon the other branch of the case.
+Proceeding to render the judgment which the Court of Appeals should have rendered, this court affirms the judgment of reversal, and renders judgment in favor of the defendants in error upon the undisputed and controlling facts.
+Judgment affirmed.
+Marshall, C. J., Matthias and Day, JJ., concur.
