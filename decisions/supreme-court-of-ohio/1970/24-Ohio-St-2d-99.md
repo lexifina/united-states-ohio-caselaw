@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "69-354"
+decided: "1970-12-02"
+citations: ["24 Ohio St. 2d 99"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur."]
+parties: ["Dean et al., Appellants, v. Angelas, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/24/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1790749
+cites_cases: ["1 A. 2d 501", "155 Ohio St. 47", "157 S. W. 848", "16 Ohio St. 2d 76", "161 Ohio St. 192", "164 Ohio St. 493", "171 Ohio St. 233", "172 Mo. App. 376", "22 Ohio St. 2d 65", "39 Ohio App. 277", "69 Ohio Law Abs. 470", "7 Ohio St. 2d 41", "8 Ohio Law Abs. 357", "87 Ohio Law Abs. 318"]
+---
+
+# Dean v. Angelas
+
+## Majority (Schneider, J.)
+
+Schneider, J.
+Defendant concedes that in view of our recent decision in Clouston v. Remlinger (1970), 22 Ohio St. 2d 65, the lower courts erred in dismissing the second cause of action based on the wife’s alleged loss of consortium and that the case should be remanded for trial on that issue.
+Inherent therein is the further concession that the wife’s cause of action for medical expenses is not founded upon the alleged battery so as to be barred by E. C. 2305.11, the one-year statute of limitation governing a cause of action for assault and battery.
+Moreover, Corpman v. Boyer (1960), 171 Ohio St. 233, holds that an action for consequential damages arising from bodily injury suffered by a spouse as a result of the tort of a third person is an action, not for the bodily injury, but for an injury to the rights of the other spouse not arising on contract, the commencement of which is governed by the four-year statute of limitation (E. C. 2305.09).
+Next, defendant concedes that a wife has a duty to support her husband, including provision for medical attention, but, he claims, only if the husband is unable to do so. He also concedes that she may recover damages from the wrongdoer for her loss by reason of the discharge of that duty as a result of the wrong, but only if she proves her husband’s complete inability to support himself either out of his property or by his labor. Moreover, he concedes that she may recover damages if she contracted for the payment of the expenses on her own credit or paid them out of her own property. See Hudock v. Youngstown (1956), 164 Ohio St. 493.
+The inconsistency between those concessions is immediately apparent. It probably springs from the lack of necessity for the court, in Hudock, to analyze the wife’s duty under R. C. 3103.01, which declares that “husband and wife contract towards each other obligations of mutual . . . support,” and under R. 0. 3103.03, which enjoins the husband to “support himself, his wife, and his minor children out of his property or by his labor,” but “if he is unable to do so” enjoins the wife to “assist him so far as she is able.”
+The only rational basis for the conclusion in Hudock, that a wife may not recover for her own medical expenses “in the absence of proper proof of the payment of such expenses out of her separate property or proof of an implied or express contract on her part to pay” them, or that they have been “furnished on her credit,” is that a wife has a sufficient co-equal duty under the statutes to support herself and her husband to remove her from the status of a volunteer if she does so. Smith v. Snapp (1961), 87 Ohio Law Abs. 318, approved. Distinguishable is Hausser v. Ebinger (1954), 161 Ohio St. 192, where it is held that, inter se, the spouses are volunteers.
+Nonetheless, defendant here claims only that the mere “inability [of the husband] to be gainfully employed” is insufficient to raise her from the status of a volunteer. It was apparently upon this basis that the trial court sustained the general demurer to the first cause of action.
+The difficulty with that position is that the wife also alleges that “she has incurred medical expense” on behalf of her husband. There seems to be no valid reason why she should not be permitted, under that allegation and without misleading the defendant, to show that such expenses were paid, or contracted to be paid, out of her separate property. The important fact is that they were not paid out of the husband’s property so that the defendant does not run the risk of double payment.
+The preceding allegation as to the husband’s inability may be improper (see Hudock v. Youngstown, supra, 164 Ohio St. 493), but we fail to see it as inhibiting proper proof of incurred expenses. Furthermore, the statement is in no way prejudicial to defendant. Under the former “statutory” practice, pleadings should not have been revealed to the jury (Cincinnati v. Bossert [1968], 16 Ohio St. 2d 76, 78), and under the present practice they must not be revealed (Civil Rule 8 [G]).
+Finally, plaintiff-husband argues that the gravamen of his action is bodily injury, not battery, and should be limited by the two-year statute of limitation (R. C. 2305.10) applicable to bodily injury, rather than the one-year limitation imposed by R. C. 2305.11 on actions for assault and battery.
+Plaintiff theorizes that insult is the gist of battery, which is “the least touching of another’s person . . . done in an angry, revengeful, rude or insolent manner” (Commonwealth v. Gregory [1938], 132 Pa. Sup. 507, 1 A. 2d 501, 503). See, also, Booher v. Trainer (1913), 172 Mo. App. 376, 157 S. W. 848, 850. If bodily injury results, he reasons, the gist of the ensuing cause of action is bodily injury, not battery.
+However, the husband’s claim here stems from an alleged deliberate and malicious beating for which punitive damages are also sought. A formed intention is an essential element of assault and battery, in which case punitive damages are recoverable. Thus, notwithstanding plaintiff’s somewhat ingenious argument, a majority of the court is disposed to the view expressed by Judge Vickery in Sousa v. Schultz (1930), 8 Ohio Law Abs. 357, 358, that “if there had not been an assault and battery there would not have been a right to recover, and the right to recover in an assault and battery case depends upon the time within which the action is brought . . . .” Under E. C. 2305.11 the time is one year from the accrual thereof. Arend v. Mylander (1931), 39 Ohio App. 277, and Williams v. Pressman (1953), 69 Ohio Law Abs. 470, approved.
+Where no special relationship between the adversary parties is shown (see annotation, 90 A. L. E. 2d 1244, Section 8), we are unable to surmount the hurdle that the General Assembly, after providing that actions for bodily injury generally may be commenced within two years of their accrual, specifically limited bodily injury actions arising from assault and battery to a one-year commencement. State, ex rel. Bd. of Edn., v. Schumann (1966), 7 Ohio St. 2d 41, 43; Adrianos v. Community Traction Co. (1951), 155 Ohio St. 47.
+The Court of Appeals correctly affirmed the sustaining of the demurrer to the third cause of action. However, for the reasons heretofore given the judgment of the Court of Appeals with reference to Helen Dean’s causes of action is reversed and the cause is remanded to the Court of Common Pleas for further proceedings thereon.
+Judgment affirmed in part and reversed in part.
+O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur.
