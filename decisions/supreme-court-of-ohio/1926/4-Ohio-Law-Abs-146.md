@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19555"
 decided: "1926-01-11"
-citations: ["4 Ohio Law Abs. 146", "4 Abs. 56.", "4 Ohio Law Abs. 56"]
+citations: ["4 Ohio Law Abs. 146", "4 Abs. 56."]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
