@@ -1,0 +1,20 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-1363"
+decided: "1988-11-09"
+citations: ["39 Ohio St. 3d 726"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fox v. Lakewood."]
+source_url: "https://static.case.law/ohio-st-3d/39/cases/0726-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1414203
+cites_cases: ["39 Ohio St. 3d 19", "528 N.E. 2d 1254"]
+---
+
+# Fox v. Lakewood
+
+## Majority
+
+Cuyahoga County, No. 52354. Reported at 39 Ohio St. 3d 19, 528 N.E. 2d 1254. On motion for rehearing. Rehearing denied.
