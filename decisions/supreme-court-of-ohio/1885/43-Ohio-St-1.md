@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1885-01"
+citations: ["43 Ohio St. 1"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Okey, J., took no part in the decision of this case."]
+parties: ["National Mutual Aid Association v. Gonser."]
+source_url: "https://static.case.law/ohio-st/43/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 920632
+cites_cases: ["29 Ohio St. 399", "38 Ohio St. 281", "38 Ohio St. 282", "38 Ohio St. 7", "42 Ohio St. 579"]
+---
+
+# National Mutual Aid Ass'n v. Gonser
+
+## Majority (Owen, J.)
+
+Owen, J.
+Did the trial court err in overruling the demurrer to the petition and rendering judgment thereon against the defendant below ?
+That the plaintiff in. error had no power to issue certificates of membership, payable upon the death of an insured member, to a person not an heir or of the family of a deceased 'member, and that such a certificate is void, is too well established to admit of controversy. The State v. The Central Ohio Mutual Relief Association, 29 Ohio St. 399; The State v. Moore, 38 Ohio St. 7; The State v. The Standard Life Association, 38 Ohio St. 281; The State v. People’s Mut. Ben. Association, 42 Ohio St. 579.
+By the terms of the certificate before us the death claim was made payable to the assured, Wilhelm Xebaugh, “ or any person designated by his will, or his heirs, if no person is designated herein, or by will.”
+If the assured may designate the beneficiary of the insurance by testamentary appointment (a question the determination of which is not necessary in the case before us), it is very clear that such beneficiary must be either a member of his family, or one who, upon his death, may be his heir. There is no averment in the petition that Gonser was a member of the family of the assured, or that he is his heir. It is maintained by him, however, that the recitals of the will disclose such relations between him and the assured as entitle him to be regarded by the court as a member of the family of the assured.
+This calls upon us to accept the mere recitals of the will as a substitute for substantive averments of fact in the petition, and would do violence to the rule of pleading which requires the facts relied upon by a party to be stated in his pleading, either by direct averment or by pertinent reference. Neither is done iu the case before us.
+It is further maintained that the assured constituted Gonser his heir by testamentary appointment.
+If this view is tenable, it is in the power of each insured member, by will, to constitute him a beneficiary of, the insurance who is not permitted by the company’s charter to share in its benefits. The terms of the will indicate that its purpose was to give effect to a prior assignment of the policy to which the company had not given its assent. This court has already held, in The State v. People's Mutual Benefit Association, supra, that such an association has no power to issue certificates payable to a named beneficiary, “ or assigns,” as this would authorize the creation of a class of beneficiaries neither contemplated nor authorized by the company’s charter.
+If an insured member may, by testamentary appointment, constitute one a beneficiary who is neither a member of his family, nor may, upon his death, become his heir, he may thereby accomplish all the practical effects of an assignment of his policy, and thus defeat one of the declared objects of the statute.
+But if we were at liberty to regard the recitals of this will as equivalent to substantive averments of fact in the petition, we could ascribe to Gonser no other relation than that of a creditor of the testator; and, as we have already seen, creditors are not of the class who may be created beneficiaries of such insurance. '
+It is further maintained by Gonser that as this company was organized, among other objects, for the “ mutual protection and relief of its members,” the assured member had the right, in his life-time, and for his own “protection and relief,” to make such use or disposition of the policy, either by hypothecation, by assignment, or by will, as would best yield such result. This argument involves the presupposition that Wilhelm Kebaugh, the assured member, is the party for whose benefit this policy was issued. It is in no sense an endowment policy. True, it is in terms made payable “ to Wilhelm Kebaugb, or any person designated,” etc., but it is expressly made payable “within ninety days after due notice and pYoof of” his death. It is clear that this policy contemplated that its benefits were destined to accrue to the person designated by the will of the assured, orto his heirs,if no such designation were made. It follows that, to entitle himself to recover upon this policy, Gonser must bring himself within the operation of the second declared purpose of the statute, to wit: “ for the payment of stipulated sums of money to the families or heirs of the deceased members of such company.” Gonser’s petition fails to bring him within either designation.
+It is further maintained, in support of the petition, that the company, by the terms of its policy, authorized Kebaugh to make this will, and that it is thereby estopped to deny its liability.
+Assuming that it was within the power of the company to issue a certificate in this form, and that the assured member was vested with the power, by testamentary appointment, to designate the beneficiary, this power ought, by every consideration of public policy and of sound construction, to heve been so exercised as to effectuate and not defeat the objects of the company’s charter. If the language of the certificate be capable of two constructions, one of which is consistent with the statute and the other at war with it, it is our plain duty so to construe it as to give it effect according to the true intent and purpose of the law. If, then, Kebaugh was by the policy vested with power to appoint, by will, the beneficiary under it, the law plainly directed him to select such beneficiary from his family or heirs, and Gonser, being but a stranger, or, at best, a creditor, is in no position to profit by Kebaugh’s perversion or abuse of the power of appointment with which the policy invested him.
+This is no case for the application of the principle of estoppel. This court has held that a contract by such a company “ to pay, in case of a member’s death, ‘ to himself or assigns,’ ‘ to his estate,’ ‘ to his executors or administrators,’ or to any person, whether a relation or not, who is not of his family or heirs, is against public policy, and void.” The State v. The Standard Life Association, 38 Ohio St. 282.
+The moment that the certificate before us is brought, by construction, within the view contended for by ■ Gonser, that moment it falls as a vain and void thing, and considerations of graver moment than those of mere private right or contract, call upon us to leave the parties to it where we find them.
+We are not called upon, in the present case, to determine or discuss whether any or what claim the heirs of Kebaugh may have under this policy. It is sufficieut for the disposition of the case that we find and declare that Gonser has failed, by the averments of his petition, to show himself entitled to recover upon it.
+The court of’ common pleas erred in overruling the demurrer to the petition and entering judgment thereon, and the district court erred in affirming such judgment.
+Judgment reversed.
+Okey, J., took no part in the decision of this case.
