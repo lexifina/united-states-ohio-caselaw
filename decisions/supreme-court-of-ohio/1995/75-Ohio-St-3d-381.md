@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "95-58"
 decided: "1995-07-26"
-citations: ["75 Ohio St. 3d 381", "72 Ohio St. 3d 589"]
+citations: ["75 Ohio St. 3d 381"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State ex rel. Huebner, Appellant, v. West Jefferson Village Counc
 source_url: "https://static.case.law/ohio-st-3d/75/cases/0381-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1746903
-cites_cases: ["10 OBR 503", "10 Ohio St.3d 171", "116 Ohio St. 390", "117 Ohio St. 258", "13 Ohio St.2d 63", "156 N.E. 455", "158 N.E. 606", "18 O.O. 266", "233 N.E.2d 864", "29 N.E.2d 379", "292 N.E.2d 883", "320 N.E.2d 672", "33 Ohio St.2d 7", "40 Ohio St.2d 94", "42 O.O.2d 137", "44 Ohio St.3d 106", "462 N.E.2d 381", "541 N.E.2d 64", "567 N.E.2d 1018", "572 N.E.2d 649", "577 N.E.2d 645", "58 Ohio St.3d 28", "61 Ohio St.3d 49", "617 N.E.2d 1120", "62 O.O.2d 202", "62 Ohio St.3d 17", "622 N.E.2d 329", "627 N.E.2d 993", "630 N.E.2d 708", "631 N.E.2d 621", "639 N.E.2d 421", "641 N.E.2d 1075", "643 N.E.2d 1129", "644 N.E.2d 393", "65 Ohio App. 26", "651 N.E.2d 1001", "655 N.E.2d 1298", "655 N.E.2d 177", "656 N.E.2d 1276", "661 N.E.2d 1090", "67 Ohio St.3d 334", "67 Ohio St.3d 597", "68 Ohio St.3d 426", "69 O.O.2d 442", "69 Ohio St.3d 138", "69 Ohio St.3d 278", "70 Ohio St.3d 455", "71 Ohio St.3d 369", "71 Ohio St.3d 52", "71 Ohio St.3d 546", "72 Ohio St.3d 589", "74 Ohio St.3d 11", "74 Ohio St.3d 1201", "74 Ohio St.3d 141", "75 Ohio St.3d 221"]
+cites_cases: ["10 OBR 503", "10 Ohio St.3d 171", "116 Ohio St. 390", "13 Ohio St.2d 63", "156 N.E. 455", "233 N.E.2d 864", "292 N.E.2d 883", "33 Ohio St.2d 7", "42 O.O.2d 137", "44 Ohio St.3d 106", "462 N.E.2d 381", "541 N.E.2d 64", "572 N.E.2d 649", "577 N.E.2d 645", "61 Ohio St.3d 49", "617 N.E.2d 1120", "62 O.O.2d 202", "62 Ohio St.3d 17", "622 N.E.2d 329", "631 N.E.2d 621", "639 N.E.2d 421", "641 N.E.2d 1075", "651 N.E.2d 1001", "655 N.E.2d 1298", "655 N.E.2d 177", "656 N.E.2d 1276", "661 N.E.2d 1090", "67 Ohio St.3d 334", "67 Ohio St.3d 597", "69 Ohio St.3d 278", "70 Ohio St.3d 455", "71 Ohio St.3d 52", "72 Ohio St.3d 589", "74 Ohio St.3d 11", "74 Ohio St.3d 1201", "74 Ohio St.3d 141", "75 Ohio St.3d 221"]
 ---
 
 # State ex rel. Huebner v. West Jefferson Village Council
