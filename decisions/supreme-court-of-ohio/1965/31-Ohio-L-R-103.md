@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "39141"
 decided: "1965-06-23"
-citations: ["31 Ohio L.R. 103", "31 Ohio L.R. 104"]
+citations: ["31 Ohio L.R. 103"]
 reporter: "ohio-lr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
