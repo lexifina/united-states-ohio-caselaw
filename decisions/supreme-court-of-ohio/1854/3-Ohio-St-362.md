@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1854-12"
+citations: ["3 Ohio St. 362"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matthew Mackey v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-st/3/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 505252
+cites_cases: ["1 Ohio St. 185", "2 Ohio St. 562", "4 Cranch, 167"]
+---
+
+# Mackey v. State
+
+## Majority (Warden, J.)
+
+Warden, J.
+The plaintiff in error pleaded guilty to an indictment found in M.onroe county, charging him with aiding, assisting, and procuring one Thomas Mackey to utter a “ false, forged, and counterfeited bank-note,” set forth in the indictment, and he was sentenced to be imprisoned in the penitentiary.
+To reverse the judgment, he sued out of the district court a writ of error to the court of common pleas, and assigned for errors :
+1. The indictment is defective in purporting to be the act of the “ grand jurors of the State of Ohio.”
+2. It charges the bank-note to have been “false, forged, and counterfeited,” which words, in the description, are said to be repugnant.
+3. The 22d section of the act entitled “ an act providing for the punishment of crimes,” passed March 7, 1835 (1 Curw. 189), under which, plaintiff in error was indicted, or so much thereof as relates to the charge set forth in the indictment, is inconsistent, repugnant, and therefore void.
+The district court reserved the cause for decision here.
+Examining the assignments in reverse order, we are of opinion:
+■ I. That there is no such inconsistency or repugnancy in the act itself as appears to counsel.
+The statute defining the -offense which this indictment charged the plaintiff in error with aiding another to commit, *uses [364 the following language : “ That if any person shall falsely make, alter, forge, or counterfeit any record or other authentic matter of a public nature, or any charter, letters patent, deed, lease, writing obligatory, will, testament, annuity, bond, covenant, bank-bill or note, check, draft, bill of exchange, contract, or promissory note, for the payment of money or other property,” etc.; “ or shall utter, or publish as true and genuine, or cause to be uttered and published as true and genuine, any of the above-named false, altered, forged, or counterfeited matter, above specified and described, knowing the same to be false, altered, forged, or counterfeited, with intent to prejudice, damage, or defraud, any person or persons, body politic or corporate,” etc.
+We are referred, by counsel for plaintiff in error, to the case of United States v. Cantril, 4 Cranch, 167, as declaring void an enactment to which the section cited from our own statute is similar. But, on exapaining the statute of Congress, which was, in the case named, held to be inconsistent, regugnant, and void, we find no similarity whatever between any part of our statute and those absurd provisions of the act of Congress which destroyed themselves. The act, passed June 27, 1798, and entitled “ an act to punish frauds committed on the Bank of the United States ” (■— -), provided, among other things : “ If any person shall utter, or publish as true, any false, forged, or counterfeited bill, or note, issued by order of the president, directors, and company of the Bank of the United States, and signed by the president, and countersigned by the cashier thereof, with intention to defraud the said corporation, or any other body politic or person,” etc. A mere reading of this statute, reveals its absurdity in attempting to describe as forged matter the genuine notes of the hank, signed by its officers, and tc punish the uttering of such notes as a fraud on the bank by order of whose very officers the “ forged ” notes were issued. Here is a blunder, not of intention, but of words. The absurdity was soon removed by proper legislation on the part of Congress.
+365] *It is possible that the language of the first assignment of error in the case of Cantril, together with the brief statement of the reporter, that “ Marshall, C. J., delivered the opinion of the court, that the judgment ought to be arrested, for the reasons assigned in the record,” may have misled counsel as to what was really decided. But whatever may have been the intended significance of the stress laid on certain words in that assignment, a careful examination of the whole case will show that it is no authority for holding such a statute as ours to be inconsistent or repugnant. No such law as that which a legislative blunder caused to be enacted by Congress could be enforced. But our statute is not in any sense inconsistent or repugnant, and, though not very skillfully drawn, has long been understood and enforced by all our courts.
+II. But it is said the allegation of uttering a “ false, forged, and counterfeited bank-note” is bad for repugnancy. And here is a question on the statute, as to which opposite opinions have, to some extent, been manifested. But the sufficiency of such an allegation as that before us was one of the points decided in a case reported at the last term. In Stoughton & Hudson’s case, 2 Ohio St. 562, the indictment was held good in respect of the allegation here objected to as repugnant. In the opinion of the judge who' pronounced the judgment of the court in that case, a willingness on the part of a majority of the court to reconsider Kirby’s case, reported in 1 Ohio St. 185, is intimated, and the conviction of that member of the court declared that the ruling in Kirby’s ease was erroneous. In this case, the attorney-general has urged us to review and reverse that ruling; and if the record before us called for such review, we should not hesitate to examine what was decided, as well as the reasoning of the judge who delivered the opinion of the court in Kirby’s case. But the question we are now examining being within the ruling in Stoughton & Hudson’s case, we content ourselves, for the present, with following the last-named decision.
+366] *111. The sufficiency of the denomination and description of the grand jury is the only remaining subject of question.
+The diversities shown by our criminal practice and pleading, throughout the state, are very striking; and it is astonishing that even such a thing as the denomination of the grand jury should vary in different localities. In some, the grand jurors are styled “ of the county of-,” and present their indictments “ in the name and by the authority of the State of Ohio.” In others, a form like that here used is constantly followed. The distinction is not important in our view. "We think it not unreasonable to hold that a -grand jury, inquiring of crimes in the county of Monroe, must be a grand jury of that county, as well as of the state; and, if so, it is such a body as the law intends.
+Judgment affirmed.
