@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "97-2254 and 97-2255"
+decided: "1998-04-22"
+citations: ["81 Ohio St. 3d 486"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Columbus Bar Association v. Klos. Columbus Bar Association v. Zingarelli."]
+source_url: "https://static.case.law/ohio-st-3d/81/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 111386
+cites_cases: ["44 Ohio St.3d 69", "541 N.E.2d 448", "629 N.E.2d 431", "643 N.E.2d 1139", "68 Ohio St.3d 570", "71 Ohio St.3d 383"]
+---
+
+# Columbus Bar Ass'n v. Klos
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Based on the facts presented to the panel and the board, we find that Klos’s written contract to represent Clay was ambiguous and failed to conform with guidelines we have previously promulgated. The respondents ask us to recognize that attorneys who practice employment discrimination law customarily use retainer contracts to cover the investigatory phases of their cases and contingent fee contracts to cover the litigation phases.
+Even assuming the appropriateness of such bifurcated contracts, the fee agreement used by Klos in the Clay matter was deficient. The portion of the contract covering the investigative phase of the case involved a retainer that was nonrefundable should the attorney withdraw for any reason. It further provided that if the attorney withdrew because of acts of the client, the attorney would be entitled to compensation at $150 per hour. The actual wording was, “[I]f the Attorney withdraws * * * without the fault or against the desire of the Client, * * * there shall be nothing due * * * to the Attorney for attorney’s fees other than the retainer, court costs, and expenses * * *. If the withdrawal of the Attorney shall be due to the acts or conduct of the Client * * *, the attorney shall be reimbursed for services at an hourly rate of $150.00.”
+This one-sided contract gave the attorney carte blanche to terminate at will and keep the retainer. Moreover, it contained no provisions relating to compensation should the attorney be discharged by the client.
+In Cincinnati Bar Assn. v. Schultz (1994), 71 Ohio St.3d 383, 643 N.E.2d 1139, we were critical of “earned upon receipt” fees. In some situations, a nonrefundable retainer might be justified, for example when an attorney is engaged to remain available and to forgo other potential employment, particularly for a competitor of his or her client. Generally, however, a client should have the freedom to discharge an attorney at any time subject to the obligation to compensate the attorney only for the services rendered and related expenses. The attorney should not receive a "windfall if he or she "withdraws or is discharged by the client. In a case such as this, an attorney might ask for a security retainer, and hold the funds received under a possessory security interest to provide security for the fees that he or she might eventually earn, with the commitment to return the unearned portion of the retainer.
+The contingent fee portion of the contract covering the litigation phase of the Clay case was also flawed. It provided that should the attorneys be discharged or withdraw prior to settlement, they would be compensated at $150 per hour. In Fox & Assoc. Co., L.P.A. v. Purdon (1989), 44 Ohio St.3d 69, 541 N.E.2d 448, and in Reid, Johnson, Downes, Andrachik & Webster v. Lansberry (1994), 68 Ohio St.3d 570, 629 N.E.2d 431, we disapproved of similar agreements because a liquidated hourly fee arrangement upon termination of a contingent fee contract precluded the application of DR 2-106(B), which sets out the elements to be considered in the calculation of a reasonable fee. We disapprove also of this portion of the Clay contract.
+Finally, the contract language provided for a $4,000 retainer, “and or” $150 per hour, “and or” a contingent fee equal to thirty-three percent of any settlement or judgment. This language is ambiguous. It is impossible to determine from the four corners of this document whether one, two, or all three methods of fee determination apply. In practice, Klos did not apply any of these methods. He applied the fee agreement to the Clay case by charging Clay the retainer and then to that sum adding one-third of the recovery after the recovery was reduced by the retainer. This method of application of the fee agreement was not clearly expressed at the outset of the representation and is certainly not apparent in the document.
+In the Lauer matter, Klos entered into an oral contract that apparently was similar to the Clay contract, and he shared the resulting fees with Zingarelli. Klos did not enter into a written contract with Lauer. EC 2-18 reads in part, “As soon as feasible after a lawyer has been employed, it is desirable that he reach a clear agreement with his client as to the basis of the fee charges to be made. * * * It is usually beneficial to reduce to writing the understanding of the parties regarding the fee, particularly when it is contingent.” Analogously, we note that R.C. 4705.15(B) provides that contingent fee agreements for tort actions must be in writing. Klos’s oral contract with Lauer, as we are able to understand it, suffered from the same deficiencies as Klos’s variation of the written contract he used with Clay.
+We conclude that the general ambiguity of these contracts, the provision in the investigatory part of the contracts for nonrefundable retainers, so written to provide a windfall should the attorney at his discretion withdraw from the case, and the liquidated hourly rate in the contingent fee parts of the contracts that precluded the determination of a reasonable fee, constitute agreements for a clearly excessive fee, as proscribed by DR 2-106(A).
+We recognize that respondents attempted to resolve the Clay matter by submitting it for arbitration to relator’s fee-arbitration program and, later, they refunded amounts to each client taken in excess of the one-third contingent fees. Based on these mitigating factors, respondents are hereby publicly reprimanded. Costs are taxed to respondents jointly and severally.
+Judgment accordingly.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
