@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Ohio"
+docket: "00-2260"
+decided: "2002-04-03"
+citations: ["95 Ohio St. 3d 8"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, F.E. Sweeney and Pfeifer, JJ., concur.", "Douglas and Cook, JJ., concur in judgment."]
+parties: ["Columbus Southern Power Company et al., Appellants, v. Public Utilities Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/95/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 125651
+cites_cases: ["2 O.O.3d 342", "26 OBR 54", "26 Ohio St.3d 63", "32 Ohio St.3d 263", "32 Ohio St.3d 306", "357 N.E.2d 1073", "48 Ohio St.2d 163", "498 N.E.2d 453", "513 N.E.2d 243", "513 N.E.2d 337"]
+---
+
+# Columbus Southern Power Co. v. Public Utilities Commission
+
+## Majority (Lundberg Stratton, J.)
+
+Lundberg Stratton, J.
+This appeal deals with the provisions of 1999 Am. Sub.S.B. No. 3, which, for the most part, became effective on October 5, 1999. S.B. 3 is a comprehensive statutory scheme to facilitate and encourage the development of competition in the retail electric market, which added R.C. Chapter 4928, and amended and enacted various associated Revised Code Sections. This appeal involves the application of one of those modifications, the exemption of Ohio’s investor-owned electric utilities from the excise tax imposed on public utilities by R.C. 5727.30, effective May 1, 2001.
+R.C. 4928.31 required electric utilities to file with the Public Utilities Commission of Ohio proposed transition plans to implement the tax exemption and to comply with other requirements of S.B. 3. R.C. 4928.31(A)(1) and 4928.34(A)(6). The transition plans filed by appellants, Columbus Southern Power Company and Ohio Power Company, included a tariff provision, called an excise tax credit rider, that provided for a credit to customers’ electric service rates equal to the excise tax expense from which the appellants would be relieved.
+The commission decided that the effective date of the appellants’ credit riders would be April 30, 2001. The appellants contend that the effective date should be April 30, 2002.
+The tax that is the subject of this appeal is an annual tax imposed upon a public utility “for the privilege of owning property in this state or doing business in this state during the twelve-month period next succeeding the period upon which the tax is based.” R.C. 5727.30. The later twelve-month period is commonly referred to as the “privilege year” and the earlier period the “measurement year.” Sometimes improperly called a gross receipts tax, this tax is an excise tax payable during the privilege year, determined by the gross receipts, including rates paid by customers, of the public utility during the measurement year. R.C. 5727.38; See E. Ohio Gas Co. v. Limbach (1986), 26 Ohio St.3d 63, 66-67, 26 OBR 54, 498 N.E.2d 453.
+The appellants will become exempt from the public utility excise tax after the end of the privilege year, which will end April 30, 2002. Because they will be liable for the tax (an operating expense allowable and recoverable for ratemaking purposes) through the privilege year ending April 30, 2002, the appellants argue that the excise tax credit rider should not be effective until after that date.
+The commission decided that the excise tax credit rider should be effective one year earlier, after April 30, 2001, the end of the measurement year for the last privilege year before the effective date of the excise tax exemption, because a utility’s rates are determined on the principle that customers prepay in rates amounts equivalent to the utility’s future excise tax expense, a fact recognized by this court in Consumers’ Counsel v. Pub. Util. Comm. (1987), 32 Ohio St.3d 263, 270, 513 N.E.2d 243. By the end of the measurement year, April 30, 2001, their customers will have paid to appellants amounts equivalent to appellants’ excise tax expense payable to the state during the succeeding (and last) privilege year. Postponing the effective date of the excise tax credit rider to after the last privilege year, ending April 30, 2002, would result in appellants’ overrecovery of their annual excise tax expense, possibly by double or more.
+The appellants argue that an effective date of the excise tax credit rider after the privilege year ending April 30, 2002, is supported by the. commission’s decisions in In re FirstEnergy Corp. (July 19, 2000), PUCO Nos. 99-1212-EL-ETP et seq., and In re Cincinnati Gas & Elec. Co. (Aug. 31, 2000), PUCO Nos. 99-1658-EL-ETP et seq.
+However, the commission’s actions and approvals in those proceedings are distinguishable from the commission’s actions and approvals in the proceedings below. The FirstEnergy and Cincinnati Gas transition plan proceedings each involved the commission’s approval of comprehensive stipulated settlements among the parties, in which the recovery of the utility’s annual excise tax expense was not separately or specifically addressed. If recovery of that expense was provided for, it was merely by approval of cash flows, which necessarily include customers’ rate payments. There simply is no way to tell from the stipulated settlement agreements whether the utilities will recover all or any of their public utility excise tax expenses.
+While the commission proceedings in this case involved a stipulated settlement, that settlement did not address recovery of the appellants’ annual public utility excise tax expense. Rather, that issue was carved out and litigated for decision by the commission. Because of the differences between the proceedings in this case and the proceedings in FirstEnergy and Cincinnati Gas, we do not consider the decisions in those two cases to be relevant precedents for either the commission or this court as to the appellants’ excise tax issue.
+Under the “unlawful or unreasonable” standard specified in R.C. 4903.13, this court will not reverse or modify a commission decision as to questions of fact where the record contains sufficient probative evidence to show that the commission’s determination is not against the manifest weight of the evidence and is not so clearly unsupported by the record as to show misapprehension, mistake, or willful disregard of duty. MCI Telecommunications Corp. v. Pub. Util. Comm. (1987), 32 Ohio St.3d 306, 310, 513 N.E.2d 337. We find that the commission’s decision as to the effective date of the excise tax credit rider is supported by sufficient probative evidence of record below. Under such circumstances, we will not substitute our judgment for that of the commission. Cremean v. Pub. Util. Comm. (1976), 48 Ohio St.2d 163, 2 O.O.3d 342, 357 N.E.2d 1073, paragraph one of the syllabus.
+We therefore affirm the commission’s decision.
+Order affirmed.
+Marvin I. Resnik and Edward J. Brady; Porter, Wright, Morris & Arthur and Daniel R. Conway, for appellants.
+Betty D. Montgomery, Attorney General, Duane W. Luckey and Thomas W. McNamee, Assistant Attorneys General, for appellee Public Utilities Commission of Ohio.
+Robert S. Tongren, Ohio Consumers’ Counsel, and Colleen L. Mooney, Assistant Consumers’ Counsel, for intervening appellee Ohio Consumers’ Counsel.
+McNees, Wallace & Nurick, Samuel C. Randazzo, Kimberly Wile Bojko and Gretchen J. Hummel, urging affirmance for amicus curiae Industrial Energy Users-Ohio.
+Moyer, C.J., Resnick, F.E. Sweeney and Pfeifer, JJ., concur.
+Douglas and Cook, JJ., concur in judgment.
+. Section 4 of S.B. 3 stated that the amendment to R.C. 5727.30 creating the exemption “shall first apply to the excise tax assessed by the Tax Commissioner for tax year 2002.” See, also, Section 11. The tax year for electric companies is May 1 to April 30. R.C. 5727.33(A). As later amended by 2000 Am.Sub.H.B. No. 640, R.C. 5727.30(B) specified, “An electric company’s or a rural electric company’s gross receipts received after April 30, 2001, are not subject to the annual excise tax imposed by this section.”
