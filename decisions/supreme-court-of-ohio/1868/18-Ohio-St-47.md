@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1868-12"
+citations: ["18 Ohio St. 47"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, C. J., and Brinkerhoff, Welch, and White, JJ., concurred."]
+parties: ["Charles Williams v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-st/18/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 43717
+cites_cases: ["10 Ohio St. 427", "11 Ind. 389", "11 Met. 581", "12 Wis. 313", "4 Rawle, 259"]
+---
+
+# Williams v. State
+
+## Majority (Scott, J.)
+
+Scott, J.
+It is quite probable from the terms of the sentence in this case, that, previously to its announcement by the court, the plaintiff'in error had been sentenced, upon another conviction, to imprisonment for a certain term, at the expiration whereof the term mentioned in this sentence was intended to commence. Counsel for the plaintiff in error question the power of the court to sentence a convict to imprisonment for a term commencing on the determination of another term specified in a previous sentence. In the case of several convictions, such sentences are expressly authorized by statute in New York. In Massachusettts and in Pennsyl48] vania they are held valid independently of any express *statutory authority. Kite v. Commonwealth, 11 Met. 581; Russell v. Commonwealth, 7 S. & R. 489 ; 4 Rawle, 259. On the other hand, in Indiana and Kentucky, where, as in this state, the statute is 6ilent as to sentences commencing to operate in futuro, it has been held otherwise, and their statutes have been held to require such sentences of imprisonment to commence in presenti. Miller v. Allen, 11 Ind. 389; James v. Ward, 2 Met. (Ky.) 271. Our statute does not, in terms, require sentences of imprisonment to commence in presentí, and we think it ought not to be so construed, where no present effect can be given to such sentence, by reason of another subsisting judgment of imprisonment. To hold that where there aro two convictions and judgments of imprisonment at the same term, both must commence immediately, and be executed concurrently, would clearly be to nullify one of them. To postpone the judgment in one case, until the termination of the sentence in the other, would, if allowable, be attended with obvious inconvenience and expense, without any correspondent benefit to the convict. There is nothing in the statute requiring this, and it is not to be construed so as to defeat or impede the execution of its own provisions as to the punishment of crimes. ‘We think, both upon principle and the weight of authority, that we are required to hold that it is not error, upon a conviction in a criminal case, to make one term of imprisonment commence when another terminates. There is but little force in the objection that the term of the commencement of the second term is contingent and uncertain. It is true that the first term may be ended by a pardon or a reversal of judgment, bu[ its termination will be rendered certain by the évent, and then the second sentence, by its terms, tabes effect.
+But, whilst the sentence in this case, as pronounced by the court, and explained by what had previously taken place, may have been quite definite and certain, yet we can look only to the record for the terms of the judgment, and must determine their import and meaning only from the light which it affords. The sentence was that “ the said Charles Williams be imprisoned in the penitentiary of this state, and kept at hard labor for a further term of ten years, to commence *at the expiration of the sentence aforesaid.” [49 There is not a word in the record, by way of recital or otherwise, in regard to any other sentence, then, or at any previous time, passed upon the plaintiff in error or upon any other person. What is meant by “the expiration of the sentence aforesaid,” or to what the term “ aforesaid ” relates, we have no means of determining. And, unless we .know to what previous “ sentence ” the reference was intended to be made, it is impossible that even, subsequent events should render the time of the commencement and termination of the present sentence certain. "Viewed in the light of the* record alone, it is utterly vague, indefinite, and uncertain, and must for that reason be reversed.
+As the error in this case is only in the insufficiency of the judgment and sentence of the court, their reversal will not affect the validity of the conviction. Benedict v. The State, 12 Wis. 313; Peglow v. The State, Id. 534. The case will be remanded to the court of common pleas of Defiance county, whither the plaintiff in error will be sent, for judgment and sentence upon the verdict of the jury, pursuant to law.
+Day, C. J., and Brinkerhoff, Welch, and White, JJ., concurred.
