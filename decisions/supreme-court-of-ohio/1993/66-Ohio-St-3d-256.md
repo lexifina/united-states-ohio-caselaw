@@ -1,0 +1,59 @@
+---
+court: "Supreme Court of Ohio"
+docket: "92-174"
+decided: "1993-05-19"
+citations: ["66 Ohio St. 3d 256"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., A.W. Sweeney, Douglas, Resnick and F.E. Sweeney, JJ., concur.", "Wright and Pfeifer, JJ., concur in part and dissent in part.", "Wright, J., concurs in the foregoing Opinion."]
+parties: ["R.W. Sidley, Inc., Appellant, v. Limbach, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/66/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1720602
+cites_cases: ["149 N.E.2d 1", "167 Ohio St. 363", "195 U.S. 27", "24 Ohio St.2d 24", "263 N.E.2d 249", "5 O.O.2d 3", "53 O.O.2d 13", "575 N.E.2d 114", "61 Ohio St.3d 340"]
+---
+
+# R.W. Sidley, Inc. v. Limbach
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+For the reasons which follow, we affirm the decision of the Board of Tax Appeals (“BTA”).
+Before the BTA, in its notice of appeal and briefs before this court, and in oral argument, Sidley has consistently contested three general categories of items which the commissioner held taxable: items at its precast plant, its silica plant, and its block plant.
+I
+At the precast plant, Sidley casts and prestresses concrete construction components (e.g., beams and columns) for buildings, parking garages, and bridges. Sidley then assembles or erects the components under construction contracts to furnish finished products. It also sells some components to other construction contractors. To manufacture the components, Sidley hauls liquid concrete from a concrete batch plant to the precast plant, pours it into forms (usually made by Sidley) and processes it with vibration, heat and a cleaning process.
+Sidley claimed it was entitled to a sales and use tax exception for items used in manufacturing components at the precast plant, including forms, a crane system, beds, supplies, and equipment. The commissioner claimed the exception was available only where those items were used to manufacture tangible personal property for sale, and not for its own consumption, as a construction contractor. The BTA affirmed the commissioner.
+During the audit period, R.C. 5739.01(E)(2) excepted items used “directly in the production of tangible personal property * * * for sale by manufacturing [or] processing.” Am.Sub.H.B. No. 1, 137 Ohio Laws, Part I, 1412, 1658. Also, former R.C. 5739.01(S) defined “manufacturing” or “processing” as “transformation or conversion of material or things into a different state or form from that in which they originally existed and, for the purpose of the exceptions contained in division (E)(2) of this section, includes the adjuncts used during and in, and necessary to carry on and continue, production to complete a product at the same location after such transforming or converting has commenced.” Id. at 1661.
+Sidley presents an imaginative argument, relative to its vertically integrated manufacturing, that suggests that concrete products produced by its manufacturing division are “sold” within the contemplation of the statute when transferred to its construction contract division. It argues that the refusal to apply the manufacturer’s exception to a vertically integrated manufacturer and contractor discriminates against those who engage in both manufacturing and the performance of construction contracts using their own manufactured products. Therefore, Sidley says:
+“This Court should remedy the inherent inequities of R.C. 5739.01(E)(2) as it is being applied and implement the ‘direct use’ exemption in a neutral manner to permit Appellant an exemption for items in the precast concrete plant used directly in manufacturing tangible personal property.”
+Sidley thus asks this court to engage in blatant judicial fiat: to eliminate the words “for sale” from the applicable statute, in order to avoid purported discrimination. This we cannot do. The Ohio General Assembly has selected the language of the statute and our obligation is to employ it as written. Wheeling Steel Corp. v. Porterfield (1970), 24 Ohio St.2d 24, 53 O.O.2d 13, 263 N.E.2d 249.
+The BTA found that the majority of the components was assembled and erected by Sidley under contracts to make finished products, as a construction contractor.
+The BTA determined that the disputed items in the precast plant were properly assessed. We agree.
+II
+Sidley was assessed sales tax for items used in constructing its silica plant. It claims that the items are excepted from sales tax as items used directly in processing. The issues, therefore, are whether the silica plant structure is real property under R.C. 5701.02 or personal property, and whether the structure is used directly in processing or used as an adjunct to processing.
+The silica processing plant was constructed by Sidley, acting as its own construction contractor. Sidley dries and separates sand by grain size at the silica processing plant. In the building, which is one hundred eight feet high and thirty-five to forty feet wide, Sidley dries sand by heating it to as much as two hundred degrees. The sand is then cooled to one hundred ten degrees, and transported to the top of the building. Then, by gravity and the use of screening equipment, Sidley separates the various sized particles.
+The BTA rejected the argument that the building was a special purpose structure. The BTA found that the “[sjilica structure is real property” and, since Sidley acted as its own construction contractor, it was the consumer of the items in question. The BTA also found no evidence that the building itself was used to process the sand, although the dryer and the propane system, located within the building, were excepted from taxation as property used directly during the manufacturing process, or as an adjunct to such property.
+Sidley contends that the silica plant structure retained its classification as personal property and was used directly in manufacturing or processing, or as an adjunct to property so used, and should be excepted from tax.
+There is no evidence that the building itself functions in connection with the actual processing of sand. Under Thomas Steel Strip Co. v. Limbach (1991), 61 Ohio St.3d 340, 575 N.E.2d 114, the structure was real property; it is, therefore, not qualified for the exception afforded transactions in personal property. We affirm the BTA’s decision.
+III
+At the block plant, Sidley manufactures concrete block from aggregate, water and cement. The shell which houses the block plant equipment was also constructed by Sidley, acting as its own contractor. As with the silica plant structure, the block plant shell itself was not used in manufacturing or processing and is not entitled to exception as personal property used directly in manufacturing.
+The aggregate handling system consists of bins, weigh batchers and conveyors. Aggregate is trucked to bins at the plant. The aggregate drops to a weigh batcher below the bins, which measures quantities, then onto a convey- or for transportation to the mixer, where water and concrete are added to the aggregate. The mixture is conveyed to a block machine for forming, and then to a kiln, where the blocks are cured by steam. After that, blocks are moved to a cubing machine, which arranges the blocks in cubes. Towmotor lift trucks then move blocks to storage, or to a shrink wrap operation.
+With regard to the block plant items, the BTA determined that block manufacturing began at the mixer, when aggregate was combined with water and cement to produce concrete. The BTA found, correctly, that the manufacturing process was completed when the blocks were cured in the dryer. The aggregate handling system, utilized prior to the mixer, was used before manufacturing and was taxable; the cubing machine and the Towmotors were used subsequent to the completion of manufacturing at the dryer and were also taxable. Youngstown Bldg. Material & Fuel Co. v. Bowers (1958), 167 Ohio St. 363, 5 O.O.2d 3, 149 N.E.2d 1.
+Finally, the BTA’s determination that Sidley’s notice of appeal to the BTA did not raise the issue of the “packaging exception” was not unreasonable or unlawful. The decision of the BTA is affirmed.
+Decision affirmed.
+Moyer, C.J., A.W. Sweeney, Douglas, Resnick and F.E. Sweeney, JJ., concur.
+Wright and Pfeifer, JJ., concur in part and dissent in part.
+
+## Concurring in part and dissenting in part (Pfeifer, J.,)
+
+Pfeifer, J.,
+concurring in part and dissenting in part.
+“[T]he power to tax is the power to destroy.” McCray v. United States (1904), 195 U.S. 27, 56, 24 S.Ct. 769, 776, 49 L.E. 78, 96. These words should always be kept in mind when this court considers taxation matters.
+The majority has used an overly technical interpretation of the state Tax Code to unwisely penalize vertically integrated operations, as well as to narrowly define “manufacturing” and “adjuncts” to manufacturing in a manner unintended by the General Assembly. Accordingly, I respectfully dissent.
+The crane, heaters, boilers, and lumber forms and beds at the precast plant should be exempt from sales and use taxes because they are used to manufacture items which are “for sale,” pursuant to R.C. 5739.01(E)(2). The majority has propounded an unjust result in this case: the manufacturer who sells his manufactured products to an independent contractor will be eligible for the direct use exemption, but a manufacturer, who is also an independent contractor that uses the manufactured products, is somehow not exempt. This construction of R.C. 5739.01(E)(2) unfairly penalizes the vertically integrated operation. Ohio’s sales and use taxes were not intended to be antitrust taxes as the majority has permitted by its decision.
+In addition to the items in the precast plant being exempt from sales and use taxes, the appellant’s silica manufacturing structure and foundation should also be exempt because they are personal property used in manufacturing. The plant is one hundred eight feet high and thirty-five to forty feet wide. These dimensions are necessary to provide enough energy, through gravity, to separate the silica into various grades. Because of these dimensions, the plant is a unique structure designed for one purpose: manufacturing silica. It is highly unlikely that the building could be utilized for any purpose other than as a silica plant. The manufacturing structure is personal property and not real property.
+When there is such a high correlation between the unique design of the structure and the structure’s role in the manufacturing process, the building is either directly used in manufacturing or processing, or serves as an adjunct. Thus, the BTA’s determination that the silica plant is not used directly in the manufacturing process is unreasonable.
+Finally, this court should hold the aggregate handling system, the mixer, and the towmotors used in appellant’s block plant exempt from sales and use taxes because these items are used in manufacturing. The majority has too narrowly defined when the manufacturing process begins. The application of the direct use exemption for personal property used in manufacturing or as an adjunct to manufacturing should begin when raw materials are first handled and moved into the manufacturing process and should continue until the finished products are readied for shipment. When this common-sense test is applied to the contested items located in the block plant, all items fall within the direct use exemption. The sales or use tax should not be levied upon them.
+Thus, with the exception of imposing a use or sales tax upon the storage bins located in appellant’s silica plant, I reject the BTA’s decision, and dissent from the majority’s opinion.
+Wright, J., concurs in the foregoing Opinion.
