@@ -1,0 +1,60 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89-2177"
+decided: "1991-02-13"
+citations: ["57 Ohio St. 3d 163"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Stephenson and Resnick, JJ., concur.", "Holmes and Wright, JJ., dissent.", "Earl E. Stephenson, J., of the Fourth Appellate District, sitting for H. Brown, J.", "Holmes, J., concurs in the foregoing dissenting opinion."]
+parties: ["DeVennish, Appellant, v. City of Columbus et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/57/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1427992
+cites_cases: ["22 OBR 1", "22 Ohio St. 3d 1", "43 Ohio St. 3d 1", "488 N.E. 2d 181", "539 N.E. 2d 103"]
+---
+
+# DeVennish v. City of Columbus
+
+## Majority (Douglas, J.)
+
+Douglas, J.
+The issue before us is whether DeVennish’s eligibility for the 1986 sergeant’s promotional examination is to be determined by applying the criteria contained in Section E, Article 15 of the collective bargaining agreement or, alternatively, whether the commission’s requirement governs DeVennish’s examination eligibility. If Section E, Article 15 applies, DeVen-nish was eligible for the examination at the time he submitted his application since the agreement only requires that an applicant for the examination have at least three years of service as a police officer regardless of when the service occurred. However, if the commission’s requirement applies, DeVen-nish was ineligible for the examination because of the break in his service.
+The city argues, and the court of appeals held, that Section E, Article 15 of the agreement addresses matters which are inappropriate subjects of collective bargaining under R.C. 4117.08(B) and that, therefore, Section E, Article 15 is inapplicable in determining DeVennish’s examination eligibility.
+R.C. 4117.08(B) provides that:
+“The conduct and grading of civil service examinations, the rating of candidates, the establishment of eligible lists from the examinations, and the original appointments from the eligible lists are not appropriate subjects for collective bargaining.” (Emphasis added.)
+The city suggests that R.C. 4117.08(B) prohibits collective bargaining over promotional examinations. DeVennish and all amici contend that R.C. 4117.08(B) pertains only to the original appointment process.
+We believe that R.C. 4117.08(B) is clear and unambiguous. R.C. 4117.08 (B) prohibits collective bargaining over all matters concerning pre-hire examinations and the establishment of pre-hire eligibility lists, and does not prohibit bargaining over any matter concerning promotional examinations and the establishment of promotional eligibility lists. In other words, R.C. 4117.08(B) prohibits the parties to a collective bargaining agreement from bargaining over matters concerning the original, and not the promotional, appointment process. This conclusion is not only supported by the clear language of R.C. 4117.08(B), but is also supported by a reading of R.C. 4117.08 in its entirety.
+R.C. 4117.08(C) provides, in part, that:
+“Unless a public employer agrees otherwise in a collective bargaining agreement, nothing in Chapter 4117. of the Revised Code impairs the right and responsibility of each public employer to:
+* *
+“(5) * * * promote * * * employeesf.]” (Emphasis added.)
+R.C. 4117.08(C)(5) specifically permits a public employer to bargain over promotional matters. As such, R.C. 4117.08(C)(5) is irreconcilable with an interpretation of R.C. 4117.08(B) which would exclude bargaining over matters concerning promotional eligibility.
+Furthermore, R.C. 4117.08(A) provides that “[a]ll matters pertaining to wages, hours, or terms and other conditions of employment * * *” are subject to bargaining. R.C. 4117.08(C) provides that “[t]he employer is not required to bargain on subjects reserved to the management and direction of the governmental unit except as affect wages, hours, terms and conditions of employment * * (Emphasis added.)
+Promotions affect and pertain to wages, hours, or terms and other conditions of employment. Promotions can result in an increase in wages and responsibilities and a change in work schedule. Depending upon the nature of the promotion, the functions performed by the employee may change dramatically. Only those eligible for promotions can be promoted. Thus, all matters concerning promotional eligibility pertain to and directly affect wages, hours, or terms and other conditions of employment and are, therefore, bargainable issues.
+Additionally, common sense dictates that R.C. 4117.08(B) was meant to prohibit collective bargaining over matters concerning original, and not promotional, appointments. Pursuant to R.C. 4117.01(C), a “public employee” is defined as “* * * any person holding a position by appointment or employment in the service of a public employer * * The Public Employees’ Collective Bargaining Act (R.C. Chapter 4117) does not cover applicants for original employment. Until an original appointment is made, no pre-hire applicant is represented by an employee organization that may bargain on the applicant’s behalf. Thus, it is eminently logical to exclude all aspects of the original appointment process from collective bargaining. However, once an appointment is made, the newly hired individual is entitled to seek the protections of R.C. Chapter 4117, through his or her exclusive bargaining representative, and this includes the issue of promotions.
+Recently, the Court of Appeals for Franklin County reviewed the position it has taken in this case, to wit: that promotional matters are prohibited subjects of collective bargaining. See Columbus v. State Emp. Relations Bd. (Sept. 4, 1990), Franklin App. No. 90AP-87, unreported. In that case, the court of appeals concluded that R.C. 4117.08(B) applies only to original, and not promotional, appointments and that promotional matters are appropriate subjects of collective bargaining.
+For the foregoing reasons, we conclude that all matters affecting promotions are appropriate subjects of collective bargaining. As such, the examination eligibility criteria contained in Section E, Article 15 of the agreement between the city and FOP may properly be applied to determine DeVennish’s eligibility for the promotional examination at issue.
+With regard to the conflict between the collective bargaining agreement and the requirement of the civil service commission, R.C. 4117.10 applies. R.C. 4117.10(A) provides, in part, that:
+“An agreement between a public employer and an exclusive representative entered into pursuant to Chapter 4117. of the Revised Code governs the wages, hours, and terms and conditions of public employment covered by the agreement. * * * Chapter 4117. of the Revised Code prevails over any and all other conflicting laws, resolutions, provisions, present or future, except as otherwise specified in Chapter fll7. of the Revised Code or as otherwise specified by the general assembly. * * *” (Emphasis added.)
+We have determined that all matters concerning promotional eligibility affect wages, hours, or terms and other conditions of public employment. Section E, Article 15 of the agreement sets forth eligibility requirements for the promotional examination and these requirements clearly conflict with the commission’s eligibility requirement. Pursuant to R.C. 4117.10(A), the terms of the agreement control.
+The city, a chartered municipality, suggests that the commission's class specification requirement controls in determining DeVennish’s examination eligibility pursuant to Section 3, Article XVIII of the Ohio Constitution, which provides that:
+“Municipalities shall have authority to exercise all powers of local self-government and to adopt and enforce within their limits such local police, sanitary and other similar regulations, as are not in conflict with general laws.” (Emphasis added.)
+In Rocky River v. State Emp. Relations Bd. (1989), 43 Ohio St. 3d 1, 12-13, 539 N.E. 2d 103, 113, we found that the municipal power of local self-government is constitutionally limited to the exercise of powers which do not conflict with any general law. R.C. Chapter 4117 is a law of a general nature. State, ex rel. Dayton Fraternal Order of Police Lodge No. 44, v. State Emp. Relations Bd. (1986), 22 Ohio St. 3d 1, 22 OBR 1, 488 N.E. 2d 181, paragraph one of the syllabus. R.C. 4117.10(A) requires that Section E, Article 15 prevail over the commission’s conflicting requirement. Thus, the commission’s requirement must yield to the terms of the agreement.
+Next, the city concedes that the commission is bound by the terms of the city’s agreement with FOP. However, the city argues that Article 15 of the agreement merely required the city and FOP to “jointly support and petition” the commission to change its rules and regulations and did not require the commission to apply the examination eligibility criteria contained in Section E, Article 15. We believe that this argument truly elevates form over substance.
+The city concedes that it is not a legal entity separate from its commission. The duties and responsibilities of the commission consist of making rules and regulations with respect to the city’s civil service. Section 149, Columbus City Charter. The commission is a subordinate rulemaking agency of the city and, apart from the city, the commission has no viability. Thus, the city, in agreeing to petition the commission, effectively agreed to petition itself. The city cannot claim that its failure to join and support the efforts of FOP to effectuate the change in the commission’s rules nullifies the agreed-upon promotional eligibility requirements contained in Section E, Article 15. The city and, hence, its agency were required to apply the examination eligibility requirements contained in Section E, Article 15 of the agreement.
+For the foregoing reasons, the judgment of the court of appeals is reversed and it is ordered that DeVen-nish be accorded all rights and privileges he is or would have been entitled to had the commission applied the examination eligibility requirements contained in the collective bargaining agreement. It is further ordered that the Director of Public Safety of the city of Columbus carry out, with regard to appellant DeVen-nish, the intents and purposes of this opinion.
+Judgment reversed.
+Moyer, C.J., Sweeney, Stephenson and Resnick, JJ., concur.
+Holmes and Wright, JJ., dissent.
+Earl E. Stephenson, J., of the Fourth Appellate District, sitting for H. Brown, J.
+
+## Dissent (Wright, J.,)
+
+Wright, J.,
+dissenting. The majority has achieved for the Fraternal Order of Police (“FOP”) what the union had been unable to achieve for itself at the bargaining table.
+The majority contends that the city and the civil service commission are not separate entities, thereby converting the city’s agreement to seek civil service rule changes into a conversation with itself. The same logic would hold that the police and the city are the same, obviating the need for negotiations since there would be little purpose in the city negotiating with itself.
+Section 149 of the Columbus City Charter provides that the civil service commission is the exclusive rule-making body for the city’s classified service. The majority concedes this status to the commission. What the majority overlooks is that there is no authority in the charter for the city, either the executive or legislative branch, to usurp that rulemaking function through union negotiations.
+Finally, if the FOP truly believed that the city and the commission were the same, why was there any need to negotiate a clause that required the city and union to jointly support and petition the commission to change its rules?
+What the majority has done is convert a union wish list into reality. Finding myself uncomfortable with the court turning into a negotiator-by-fiat, I respectfully dissent.
+Holmes, J., concurs in the foregoing dissenting opinion.
