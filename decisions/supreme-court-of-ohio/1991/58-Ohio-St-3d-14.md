@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Ohio"
+docket: "90-555"
+decided: "1991-02-27"
+citations: ["58 Ohio St. 3d 14"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur."]
+parties: ["Shawnee Township, Appellee, v. Allen County Budget Commission; Allen County, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/58/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1428761
+cites_cases: ["10 O.O. 3d 411", "12 Ohio St. 2d 1", "14 O.O. 3d 209", "2 Ohio St. 2d 181", "207 N.E. 2d 764", "230 N.E. 2d 344", "24 OBR 76", "24 Ohio St. 3d 33", "31 O.O. 2d 398", "383 N.E. 2d 896", "396 N.E. 2d 767", "40 Ohio St. 3d 243", "41 O.O.2d 1", "492 N.E. 2d 826", "533 N.E. 2d 308", "56 Ohio St. 2d 282", "60 Ohio St. 2d 50"]
+---
+
+# Shawnee Township v. Allen County Budget Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Allen County asserts, as it did before the BTA, that Shawnee Township’s appeal to the BTA is void because Shawnee Township did not name all subdivisions as parties to the appeal of the 1987 Allen County undivided local government fund allocation. It argues that R.C. 5747.55, the statute enumerating the requirements for appeal of local government fund allocations and under which an appellant need name only subdivisions receiving an overallocation, mentions only actions taken under the statute providing for the statutory formula allocation. In the instant appeal, so the county argues, Shawnee Township, the dissatisfied subdivision, must name all participating subdivisions, pursuant to Brooklyn v. Cuyahoga Cty. Budget Comm. (1965), 2 Ohio St. 2d 181, 31 O.O. 2d 398, 207 N.E. 2d 764, because it is not appealing a statutory formula allocation but attempting to overturn an alternative formula allocation. Shawnee Township, to the contrary, maintains that the commission had not timely adopted the alternative formula; that the commission could not allocate per the inoperative alternative formula; and that it, consequently, appealed the statutory formula allocation. Shawnee Township presents the more convincing argument.
+First, we treat Allen County’s argument, that the appeal to the BTA is void, as a motion to dismiss, which we deny. Despite Allen County’s failure to file such a motion, a party cannot waive subject-matter jurisdiction regardless of procedural sins, and we can entertain a subject-matter dismissal motion at this stage. Painesville v. Lake Cty. Budget Comm. (1978), 56 Ohio St. 2d 282, 284-285, 10 O.O. 3d 411; 412-413, 383 N.E. 2d 896, 898.
+We turn now to Shawnee Township’s principal contention. Under R.C. 5747.51, the budget commission determines each subdivision’s relative need, totals all the subdivisions’ relative needs, and divides the undivided local government fund by this amount to determine the county’s relative need factor. The commission then multiplies this relative need factor by each subdivision’s relative need to determine that subdivision’s share of the fund. R.C. 5747.52 sets forth this formula.
+Under R.C. 5747.53, on the other hand, the budget commission may apportion the fund under an alternative formula. The alternative formula must gain the approval of the board of county commissioners, the legislative authority of the city with the greatest population, and a majority of the boards of township trustees and the legislative authorities of municipal corporations in the county. In any event, R.C. 5705.27 requires the commission to complete its work by September 1, unless the Tax Commissioner extends the time to complete the work.
+According to R.C. 5747.55, subdivisions may appeal the action of the budget commission taken under R.C. 5747.51, the statutory formula allocation, to the BTA “* * * in the manner and with the effect provided in section 5705.37 of the Revised Code * * *.” On the other hand, subdivisions dissatisfied with alternative formula allocations may, according to R.C. 5747.53(E), appeal to the BTA only for abuse of discretion or failure to comply with the formula.
+As to notifying, subdivisions of their allocations, R.C. 5705.35 provides for the commission to certify to each subdivision an official certificate of estimated resources, the document on which Shawnee Township bases its claim for an allocation of $382,398.76. This certificate must set forth the various funds, other than those created by a transfer, of each subdivision, including unencumbered balances and receipts, taxes to be levied, and the estimated revenue to be derived therefrom. The subdivision must then revise its budget so that the total contemplated expenditures will not exceed the estimated appropriations. The certificate is an official action of the budget commission from which a subdivision may appeal. Budget Comm. of Brown Cty. v. Georgetown (1986), 24 Ohio St. 3d 33, 24 OBR 76, 492 N.E. 2d 826.
+Allen County misperceives Shawnee Township’s appeal as an attempt to overturn an alternative formula allocation. Since the commission had not adopted the alternative formula by September 1, the alternative formula did not exist for the 1987 allocation, and the commission could not allocate under it. Therefore, the commission had to allocate the fund under the statutory formula.
+Moreover, since Shawnee Township appeals a statutory formula allocation, it need name only those subdivisions it believes received an overallocation from the fund. This appeal, thus, creates a limited fund equaling the total allocations made to the party subdivisions, which, on appeal, must be allocated between them. R.C. 5747.55(A); Canton v. Stark Cty. Budget Comm. (1988), 40 Ohio St. 3d 243, 249, 533 N.E. 2d 308, 314-315.
+Finally, the BTA should have allocated the limited fund between Shawnee Township and Allen County; it should not have remanded the case to the commission. The BTA should acquire sufficient information and modify the allocation in whatever way the evidence requires. Bd. of Cty. Commrs. v. Willoughby Hills (1967), 12 Ohio St. 2d 1, 41 O.O.2d 1, 230 N.E. 2d 344, paragraph two of the syllabus; Berea City School Dish v. Budget Comm. (1979), 60 Ohio St. 2d 50, 14 O.O. 3d 209, 396 N.E. 2d 767.
+Accordingly, the decision of the BTA is affirmed in part and reversed in part, and the cause is remanded to the BTA for further proceedings consistent with this opinion.
+Decision affirmed in part, reversed in part and came remanded.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.
