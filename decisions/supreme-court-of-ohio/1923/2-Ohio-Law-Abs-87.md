@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Ohio"
+docket: "18029"
+decided: "1923-01-15"
+citations: ["2 Ohio Law Abs. 87"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE v. MABEL CHAMPION"]
+source_url: "https://static.case.law/ohio-law-abs/2/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11142867
+cites_cases: ["102 OS. 184", "26 OS. 162", "96 OS. 215"]
+---
+
+# State v. Champion
+
+## Majority (WANAMAKER, J.)
+
+WANAMAKER, J.
+Epitomized Opinion
+First Publication of this Opinion
+Mabel Champion was indicted by the grand jury of Cuyahoga county, on a charge of murder in the first degree, and on the trial in the Common Pleas was found guilty of manslaughter. Motion for a new trial was filed, and overruled, judgment entered and sentence pi’onounced. Error was presented to the Court of Appeals, which reversed the judgment and remanded the case for a new trial. This case prosecutes error to the Supreme Court to reverse the judgment of the Court of Appeals.
+The journal entry of the Court of Appeals shows 'that “judgment of the said. Court of Common Pleas is reversed, for error in the court not charging self defense, for error in not properly charging the jury on accidental shooting and for error in the admission of evidence.”
+The essential prerequisites to invoking the right of self defense have been clearly set forth by the courts of Ohio. The parent case, often approved and reapproved, is Martz v. State, 26 OS. 162. These are: (1) Defendant must “bona fide believe that she is in imminent dagner of death or great bodily harm”; (2) that “her only means of escape from such danger” will be the taking of the life of her assailant; (3) that the defendant must have “reasonable grounds” for such belief. These prerequisites require specific testimony from the defendant herself as to her belief in the premises, as no one else could testify to her belief.
+1. Nowhex’e in the defendant’s evidence does she testify that she so believed either of the said propositions. Upon the contrary the record shows that she testified that she did not intend to shoot the deceased nor do him harm.
+2. The record shows that at the close of the general charge to the jury, the counsel for the accused made special requests for charges as to the subjects of assault and battery, and assault, and on the subject of accidental shooting and the law of self defense, as they related to the case. The court refused to give the requested charges as to assault, assault and battery and self defense, but informed the jury that if it found that the death of the party was due to accident, it was their duty to find the defendant not guilty. Counsel then excepted generally to the charge of the court, and specifically to the refusal to charge as requested, as to assault, assault and battery and self-defense. No exception was made to What he said as to accidental homicide; no further request was made to charge upon that subject, clearly indicating that counsel were content with the charge under the evidence, the argument that had been made, and what the court had said in its general charge.
+Attorneys — Edward C. Stanton, Pros. Atty., and James Cassidy, Asst Pros., for State; Reed,Meals, Orgill & Masehke, for accused; all of Cleveland.
+Counsel owes a duty to the court as well as to his clients to aid the court in presenting pertinent and proper charges as to the law fitting the issues and the evidence touching them. The court might have said something further as to the discharge of the gun touching accident or misadventure, but the fact remains that the counsel for the prisoner was content with what the court did say in connection with what it had theretofore said, in its general charge, touching the burden of proof upon the state, to establish all the elements of the offense beyond a reasonable doubt, and it is too late now to further complain in this behalf.
+The fact that requests were asked on both accidental homicide and self defense, under the same evidence, presents a peculiar paradox — a direct contradiction in terms and truth. Self defense presumes intentional, wilful use of force, to repel force and escape force. Accidental force or shooting is exactly contrary. If the evidence warrants, the defendant has the right to one request or the other, but not to both.
+3. Undoubtedly in cases of homicide convictions may be had for assault and battery, but only where there is a “reasonable doubt” or evidence suggesting the same,' that the force and violence used did not cause the death. But where it is clear and conclusive that the force and violence used did cause the death, it would be mere mockery for the court to charge or the jury to find as to the minor offense. The defendant was guilty of some degree of murder, or guilty of nothing. The jury is not a pardoning board, and the court was right in refusing to charge as to these minor offenses. State v. Schaefer, 96 OS. 215, and Bandy v. State, 102 OS. 184, followed and approved.
+4. It is claimed that the reversal by the Court of Appeals is justified upon error in the admission of rebuttal evidence on behalf of the state. It is elementary that such evidence should have been offered in chief, but the court gave the defense the opportunity, not only to cross examine the witnesses, but in addition thereto to introduce evidence .to rebut this evidence, and it is impossible to conceive how this constituted prejudicial error for which a new trial should be granted.
+5. A reversal is insisted upon, on account of misconduct of counsel for state, and argument to the jury. The presumption is that the court properly restrained counsel on both sides, and error in this respect, to be the basis of a reversal, must clearly appear. While the argument for counsel for state is in the record and that of the accused’s counsel is not, we are unable to say how much of it was in direct reply to that of defendant’s counsel.
+As to the absence from the trial of defendant’s husband and other witnesses who were present at the time of the homicide, that may properly be the subject of comment by counsel for the state, unless their absence be reasonably accounted for by defendant. It is the presumption of fact as well as in law, that if the witness known to be present at the time of a vital event is available to testify, and fails to be called upon or have his deposition taken, or his absence accounted for by the party in whose favor he would naturally be 'expected to testify, it is not improper for counsel on the other side to infer that his testimony would be unfavorable to the defendant and this is a proper subject for comment in a court of justice.
+We find no reversible error prejudicial to the substantial rights of the prisoner; indeed she may count herself most fortunate in not being found guilty of a more serious offense. The judgment of the Court of Appeals is reversed and that of the Common Pleas affirmed.
