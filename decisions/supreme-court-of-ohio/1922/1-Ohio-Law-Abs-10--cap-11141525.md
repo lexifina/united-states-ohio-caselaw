@@ -2,7 +2,8 @@
 court: "Supreme Court of Ohio"
 docket: "17524"
 decided: "1922"
-citations: ["1 Ohio Law Abs. 10", "1 Ohio Law Abs. 9"]
+decided_precision: "year"
+citations: ["1 Ohio Law Abs. 10"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
