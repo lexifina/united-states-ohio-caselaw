@@ -1,0 +1,61 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-404"
+decided: "1971-03-17"
+citations: ["25 Ohio St. 2d 255"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Schneideb, Hebbebt, Stephenson, Steen and Leach, JJ., concur.", "Stephenson, J., of the Fourth Appellate District, sitting for Cobbigan, J,"]
+parties: ["The State of Ohio, Appellee, v. Berry, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/25/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6691352
+cites_cases: ["139 Ohio St. 273", "151 Ohio St. 485", "164 Ohio St. 54", "176 Ohio St. 156", "176 Ohio St. 61", "19 Ohio St. 2d 31", "22 Ohio St. 275", "260 U. S. 110", "264 U. S. 375", "27 L. Ed. 2d 213", "291 U. S. 97", "31 Ohio St. 139", "32 Ohio St. 352", "42 Ohio St. 568", "42 Ohio St. 596", "50 A. L. R. 2d 176", "51 Ohio App. 211", "71 Ohio Law Abs. 429"]
+---
+
+# State v. Berry
+
+## Majority (Duncan, J.)
+
+Duncan, J.
+Appellant sets forth five basic contentions, and we deal with them in the order presented.
+I.
+It is urged that the trial court erred in allowing the state to exercise its sixth peremptory challenge on a juror after the prosecutor had expressed satisfaction with the jury as it was then constituted. Appellant argues that the prosecutor had forfeited the use of a peremptory challenge on a juror who had been seated at the time he made the statement.
+We do not believe that the prosecutor’s statement, “the state is satisfied with the jury as it is now constituted,” made after he had exercised five peremptory challenges, can reasonably be interpreted as a waiver or forfeiture of the right to exercise the state’s remaining peremptory challenge.
+A number of factors are generally evaluated by trial counsel in the exercise of peremptory challenges. Among these are the character and balance of a jury, which counsel may view as substantially alterable by the removal or addition of any one person. Such an alteration might serve to change a litigant’s view as to the propriety of allowing any particular juror to remain seated, even though that juror’s presence had been approved as the jury was then constituted.
+We understand the prosecutor’s words of satisfaction with the jury, as then constituted, to imply that should the prospective jury membership change, the remaining peremptory challenge might be exercised.
+If, as appellant urges, a peremptory challenge must actually be used to dismiss a juror when the alternate opportunity to challenge is presented, express words of reservation, no matter how explicit, of the right to reserve the exercise of a challenge could not be effective to extend that right beyond the time of the first declination. That argument assumes that once a party “passed” his alternate turn to peremptory challenge, the right could not thereafter be resurrected, even to challenge a newly seated juror. Such a view of the utilization of challenges, which we reject, would be a marked departure from the well-established practice in Ohio trial courts.
+Appellant contends further that the provision in R. C. 2945.21, that “challenges shall be exercised alternately,” is in such conflict with the provision of the same section prohibiting a party from being deprived of any of the challenges by reason of the order of exercising the same, or the time and manner of exercising the same, that the statute is unconstitutional.
+R. C. 2945.21 suffers no constitutional infirmity. We are obligated to uphold the validity of an act of the General Assembly whenever possible. Reckner v. Warner (1872), 22 Ohio St. 275, 294; Wilson v. Kennedy (1949), 151 Ohio St. 485, 492; State, ex rel. Mack, v. Guckenberger (1942), 139 Ohio St. 273, 277. Moreover, our commitment is to attempt to construe a statute in such a way as to preserve its validity should it have more than one possible interpretation. See Panama Rd. Co. v. Johnson (1924), 264 U. S. 375, 390; Bratton v. Chandler (1922), 260 U. S. 110, 114.
+R. C. 2945.21 clearly provides: “Neither the state nor a defendant may be deprived of any of the challenges by reason of such order of exercising the same, or the time and manner of exercising the same.” Even prior to the original enactment of this statute in 1929 (113 Ohio Laws 123, 183), in Koch v. State (1877), 32 Ohio St. 352, this court held that a defendant was granted the absolute right to his statutory number of peremptory challenges, in spite of his failure to exercise one in turn.
+The provision of the statute that such challenges “shall be exercised alternately” furnishes a procedural device to be employed by a trial judge in conducting the selection and seating of a jury. We do not believe that the General Assembly, in enacting the statute, intended to prohibit a party from “passing” an alternate turn which would foreclose the use of any remaining peremptory challenges. It is uncommon for the General Assembly to insulate a granted right by articulating such well-chosen words of protection. Not only does the statute provide (1) the state and the defendant each with six peremptory challenges, but also provides (2) that “neither the state nor a defendant may be deprived of any of the challenges by reason of such order of exercising the same, or the time or manner of exercising the same.” Such strong language needs no interpretation and must be afforded our highest regard.
+We therefore hold that under R. C. 2945.21, while the parties shall alternately exercise their peremptory challenges, the passing of a turn does not operate as an absolute waiver, precluding a party from later making use of his full statutory number of challenges. The statute is complied with as long as the opportunity to challenge peremptorily is alternately offered to the parties by the court.
+n.
+Appellant urges that the state’s evidence consisted of inferences based upon inferences, and should not be allowed to sustain a conviction. Apparently appellant raises the issue of whether the verdicts of guilty were against the manifest weight of the evidence.
+In State v. Martin (1955), 164 Ohio St. 54, 57, it was stated:
+“It has been established, as a general policy, that the Supreme Court will not determine as to the weight of the evidence.
+“This court may, however, examine the record with a view of determining whether the proper rules as to thu weight of the evidence and degree of proof have been applied.” . ;
+See, also, State v. Stewart (1964), 176 Ohio St. 156, 160; State v. Cliff (1969), 19 Ohio St. 2d 31, 33.
+In keeping with onr general policy, we have reviewed the record and the court’s instructions to the jury. Obviously, the state’s case consists solely of circumstantial evidence. Nevertheless, from the evidence adduced we find that reasonable minds can reach different conclusions as to whether each material element of a crime has been proved beyond a reasonable doubt, and that the question was properly one for determination by the jury. See State v. Antill (1964), 176 Ohio St. 61.
+III.
+Appellant complains that the trial court’s refusal to excuse juror Rogers for cause deprived him of a fair and impartial jury. He argues that he then was forced to exercise a peremptory challenge on Rogers which could have been used otherwise.
+A defendant is prejudiced by the refusal to allow a proper challenge for cause only when he has exhausted his peremptory challenges before the full jury is seated. Hartnett v. State (1885), 42 Ohio St. 568, paragraph four of the syllabus. We find no error, however, in the trial court’s refusal to excuse juror Rogers for cause. The record discloses that this juror had, at one time, a casual business relationship with a person named Juanita Perkins, but the voir dire examination did not disclose that such person was one of the victims involved in this case; that he vaguely remembered reading about the murders in the paper, and that, prior to an explanation of a jury’s function, he believed that a defendant should offer some evidence of his innocence. Upon inquiry by the trial judge, Rogers stated that he could follow the court’s instructions regarding the applicable law, regardless of what he had thought the law to be.
+Under R. C. 2945.25, there is no basis upon which the trial court was required to excuse juror Rogers for cause. See Palmer v. State (1885), 42 Ohio St. 596; Dew v. McDivitt (1876), 31 Ohio St. 139.
+IY.
+Appellant urges that the trial court allowed the prosecution to pursue a line of improper questioning which was prejudicial. Appellant generally asserts that the prosecution was allowed to bring out new testimony on re-direct examination of witness Wright, and that many of the questions themselves were prejudicially worded.
+We find appropriate here the words of Justice Cardozo in Snyder v. Massachusetts (1934), 291 U. S. 97, 122, cited in Dutton v. Evans (1970), 39 L. W. 4015, 4019, 27 L. Ed. 2d 213, 227, when he stated:
+“* * * There is danger that the criminal law will be brought into contempt — that discredit will even touch the great immunities assured by the Fourteenth Amendment —if gossamer possibilities of prejudice to a defendant are to nullify a sentence pronounced by a court of competent jurisdiction in obedience to local law, and set the guilty free. ’ ’
+Our reading of the record convinces us that the trial judge’s rulings on the admissibility of evidence were not erroneous to the prejudice of appellant.
+Y.
+Finally, appellant submits that the trial court abused its discretion in allowing certain testimony taken at trial to be read to the deliberating jury. It is claimed that this procedure presented to the jury certain testimony out of context and without the opportunity to observe the wit' nesses’ demeanor.
+While we agree with appellant’s contention that a witness’s demeanor on the stand is important to a jury’s consideration of his testimony, we fail to see how such observation is lost, to the prejudice of a defendant, when a jury merely asks to have the testimony of a particular witness repeated to it. The jury’s recollection of the witness cannot be assumed to have so diminished as to give the reading of the testimony credibility that was not present when it was originally given.
+R. C. 2315.06 specifically provides that should a jury disagree on the testimony, “in the presence of or after notice to the parties or their counsel, the court may state its recollection of the testimony upon a disputed point.” Although it is a well settled rule in most jurisdictions that a court may, in its sound discretion, read part of the testimony taken at trial to a jury which is in deliberation (see, generally, 50 A. L. R. 2d 176, 180, 192), this court has not heretofore passed on this question. We hold that after jurors retire to deliberate, upon request from the jury a court may, in the exercise of sound discretion, cause to be read all or a part of the testimony of any witness, in the presence of or after reasonable notice to the parties or their counsel. Our reading of the record reveals no abuse of discretion in allowing the testimony to be read to the jury. See, also, Itskin v. State (1935), 51 Ohio App. 211; State v. Jessop (1952), 71 Ohio Law Abs. 429.
+Accordingly, we affirm the decision of the Court of Appeals.
+Judgment affirmed.
+O’Neill, C. J., Schneideb, Hebbebt, Stephenson, Steen and Leach, JJ., concur.
+Stephenson, J., of the Fourth Appellate District, sitting for Cobbigan, J,
+R. C. 2945.25 reads in pertinent part as follows:
+“A person called as a juror on an indictment may be challenged for the following causes:
+“ (A) That he was a member of the grand jury which found such indictment;
+“(B) That he has formed or express' ' an opinion as to the guilt or innocence of the accused; hut if a juror has formed or expressed such an opinion, the court shall examine such juror on oath, as to the ground thereof, and if such juror says that he can render an impartial verdict notwithstanding such opinion, and the court is satisfied that such juror will render an impartial verdict on the evidence, the court may admit him as competent to serve as a juror in such cause * *
