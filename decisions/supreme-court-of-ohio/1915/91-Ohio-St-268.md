@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+docket: "14162"
+decided: "1915-02-23"
+citations: ["91 Ohio St. 268"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, C. J., Johnson, Donahue, Wanamaker, Newman and Jones, JJ., concur."]
+parties: ["Gleason v. Bell."]
+source_url: "https://static.case.law/ohio-st/91/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 992569
+cites_cases: ["26 Ohio St., 428", "33 Ohio St., 283", "39 Ohio St., 491", "40 Ohio St., 168", "45 Mich., 481"]
+---
+
+# Gleason v. Bell
+
+## Majority (Matthias, J.)
+
+Matthias, J.
+The questions presented arise from the contention that the petition fails to state a cause of action in that no fraudulent intent or scienter is alleged, the representations complained of were not material, were not within the authority of the agent making them and that the plaintiff had no right to rely thereon.
+The claim made by the plaintiff in her petition is in substance that the husband of the defendant, having the management of her property and acting in regard thereto with her authority, representing himself as the owner thereof, induced the plaintiff to purchase said property, a residence in the village of East Cleveland, by means of certain false representations as to the building restrictions in the immediate vicinity of said property, which materially affected the character, utility and value of said premises; that such representations were made as positive statements of fact and were relied upon entirely by the plaintiff. Under the circumstances detailed in this petition it is not incumbent upon the plaintiff to aver and prove that the defendant knew the representations were false and made them with intent to deceive. The facts' set up in this petition show that the party making the representations should have known whether they were true or false, and further show that they were made not as an expression of opinion but as positive statements of fact, with the intention that they should operate as an inducement to the sale of said premises. The recital of the transaction in the petition sufficiently shows that the representations were so made as to imply that the maker knew them to be true and intended that his statements should be so understood, believed and relied upon and operate as an inducement to the purchase of the premises.
+“A positive statement implies knowledge, and if the party who makes it has no knowledge on the subject, he has told scienter what is untrue; he has affirmed his knowledge.” 1 Bigelow on Fraud, 513.
+In support of the contention that the petition is insufficient, counsel for the defendant cite the case of Taylor v. Leith, 26 Ohio St., 428, where, in passing upon instructions to the jury, the court held that if the representations were believed to be true, and the facts of the case were such as to justify the belief, there would be no fraud. The view that the petition in the case at bar states a cause of action is not out of harmony with the conclusion of the court in that case. They are entirely consistent. When it is shown, as it is in the petition before us, that positive statements of fact are made relative to the premises, which are material to the transaction, and under circumstances such that he who makes the representations should know the facts, and it is shown too that such statements were untrue, the view most favorable to the defendant is that he must at least assume the burden of showing that he believed his representations true and that the facts were such as to justify his belief.
+When tested by the rule stated by this court in the case of Aetna Ins. Co. v. Reed, 33 Ohio St., 283, this petition is found to be sufficient. It meets every requirement there stated — false representations of a material fact, upon which plaintiff relied, and upon which, from the circumstances of the case, he had a right to rely, and, in doing so, was misled to his injury, whether the party making the representations knew them to be false or not, if he had no reason to believe them to be true, and they were made with the intention of inducing the person to whom made to act upon them and he did so, sustaining a damage in consequence. All these facts are shown in the petition, and surely nothing further should be required of the plaintiff.
+In the case last cited and in Mulvey v. King, 39 Ohio St., 491, the court has somewhat modified the burden theretofore cast upon one who seeks to retrieve his losses sustained by reason of the misrepresentations of one with whom he deals. In the latter case it was held that against one who claims the benefit of, and seeks to enforce, a contract procured by means of misrepresentations, recoupment may be had if it only appear that the representation was “material and substantial, affecting the identity, value and character of the subject-matter of the contract, that it was false, and that the other party had a right to rely upon it, and that he was induced by it to make the contract.”
+To the same effect is the holding of the court in. Baughman v. Gould, 45 Mich., 481, and Pierce v. Tiersch, 40 Ohio St., 168.
+The representations complained of in the petition before us, while not affecting the identity, do affect the character, use and enjoyment, and, hence, the value of the premises, the subject-matter of the contract. Nor can defendant complain because the plaintiff accepted the positive statements of fact made by the defendant, and presumably within his knowledge, at their face value, and relied thereon. 20 Cyc., 33-35, and cases cited. The representations pleaded must be regarded as material; for they substantially affected the value of the property and were calculated to and did induce the sale. 1 Bigelow on Fraud, 497. These representations were made by the husband of the defendant, who permitted him to manage and make contracts relative to her property, as his own, and she ratified his acts and accepted the benefits of the contracts thus procured. Under the facts pleaded she is bound by the representations made.
+Judgment affirmed; cause remanded to common pleas court.
+Nichols, C. J., Johnson, Donahue, Wanamaker, Newman and Jones, JJ., concur.
