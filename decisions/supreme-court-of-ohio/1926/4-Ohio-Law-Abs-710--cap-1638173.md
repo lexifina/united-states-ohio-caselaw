@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "20128"
 decided: "1926-10-16"
-citations: ["4 Ohio Law Abs. 710", "4 Ohio Law Abs. 724"]
+citations: ["4 Ohio Law Abs. 710"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
