@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["23 Ohio St. 637"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Bank of Marietta v. George Haynes."]
+source_url: "https://static.case.law/ohio-st/23/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421529
+---
+
+# Bank of Marietta v. Haynes
+
+## Majority (Welch, J.)
+
+Welch, J.
+We do not see how the finding of the jury can be sustained on this evidence.
+As to the first defense, that the bill was procured by fraud, it is enough to say that there is no evidence tending to implicate the plaintiff, or any of its agents. If there was any fraud, it was practiced by the agent of the railroad company, and without the knowledge of the plaintiff, so far as appears by the evidence.
+The second ground of defense is, that the bill was not indorsed by the railroad company. This indorsement, it is claimed, the company were bound to make under their contract. We think otherwise. No such condition is expressed in the contract. It binds the defendant to “ loan his credit” to the company, by giving “ notes or bills in blank,” to be “filled up and negotiated” by the company. The bill was “filled up and negotiated” by the company. The company were already bound by their contract to see the loan ultimately paid, and its indorsement would have availed the defendant nothing. The company were not a party to the bill, and the question whether the company should indorse it, was a matter which concerned only the company and the bank.
+The defense of usury also, as we understand the evidence, is wholly without proof. It is claimed the case comes within the provision against usury contained in section 5 of the act of March 19, 1850, because the drawer of the bill, the defendant, did not himself expect to pay the bill in New York. The answer to this is, that the drawer did not expect to pay it anywhere, but expected the railroad company to pay it for him., and to pay it in New York, as the company had paid the former bills. Payment by the company for the defendant would have been payment by the defendant. The bank, then, did expect the defendant, by and through the railroad company, to pay the bill at its maturity in New York.
+The ground of defense mainly relied upon, however, is, that there is no sufficient consideration to support the bill. It was given under a mistake, the defendant at the time supposing that the bank owned the bill of June 15, 1857, and could control it, whereas it then belonged to Dennis-town, Wood & Co., and was in their possession.
+I think there are two answers to this ground of defense. The first answer is, that the bank did own the bill of June 15. The drawee of that bill had no authority to sell it, and the fact that he was the drawee of the bill was prima facie evidence, and notice to a subsequent indorsee, that the bill had run its course, and was not to be negotiated farther. Being the owner of the bill, it matters not at what time the bank repossessed itself of the bill, and restored or tendered it to the defendant, provided that was done before payment of the new bill was demanded. It seems, however, that the bank, at the time the bill in suit was discounted, tendered to the defendant, if he did not in fact receive it, a full acquittance and guaranty against the former bill; and the subsequent procuring of the bill, and its tender to the defendant, were only a fulfillment of that guaranty. This guaranty gave the defendant timely notice of the course the plaintiff proposed to pursue, and that is the only significance, perhaps, which it has in the case.
+In the second place, it seems to me, there is a good answer to this defense, even were we to admit that the title to the bill of June 15, at the time of giving the bill in suit, was not in the bank, and that the bank has since bought it in. The latter bill was intended to take the place of the former. By procuring and'tendering the one, and demanding payment of the other, the bank but carried into effect the actual intention of the parties. The defendant has paid neither. He resisted the enforcement of the former, we must presume, on the ground that it belonged to the bank, and he defends the present action on the ground that it did not belong to the bank. The intention of the parties was, that the bill of June 15 should be extinguished, that the new bill should be substituted for it, and that the credit should be prolonged for the time stipulated in the new bill; all which is effectually accomplished, by causing the old bill to be canceled or surrendered, and by enforcing payment of the new bill. Most clearly, the bank is entitled to maintain its action on one or the other of the two bills; and it is placing the defense on shadowy ground indeed, to say that the action, under the circumstances, has been brought upon the wrong bill. Had the action been brought upon the old bill, I have no hesitation in saying that a successful defense might have been maintained, even without relying upon the receipt and guaranty sent by the bank to the defendant.
+This view of the case renders it immaterial to inquire whether the receipt and guaranty so sent to the defendant . were accepted by him, or whether the court erred in admitting his testimony in relation thereto, or in its charge to the jury as to the effect of that testimony.
+Judgment reversed, and cause remanded for a new trial and further proceedings.
