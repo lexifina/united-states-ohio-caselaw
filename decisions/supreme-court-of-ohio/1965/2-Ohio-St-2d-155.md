@@ -1,0 +1,52 @@
+---
+court: "Supreme Court of Ohio"
+docket: "38459 and 38955"
+decided: "1965-05-19"
+citations: ["2 Ohio St. 2d 155"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taut, C. J., O’Neill and Browe, JJ., concur.", "Matthias, Herbert and SchNeider, JJ., concur in case No. 38955 but dissent in case No. 38459.", "Matthias and SchNeider, JJ., concur in the foregoing opinion by Herbert, J."]
+parties: ["Hyde, Appellant, v. City of Lakewood, Appellee. Holt, Appellee, v. City of Cincinnati, Appellant"]
+source_url: "https://static.case.law/ohio-st-2d/2/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6692300
+cites_cases: ["116 Ohio St. 281", "138 Ohio St. 220", "146 N. E. 2d 301", "162 N. E. 2d 475", "167 Ohio St. 29", "170 Ohio St. 49", "25 A. L. R. 2d 203"]
+---
+
+# Hyde v. City of Lakewood
+
+## Majority (ZimmbrmaN, J.)
+
+ZimmbrmaN, J.
+This court has not yet abandoned the principle that, where a municipal corporation is engaged in the exercise of a governmental function and a tort is committed by it while it is so engaged, there is no liability. In line with a number of other jurisdictions, Ohio still adheres to the general rule that, unless there is a statute removing immunity, a governmental unit or agency may escape liability for the commission of a tort upon a showing that a governmental function was being performed at the time the tort occurred. Broughton v. City of Cleveland, 167 Ohio St. 29, 146 N. E. 2d 301, and the cases cited therein. See, also, annotation, 25 A. L. R. 2d 203, 210, relating to the operation of hospitals. Compare Wolf v. Ohio State University, 170 Ohio St. 49, 162 N. E. 2d 475.
+Section 715.37, Revised Code, confers upon municipal corporations, among other things, the power to provide for the public health and to erect, maintain and regulate hospitals. Clearly, this legislation is designed to promote public welfare generally.
+In case No. 38459, the trial court found, upon the evidence presented to it, that over a period of 30 years, from 1931 to 1961, the operating expenses of the Lakewood Hospital exceeded receipts by $142,529.66; that the taxpayers of the city of Lakewood, in maintaining the hospital, had expended the sum of $2,767,082 by way of special tax levies to amortize hospital capital improvement bonds and to provide for the erection, enlargement and equipping of the hospital; that such hospital has not been operated with a view to profit; that the hospital is managed by an eight-member board of trustees, established by city charter, which is composed of the mayor, the commissioner of health and six residents of the city of Lakewood; that the hospital is administered by a superintendent, his assistant and an executive committee composed of members of the hospital medical staff; that purchases of supplies and equipment are by competitive bidding; and that the accounting records of the hospital are kept by the financial department of the municipality in accordance with its rules.
+Furthermore, the court found, from the evidence, that some 37 % of the annual hospital admissions are of residents of Lakewood, and that the remainder come mostly from the adjacent territory; that the rates charged and the priority of admissions are the same for all; that an outpatient clinic for a considerable number of indigent persons is maintained, the majority of such indigents being Lakewood residents; that all who apply for hospital admittance are accommodated; that the hospital is a necessity for Lakewood residents and for many of those who live in neighboring communities; that, considering the overall operation and the activities conducted there, there is a direct relationship to the preservation of the health of the inhabitants of the city of Lakewood; and that the hospital operation constitutes a governmental function.
+Of course, whether the performance of various activities by a municipality is governmental or proprietary frequently depends on the peculiar facts of the particular case. Here, a majority of the members of this court are of the opinion that the trial court and the Court of Appeals, in affirming, were justified in declaring that the operation of the Lakewood Hospital constitutes a governmental function, and, for such reason, the city is exonerated from tort liability.
+In ease No. 38955 against the city of Cincinnati, a different situation is presented. In this case, the evidence is such as to support the following conclusions. Holmes Hospital is owned by the city of Cincinnati and has a relationship with the College of Medicine of the University of Cincinnati. The hospital was established in the 1920’s by private grants and gifts made to the Board of Directors of the University of Cincinnati (a municipally owned institution of learning) for the teaching of medicine and nursing and for medical research. The hospital is operated by such board and is staffed by members of the faculty of the College of Medicine. All amounts received in payment of hospital bills are sent to the accounting office of the University of Cincinnati, and all expenses are paid by the university. A separate account is kept for the hospital. The hospital is self-supporting, the charges made to and paid by patients affording sufficient income for that purpose without the necessity of the contribution of public funds from any source. Only paying patients are admitted and treated, and no charity patients are accepted. All hospital rooms are either private rooms or semi-private rooms; there are no wards.
+The hospital provides facilities for the private practice of medicine by the faculty members of the College of Medicine, and only patients of such faculty members are admitted to the hospital. The physician-faculty members treating these patients make a charge for their services.
+Plaintiff in this action was a paying patient in the hospital and received a bill for hospital services in the amount of $2,257.65. Judgment was rendered against plaintiff in such amount on the defendant’s cross-petition.
+In connection with the rendition of its verdict for plaintiff, the jury answered two interrogatories, in which it found negligence on the part of a hospital employee for failing to exercise sufficient assistance to plaintiff in the existing circumstances, and that plaintiff’s fall and ensuing injuries were attributable to such neglect.
+It seems to us that the evidence submitted in this case and the deductions which may he drawn therefrom are of such a character as to support the determination of both lower eourts that Holmes Hospital is essentially a proprietary undertaking carried on under limited conditions, admissions thereto being largely confined to a selected class of paying patients. Contributions on its part to the preservation and advancement of the health and welfare of the community and its people generally are at least open to question. Consequently, the defense of governmental immunity may not be validly interposed by defendant to escape liability.
+We have considered the other errors advanced by the appellant city and find them without substantial merit. One relates to claimed errors in a special charge requested by plaintiff and given concerning the standard of care required of the physician attending plaintiff.
+In reality, this action is one grounded on ordinary negligence, and the elements constituting malpractice, as such, are absent. We find no prejudicial error in the special charge as submitted, especially when it is read in connection with the more comprehensive general charge on the same subject.
+Complaint is also made that the special charge was erroneous with respect to the items of damages which might be considered by the jury if it rendered a verdict for plaintiff. Examination of the special charge and the general charge on the issue of damages fails to disclose that the jury was misled or confused in this regard.
+Therefore, the judgments of the Courts of Appeals in these cases are affirmed.
+Judgments affirmed.
+Taut, C. J., O’Neill and Browe, JJ., concur.
+Matthias, Herbert and SchNeider, JJ., concur in case No. 38955 but dissent in case No. 38459.
+
+## Dissent (Herbert, J.,)
+
+Herbert, J.,
+dissenting in case No. 38459. The General Assembly has given municipalities permission to own, operate and maintain municipal hospitals. Section 715.37, Revised Code. There is, however, no duty imposed upon them to do so.
+The General Assembly was empowered, bad it deemed it wise to do so, to impose duties and responsibilities upon municipal hospitals thus making them arms or agencies of the state government.
+City of Cincinnati v. Gamble et al., Board of Trustees of Retirement System of City of Cincinnati, 138 Ohio St. 220, in the third paragraph of the syllabus says:
+“In matters of state-wide concern the state is supreme over its municipalities and may in the exercise of its sovereignty impose duties and responsibilities upon them as arms or agencies of the state.” (Emphasis added.)
+But the General Assembly did not call upon this hospital to perform any functions of state government. It is difficult to understand how a municipal hospital can claim governmental immunity when it performs no services in the exercise of state sovereignty.
+A proprietary function was defined, as follows, by Chief Justice Marshall in City of Wooster v. Arbenz (1927), 116 Ohio St. 281, 284:
+“If * * # there is no obligation on the part of a municipality to perform * * * [a given function] and the city has an election whether to do or omit to do those acts, the function is private and proprietary.”
+The decisions of all our sister states on the subject are collected in 11A Hospital Law Manual, 23 to 72, Immunity of Governmental Hospitals. Forty-five states besides Ohio have municipal hospitals. A perusal of those decisions supports the following breakdown: Nine states deny recovery; some form of recovery is possible in 21 states; and 15 states do not have any reported cases. In those nine states that deny recovery, eight states have done so by judicial decision, five of which were handed down from 27 to 63 years ago.
+I can conclude only that the weight of authority and the modern view are that a hospital established under a permissive statute by a municipality is engaged in a proprietary function and is liable for its tortious conduct.
+Matthias and SchNeider, JJ., concur in the foregoing opinion by Herbert, J.
