@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "18403"
 decided: "1924-12-23"
-citations: ["3 Ohio Law Abs. 9", "3 Ohio Law Abs. 5"]
+citations: ["3 Ohio Law Abs. 9"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
