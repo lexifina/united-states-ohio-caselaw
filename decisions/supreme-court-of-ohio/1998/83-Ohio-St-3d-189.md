@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-2118"
+decided: "1998-09-23"
+citations: ["83 Ohio St. 3d 189"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State ex rel. Paraskevopoulos, Appellant, v. Industrial Commission of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/83/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 555009
+cites_cases: ["567 N.E.2d 245", "57 Ohio St.3d 203", "626 N.E.2d 666", "631 N.E.2d 1057", "640 N.E.2d 833", "658 N.E.2d 296", "672 N.E.2d 161", "68 Ohio St.3d 315", "685 N.E.2d 1245", "69 Ohio St.3d 327", "70 Ohio St.3d 672", "74 Ohio St.3d 264", "77 Ohio St.3d 148", "80 Ohio St.3d 289"]
+---
+
+# State ex rel. Paraskevopoulos v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+For the most part, the parties do not dispute claimant’s medical ability to perform sustained remunerative employment. While claimant does assert that the commission abused its discretion in failing to expressly factor pain into its medical analysis, his argument is negated by State ex rel. Unger v. Indus. Comm. (1994), 70 Ohio St.3d 672, 640 N.E.2d 833, which held that the factor of pain was sufficiently considered when the complaints about the pain were acknowledged in the medical evidence on which the commission relied. Because the relied-upon evidence made such an acknowledgment in this case, claimant’s proposition lacks merit.
+The rest of the dispute involves the commission’s nonmedical review. Claimant’s initial challenge is procedural. Claimant asserts that the commission abused its discretion by failing to consider the Bethesda Work Capacity Center rehabilitation report. This argument is unpersuasive.
+Nonconsidered evidence, as a general rule, prompts a return of the cause to the commission for additional consideration. State ex rel. Fultz v. Indus. Comm. (1994), 69 Ohio St.3d 327, 631 N.E.2d 1057. However, in some cases, the content of the evidence relied upon can eliminate the need for a return of the cause. For example, a return of the cause has been dispensed with where the evidence not considered was incapable of supporting a conclusion contrary to that reached by the commission. State ex rel. Shields v. Indus. Comm. (1996), 74 Ohio St.3d 264, 658 N.E.2d 296. In this case, we find that the Bethesda report adds little new information to the PTD determination. Concededly, if one looks only at its “guarded” assessment of claimant’s rehabilitation potential, the report could support an outcome contrary to that reached by the commission. However, when viewed as a whole, the value of the Bethesda report is diminished by the passage of time and the existence of other sources of similar information. As to the latter, much of the Bethesda report — which is only three pages long — is in part a recitation of claimant’s nonmedical profile — information that is contained in other evidence that the commission did consider.
+Equally important, many of the findings in the Bethesda report — particularly the assessment of claimant’s then current physical capacities — no longer were valid after claimant’s completion of the nineteen-day pain management program at Jewish Hospital. The detailed thirteen-page discharge summary that followed claimant’s participation in the pain management program showed improvement in some of the areas cited in the Bethesda report. Therefore, what information that may have been unique to the Bethesda report was not necessarily reliable at the time PTD was considered.
+We find, therefore, that the commission’s failure to consider the Bethesda report was ameliorated by the commission’s consideration of other evidence of record. Accordingly, a return of the cause for further consideration of that report is unnecessary.
+Turning to the remaining substantive argument, the commission successfully argued below that its order satisfied State ex rel. Noll v. Indus. Comm. (1991), 57 Ohio St.3d 203, 567 N.E.2d 245, and should not be disturbed. We affirm that finding.
+Two factors are central to the commission’s finding — illiteracy and time. The latter has two elements: (1) claimant’s age and (2) the amount of time claimant has had and continues to have to remedy his illiteracy. The commission used claimant’s age to ameliorate the effects of his illiteracy. Standing alone, however, age is insufficient to justify a PTD denial. As we observed in State ex rel. Hall v. Indus. Comm. (1997), 80 Ohio St.3d 289, 292, 685 N.E.2d 1245, 1247, “[a]ge * * * is immaterial if claimant lacks the intellectual capacity to learn.”
+In Hall, we ultimately ordered relief consistent with State ex rel. Gay v. Mihm (1994), 68 Ohio St.3d 315, 626 N.E.2d 666, citing claimant’s sixth grade education and illiteracy. There is, however, an important distinction between this case and Hall. Here, claimant’s illiteracy relates more to his status as an immigrant than to any intellectual deficit. To the contrary, testing has revealed claimant to have above-average intelligence. Therefore, unlike Hall, there is no evidence that claimant is incapable of learning to read and write English.
+This is particularly important when combined with the other facet of time noted above — the time that claimant has had and continues to have to learn English. Claimant has not worked since 1990. Since then, claimant has related that a typical day consists of “sitting in a chair watching television, smoking and drinking coffee.”
+A claimant’s failure to make reasonable efforts to enhance his/her rehabilitation reemployment potential can be a factor in a PTD determination. In State ex rel. Bowling v. Natl. Can Corp. (1996), 77 Ohio St.3d 148, 153, 672 N.E.2d 161, 165, we upheld the commission’s denial of PTD to a sixty-six-year-old claimant with a fifth grade education, writing:
+“The commission’s independent review of claimant’s nonmedical factors determined that claimant’s age, education, and work history, while not entirely favorable, were not insurmountable barriers to re-employment. The commission stressed the claimant’s failure to make any effort to enhance his re-employment prospects.
+“The commission — as do we — demands a certain accountability of this claimant, who, despite the time and medical ability to do so, never tried to further his education or to learn new skills. There was certainly ample opportunity. At least fifteen years passed between the plant closure and claimant’s application for permanent total disability compensation, and claimant was only age forty-seven when the plant shut down. Under these circumstances, we do not find that the commission’s decision constituted an abuse of discretion.”
+The current claimant was only age forty-four at the time that he last worked. He was only age forty-eight when PTD was denied, and is only age fifty-two now. There are no physical impediments to his undertaking remedial education, and testing establishes him as having above-average intelligence. The commission’s determination that claimant is capable of enhancing his reemployment potential is not, therefore, an abuse of discretion.
+The judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
