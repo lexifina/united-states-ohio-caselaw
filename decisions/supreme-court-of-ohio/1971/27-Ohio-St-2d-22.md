@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-428"
+decided: "1971-06-30"
+citations: ["27 Ohio St. 2d 22"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur."]
+parties: ["Cuyahoga County, Appellant, v. Cuyahoga County Budget Commission et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/27/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6703484
+cites_cases: ["2 Ohio St. 2d 181"]
+---
+
+# Cuyahoga County v. Cuyahoga County Budget Commission
+
+## Majority (Schneider, J.)
+
+Schneider, J.
+After the Cuyahoga County Budget Commission allocated the 1970 local government fund, Brook Park, Brecksville, and Parma appealed that allocation to the Board of Tax Appeals. Although apparently satisfying the claims of those cities, the board allocated some 1.7 million dollars less to Cuyahoga County, which thereupon appealed to this court,
+Appellant makes two contentions. First, it insists that its needs for current operating expenses for 1970 amount to some 83 million dollars. However, it was able to list only an amount of some 63 million dollars for estimated expenditures on its tax budget (which it filed with the budget commission on August 6, 1969, pursuant to R. 0. 5705.30) as required by R. C. 5705.29, leaving the difference of 20 million dollars as “unmet needs.” The reason was that the county sales and use tax, adopted pursuant to R. O. 5739.021 and 5741.021 to satisfy the county’s “unmet needs,” was “in litigation” and the estimated proceeds therefrom for 1970 could not be included on the tax budget as “estimated receipts.” Therefore, to balance the tax budget, as required by law, the “needs” of 83 million dollars had to be reduced to 63 million dollars of estimated expenditures.
+When the Board of Tax Appeals proceeded to make its allocation, the results of which were announced in its decision of June 24, 1970, from which this appeal is taken, the sales tax litigation had been resolved and the receipts therefrom for 1970 had been estimated to be 13 million dollars, which the board duly added to the total estimated revenues available to appellant. The board, however, failed to add the 20 million dollars of “unmet needs” to appellant’s total estimated expenditures on its (the board’s) allocation “worksheet.” Thus, appellant concludes that the board failed to consider the “unmet needs” of Cuyahoga County and, in so failing, its decision was unreasonable and unlawful.
+Its second contention is that “where the budget and the evidence show an actual need by a county of its full percentage” of the local government fund applicable to it pursuant to R. C. 5739.23, the Board of Tax Appeals must allocate to the county such full percentage.
+Cuyahoga County does not attempt to explain the fact that had it been able to include the estimated receipts from its county sales and use tax in its tax budget, the latter would have been unbalanced to the extent of some five million dollars by its own estimate, or some seven million dollars, based on tbe certified estimate of tbe Board of Tax Appeals, if it bad also included in tbe tax budget tbe full 83 million dollars as its claimed “actual needs” or estimated expenditures.
+Tbe appellees, on tbe other band, make no claim that Cuy aboga County was limited by law to claiming tbe amount of its estimated expenditures as shown by its tax budget as its “actual needs” before tbe Board of Tax Appeals. Their claim, as we understand it, is that Cuya-hoga County bad limited itself in fact to claiming only the 63 million dollars.
+Thus, for tbe purpose of this appeal, we assume, without deciding, that Cuyahoga County was not so limited by law. Nor do we believe that it bad so limited itself as a matter of fact. Its proposed expenditure of 83 million dollars is prominently marked in at least three places in its budget, which is part of tbe record before tbe board, and its excess of “actual needs” over anticipated income was stressed in oral testimony by its county administrator. Consequently, at first blush, tbe action of tbe Board of Tax Appeals is seemingly unreasonable.
+However, tbe criterion which tbe board is bound to observe is relative actual needs, not merely actual needs. See our recent decision in Youngstown Pk. Bd. v. Budget Comm., ante, page 153, in which a number of previous decisions of this court are analyzed. There is no indication that Cuyahoga County adduced any probative evidence by stipulation, deposition, or otherwise, either to support its claimed actual needs, as distinguished from wants, or to show the relative worth of those actual needs compared to the actual needs of all other subdivisions entitled to participate in the local government fund.
+Its argument suggests that it has chosen to disregard the requirements of the law, as this court has repeatedly interpreted it, which is that for the purposes of allocating the local government fund by a county budget commission (or by the Board of Tax Appeals, upon appeal de novo) the actual needs of any one subdivision is but one facet of the problem and that even if they are completely justifiable ¡as regards that one subdivision, the budget commission (or the Board of Tax Appeals, as the case may be) is required to compare those actual needs with the equally justifiable actual needs of each and every other subdivision to arrive at its determination of the relative actual needs of each and every subdivision entitled to participate in the fund.
+In this case, the record, as furnished to the court, does not indicate that the Board of Tax Appeals itself made the required determination. But at the same time, it does not show that it did not. In the absence of further proof before it by any subdivision, it may have assumed that the budget commission made the proper determination, and it may have accepted part and rejected part of that determination on the basis of whatever facts were available to it.
+In any event, Cuyahoga County, having chosen not to adduce further proof of its relative actual needs, by direct testimony before the board, or by stipulation, deposition, or otherwise, and having chosen to allow the board’s allocation to be made without the assistance of such further proof, is not now in a position to complain that the allocation was unreasonable. Any other conclusion would, as we said in Brooklyn v. Cuyahoga County Budget Comm. (1965), 2 Ohio St. 2d 181, at 186, 187, “. . . lead to the chaotic result that the fund might never be allocated because of a failure of proof.”
+Cuyahoga County’s second proposition of law is that where “the budget and the evidence show an actual need by a county of its full percentage” of the local government fund allowable to it as a maximum under R. C. 5739.23 the Board of Tax Appeals must allot that full percentage to it.
+The proposition is rejected for the reason that it rests upon an unsupportable premise, i. e., that Cuyahoga County’s budget and the evidence show its relative actual needs to be equal to the maximum percentage of the local government fund allowable to it by R. C. 5739.23.
+Decision affirmed.
+O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur.
