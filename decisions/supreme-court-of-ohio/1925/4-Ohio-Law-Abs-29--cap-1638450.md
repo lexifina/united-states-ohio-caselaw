@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19459"
 decided: "1925-12-07"
-citations: ["4 Ohio Law Abs. 29", "3 Abs. 770", "4 Ohio Law Abs. 113", "OS. Pend. 4 Abs. 29", "3 Abs. 762"]
+citations: ["4 Ohio Law Abs. 29", "3 Abs. 770"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
