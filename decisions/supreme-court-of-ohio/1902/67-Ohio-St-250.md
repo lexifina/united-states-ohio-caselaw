@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1902-12-02"
+citations: ["67 Ohio St. 250"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burket, C. J., Spear, Shauck, Price and Crew, JJ., concur,"]
+parties: ["Moore v. Harter."]
+source_url: "https://static.case.law/ohio-st/67/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 960019
+cites_cases: ["11 Ohio, 265", "15 N. Y., 374", "21 Cal., 120", "21 Minn., 33", "3 Ohio, 294", "39 Mo., 257", "46 Ill., 173", "57 Ohio St., 161", "60 Ohio St., 427", "60 Vt., 386", "7 Colo., 480", "75 Ill., 411"]
+---
+
+# Moore v. Harter
+
+## Majority (Davis, J.)
+
+Davis, J.
+In this case the court charged the jury that if it should find that the plaintiff, before the expiration of the year ending March 31, 1895, notified the defendant that the rent of the premises occupied by him should be fifty dollars more than 'it had been for the year beginning April 1, 1895, and that the defendant never dissented from such increase in the rent but held over after April 1, 1895, then thé defendant would be the tenant of the plaintiff subject to the terms of the original lease as amended by such notice, and that the jury should find accordingly. The jury found for the plaintiff, and the defendant complains that this instruction is erroneous. To us it appears to be strictly correct. It has long been settled in this state that when a tenant for years holds over after the expiration of his lease, he becomes, at the election of the landlord, a tenant from year to year; and in the absence of any new agreement with the landlord he holds under the terms of the original lease. Moore v. Beasley, 3 Ohio, 294; Railroad Co. v. West, 57 Ohio St., 161; Gladwell v. Holcomb, 60 Ohio St., 427. It follows that the lessor and lessee may by agreement change the terms of the original tenancy; and if, before the beginning of another year, the landlord notifies the tenant that the rent will be increased and the latter nevertheless holds over into another year, to that extent the terms of the original lease will not apply, but it will be applicable in all other respects. The reason of this is that the tenant must be presumed to have assented to the change. The authorities are numerous and conclusive on this point. Wood on Landlord and Tenant, section 13; Roberts v. Hayward, 3 Car. & P., 432; Digby v. Atkinson, 4 Camp., 275; Hunt v. Bailey, 39 Mo., 257; Brinkley v. Walcott, 10 Heisk. (Tenn.), 22; Despard v. Walbridge, 15 N. Y., 374; Gardner v. Board of Commissioners, 21 Minn., 33; Amsden v. Floyd, 60 Vt., 386; Reithman v. Brandenburg, 7 Colo., 480; Higgins v. Halligan, 46 Ill., 173; Griffin v. Knisely, 75 Ill., 411; Hoff v. Baum, 21 Cal., 120.
+In Hunt v. Bailey it was said, although it would be hardly fair to say that it was decided, that: “If the tenant manifests his dissent from the terms proposed for increased rent, then no privity of contract will be created for the increased rent; and if he holds over it will be considered to be on the terms of the lease by which he originally gained possession.” The better opinion and the current of authority seem to be the other way. Roberts v. Hayward; Brinkley v. Walcott; Reithman v. Brandenburg; Griffin v. Knisely, supra. The tenant’s dissent from the terms proposed by the landlord amounts to nothing unless the latter accepts it, because the presumption is that one holding over, after notice from the landlord that a change of terms would be required, is presumed to do so on the terms proposed by the landlord. Otherwise he would put himself in the wrong and would be liable to be treated as a trespasser.
+Armstrong v. Kattenhorn, 11 Ohio, 265, and the authorities which support the point decided in that case are not pertinent here. The doctrine of Armstrong v. Kattenhorn is that if the possession of the tenant “can be referred to any other source than the parol contract which it is claimed to support, even to the wrongful act of the party in possession or to a different contract, the statute applies.” The possession in that case was held to be ambiguous and as easily referable to the old lease as to the new one, and hence that the latter was within the statute of frauds and void. Although the statute of frauds declares that leases not in conformity with the statute shall be void, yet that will not prevent a periodical tenancy, subject to the terms of the original lease, from arising by taking possession under the invalid lease and paying rent in accordance therewith. Tress v. Savage, 4 El. & Bl., 36; Clayton v. Blakey, 8 T. R., 3; Railroad Co. v. West, 57 Ohio St., 161; Gladwell v. Holcomb, 60 Ohio St., 427, 433. And that is precisely that which was done in this case, and in all the cases cited above as included in the same class. The continuing in possession, after notice from the landlord to the tenant that he could not do so except under prescribed conditions, is presumed to be a possession under the named conditions. It could not be referable to the former lease without showing that the landlord had consented to withdraw the conditions.
+The judgment of the circuit court is therefore
+Affirmed.
+Burket, C. J., Spear, Shauck, Price and Crew, JJ., concur,
