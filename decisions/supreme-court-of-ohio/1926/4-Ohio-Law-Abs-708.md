@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19993"
 decided: "1926-07-20"
-citations: ["4 Ohio Law Abs. 708", "4 Abs. 510", "4 Ohio Law Abs. 510"]
+citations: ["4 Ohio Law Abs. 708", "4 Abs. 510"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
