@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-149"
+decided: "1987-12-02"
+citations: ["33 Ohio St. 3d 115"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Holmes, Douglas and H. Brown, JJ., concur.", "Wright, J., concurs in judgment only.", "Sweeney, J., dissents."]
+parties: ["The State of Ohio, Appellant, v. Amburgey, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/33/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1828810
+cites_cases: ["10 OBR 408", "10 Ohio St. 2d 230", "10 Ohio St. 3d 77", "13 OBR 409", "13 Ohio App. 3d 331", "15 OBR 202", "15 Ohio App. 3d 112", "16 O.O. 3d 169", "227 N.E. 2d 212", "368 F. 2d 417", "39 O.O. 2d 366", "404 N.E. 2d 144", "461 N.E. 2d 1273", "469 N.E. 2d 1035", "472 N.E. 2d 1110", "478 F. 2d 768", "551 F. 2d 1001", "62 Ohio St. 2d 151"]
+---
+
+# State v. Amburgey
+
+## Majority (Locher, J.)
+
+Locher, J.
+The primary issue in this action is whether the trial court abused its discretion when it prevented defense counsel from developing the underlying facts of the alleged victim’s conviction for grand theft. We hold in the negative and reverse the decision of the court of appeals.
+Evid. R. 609, entitled Impeachment by Evidence of Conviction of Crime, provides in pertinent part:
+“(A) General Rule. For the purpose of attacking the credibility of a witness, evidence that-he has been convicted of a crime shall be admitted if elicited from him or established by public record during cross-examination but only if the crime (1) was punishable by death or imprisonment in excess of one year under the law under which he was convicted, or (2) involved dishonesty or false statement, regardless of the punishment whether based upon state or federal statute or ordinance.”
+In the case at bar, the trial court refused to allow defense counsel to inquire into exact details concerning the prior conviction of the witness. The general rule is that it is within the sound discretion of the trial court to limit cross-examination to the name, date and place of the conviction, and the punishment imposed, when the conviction is admissible solely to impeach credibility. In State v. Shields (1984), 15 Ohio App. 3d 112, 15 OBR 202, 472 N.E. 2d 1110, the court reviewed the disputed questions concerning prior acts or convictions of witnesses which defense counsel contended had an effect on their credibility. The court stated at 113-114, 15 OBR at 204, 472 N.E. 2d at 1113: “One challenged question asked details about a witness’ prior felony conviction. The witness acknowledged that conviction, and the court limited defense counsel’s further inquiry about it. The court has discretion to prohibit questions which ask more than the name and date of the offense, when the conviction is admissible solely to impeach general credibility.” See, also, State v. Fricke (1984), 13 Ohio App. 3d 331, 333, 13 OBR 409, 412, 469 N.E. 2d 1035, 1037. Undoubtedly, this view is a sound one. By possessing the discretionary authority to limit inquiry into the underlying details of a prior conviction of a witness when the conviction is admissible solely to impeach credibility, the trial court can avoid the creeping effects of any undue prejudice against the witness and any unnecessary diversion from the matters at hand.
+We therefore hold that under Evid. R. 609, a trial court has broad discretion to limit any questioning of a witness on cross-examination which asks more than the name of the crime, the time and place of conviction and the punishment imposed, when the conviction is admissible solely to impeach general credibility.
+In the cause subjudice, the court of appeals held that the trial court abused its discretion and unreasonably restricted the scope of the cross-examination. We disagree. The court of appeals failed to give the trial court’s decision the proper deference it deserved and substituted its judgment for that of the trial court. There is no authority for the holding of the court of appeals. Additionally, appellee offers no authority in support of this position. Appellee’s constitutional right to cross-examine adverse witnesses does not authorize defense counsel to disregard sound evidentiary rules. See Shields, supra, at 114, 15 OBR at 204, 472 N.E. 2d at 1113.
+It is well-established in this state that “[t]he term ‘abuse of discretion’ connotes more than an error of law or judgment; it implies that the court’s attitude is unreasonable, arbitrary or unconscionable.” State v. Adams (1980), 62 Ohio St. 2d 151, 157, 16 O.O. 3d 169, 173, 404 N.E. 2d 144, 149. A review of the record shows no such abuse of discretion by the trial court. In light of the overwhelming authority on this subject, it is clear that the trial court did not abuse its discretion. It made the proper evidentiary ruling.
+Furthermore, we are mindful that “the weight to be given the evidence and the credibility of the witnesses are primarily for the trier of the facts. ” (Emphasis added.) State v. DeHass (1967), 10 Ohio St. 2d 230, 39 O.O. 2d 366, 227 N.E. 2d 212, paragraph one of the syllabus. It is important to recognize that a jury was not involved in this action. Thus, it can be presumed that the trial judge knew the proper weight to be given to the witness’ prior conviction of grand theft in judging her credibility. “[T]he trial judge is best able to view the witnesses and observe their demeanor, gestures and voice inflections, and use these observations in weighing the credibility of the proffered testimony.” Seasons Coal Co. v. Cleveland (1984), 10 Ohio St. 3d 77, 80, 10 OBR 408, 410, 461 N.E. 2d 1273, 1276. In light of the discretionary authority possessed by the trial court in such evidentiary matters and its first-hand ability to observe the witnesses, we cannot uphold the decision of the court of appeals. “A finding of an error in law is a legitimate ground for reversal, but a difference of opinion on credibility of witnesses * * * is not.” Id. at 81, 10 OBR at 412, 461 N.E. 2d at 1277.
+Accordingly, based upon the foregoing, we reverse the judgment of the court of appeals and reinstate the judgment of the trial court.
+Judgment reversed.
+Moyer, C.J., Holmes, Douglas and H. Brown, JJ., concur.
+Wright, J., concurs in judgment only.
+Sweeney, J., dissents.
+Evid. R. 609(A) is a modified form of Fed. Evid. R. 609(a). The federal courts have consistently upheld the abuse of discretion standard and generally limit the cross-examiner’s inquiries about prior convictions to the name and date of the offense and the punishment imposed. See United States v. Tumblin (C.A. 5, 1977), 551 F. 2d 1001; United States v. Miller (C.A. 4, 1973), 478 F. 2d 768, 770, fn. 4; Beaudine v. United States (C.A. 5, 1966), 368 F. 2d 417, 421-422.
+One commentator states:
+“How far may the cross-examiner go in his inquiries about convictions? He may ask about the name of the crime committed, i.e. murder or embezzlement, and the punishment awarded. * * * On the whole, however, the more reasonable practice, minimizing prejudice and distraction from the issues, is the generally prevailing one that beyond the name of the crime, the time and place of conviction, and the punishment, further details * * * may not be inquired into.” McCormick on Evidence (3 Ed. 1984) 98, Section 43. See, also, 2 Blackmore & Weissenberger, Ohio Evidence (1985 Ed.) 87-91.
