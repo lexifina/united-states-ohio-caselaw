@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1868-12"
+citations: ["18 Ohio St. 126"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, C. J., and Brinkerhoff, Scott, and White, JJ., concurred."]
+parties: ["*John B. Rostetter and Wife v. William C. Grant."]
+source_url: "https://static.case.law/ohio-st/18/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 43696
+cites_cases: ["1 Dev. & Bat. Eq. 182", "1 J. J. Marsh. 403", "1 Johns. Ch. 566", "10 Allen, 512", "10 Gray, 72", "10 Ohio, 117", "10 Ohio, 298", "10 Ohio, 305", "12 Ohio, 364", "12 Ohio, 386", "13 Cal. 497", "13 Ohio St. 565", "13 Ohio, 116", "17 Ohio St. 710", "17 Ohio, 124", "17 Ohio, 125", "18 Md. 260", "2 A. K. Marsh. 149", "2 Gray, 161", "2 Ohio, 506", "2 Watts, 459", "20 Ill. 137", "21 Conn. 592", "22 Pick. 55", "23 Ill. 209", "3 Blackf. 201", "3 How. 333", "3 Ohio, 5", "3 Yeates, 269", "33 Mo. 142", "4 Am. Law Reg. 412", "4 Johns. Ch. 354", "4 Ohio, 384", "5 Ohio, 333", "52 Penn. 400", "6 Am. Law Reg. (N. S.) 635", "6 Miss. 605", "6 Ohio, 313", "6 Watts, 126", "8 Ohio, 217", "8 Serg. & R. 495", "8 Wheat. 421", "9 Pet. 86"]
+---
+
+# Rostetter v. Grant
+
+## Majority (Welch, J.)
+
+Welch, J.
+We see no error in this decree to the injury of cither -of the plaintiffs in error.
+The husband complains of it, for the alleged reason that it requires him to coerce his wife into the execution of a deed. Tho answer to this complaint is, that the wife need not sign the deed. 'The full legal title is in the husband, and his deed alone will pass that title to the purchaser. The wife can have no claim for dower, either in her own land, or in land hold by her husband as mere ■trustee. She has either a right to the whole estate, or to no part of it; and if she has a right to the whole, it is a mere equitable right — a right to go into equity and compel a conveyance of tho -legal title. This is precisely what she is attempting to do in tho ■present case. She has no title which she can retain, by refusing to join in a conveyance. If anything, she has a mere right to acquire ■the title. The husband, therefore, has no just ground to complain of this decree. It only requires him to fulfill his plain and admitted agreement, by executing his own deed.
+Has the wife any just ground, to complain of the decree? She says that Grant, not having completed the purchase, can not claim the rights of an innocent purchaser without notice; and that no estoppel can be pleaded against her, as she is a married woman; and she therefore claims that the court erred in refusing to order the title of the land vested in a trustee for her use. But the title has already been vested in a trustee for her use. Why change the trustee? Surely, another can not be found more watchful of her interests, or more willing to subserve them, even to the violation of his *own contracts and rights, than her husband has been. [13£! There seems to be a perfect accord between the husband and wife in this matter. When she requests him to soil, he sells, and when she requests him to disregard the contract of sale, he disregards it. No danger of her interests suffering in his hands. As often as he happens to sell at a low price he will get her to object, and then rescind the contract; until he shall finally make a satisfactory sale, perhaps for more than it is worth, and then he will, at her request, .ask for a specific execution. If tho court had placed the property in tho hands of another trustee for her use, as she requested, surely one of the duties of that trustee would be to sell the nroperty according to her directions. That is just what the husband did. If her counsel are right now, in contending that no sale or conveyance is valid unless she joins in the deed, the new trustee would be-as powerless to sell the land as the old one; and she might as well have the title vested in her own name at once. Any attempt by the new trustee to sell her land- — especially if the land should happen to rise in value after making the contract of sale — -might only result in another suit like the present. We hold the law to be that, as soon as her trustee, the husband, bargained and sold the land at her request to Grant, her equity was changed from the land to the-purchase money; in equity the land became the property of Grant,, and the purchase money became hers. There is, therefore, in the-case no question of “ purchaser without notice,” or of “ estoppel,” or of the power of a court, of chancery to decree against the husband a conveyance of the estate of the wife. Rostctter was a trustee, and the contract of sale, made by him at the request of his-wife, the cestui que trust, was made in the legitimate exercise of his powers as such trustee, and should be specifically executed, notwithstanding the objection of the wife.
+Judgment affirmed.
+Day, C. J., and Brinkerhoff, Scott, and White, JJ., concurred.
