@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+docket: "9800"
+decided: "1906-10-16"
+citations: ["75 Ohio St. 138"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shatjck, C. J., Price, Summers, Spear and Davis, JJ., concur."]
+parties: ["The State of Ohio v. Veres."]
+source_url: "https://static.case.law/ohio-st/75/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 971997
+cites_cases: ["73 Ohio St., 59"]
+---
+
+# State v. Veres
+
+## Majority (Crew, J.)
+
+Crew, J.
+The plea in abatement in this case was -sustained by the court of common pleas upon the ground, and for the sole reason as appears of record, that the state was without right to indict or prosecute the defendant Emrich Veres under Section 3140-2, Revised Statutes, for failure to support his alleged illegitimate minor child, so long as the bastardy proceeding .instituted against him by the mother of said child was pending and undetermined. The correctness of this ruling is the sole question presented by this record. It was recently decided by this court in the case of Ogg v. State, 73 Ohio St., 59, that an indictment .under Section 3140-2, Revised Statutes, for failure to provide for an illegitimate minor child, need not allege that in a previous proceeding under the bastardy act the accused had been adjudged to be the reputed father of such child; and further, that evidence of such prior adjudication was not essential to a valid conviction on such indictment. With this holding, and view of the law, we are still content. It therefore only remains in the present case to inquire whether the pendency of a bastardy proceeding instituted by the mother of an illegitimate child, is a bar to, or may be pleaded in abatement of, a prosecution by indictment subsequently brought against the father of such child under Section 3140-2, Revised Statutes. This section, which is comparatively of recent enactment,, provides as follows:
+“The father, or, when charged by law with the maintenance thereof, the mother, of a legitimate or illegitimate child or children under sixteen years of age, living in this state, who being able, either by reason of having means, or by personal services, labor or earnings, shall neglect or refuse to provide such child or children with necessary and proper home, care, food and clothing, or said child being legally an inmate of a county or district children’s home, shall neglect or refuse to pay to the trustees' of such children’s home the reasonable cost of keeping such child in said home, shall upon conviction be deemed guilty of a felony and punished by imprisonment in the penitentiary for not more than three years, nor less than one, or in a county jail or in a work house at hard labor for not more than one year, nor less than three months;
+“Provided, however, if after conviction and before sentence he shall appear before the court in which said conviction shall have taken place, and enter into bond to the state of Ohio, in the penal sum of one thousand dollars, to the approval of the court as to surety, conditioned that he will furnish said child or children with necessary and proper home, food, care and clothing, or, if said child or children be in a county or district children’s home, that he will pay to' the trustees of said home the reasonable cost of keeping said child or children while remaining in the same, to be fixed by the court as to the amount and times of payment, then said court may suspend sentence therein; * * *
+“And provided further, that upon a failure of said parent to comply with said order and undertaking, he or she may be arrested by the sheriff or other officer on a warrant issued on the precipe of the prosecuting attorney, and brought before the court for sentence, whereupon the court may pass sentence, or, for good cause shown, may modify the order and take a new undertaking and further suspend sentence as may be just and proper.”
+As will be observed, there is nothing whatever in the language of the above act that indicates or suggests a purpose or intent on the part of the Legislature that the provisions thereof should be invoked only after a proceeding under the bastardy act had been. commenced and terminated. Nor is there anything in 'the nature of the relief given or the punishment prescribed, that discloses a reason why the mere pendency of a bastardy proceeding previously instituted, should be a bar to, or should furnish a ground for, the abatement of a criminal prosecution subsequently commenced under this section. While the two acts are so designed and drawn that each provides a remedy for the enforcement of the same natural duty, namely: the support by the father of his illegitimate child, in this respect only are they alike either in their provisions or purpose. And the remedies they afford for the enforcement of this duty being entirely consistent with each other, the rule is well settled that the satisfaction of one is the only bar to the prosecution of the other. In the present case the plea of defendant does not allege or show any judgment rendered or final order made in the bastardy proceeding instituted against him by the mother. Nor could any order made in that proceeding charging him with the maintenance and support of the child avail him as a defense in the criminal prosecution instituted against him under Section 3140-2, unless it should appear that he was complying with said order and furnishing such support.
+Exceptions sustained.
+Shatjck, C. J., Price, Summers, Spear and Davis, JJ., concur.
