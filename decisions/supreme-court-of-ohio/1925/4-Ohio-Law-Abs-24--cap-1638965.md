@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19494"
 decided: "1925-12-17"
-citations: ["4 Ohio Law Abs. 24", "4 Ohio Law Abs. 358", "4 Abs. 24", "4 Ohio Law Abs. 129"]
+citations: ["4 Ohio Law Abs. 24", "4 Ohio Law Abs. 129", "4 Abs. 24"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
