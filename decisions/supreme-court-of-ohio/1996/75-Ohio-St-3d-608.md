@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "96-6"
+decided: "1996-06-19"
+citations: ["75 Ohio St. 3d 608"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur."]
+parties: ["The State ex rel. Askew, Appellant, v. Goldhart, Chief, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/75/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1746257
+cites_cases: ["449 N.E.2d 762", "49 Ohio St.3d 88", "5 OBR 241", "5 Ohio St.3d 104", "551 N.E.2d 160", "589 N.E.2d 1306", "63 Ohio St.3d 573", "630 N.E.2d 696", "639 N.E.2d 1189", "646 N.E.2d 1113", "652 N.E.2d 746", "661 N.E.2d 180", "69 Ohio St.3d 123", "70 Ohio St.3d 587", "71 Ohio St.3d 658", "73 Ohio St.3d 185", "75 Ohio St.3d 23"]
+---
+
+# State ex rel. Askew v. Goldhart
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In order to obtain a writ of mandamus, Askew had to establish a clear legal right to have erroneous information expunged from his parole records, a clear legal duty on the part of the APA to delete such misinformation, and the lack of an adequate remedy in the ordinary course of the law to vindicate the claimed right. State ex rel. Howard v. Ferreri (1994), 70 Ohio St.3d 587, 589, 639 N.E.2d 1189, 1192.
+In his first proposition of law, Askew asserts that statutory, administrative, and constitutional provisions require the APA to maintain accurate information in prisoners’ files. The court of appeals did not decide whether the provisions specified by Askew created a duty on the part of the APA to expunge errors from parole records. Cf. State ex rel. Fain v. Summit Cty. Adult Probation Dept. (1995), 71 Ohio St.3d 658, 659, 646 N.E.2d 1113, 1115, citing State ex rel. Hattie v. Goldhardt (1994), 69 Ohio St.3d 123, 630 N.E.2d 696, for the proposition that there is no due process right to have errors expunged from records used by the APA in parole determinations. Instead, the court of appeals concluded that Askew failed to establish that the felonious sexual-penetration allegations contained in his APA records were false.
+Askew contends that because the preliminary-hearing transcript did not include testimony by the victim concerning any felonious sexual penetration perpetrated by Askew with a table or chair leg, the APA’s postsentence investigation report erroneously included allegations of this offense. However, the mere absence of such testimony at the preliminary hearing does not establish that these allegations are false. Following the preliminary hearing, Askew was indicted by the grand jury on several charges, including felonious sexual penetration. The APA’s postsentence summary of the incident is consistent with the indictment.
+While an indictment is a mere accusation, it indicates that the grand jury found probable cause to believe that Askew had committed the felonious sexual-penetration offense. State ex rel. Lipschutz v. Shoemaker (1990), 49 Ohio St.3d 88, 90, 551 N.E.2d 160, 162. In addition, even though the felonious sexual-penetration charge was ultimately dismissed, it remains relevant to APA decisions concerning whether or not to parole Askew. Id. at 89-90, 551 N.E.2d at 162; see, also, State ex rel. Jackson v. McFaul (1995), 73 Ohio St.3d 185, 188, 652 N.E.2d 746, 749 (Parole may be revoked even though criminal charges based on the same facts are dismissed, the defendant is acquitted, or the conviction is overturned, unless all factual support for the revocation is removed.). The court of appeals did not err in determining that Askew failed to satisfy his burden of establishing that the felonious sexual-penetration allegations were inaccurate. Askew’s first proposition of law is overruled.
+In his second proposition of law, Askew asserts that the court of appeals erred in denying his motion for leave to amend his complaint. Following the parties’ submission of evidence and briefs, Askew filed a motion for leave to amend his complaint to add Shaver, the author of the APA’s postsentence investigation report. Askew urged that Shaver was an indispensable party pursuant to Civ.R. 19.1(A). The court of appeals denied Askew’s motion.
+The grant or denial of leave to amend a pleading is discretionary and will not be reversed absent an abuse of discretion. Patterson v. V & M Auto Body (1992), 63 Ohio St.3d 573, 576, 589 N.E.2d 1306, 1309; Civ.R. 15(A). An abuse of discretion connotes a decision that is unreasonable, arbitrary or unconscionable. State ex rel. Master v. Cleveland (1996), 75 Ohio St.3d 23, 27, 661 N.E.2d 180, 184.
+In his motion, Askew contended in a conclusory fashion that “[c]omplete relief cannot be accorded among those already parties in the absence” of Shaver as a respondent, but did not state specific facts as to why such complete relief would be unattainable without Shaver’s joinder. Therefore, the court of appeals did not err in concluding that Askew had failed to demonstrate why Shaver was indispensable. Further, the motion was filed after the submission of evidence and briefs by the parties. The court of appeals did not abuse its discretion in denying Askew’s motion for leave to amend. Askew’s second proposition of law is meritless.
+In his final proposition of law, Askew asserts that the court of appeals erred by failing to compel appellee to provide discovery of pólice reports, witness statements, and other investigative reports relating to the alleged felonious sexual penetration. However, there is no evidence in the record that appellee had possession of these requested records. In addition, documents pertaining to parole proceedings do not constitute public records. R.C. 149.43(A)(1); Lipschutz, supra, 49 Ohio St.3d at 90, 551 N.E.2d at 162; State ex rel. Gaines v. Ohio Adult Parole Auth. (1983), 5 Ohio St.3d 104, 5 OBR 241, 449 N.E.2d 762. Consequently, Askew’s third proposition of law also lacks merit.
+Based on the foregoing, the court of appeals did not err in denying the writ. Askew failed to establish a clear legal right to correction of his parole records and a corresponding clear legal duty on the part of appellee to correct such records. Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.
