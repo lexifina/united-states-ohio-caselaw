@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "39242"
 decided: "1965-04-21"
-citations: ["2 Ohio St. 2d 109", "31 Ohio L.R. 27"]
+citations: ["2 Ohio St. 2d 109"]
 reporter: "ohio-st-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
