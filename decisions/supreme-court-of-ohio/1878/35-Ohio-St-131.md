@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1878-12"
+citations: ["35 Ohio St. 131"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wright v. Coller."]
+source_url: "https://static.case.law/ohio-st/35/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 906836
+cites_cases: ["20 How. Pr. 18", "33 N. Y. 160", "7 Ohio St. 514"]
+---
+
+# Wright v. Coller
+
+## Majority (Okey, J.)
+
+Okey, J.
+Was the court of common pleas authorized to make the order granting further time to surrender the judgment debtor, and render judgment exonerating the bail?
+Title 8, chap. 1, of the code of civil procedure, 50 Ohio L. 79 (Rev. Stat., §§ 5491-5520), contains the following provisions :
+“ Sec. 166. A surrender of the defendant to the sheriff of the county in which he was arrested, . . . shall discharge the bail; such surrender may be' made at any time before the return day of the summons, in an action against the bail.
+“ Sec. 168. The bail will be exonerated by the death of the defendant, or his imprisonment in a state prison, or by his legal discharge from the obligation to render himself amenable to tbe process of the court, or by his surrender to the sheriff of the county in which he was arrested in execution thereof, within the time fixed in section 166.”
+The court is not vested with discretion in any of these cases. The right of the bail to insist on exoneration is absolute. But it is further provided, in section 168, that, in addition to this unqualified right, the bail may apply to the ■court for an order granting to them the power to make such surrender; and thereupon, during the pendency of the suit against them, they may be authorized to make the surrender “ within such further time as the court in which the action is pending may allow.” Such application for-further time is, of course, an appeal to the discretion of the court; and, upon general principles, the bail should be prepared to show that, in failing to make the surrender within the time specified in section 166, théy were guilty of nolaches; and, also, that they have in their hands no means of indemnifying themselves in case of a recovery against them. While the record does not show whether such facts as warranted the order were presented to the court, that will be presumed; and we are unable to discover any thing in the statute which, either expressly or by any fair implication, limits the power of the court to make such order at any time before final judgment against the bail. Indeed, the authority to make the order at any time during thependency of the suit, is granted in clear, unambiguous terms; and, in such case, there is no room for construction. And the provisions of the New York code on the subject, from which the chapter under consideration was borrowed,, had been so construed before the adoption of our code. Bank of Geneva v. Reynolds, 12 Abbott, 81; s. e., 20 How. Pr. 18, reversed on other grounds, 33 N. Y. 160.
+Reference is made to section 167 of the chapter under-consideration, which contains the provision that at any time before the bail “ is fiually charged,” they may arrest the judgment debtor, for the purpose of surrendering him. The right to make the arrest, at any time before the return-day of the summons, is absolute; but we do not doubt that, by a fair construction of the chapter, the bail may make the arrest and surrender afterward, if the court grant further time for the purpose.
+The views of the learned judge who delivered the opinion-in Whetstone v. Riley, 7 Ohio St. 514, are not in harmony with this construction of the statute. He was of opinion-that the bail is finally charged on the return of the execution against the judgment debtor, “ not found;” and that the “ further time ” which the court may allow the bail to surrender the debtor, can only be granted “ previous to the bail becoming finally charged.” But this, as we have seen, is opposed to the clear words of the act, and we do not. think the decision of the case involved such construction of the statute. The discretion of the court does not end when the “further time,” provided for in section 168, is-granted. The court may, for sufficient reasons, finally refuse to give effect to a surrender thus authorized; and, whatever reason may have been given, in the court below or in this court, for the judgment in Whetstone v. Riley, the decision must- rest on the exercise of the discretionary power' of the court below. There a default for answer had been entered on the docket. “ The record,” says the judge, “ shows no reason for the motion or the order. The order was for two days’ time. . . . There is no more reason shown for an extension of the time two days than for two months. . . . Nor does the record offer explanartion for the neglect, on the part of the bail, of any attempt to surrender the principal from the date of the judgment against him, at the April term, down to the 4th of September, when they sent their agent to Maryland for him.” It may have clearly appeared in the court below that the discharge of the bail would be inequitable and unjust; and it is certainly not to be inferred from any thing decided in this court, that if the bail in that case had been discharged' in the court below, where all the facts appeared, this court, on the record presented, would have disturbed the judgment.
+In this case, it does not appear that in making the order granting to the bail “ further time,” or in giving effect to the surrender, there was any abuse of discretion.
+Judgment affirmed.
