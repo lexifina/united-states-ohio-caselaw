@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1883-01"
+citations: ["39 Ohio St. 197"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Squire."]
+source_url: "https://static.case.law/ohio-st/39/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 914156
+cites_cases: ["37 Ohio St. 227"]
+---
+
+# State v. Squire
+
+## Majority (Upson, J.)
+
+Upson, J.
+This is a proceeding in quo warranto, instituted by the attorney-gpnoral against Charles B. Squire for the purpose of ousting him from the office of clerk of the city of Defiance, to which office it is claimed that Wyatt T. Hill is legally entitled. It is admitted that Squire was elected to that office by the city council of Defiance, a city of the second class, on April 11, 1882, at the first regular meeting of the council after the second Monday in April of that year; that he duly qualified, by giving the bond required by law, for the term of two years; that he then entered upon the duties of the office, and that he has ever since performed those duties, and acted as such city clerk.
+It is also admitted that on April 17,1883, the city council of Defiance, at its first regular meeting after the second Monday of April, 1883, elected a president and president pro tempore, and then, by direction of the mayor, proceeded to the election of a clerk, which resulted in the choice of Wyatt T. Hill by the votes of four members of the council and the mayor, the other members of the council, four in number, being present, but refusing to vote.
+Hill thereupon qualified for the term of one year by giving the bond required by law, and now claims the office which is held by Squire.
+In his answer to the petition filed by the attorney-general, Squire, as his first defense, denies that Hill has been elected to the office of clerk of the city of Defiance, or has any title thereto ; and as his second defense, states his own election, qualification and performance of the duties of the office, and insists that he was elected for two years, and that his term of office will not expire until after the organization of the council in April, 1881. To this second defence a demurrer has been filed by the attorney-general.
+The only question tobe determined in this case is whether in a city of the second class the clerk is chosen for one year, or two years. Section 1709 of the Revised Statutes provides that “ Officers who are elected shall serve two years, ” except certain specified officers, among whom the clerk is not named, and that “all officers who are appointed shall serve one year except as otherwise provided in this title.”
+It is claimed by the relator that the clerk is appointed, and not elected. The word appointment, as used in statutes, generally means the designation of a person to hold an office, or trust, by- an individual, or a limited number of individuals, to whom the power of selection has been delegated. The word election is properly applied to the choice of an officer by the votes of those upon whom the law has conferred the right óf electing such officer. In the statutes under consideration the power of appointment is usually given to the mayor, with the advice and consent of the council, but in no instance is the selection of an officer by the council spoken of as an appointment. The choice of an officer by the council is in this statute called an election. Section 1676 of the Revised Statutes, which relates to the organization of the council in cities of the second class, provides for electing the clerk, and there are similar provisions for the election of clerks in cities of the first and third grades of the first class. In the case of State ex rel. v. Green (37 Ohio St. 227), which was a proceeding in quo warranto to test the validity of the election of a clerk of the city of Zanesville, it is stated in the opinion of the conrt that, “the statute contemplates an election, and that each member of the electing body shall have a vote in the choice of any officer, and in case of a tie vote, that the mayor shall give the casting vote.” From an examination of the previous legislation upon the same subject, as well as the different provisions of the Revised Statutes, it seems clear that the word elected is used in the same sense wherever it occurs in the statute ; that the office of clerk is held by election and not by appointment, and that the term of office is two years, as prescribed by section 1709. The only reason suggested fox- giving to the statute a different construction, and limiting the application of the word elected in section 1709 to officers chosen by the electors of the city, is that section 1G7G also provides for the election of a president, and president pro tempore of the council, and apx-paently contemplates the annual election of those officex-s. The obvious answer to this suggestion is that they are not among the officers of cities of the second class enumerated in section 1707, and that the legislature evidently did not regax-d an election as president, or president pro tempore, of the council, as eonfex-ring upon the member of the council thus elected an additional municipal office.
+Demtorrer overruled and judgment for defendant.
