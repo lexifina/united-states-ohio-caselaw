@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1884-01"
+citations: ["42 Ohio St. 47"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams v. Schatz."]
+source_url: "https://static.case.law/ohio-st/42/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8840997
+cites_cases: ["1 Gray, 409", "1 Johns. Ch. 240", "1 Johns. Ch. 250", "10 Ind. 191", "101 Ill. 429", "103 Mass. 568", "11 Am. Rep. 502", "11 Ind. 92", "13 Johns. 285", "13 Md. 1", "13 Yt. 296", "134 Mass. 310", "14 Ohio, 310", "14 Yt. 185", "15 Wend. 545", "15 Wend. 656", "16 Minn. 172", "16 Ohio St. 586", "17 Ga. 267", "17 Iowa, 486", "18 Conn. 257", "19 Mich. 157", "2 Hill, 64", "2 Hill, 659", "2 Mass. 446", "2 Pa. St. 434", "20 Wend. 44", "3 Jones' L. 302", "3 Ohio St. 377", "3 Wall. 641", "30 Cal. 209", "30 Wis. 644", "32 Mich. 380", "33 Ohio St. 203", "34 N. Y. 92", "34 Ohio St. 610", "35 Ohio St. 119", "37 Ohio St. 132", "38 Mich. 238", "39 Yt.. 538", "4 Abb. Pr. 315", "4 Ohio, 74", "41 Iowa, 334", "41 N. Y. 421", "42 Wis. 437", "45 N. H. 505", "46123 Pick. 233", "47 Ind. 418", "47 N. H. 479", "5 Conn. 320", "5 Humph. 44", "54 Pa. St. 20", "58 N. Y. 192", "6 Cush. 151", "62 Me. 315", "65 Mo. 694", "67 Mo. 559", "72 Pa. St. 434", "77 Ill. 475", "8 Met. 436", "85 Ind. 252", "9 Mass. 307", "96 Ill. 373"]
+---
+
+# Williams v. Schatz
+
+## Majority (Okey, J.)
+
+Okey, J.
+An instrument may be in the form of a deed ; it may be properly signed,'sealed, witnessed, acknowledged and recorded ; the grantor may have capacity to convey, and the grantee to receive and hold the title; the transaction may be free-from fraud or mistake; nevertheless, the instrument will not take effect as a deed unless' it is delivered. But no particular form or ceremony is essential to constitute delivery ; it need not be manual; it may be made by words and acts, or either, if accompanied with intention that they shall have that effect; it may be made by the grantor personally, or through his agent, to the grantee, either personally or through his agent; and it may be made in escrow, or to take effect immediately.
+The direction to Dr. Blake, given by the grantor, then sick of typhoid pneumonia, was that if he died, the doctor should deliver the deed of gift to the grantee; but if he, the grantor, recovered, he.would call for it. lie died, and Dr. Blake delivered the deed to the grantee. But this was not a valid delivery, and hence the instrument never took effect as a deed. The transaction was in the nature of a testamentary disposition of property; but the instrument, not having been executed as, or with the formalities of a will, its probate would doubtless have been resisted ■ (though see Habergham v. Vincent, 2 Ves. jr. 204; 1 Jar. Wills [by R. & T.], 33 et seq.); and, however that may be, a will in Ohio is of no force until admitted to probate, and probate of this instrument is barred (2 Swan & Or. 1621, § 32 ; Eev. Stats. § 5943.) And the instrument is equally invalid as a deed. Dr. Blake was the agent of the grantor and not of the grantee, and hence the instrument was not-only revocable by the grantor at any time before his death, but not having parted with all dominion over it during life, it became, on bis death, a mere nullity. Wellborn v. Weaver, 17 Ga. 267; Carey v. Dennis, 13 Md. 1; Hale v. Joslin, 134 Mass. 310; and see Phipps v. Hope, 16 Ohio St. 586; 1 Jar. Wills (by R. & T.), 33 et seq.
+In Crooks v. Crooks, 34 Ohio St. 610, it appeared that- “ the grantor, without reserving or intending to reserve any control over the instrument, delivered it to a third person, to be by him delivered to the grantee at the death of the grantor,” and ‘ ‘ the depositary accepted the deed for the grantee, and at the death of the grantor, delivered it to the grantee.” This was held to constitute a delivery. That was upon the theory that the grantor had delivered the instrument as his deed, and that it took effect as of the date of the first delivery. The decision received the unanimous approval of this court in Ball v. Foreman, 37 Ohio St. 132. "While this may be regarded as an exception to the rule as to deeds of this character, we regard the law as settled for this state as to any case fairly coming within these decisions. But neither of the cases was like this, and properly understood they are decisive against the validity of this deed. They were cases in which the grantors had parted absolutely with all dominion over the instruments, and there was no revocation or attempt to revoke. Here it was in terms stated by the grantor, that if he recovered, he would call for the deed. As a deed of gift such an instrument was, therefore, a mere nullity, and required no revocation.
+■ Finding no error, the proper order to be entered is —
+. Judgment affirmed.
