@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1859-12"
-citations: ["9 Ohio St. 526", "9 Ohio St. 519"]
+decided_precision: "month"
+citations: ["9 Ohio St. 526"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
