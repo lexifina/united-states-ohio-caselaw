@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "94-767"
+decided: "1995-07-26"
+citations: ["72 Ohio St. 3d 514"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.", "Douglas and Wright, JJ., dissent."]
+parties: ["American Seaway Foods, Inc., Appellant, v. Belden South Associates Limited Partnership, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/72/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1737379
+cites_cases: ["293 Ark. 594", "5 A.L.R.4th 1291", "648 N.E.2d 814", "72 Ohio St.3d 192"]
+---
+
+# American Seaway Foods, Inc. v. Belden South Associates Ltd. Partnership
+
+## Majority (Moyer, C.J.)
+
+Moyer, C.J.
+The sole issue certified to this court is whether a guarantor may waive, pursuant to R.C. 1309.44(C) and 1309.01(A)(4), the defenses to a deficiency judgment available under R.C. 1309.47(C) with respect to a private sale of collateral owned by a debtor. For the reasons that follow, we answer that question in the negative.
+R.C. 1309.47(C), which governs a secured party’s right to dispose of collateral after default, provides:
+“ * * * Unless collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market, reasonable notification of the time and place of any public sale or reasonable notification of the time after which any private sale or other intended disposition is to be made shall be sent by the secured party to the debtor if he has not signed after default a statement renouncing or modifying his right to notification of sale. * * * ”
+Prior to its amendment, and at all relevant times to the instant case, compliance with the notice-of-sale requirement of R.C. 1309.47(C) was a condition precedent to a secured party’s recovering any deficiency judgment. Failure by the secured party to provide the debtor with reasonable notice of the sale of collateral created an “absolute bar” to the deficiency. Kruse v. Voyager Ins. Cos. (1995), 72 Ohio St.3d 192, 197, 648 N.E.2d 814, 817-818. The central purpose underlying this section is to provide all persons having an interest in the collateral with notice of the disposition of the collateral in order that they will have an opportunity to bid at the sale or otherwise take measures to reduce their potential liability in the event of a deficiency.
+Furthermore, in addition to the debtor’s rights and the creditor’s duties set out in R.C. 1309.47(C), R.C. 1309.44(C) protects a debtor’s right to notice of the collateral disposition by even prohibiting the debtor from waiving the right to notice prior to default.
+Seaway argues that with regard to the RWF inventory, Belden, as a guarantor, is not a debtor, and therefore is not entitled to notice of the sale of the collateral. Seaway argues that because Belden is only a guarantor, R.C. 1309.44(C) does not prohibit Belden from entering a pre-default waiver of notice. The determinative legal issue then is whether under R.C. Chapter 1309 a guarantor can be a debtor.
+R.C. 1309.01(A)(4) defines a “debtor” as “the person who owes payment or other performance of the obligations secured, whether or not he owns or has rights in the collateral, and includes the seller of accounts or chattel paper. Where the debtor and the owner of the collateral are not the same person, the term ‘debtor’ means the owner of the collateral in any provision of sections 1309.01 to 1309.50 of the Revised Code dealing with the collateral, the obligor in any provision dealing with the obligation and may include both where the context so requires. ” (Emphasis added.)
+It is clear that under the first sentence of R.C. 1309.01(A)(4), Belden is a “debtor.” Although Belden did not own the RWF inventory, Belden unconditionally guaranteed RWF’s debt and specifically owed “payment or other performance” to Seaway pursuant to the Guaranty Agreement. Under the agreement, Seaway needed only to look to Belden for satisfaction of the obligation.
+Belden falls within the second sentence of the statute, as well. R.C. 1309.44(C) and 1309.47(C) are both “provision[s] of sections 1309.01 to 1309.50 * * * dealing with the obligation * * * ” to which Belden was the obligor. Thus, the mere fact that Belden was not the owner of the RWF inventory does not exclude Belden from the definition of “debtor” under R.C. 1309.01(A)(4). Moreover, Belden did own the supermarket equipment included in the Guaranty Agreement definition of the “Guarantor Collateral,” and pledged to secure RWF’s debt. Thus, Belden satisfies the entire second sentence of R.C. 1309.01(A)(4), by being both an “owner” and “obligor” whose obligation to Seaway is tied inextricably to the sale of the RWF inventory.
+An excellent statement for rationale supporting our conclusion is found in 2 White & Summers, Uniform Commercial Code (3 Ed.1988) 604, Section 27-12:
+“ ‘Guarantors’ and ‘sellers’ of chattel paper with recourse have a financial stake in the creditor’s disposition or sale of the collateral that is identical to the debtors’ interest — liability for a deficiency. Consequently, these parties deserve the same notice protection that the Code gives the debtor, at least where the secured party has knowledge of the non-owner debtor’s potential liability if the primary debtor defaults. * * *”
+Nearly all courts that have addressed this issue have deemed a guarantor to be a debtor for purposes of state commercial code provisions requiring notice and prohibiting waiver of defenses. Annotation (1981), 5 A.L.R.4th 1291. The majority rule that has emerged recognizes that the interests of guarantors and debtors on matters affecting the disposition of collateral are so similar that “simple fairness requires that the term ‘debtor’ to whom notice is required include one who is responsible for payment upon default of the principal obligor.” Hallmark Cards, Inc. v. Peevy (1987), 293 Ark. 594, 739 S.W.2d 691, 693.
+In addition, holding that a guarantor is a “debtor” within the meaning of R.C. 1309.01(A)(4) and entitled to notice of the sale of the collateral is consistent with the underlying purpose of R.C. 1309.47(C) discussed previously — to give all persons with an interest in the collateral notice of the disposition. A guarantor is liable for any deficiency remaining after the sale of the collateral and, as such, has a substantial interest in achieving the best possible disposition of the collateral. Allowing a secured party to disregard the guarantor’s interest could encourage a hasty and commercially unreasonable sale at the convenience of the creditor, because the creditor would be secure in the knowledge that the guarantor would cover the deficiency. This is precisely what the notice requirement of R.C. 1309.47(C) seeks to prevent.
+In view of the above, we hold that a guarantor is a “debtor” within the meaning of R.C. 1309.01(A)(4), and is therefore entitled under R.C. 1309.47(C) to notice of the sale of collateral. Consequently, R.C. 1309.44(C) prohibits a guarantor from waiving or varying the notice requirement until after default. It follows that Belden’s pre-default waiver of notice is unenforceable. Seaway’s failure to provide Belden with notice of the sale of the RWF inventory prevents Seaway from looking to Belden to satisfy the deficiency.
+For the foregoing reasons we affirm the judgment of the court of appeals.
+Judgment affirmed.
+Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.
+Douglas and Wright, JJ., dissent.
+. R.C. 1309.44(C) provides:
+“To the extent that they give rights to the debtor and impose duties on the secured party, the rules stated in the code references below may not be waived or varied except as provided with respect to compulsory disposition of collateral as provided in division (C) of section 1309.47 or division (A) of section 1309.48 of the Revised Code and with respect to redemption to collateral as provided in section 1309.49 of the Revised Code, but the parties may by agreement determine the standards by which the fulfillment of these rights and duties is to be measured if such standards are not manifestly unreasonable[.]”
