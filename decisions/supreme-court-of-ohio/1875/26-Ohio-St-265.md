@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1875-12"
-citations: ["26 Ohio St. 265", "26 Ohio St. 200"]
+decided_precision: "month"
+citations: ["26 Ohio St. 265"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["The State of Ohio v. Joseph H. Newton."]
 source_url: "https://static.case.law/ohio-st/26/cases/0265-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 891292
-cites_cases: ["1 Ohio St. 441", "1 Ohio, 1", "10 Ohio St. 25", "10 Ohio, 173", "11 Iowa, 552", "11 Ohio St. 27", "12 Ohio St. 263", "14 Ohio St. 472", "18 Ohio St. 366", "2 Ohio St. 399", "21 Penn. St. 37", "25 Ohio St. 520", "33 Ala. 693", "4 Ohio St. 388", "6 Ohio St. 307"]
+cites_cases: ["18 Ohio St. 366"]
 ---
 
 # State v. Newton
