@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1881-01"
+citations: ["36 Ohio St. 460"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William A. King, guardian of Caroline F. Cooper, v. Samuel S. Bell et al."]
+source_url: "https://static.case.law/ohio-st/36/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 908607
+cites_cases: ["1 Ind. 62", "1 Ired. 597", "1 Leigh, 485", "11 Ohio St. 391", "11 Ohio St. 497", "11 Ohio, 444", "12 Ohio, 195", "12 Ohio, 271", "16 Ohio St. 19", "16 Ohio St. 416", "16 Ohio St. 455", "17 How. Pr. 437", "17 Ohio, 565", "18 Ohio St. 42", "18 Ohio St. 50", "19 Am. Rep. 751", "2 Cal. 251", "2 Ohio St. 2", "2 Ohio St. 223", "2 Ohio, 277", "20 Ind. 47", "20 Ohio, 195", "20 Ohio, 331", "23 Miss. 550", "23 Miss. 557", "25 Ohio St. 566", "27 Ohio St. 498", "28 Ind. 513", "3 Ohio St. 498", "30 Ohio St. 20", "30 Ohio St. 662", "34 Miss. 150", "38 Ind. 513", "4 S. & M. 538", "6 Blackf. 91", "6 Ohio St. 503", "6 Ohio, 367", "60 N. Y. 421", "8 Blackf. 162", "9 Ohio St. 22"]
+---
+
+# King v. Bell
+
+## Majority (Johnson, J.)
+
+Johnson, J.
+It is claimed that said petition does not state facts sufficient to constitute a cause of action against the sureties on said bond: 1st. Because the probate court had no authority to require, receive or accept the same ; 2d. There is no breach alleged; 3d. It is void for want of a consideration; and, 4th. The bond was not delivered. It is further insisted, that as Bell is not a party to this proceeding in error, this court has no jurisdiction.
+1. The point is made, that Bell, who is the principal on the bond and a defendant in the original action, is a necessary party in this proceeding in error. Smethers v. Rainey (14 Ohio St.) 287, and Jones v. Marsh (30 Ohio St. 20), hold that all parties to a joint judgment should be parties in error. Here the final judgment was in favor of Flory and Shields, and against plaintiff, and the case stands undisposed of as to Bell on the common pleas’ docket. This is authorized by section 371 of the Code, the action being upon a joint and several cause of action.
+All the parties to this final judgment are before this court.
+2. The petition alleges a delivery of the bond and its approval by the court, as in all like cases. Hence the claim that there was no delivery of the bond is not well founded.
+3. Neither is the claim that there is a want of consideration for the bond, if it is otherwise valid. If the court had the power to take and approve this bond, the consideration is sufficient.
+4. The principal, and, indeed, the only question of difficulty in the case, is as to the authority of the court to take this bond.
+Bell was appointed guardian, February 4,1856. The statute vested in the probate court exclusive jurisdiction to appoint and remove guardians, to direct and control their conduct, and to settle their accounts. Swan R. S. 1854, 753, a. This power embraced the appointment of guardians for minors (Swran R, S. 1854, p. 444), and idiots and lunatics. S. & C. 847.
+In the appointment of guardians for lunatics, all laws relating to guardians for minors and their wards, and pointing out the duties, rights, and liabilities of such guardians and their sureties, in force for the time being, are made applicable to guardians for idiots and lunatics, and their children, so far as the same are’in conformity with the provisions of the act relating to lunatic asylums. S. & 0. 840, § 45.
+The law in force “ for the time being,” when the bond in suit was apjaroved and filed, relating to guardians of minors, was the act of 1858. S. & C. 670. By section 8 full power is given the court over the bonds of guardians on exceptions thereto, and upon its own motion it may require guardians to give additional bonds, whenever the interest of the ward shall demand.
+Section 9 provides that “ No bond executed by a guardian' after this act shall take effect” (July 1, 1858), “-shall be void or held invalid on account of any informality in the same, nor am, aoGOwnt of an%y i/i%formali1nj or illegality in the ayypoimlment of such guardiam,/ but such bond shall have the same force and effect as if such appointment had been legally made and such bond executed in proper form.” The bond in suit is subject to the provisions of this section.
+The facts admitted by the demurrer are:
+1. That in 1856, Bell was duly appointed and qualified as guardian of Caroline E. Cooper, who was then - both an infant and a person of unsound mind, and entered upon the discharge of his duties as such guardian, and so continued to act until his resignation, which was accepted by the court September 16, 1874, and the present plaintiff was appointed his successor as guardian of said Caroline, a lunatic.
+2. That at her arrival of age, April 20, 1867, she was still of unsound mind, and without any further action of the court, so far as the record shows, Bell continued as guardian, and in 1867, 1869 and 1871, filed his accounts as such with the court, which were audited and settled; the court in all respects recognizing and treating him as the legal guardian, as well after as before her majority.
+3. That in April, 1871, nearly four years after her coming of age, Bell represented to the court that his sureties had removed from the county, and on his application and upon an order of the court requiring it, he and the present defendants executed and delivered the bond in suit, which was on his motion approved and filed, whereupon he was permitted by the court to continue his guardianship until his resignation and the appointment of his successor.
+4. October 14, 1874, in pursuance of the order of court, he filed his final account, which was audited and settled November 24, 1874, showing a balance due his ward of $4,126.84, which he was ordered to pay over to plaintiff, but has failed so to doj except a small amount stated.
+5. That prior to the giving of the present bond, April 8, 1871, he had received $5,000 or more of his ward’s moneys, and had in liis hands, in fact, said sum of $4,126.84 at the date of his final settlement, which, on demand, he refused to pay over.
+We have not been furnished with a copy of the judgment of the court, making the appointment of Bell in 1856, but it is averred that Bell was then appointed guardian of said Caroline F. Cooper, who was then an infant, and (as the plaintiff was informed and believes) a person of unsound mind; and it is averred there was no express adjudication by the court, upon what grounds the appointment was made; that is, whether she was a minor, or of unsound mind, or both.
+The court having jurisdiction on either or on both grounds, to make the appointment, its validity cannot be inquired into collaterally, though the record is silent, as to the particular ground upon which the appointment was made. Shroyer v. Richmond, 16 Ohio St. 455. Neither upon this state of facts does the presumption arise, that the appointment was made solely on the ground of infancy.
+For over seven years after the ward’s majority, Bell acted as guardian of a lunatic. The court so recognized him as her legal guardian by receiving and settling his accounts, by ordering and approving a new bond and allowing him to continue to act, though the record showed she was over age, by accepting his resignation and appointing his successor as guardian of a lunatic. All this is utterly inconsistent with the presumption that the appointment was made on the ground of infancy alone, but is in harmony with the presumption that the judgment of the court, by which he was appointed,.was either based on the unsoundness of mind, or of that, as well as infancy.
+In the absence of an express adjudication of the grounds for this appointment to the contrary, and in view of the fact that, after the ward arrived of age, the court continued for several years to judicially recognize him as the legal guardian, we are authorized to presume that this appointment covered both disabilities, the lunacy as well as the infancy.
+This being so, the court was authorized by section 8 of the guardian act to order and approve this bond.
+The condition being for the faithful discharge by Bell of his duties as such guardian, as required by law, his sureties are liable thereon for a breach of the condition.
+Judgments of the district court cmd of the court of common fleas reversed.
