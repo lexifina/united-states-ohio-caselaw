@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-464"
+decided: "1971-07-07"
+citations: ["27 Ohio St. 2d 92"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["0 ’Neill, 0. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Piacella, Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/27/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6704136
+cites_cases: ["246 F. 2d 571", "27 L. Ed. 2d 168", "274 U. S. 220", "356 U. S. 26", "368 U. S. 487", "369 U. S. 506", "379 F. 2d 113", "394 U. S. 459", "395 U. S. 238", "397 U. S. 742", "400 U. S. 25", "405 F. 2d 1378", "78 S. Ct. 563"]
+---
+
+# State v. Piacella
+
+## Majority
+
+SchneideR, J.
+Defendant contends that the trial court erred in not allowing her to withdraw her guilty plea for the reason that at the time of entering her plea she was under a misconception of the nature of the charge and there existed a misrepresentation of the evidence against her.
+This court finds from the record that defendant’s guilty plea was not the result of coercion, trickery, deception or intimidation and that it was “voluntarily, intelligently and knowingly made with a complete understanding of the consequences.” North Carolina v. Alford (1970), 400 U. S. 25, 27 L. Ed. 2d 162; Brady v. United States (1970), 397 U. S. 742, 25 L. Ed. 2d 747; Boykin v. Alabama (1969), 395 U. S. 238, 23 L. Ed. 2d 274; Machibroda v. United States (1962), 368 U. S. 487, 7 L. Ed. 2d 473; Kercheval v. United States (1927), 274 U. S. 220, 223, 71 L. Ed. 1009.
+Both defendant and her counsel stated to the trial court that she desired to change her plea to one of guilty. Counsel’s answers to the court’s questions, in the presence of the defendant, show that before the plea of guilty was entered, counsel had advised the defendant as to the various possibilities of a trial by jury, and as to the consequences of her plea of guilty.
+The record further discloses that both judges questioned defendant as to her understanding of the consequences of her plea. She was asked whether she understood the punishment for the crime; whether she knew that she was entitled to a jury trial, and whether, when she stated, “I’m guilty,” she knew that she was admitting the commission of the crime. To all of these questions defendant answered in the affirmative,
+Defendant claims that the evidence was misrepresented to her when she was informed by counsel that one of her codefendants, who had pleaded guilty and received probation, would testify against her. ‘ ‘ The rule that a plea must be intelligently made to be valid does not require that a plea be vulnerable to later attack if the defendant did not correctly assess every relevant factor entering into his decision. A defendant is not entitled to withdraw his plea merely because he discovers long after the plea has been accepted that his calculus misapprehended the quality of the State’s case or the likely penalties attached to alternative courses of action.” Brady v. United States, supra (397 U. S. 742).
+The fact that defendant was unwilling to admit her participation in the crime “... does not necessarily demonstrate that [her] plea was not the product of a free and rational choice, especially where [she] was represented by competent counsel. ...” North Carolina v. Alford, supra (27 L. Ed. 2d 168); McCarthy v. United States (1969), 394 U. S. 459, 466, 467, 22 L. Ed. 2d 418.
+“... while most pleas of guilty consist of both a waiver of trial and an express admission of guilt, the latter element is not a constitutional requisite to the imposition of criminal penalty. An individual accused of crime may voluntarily, knowingly, and understandingly consent to the imposition of a prison sentence even if he is unwilling or unable to admit his participation in the acts constituting the crime.” North Carolina v. Alford, supra (27 L. Ed. 2d, at 171).
+This is particularly true where defendant, as here, admits that she was in the automobile which transported the codefendants to and from the scene of the crime.
+Where there are no promises or inducements by the state to plead guilty, the standard as to the voluntariness of appellant’s guilty plea, as set forth in Brady v. United States, supra (397 U. S. 742), is satisfied.
+Defendant relies primarily upon Boykin v. Alabama, supra (395 U. S. 238). She contends that Boykin requires the trial court to “explain to the defendant his constitutional rights regarding the privilege against compulsory self-incrimination, the right to trial by jury, and the right to confront one’s accusers.”
+In Boykin, Justice Douglas, in expressing the view of six members of the court, at page 242, noted that where the record is silent as to whether the accused voluntarily and understandingly entered his plea of guilty, it was reversible error for the trial court to accept his plea of guilty.
+In analogizing the waiver of the right to counsel to a plea of guilty, the court in Boykin, in approving and following Carnley v. Cochran (1962), 369 U. S. 506, 516, stated: “Presuming a waiver from a silent record is impermissible. The record must show, or there must be an allegation and evidence which show, that an accused was offered counsel but intelligently and understandingly rejected the offer. Anything less is not waiver.” Boykin v. Alabama (1969), 395 U. S. 238, 242. Justice Douglas weiit on to note that the same standard must be applied to determine whether a guilty plea is voluntarily made.
+There is no question that the record in the instant case is replete with instances of the defendant’s knowledge and understanding of her guilty plea.
+The trial court, in its attempt to satisfy itself that the defendant understood the consequences of her plea, did so in full accord with the Boykin decision. Footnote 7 in Boykin states that: “. . . the trial court is best advised to conduct an on the record examination of the defendant which should include . . . that the defendant understands the nature of the charges, his right to a jury trial, the acts sufficient to constitute the offenses for which he is charged and the permissible range of sentences.”
+Thus, where the record affirmatively discloses that: (1) a guilty plea was not the result of coercion, deception or intimidation; (2) counsel was present at the time of the plea; (3) his advice was competent in light of the circumstances surrounding the plea; (4) the plea was made with the understanding of the nature of the charges; and, (5) the plea was motivated either by a desire to seek a lesser penalty or a fear of the consequences of a jury trial, or both, the guilty plea has been voluntarily and intelligently made.
+Judgment affirmed.
+0 ’Neill, 0. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur.
+" the court . . . -will accept a plea of guilty, even though defendant accompanies his plea with a statement that he is not guilty, on a determination that incriminatory evidence establishes such a high probability of conviction as to satisfy the requirement that there be a ‘factual basis for the plea’ before judgment can be entered thereon.” Bruce v. United States (C. C. A. D. C. 1967), 379 F. 2d 113, 119, approved and followed in Griffin, v. United States (C. C. A. D. C. 1968), 405 F. 2d 1378, 1380.
+“The standard as to the voluntariness of guilty pleas must be essentially that defined by Judge Tuttle of the Court of Appeals for the Fifth Circuit:
+“ ‘A plea of guilty entered by one fully aware of the direct consequences, including the actual value of any commitments made to him by the court, prosecutor, or his own counsel, must stand unless induced by threats (or promises to discontinue improper harrassment), misrepresentation (including unfulfilled or- unfulfillable promises), or perhaps by promises that are by their nature improper as having no proper relationship to the prosecutor’s business (e. g. bribes).”’ Shelton v. United States (C. C. A. 5, 1958), 246 F. 2d 571, 572, n. 2, received on confession of error on other grounds, 356 U. S. 26, 78 S. Ct. 563, as cited by Brady v. United States (1970), 397 U. S. 742, 90 S. Ct. 1463.
