@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "16928"
 decided: "1922-12-29"
-citations: ["1 Ohio Law Abs. 77", "1 Ohio Law Abs. 73"]
+citations: ["1 Ohio Law Abs. 77"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
