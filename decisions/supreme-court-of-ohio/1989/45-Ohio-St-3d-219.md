@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Ohio"
+docket: "88-1159"
+decided: "1989-09-06"
+citations: ["45 Ohio St. 3d 219"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright and Resnick, JJ., concur."]
+parties: ["In re Adams, n.k.a. Mumley, Appellant; Adams, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/45/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1419866
+cites_cases: ["15 OBR 421", "15 Ohio St. 3d 289", "159 N.E. 2d 430", "169 Ohio St. 276", "43 Ohio St. 3d 87", "473 N.E. 2d 811", "538 N.E. 2d 410", "8 O.O. 2d 286"]
+---
+
+# In re Adams
+
+## Majority (H. Brown, J.)
+
+H. Brown, J.
+The issue presented is whether a court of common pleas has jurisdiction to terminate permanent sustenance alimony set forth in a separation agreement incorporated into a dissolution of marriage decree, upon the payee spouse’s remarriage, absent an express reservation of jurisdiction in the agreement. We answer in the negative and reverse the decision of the court of appeals.
+In 1974, the Ohio General Assembly adopted a form of consensual divorce by enacting legislation permitting dissolution of marriages. (135 Ohio Laws, Part II, 603, 615-616.) To obtain a dissolution, the parties enter into a separation agreement. R.C. 3105.63. The separation agreement is a contract between the spouses which the court may approve or disapprove. See R.C. 3105.65. The court, however, cannot unilaterally change the provisions of the agreement.
+Agreement between spouses is the linchpin of the procedure. To obtain a dissolution, both spouses must sign the petition which must incorporate a separation agreement. In the agreement, spouses must delineate the disposition of all property, set forth the terms and amount of alimony (if any) and, if there are minor children of the marriage, provide for child custody, visitation and support. R.C. 3105.63. Both spouses must appear before the court and verify that their participation in the agreement is voluntary, that they are satisfied with its terms and that they seek dissolution of the marriage. R.C. 3105.64. If either spouse expresses dissatisfaction with the agreement or does not want the marriage dissolved, the court must dismiss the petition and refuse to validate the proposed separation agreement. R.C. 3105.65(A). Thus, the separation agreement is a binding contract between the parties.
+Appellee states that he was unrepresented by counsel during the dissolution proceedings. However, he swore under oath before the trial court that he had voluntarily entered into the separation agreement. In a written statement attached to the dissolution petition, appellee acknowledged that he was aware and understood that his former wife’s attorney was not representing him and that he had been given full opportunity to obtain his own counsel. Appellee alleges no fraud, duress, misrepresentation or other circumstance which might indicate that his assent to the separation agreement was involuntary.
+The separation agreement in this case does not reserve continuing jurisdiction to terminate or modify the alimony. Accordingly, we look to the statute under which the parties obtained their dissolution to see if the statute grants continuing jurisdiction with respect to alimony.
+At the time when the parties herein were granted a dissolution, R.C. 3105.65(B), as amended, stated in relevant part: “* * * The court has full power to enforce its decree, and retains jurisdiction to modify all matters of custody, child support, and visitation.” (Emphasis added.) (136 Ohio Laws, Part II, 2452.) This language does not grant continuing jurisdiction over alimony. However, appellee argues (and the court of appeals agreed) that such jurisdiction can be implied.
+The legislative history of R.C. 3105.65(B) defeats any such argument. When the provision was enacted in 1974, it stated in relevant part: “* * * The court has full power to enforce its decree, and retains jurisdiction to modify all matters of custody, child support, visitation, and periodic alimony payments.” (Emphasis added.) (135 Ohio Laws, Part II, 603, 616.) The provision was amended effective August 1,1975 by striking the emphasized language. (136 Ohio Laws, Part II, 2452.) Thus, for dissolution proceedings after that date, the legislature did not intend to confer upon the courts continuing jurisdiction over alimony. In McClain v. McClain (1984), 15 Ohio St. 3d 289,15 OBR 421, 473 N.E. 2d 811, this court examined the legislative intent with respect to this amended version of R.C. 3105.65(B). Therein, we stated at 291, 15 OBR at 423, 473 N.E. 2d at 813, that “* * * the legislature specifically intended that a court would not retain jurisdiction to modify periodic alimony payments provided for in a separation agreement incorporated in a decree of dissolution of marriage.”
+Appellee contends that McClain, supra, is distinguishable because it concerned modification rather than termination of alimony. This is a distinction without a difference. “Modification” and “termination” of an alimony award are simply different points or degrees on the same continuum. Under R.C. 3105.65(B), there is no basis to recognize jurisdiction for one purpose and not the other.
+Notwithstanding McClain, supra, and the language and legislative history of R.C. 3105.65(B), appellee argues that Hunt v. Hunt (1959), 169 Ohio St. 276, 8 O.O. 2d 286, 159 N.E. 2d 430, controls the case before us, and that from Hunt it can be inferred that a court retains continuing jurisdiction over alimony following a dissolution.
+We disagree. Hunt concerned a decree of divorce, not dissolution. Those two actions entail distinctly different procedures. In a divorce, the court has the authority to set the amount of' alimony, divide marital assets, award custody of minor children and make visitation and child support orders. R.C. 3105.17, 3105.18, 3105.21. In a dissolution, these issues are decided by agreement of the spouses. The court cannot change the agreement of the parties, absent specific authority to do so.
+Finally Hunt, supra, was decided years before dissolution of marriage became a viable alternative to divorce in this state.
+Accordingly, we hold that pursuant to R.C. 3105.65(B), a court is without jurisdiction to modify or terminate an award of alimony set forth in a separation agreement incorporated into a decree of dissolution of marriage, absent a reservation of jurisdiction in the agreement. To the extent that our holding is inconsistent with Hunt, supra, Hunt is overruled.
+The judgment of the court of appeals is reversed and the cause is remanded to the trial court for further proceedings not inconsistent with our opinion.
+Judgment reversed and cause remanded.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright and Resnick, JJ., concur.
+With respect to the separation agreement, appellee does not challenge the enforceability of the agreement by asserting claims based upon the law of contracts, to wit: frustration of purpose, impossibility of performance or conditions subsequent. Our review of the record discloses no facts to support such assertions.
+A majority of this court recently held that “[ujnder R.C. 3105.65(B), as amended effective August 1, 1975, a court may retain jurisdiction to modify alimony payments provided for in a separation agreement by parties to a dissolution where the parties have agreed to such continuing jurisdiction and the agreement has been incorporated in a decree of dissolution of marriage.” Colley v. Colley (1989), 43 Ohio St. 3d 87, 538 N.E. 2d 410, syllabus.
+As to alimony in dissolution actions, such authority may be conferred by agreement of the parties. See Colley, supra; R.C. 3105.18(D)(2) and 3105.65(B), both as amended, effective May 2, 1986. (141 Ohio Laws, Part II, 3388.)
