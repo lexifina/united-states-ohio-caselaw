@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1866-12"
+citations: ["17 Ohio St. 23"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Day, White, Welch, and Brinkeriioet, JX, concurred."]
+parties: ["*George Longstreet v. John Harkrader et al."]
+source_url: "https://static.case.law/ohio-st/17/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 881327
+cites_cases: ["14 Ohio St. 10"]
+---
+
+# Longstreet v. Harkrader
+
+## Majority (Scott, C. J.)
+
+Scott, C. J.
+The question in this case is not as to the equitable rights of the plaintiff against the state. With these we have nothing to do in the consideration of this case. But the question is concerning the rights of the plaintiff, whether derived from the state, or otherwise, as against the defendants, whose lands lie adjacent to his own. Has he a right, for the benefit of his lands, to keep up the west embankment of the structure once known as the "Warren County canal, for the purpose of diverting the waters of Shaker creek from their natural course, over his own premises, and throwing them through a breach in this ruinous and abandoned canal, upon the lands of the defendants, to their injury? This is the question which arises upon the state of facts found by the district court. And we think it must be answered in the negative.
+By the construction of the canal, and. the appropriation of Shaker creek as one of its feeders, the low lands of the plaintiff were relieved from the natural burden imposed on them by the waters of that sluggish stream. But the benefit which the plaintiff thus obtained, was incidental merely to the right of the state (or of the canal company, to whose rights she succeeded by transfer), to construct the canal and appropriate the creek; and arose solely from the exercise of such right by the proper state authority. The state, however, has long since abandoned this structure for all the purposes of a canal. It has been in a ruinous condition ever since the breach occurred in 1847, or 1848, by which the waters of Shaker creek were thrown, on the lands of the defendants. No attempt has been made to pass a boat through it since 1850. And by the act of March 11,1853, the board of public works was directed to make no further expenditure in its repair. Having been thus abandoned, the easement which the state had acquired in the lands over which it passed, thereupon terminated. And as she no longer needed, or used, the waters of Shaker creek for canal purposes, she would *have no equitable right to keep up the canal embankment, for the mere purpose of diverting that creek from its natural course, or channel, to the damage of individual property. It is certain the state claims no such right. On the contrary, by the act just referred to, the board of public works was expressly authorized to turn Shaker creek into its original channel, if, in tlioir opinion, justice and equity demanded the same. And by the amendatory act of April 29, 1854, the same board of public works was “ directed and empowered to authorize individuals, at their own expense, to turn Shaker creek into its original channel.” 51 Ohio L. 535; 52 Ib. 69.
+By this legislation, the state has, at least, disclaimed all right, on her part, longer to obstruct the flow of this creek in its natural channel. Under these circumstances, it would seem equitable, that, as against each other, the parties in this controversy should, as far as practicable, be remitted to their rights as they existed before the construction of the canal. The benefit which the plaintiff derived from this structure, so long as the public use continued, he was entitled to enjoy; but when the public use and public rights in the premises wholly cease, and the embankments become a nuisance, seriously damaging the property of his neighbors, the plaintiff must allow it to be abated. Had this creek been valuable to the plaintiff for water-power, or other purposes, would he not have had a right, as against the defendants, to resume its enjoyment, upon the abondonment of the canal? We can not perceive how a casual breach in the canal could have given the defendants a right to insist that the creek should be thereby forever diverted from its natural channel, and its advantages bo transferred from the plaintiff to themselves. And the equity of the case must be the same, whatever be the character of the sti’eam.
+We do not think the íúghts of the parties are at all affected by the fact that some of them have purchased all, or a portion, of the lands which they now own, since the construction of the canal. The rights of the pi’esent owners, so far as appears, are neither greater nor less than those of their grantors. Those lands wei’e all held, and conveyed, (if at all) subject to the contingency which has occurred.
+*Nor is any such continued acquiescence shown as should prejudice the rights of the defendants. They had nothing to complain of till the breaking of the embankment in 1847 or 1848; and could take no efficient action in the matter while the canal remained in charge of the state. The legislation on the subject occun-ed in 1853 and 1854; and in 1854 the plaintiff found it necessary to file his petition to enjoin the defendants from asserting their alleged rights.
+We think the provisional injunction, granted in this case, must be dissolved, and the plaintiff’s petition dismissed.
+Day, White, Welch, and Brinkeriioet, JX, concurred.
