@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19928"
 decided: "1926-06-25"
-citations: ["4 Ohio Law Abs. 603", "4 Abs. 475", "4 Ohio Law Abs. 758", "OS. Pend. 4 Abs. 603", "OA. 4 Abs. 628", "4 Ohio Law Abs. 475"]
+citations: ["4 Ohio Law Abs. 603", "4 Abs. 475"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
