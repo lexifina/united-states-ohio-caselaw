@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "9048"
+decided: "1905-05-02"
+citations: ["72 Ohio St. 646"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, C. J., Shauck, Price, Summers and Spear, JJ., concur."]
+parties: ["Flaugher v. Boyd."]
+source_url: "https://static.case.law/ohio-st/72/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 967344
+---
+
+# Flaugher v. Boyd
+
+## Majority
+
+Judgment affirmed.
+Davis, C. J., Shauck, Price, Summers and Spear, JJ., concur.
