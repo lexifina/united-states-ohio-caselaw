@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+docket: "96-1127"
+decided: "1996-12-11"
+citations: ["77 Ohio St. 3d 154"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, Pfeifer, Cook and Stratton, JJ., concur.", "Douglas, J., dissents.", "F.E. Sweeney, J., dissents and would affirm the judgment of the court of appeals."]
+parties: ["Westfield Companies, Appellant, v. Kette et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/77/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1752192
+cites_cases: ["665 N.E.2d 1121", "76 Ohio St.3d 41"]
+---
+
+# Westfield Companies v. Kette
+
+## Majority
+
+The discretionary appeal is allowed.
+The judgment of the court of appeals is reversed on the authority of Cuervo v. Cincinnati Ins. Co. (1996), 76 Ohio St.3d 41, 665 N.E.2d 1121.
+Moyer, C.J., Resnick, Pfeifer, Cook and Stratton, JJ., concur.
+Douglas, J., dissents.
+F.E. Sweeney, J., dissents and would affirm the judgment of the court of appeals.
