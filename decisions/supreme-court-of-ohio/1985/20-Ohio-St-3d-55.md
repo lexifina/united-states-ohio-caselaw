@@ -1,0 +1,64 @@
+---
+court: "Supreme Court of Ohio"
+docket: "84-1865 and 84-1868"
+decided: "1985-11-27"
+citations: ["20 Ohio St. 3d 55"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.", "Celebrezze, C.J., dissents."]
+parties: ["The State of Ohio, Appellee, v. Freeman, Appellant. The State of Ohio, Appellee, v. Roth, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/20/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820637
+cites_cases: ["15 Ohio St. 2d 215", "17 O.O.3d 81", "321 U.S. 1", "44 O.O.2d 191", "446 F. 2d 489", "45 A.L.R. Fed. 732", "501 F. 2d 1207", "529 F. Supp. 916", "63 Ohio St. 2d 132"]
+---
+
+# State v. Freeman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The first question raised by these appeals is whether the trial court erred in overruling appellants’ pretrial motions to dismiss the indictments because of alleged irregularities in the grand jury proceedings. Specifically, appellants allege that Judges Joseph R. Kainrad and George E. Martin improperly appeared as witnesses before the grand jury, having both participated in the jury selection process. Appellants argued that this irregularity rendered the grand jury proceedings and the resultant indictments void. The court of appeals upheld the trial court’s overruling of appellants’ motion to dismiss, reasoning that neither Judge Kainrad nor Judge Martin committed any impropriety prejudicial to appellants by appearing as witnesses before the grand jury. We affirm.
+It does not appear from the record that Judge Martin participated directly in the grand jury proceedings. He was involved with Judge Kainrad in the appointment of a special prosecutor and in criminal proceedings against eight insurance agents stemming from the same facts. Judge Kainrad presided over the selection of the grand jury which returned the instant indictments, and at the oath taking. Both judges eventually appeared as witnesses before the grand jury.
+Appellants argue that the appearances of Judges Kainrad and Martin as witnesses substantially prejudiced them by lending their authority and credibility to their testimony, thereby exercising undue influence on the grand jurors. They allege that such conduct violated Canon 3 of the Code of Judicial Conduct, and so tainted the proceeding as to render it void. This Canon provides in pertinent part:
+“C. Disqualification.
+“(1) A judge should disqualify himself in a proceeding in which his impartiality might reasonably be questioned, including but not limited to instances where:
+U * * *
+“(d) he or his spouse * * *:
+a* * *
+“(iv) is to the judge’s knowledge likely to be a material witness in the proceeding.”
+A review of Judge Kainrad’s testimony before the grand jury reveals that it was innocuous and unrelated to any material fact in these two cases. His testimony deals with matters that are completely peripheral to appellants’ alleged involvement in improper activities. Judge Kainrad never referred to appellants, their credibility, the evidence against them, or the probability of their guilt or innocence. There is no evidence and no reason to believe that the judge’s testimony, or his presence as a witness, unduly influenced the grand jury. Nor are we persuaded that Judge Martin’s testimony prejudiced appellants in any way. His testimony did not reflect on the guilt or innocence of appellants. It dealt solely with the peripheral question of the content of the judge’s conversations with an assistant Portage County prosecutor concerning rumors of wrongdoing by county commissioners. None of this very brief testimony is material to any substantial issue before the grand jury.
+In short, appellants have been unable to substantiate that any prejudice resulted to them. The testimony of both judges concerned completely nonessential matters. Appellants are unable to indicate specifically any alleged improprieties in this testimony. No prejudice will be presumed where none is demonstrated. State v. Stanton (1968), 15 Ohio St. 2d 215 [44 O.O.2d 191], paragraph two of the syllabus.
+Appellants next argue that the trial court erred in overruling their motions for dismissal on the grounds of selective prosecution. They contend that they sustained their burden of proving such discrimination by establishing that a third county commissioner, who was involved in exactly the same conduct as appellants, was not charged with any wrongdoing. Appellant adduced evidence to show infighting within the Portage County Democratic Party with appellants being in the faction which was at odds with the faction of which the Portage County Sheriff was a member. The sheriff was the individual who instigated the investigation of appellants.
+For the following reasons, we hold that the trial court properly overruled appellants’ motions for dismissal, as they failed to sustain their burden of proving selective prosecution. This court addressed the elements necessary to establish selective prosecution in State v. Flynt (1980), 63 Ohio St. 2d 132 [17 O.O.3d 81]:
+“ ‘To support a defense of selective or discriminatory prosecution, a defendant bears the heavy burden of establishing, at least prima facie, (1) that, while others similarly situated have not generally been proceeded against because of conduct of the type forming the basis of the charge against him, he has been singled out for prosecution, and (2) that the government’s discriminatory selection of him for prosecution has been invidious or in bad faith, i.e., based upon such impermissible considerations as race, religion, or the desire to prevent his exercise of constitutional rights. These two essential elements are sometimes referred to as “intentional and purposeful discrimination.’ ” Id. at 134, quoting United States v. Berrios (C.A. 2, 1974), 501 F. 2d 1207, 1211.
+Appellants have not established that their prosecution was the result of discriminatory selection. The burden on a defendant to demonstrate selective prosecution is a heavy one. Flynt, supra, at 135. A mere showing that another person similarly situated was not prosecuted is not enough; a defendant must demonstrate actual discrimination due to invidious motives or bad faith. Intentional or purposeful discrimination will not be presumed from a showing of differing treatment. Snowden v. Hughes (1944), 321 U.S. 1, 8-9.
+We cannot agree with appellants’ contention that the trial court abused its discretion in overruling their motions for dismissal. We find no compelling basis for overturning that court’s holding that the evidence adduced by appellants did not establish invidious motives or bad faith. The mere failure to prosecute other violators of the statute which appellants were charged with violating does not establish the defense of selective prosecution. United States v. Stagman (C.A. 6, 1971), 446 F. 2d 489, 494. The mere existence of a potential discriminatory purpose is insufficient to show that such purpose motivated the selection of appellants for prosecution. See, generally, Annotation (1979), 45 A.L.R. Fed. 732; United States v. Mulherin (D. Ga. 1981), 529 F. Supp. 916. We are unable to conclude that the evidence produced by appellants was such that the trial court was unjustified in discounting it. We therefore affirm.
+The final question posed for our review is whether the state proved the requisite element of recklessness in establishing appellant Roth’s violation of R.C. 2921.44(E), the statute proscribing dereliction of duty. For the following reasons, we find that the record clearly supports a finding of recklessness, and therefore we affirm.
+R.C. 2921.44(E) provides:
+“No public servant shall recklessly fail to perform a duty expressly imposed by law with respect to his office, or recklessly do any act expressly forbidden by law with respect to his office.” (Emphasis added.)
+The term “recklessly” is defined in R.C. 2901.22(C) as follows:
+“A person acts recklessly when, with heedless indifference to the consequences, he perversely disregards a known risk that his conduct is likely to cause a certain result or is likely to be of a certain nature. A person is reckless with respect to circumstances when, with heedless indifference to the consequences, he perversely disregards a known risk that such circumstances are likely to exist.”
+Appellant Roth’s argument that the state failed to prove recklessness is unfounded. She specifically testified that during the time she was a councilman, 1975-1980, she knew of the legal requirement that public contracts over $2,000 be let out for competitive bidding, that she knew such contracts were not being let out for such bidding, and that she did not inquire into the legality of the discrepancy. Thus, appellant’s own testimony shows that she knowingly approved county insurance contracts without competitive bidding as required by law. This surely is sufficient to establish recklessness as defined in R.C. 2901.22(C).
+Based on the foregoing, the judgments of the court of appeals, upholding appellants’ convictions, are hereby affirmed.
+Judgments affirmed.
+Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.
+Celebrezze, C.J., dissents.
+Judge Kainrad’s testimony dealt with such nonessential matters as the selection of the special prosecutor and the conduct of the investigation.
+See fn. 1.
+
+## Dissent (Celebrezze, C.J.,)
+
+Celebrezze, C.J.,
+dissenting. I take-issue with the majority’s rather summary dismissal of appellant Roth’s claim that the state failed to prove the mens rea requirement of recklessness for the crime of dereliction of duty.
+The record discloses substantial evidence which raises a reasonable doubt as to whether appellant Roth recklessly acted contrary to law in the performance of her duties. Further, appellant’s conviction should be reversed because the court of appeals failed to apply the proper statutory definition.
+R.C. 2901.22(C) defines “reckless conduct” as an act done with heedless indifference and in perverse disregard of known consequences which are likely to result. Under the circumstances in which appellant Roth found herself, it is fundamentally unfair to hold that her decision to approve these contracts was reckless.
+The record shows that long before appellant was elected a county commissioner, it had been the practice to present insurance contracts to the commissioners after the previous policies had expired and a period of one or two months after the new policy year had already begun. Because of this practice, the commissioners were forced to approve the new contracts in order to avoid a lapse in coverage. Such was the case with the contracts in the instant case.
+As appellant testified, she agreed to renew these contracts because of the consequences to the county if the insurance coverage had been allowed to lapse:
+“A. The county would be without insurance which consequently means that there would be grave problems for the county if we did not at that particular time okay the bill because they had not gone out to bid because the specifications had not been drawn, it would take a great amount of time to work, so consequently they had to be approved.
+“Q. And you had to make the decision whether or not, which you felt were the better of the priorities for the county, is that correct, at that time?
+“A. Yes, in order to be a responsible commissioner, I would not allow the county to be without any insurance, whether it be liability insurance, whether it be automobile insurance or whatever.”
+In appellant’s judgment, avoiding a complete lapse in county insurance coverage was a more acceptable alternative than risking a lapse in coverage by delaying implementation of these policies in order to take competitive bids. The state has not shown, beyond a reasonable doubt, that appellant acted recklessly given the difficult choice which she was forced to make.
+Furthermore, the court of appeals failed to use the proper statutory definition of the primary element of recklessness in its review of appellant’s conviction. The appeals court held that the state had proved this element and based this determination on 2 Bouvier’s Law Dictionary (1914), at 2814, which defines “recklessness” as “[a]n indifference whether wrong is done or not.” Plainly, this standard is less than the “heedless indifference” and “pervers[e] disregard]” required to show recklessness pursuant to R.C. 2901.22(C).
+Notwithstanding the state’s failure to show even that appellant acted indifferently, much less with heedless indifference and perverse disregard of the consequences, the fact that the court of appeals employed a less stringent definition than that contained in the Revised Code is alone sufficient reason to reverse appellant’s conviction. Accordingly, I dissent.
