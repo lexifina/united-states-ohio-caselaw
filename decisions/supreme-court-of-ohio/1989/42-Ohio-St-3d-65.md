@@ -1,0 +1,50 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-1723"
+decided: "1989-04-19"
+citations: ["42 Ohio St. 3d 65"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney, Holmes, Douglas and Wright, JJ., concur.", "H. Brown and Miller, JJ., concur separately.", "Edgar L. Miller, J., of the Third Appellate District, sitting for Res-nick, J.", "Miller, J., concurs in the foregoing concurring opinion."]
+parties: ["The State of Ohio, Department of Natural Resources, Division of Wildlife, Appellee, v. Prescott, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/42/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1418224
+cites_cases: ["152 U.S. 133", "21 OBR 20", "21 Ohio App. 3d 19", "306 N.E. 2d 413", "37 Ohio St. 2d 43", "416 U.S. 663", "457 N.E. 2d 312", "465 U.S. 354", "486 N.E. 2d 121", "66 O.O. 2d 106", "8 OBR 401", "8 Ohio St. 3d 39", "82 Stat. 1224"]
+---
+
+# State v. Prescott
+
+## Majority (Moyer, C.J.)
+
+Moyer, C.J.
+The sole issue presented by the defendant-appellant is whether a forfeiture proceeding conducted pursuant to R.C. Chapter 1531 is criminal in nature and whether the trial court must instruct the jury that a defendant is to be given a presumption of innocence.
+For the reasons stated below, we hold that a forfeiture proceeding pursuant to R.C. 1531.20 is an in rem civil action.
+The General Assembly has given the Ohio Department of Natural Resources (“ODNR”) the authority to prosecute a violator of Ohio’s wildlife protection laws. The ODNR may proceed against the individual for violation of R.C. 1533.51, which requires persons acting as fishing guides to be licensed. Failure to meet the licensing requirement for fishing guides constitutes a misdemeanor of the first degree under R.C. 1533.99(C).
+However, in addition to possible criminal prosecution under these sections, the ODNR may seek to abate a nuisance by seizing property used in the violation of the statutes. R.C. 1531.20 authorizes ODNR to seize any boat used in the unlawful taking of wild animals, and to commence a forfeiture proceeding within five days of the seizure.
+Defendant argues that such a proceeding is criminal in nature because R.C. 1531.21 provides that such forfeiture proceedings “* * * shall be tried under the rules of criminal procedure * * *.” We disagree. As a general rule, forfeiture of property is a civil or in rem proceeding. United States v. One Assortment of 89 Firearms (1984), 465 U.S. 354, at 363; Sensenbrenner v. Crosby (1974), 37 Ohio St. 2d 43, 66 O.O. 2d 106, 306 N.E. 2d 413. We are compelled to arrive at this conclusion for the following reasons. First, R.C. 1531.20 permits the ODNR to file an affidavit for forfeiture of property when the name of the person owning or using the property seized is unknown. In such case, a copy of the summons “* * * shall be posted at a suitable place nearest the place of seizure * * *.” This is consistent with the notice requirements in civil cases (Civ. R. 4.1) in that it is the property itself, not a person, that is the subject of the proceeding.
+Second, R.C. 1531.20 provides in part that “* * * [a] writ of replevin shall not lie to take such property from * * * the custody or jurisdiction of the court in which such proceeding is instituted * * A writ of replevin at common law, now pursuant to statutory authority under R.C. 2737.01 to 2737.20, is a remedy sought in a civil action contesting the right to possession of personal property. Where the action is for the purpose of regaining possession of the property it is an action in rem, and when damages are sought to assuage wrongful detention the action is in personam. See Jedlicka v. Good Mechanical Auto Co. (1984), 21 Ohio App. 3d 19, 21 OBR 20, 486 N.E. 2d 121.
+Finally, the last sentence in paragraph one of R.C. 1531.20 provides: “* * * nor shall such [forfeiture] proceeding affect a criminal prosecution for the unlawful use or possession of such property.” This clearly indicates the General Assembly’s intent to separate a criminal proceeding against the individual for violation of the wildlife protection laws from an in rem action for seizure and forfeiture of property used in an activity that violates these same laws. The validity of such dual causes of action granted to law enforcement agencies has been upheld on a number of occasions.
+In Calero-Toledo v. Pearson Yacht Leasing Co. (1974), 416 U.S. 663, the United States Supreme Court traced the history and development of in rem forfeiture statutes in a variety of areas, ultimately upholding a Puerto Rican statute (Section 2512[a], Title 24, P.R. Laws Ann.), which was modeled after Section 881(a), Title 21, U.S. Code, allowing forfeiture of conveyances that had been used, and may be used again, in violation of the narcotics laws. Calero-Toledo, supra, at 686-687.
+In United States v. One Assortment of 89 Firearms, supra, the United States Supreme Court examined in rem forfeiture proceedings of firearms under Section 924(d), Title 18, U.S. Code, used in violation of the Gun Control Act of 1968 (Public Law 90-618, 82 Stat. 1224). The court held that not only did Congress intend that such forfeiture proceedings be civil in nature, but also that acquittal of the individual from criminal charges stemming from the same facts and circumstances does not preclude prosecution in forfeiture against the property used in the unlawful venture.
+The Ohio General Assembly, as has Congress, may impose both criminal penalties and civil remedies in respect to the same act or omission. See One Assortment of 89 Firearms, supra, at 359. Under R.C. Chapters 1531 and 1533, the ODNR may file criminal charges against the person and/or proceed in rem for forfeiture of such property used in the unlawful taking of wild animals. It is unnecessary that a defendant be found guilty of criminal charges in order to proceed in forfeiture under R.C. 1531.20. Even were acquittal to result from a criminal proceeding against the individual, said acquittal would merely indicate the existence of a reasonable doubt as to the defendant’s guilt, but does not negate the possibility that a preponderance of the evidence will show that he engaged in the proscribed activity. See One Assortment of 89 Firearms, supra, at 361-362.
+The forfeiture provision is remedial in nature and contemplates abatement of a nuisance. Traditionally, a nuisance abatement proceeding has been governed by the substantive law relating to civil actions. See Lawton v. Steele (1894), 152 U.S. 133. In other words, seizure of a boat precludes continued use of that property to violate the wildlife protection laws, and forfeiture under R.C. 1531.20 represents a substantial deterrent to the reoccurrence of the proscribed activity. See State v. Barker (1983), 8 Ohio St. 3d 39, at 41, 8 OBR 401, at 403, 457 N.E. 2d 312, at 314-315.
+Where a party is charged with a criminal offense, the state has the burden of proving beyond a reasonable doubt every element of the offense. See R.C. 2901.05(A). However, because the forfeiture proceeding under R.C. 1531.20 is in rem, the substantive law of a civil cause of action controls and the state must prove its case by a preponderance of the evidence and not by proof beyond a reasonable doubt. This does not negate the General Assembly’s mandate under R.C. 1531.21 that the trial procedures be conducted pursuant to the Rules of Criminal Procedure. These rules (Crim. R. 1 to 60) merely provide the framework within which the case is to be prepared and presented. Use of the Rules of Criminal Procedure for preparation of the case does not change the substantive nature of the in rem proceeding.
+Although the proper instruction to be given was proof by a preponderance of the evidence, the trial court gave a comprehensive instruction on proof beyond a reasonable doubt replete with definitions of each word used in the phrase, and elements to be proved for “the unlawful taking of wild animals.” We find nothing in the record to suggest that any aspect of the trial proceedings might have prejudiced the defendant and precluded a constitutionally fair trial.
+For the reasons stated above, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Sweeney, Holmes, Douglas and Wright, JJ., concur.
+H. Brown and Miller, JJ., concur separately.
+Edgar L. Miller, J., of the Third Appellate District, sitting for Res-nick, J.
+R.C. 1531.01(00) defines “fishing guide” as: “* * * any person who, for consideration or hire, operates a boat * * * and accompanies, guides, directs, or assists any other person, in order for the other person to engage in fishing.” The code section requires that a license must be obtained whenever service as a fishing guide is performed.
+R.C. 1531.21 provides:
+“The defendant in a preceding [proceeding] for forfeiture or condemnation under an order of the wildlife division or Chapter 1531. or 1533. of the Revised Code, shall be tried under the rules of criminal procedure and according to law.”
+
+## Concurrence (H. Brown, J.,)
+
+H. Brown, J.,
+concurring. The judgment we reach in this case is required by the statutory law and case law which are applicable to the issues presented to us. I wonder, however, if the legislature is aware of the punitive, unfair types of forfeiture that are unleashed by R.C. 1531.20, as it is written.
+Does the legislature really intend that a boat (whether it be worth five dollars or five million dollars) is to be confiscated simply because someone has fished (whether or not the fisherman is the owner) from the boat without a license? The statute makes possible a forfeiture of such a boat even if the owner does not know that the fisherman is unlicensed or that the boat is being used for the purpose of fishing.
+This is comparable to enacting a law which would allow confiscation of an automobile when the driver of the vehicle is arrested for having an expired driver’s license. R.C. 1531.20 is a statute which screams for reexamination.
+Miller, J., concurs in the foregoing concurring opinion.
