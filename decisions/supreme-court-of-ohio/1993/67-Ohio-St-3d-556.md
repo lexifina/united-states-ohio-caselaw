@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "93-1538"
 decided: "1993-09-14"
-citations: ["67 Ohio St. 3d 556", "67 Ohio St. 3d 552"]
+citations: ["67 Ohio St. 3d 556"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
