@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19486"
 decided: "1925-12-15"
-citations: ["4 Ohio Law Abs. 147", "4 Abs. 10", "4 Ohio Law Abs. 10", "4 Ohio Law Abs. 129"]
+citations: ["4 Ohio Law Abs. 147", "4 Abs. 10"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
