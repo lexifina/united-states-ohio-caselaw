@@ -1,0 +1,52 @@
+---
+court: "Supreme Court of Ohio"
+docket: "72-917"
+decided: "1973-06-06"
+citations: ["34 Ohio St. 2d 206"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J. HeRbekt, Celebrezze and W. BROwn, JJ., concur.", "Corrigan and P. Brown, JJ., dissent."]
+parties: ["Gressel Produce Co., Inc., et al., Appellees, v. Kosydar, Tax Commr., Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/34/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705025
+cites_cases: ["143 Ohio St. 455", "149 Ohio St. 120", "157 Ohio St. 407", "2 Ohio St. 2d 34"]
+---
+
+# Gressel Produce Co. v. Kosydar
+
+## Majority (Stebít, J.)
+
+Stebít, J.
+The issue before us is whether the operation performed by appellees constitutes “processing,” as that term is used in R. C. 5739.01(E) (2). We hold that it does not.
+At the outset, it must be noted that at the time of this court’s decision in Northwestern Ohio Poultry Assn. v. Schneider (1965), 2 Ohio St. 2d 34, R. C. Chapter 5739 did not provide a definition of the word “processing” as used in R. C. 5739.01(E)(2). Accordingly, this court upon authority of Kroger Grocery & Baking Co. v. Glander (1948), 149 Ohio St. 120, and France Co. v. Evatt (1944), 143 Ohio St. 455, held that the operation in that case constituted “processing,” within the meaning of R. C. 5739.01, entitling the taxpayer to an exception from taxation for items used or consumed in such operation.
+It is conceded by all parties herein that the operation in Northwestern Poultry, supra, was, for purposes of this appeal, identical to the operation of appellees herein. However, subsequent to the Northwestern decision, the General Assembly enacted R. C. 5739.01 (S), which provides:
+“ ‘Manufacturing’ or ‘processing’ means the transformation or conversion of material or things into a different state or form from that in which they originally existed * * (Emphasis added.) Accordingly, it is this definition which must now be applied in resolving the issue before us.
+It is appellees’ contention that the codification of this definition of “processing” does not constitute a change in the law subsequent to its enactment, since, in effect, it is identical to the definition set forth by this court in Na tional Tube Co. v. Glander (1952), 157 Ohio St. 407, which pronouncement preceded the decision in Northwestern Poultry, supra.
+Paragraph four of the syllabus in National Tube Co. v. Glander provides, as follows:
+“The terms, ‘manufacturing’ and ‘processing,’ as used in Sections 5546-1 and 5546-25, G-eneral Code [R. C. 5739.01 and 5741.01], imply essentially a transformation or conversion of materials or things into a different state or form from that in which they originally existed — the actual operation incident to changing them into marketable products. ’ ’
+The emphasis, both in that paragraph of the syllabus and in R. C. 5739.01(S), focuses upon whether there has been a “transformation or conversion” into a different “state or form.” The additional language of that quoted paragraph, pertaining to changing the items into “marketable products,” did not serve to broaden the definition of “processing.” It merely specified that the change in “state or form” must occur during, and not before or after, the actual operation being performed. Accordingly, we agree with appellees that no change in the definition of “processing,” as used in R. C. 5739.01(E) (2), has occurred since Northwestern Poultry, supra.
+However, Northwestern Poultry did not rely upon National Tube, supra, for its holding, and although we must presume that the court did consider the syllabus set forth therein, we must also examine the case of France Co. v. Evatt, supra (143 Ohio St. 455). The issue therein was whether “processing” was taking place during the handling of stone, after it had been quarried, removed from the quarry, crushed, and screened. The specific operation in question involved the removal of the screened product to appellee’s yard and the reassembling of the product in form and proportions as required by purchasers, preparatory to and including loading for shipment.
+The court, in a four-to-three decision, held that that specific factual situation indicated that during the period of operation in question the products were subjected to “draining, cleaning, blending and reassembling * * * to comply with the required specifications of the purchasing trade before they are available and ready for market and sale.” The majority concluded that the question involved was one of mixed law and fact, and that therefore they would not disturb the decision of the Board of Tax Appeals.
+The dissenting opinion by Judge Edward S. Mathias emphasized the existing dispute as to whether “processing” should be limited solely to a change in state or form, or whether it should include any operation which enhances the value of the property so as to produce multiplied tax revenues. In his dissent, at page 460, Judge Mathias concluded that if there had been any processing it would have been accomplished by the stone-crushing machinery, which process was not involved in the consideration therein of tax exemption.
+Justice Zimmerman, who joined in the dissent in France Co., supra, later authored the opinion in National Tube Co., supra (157 Ohio St. 407), in which this court defined the term “processing.” In view of the dissent in France Co., supra, it must be concluded that the language used in National Tube Co., supra, was not intended to imply that an operation which merely enhanced the value of the product without producing a change in state or form constituted processing. Indeed, that case, like France Co., involved the movement of minerals, and Justice Zimmerman concluded, at page 410, that “no apparent change takes place in the original materials, and by the described operations, no actual manufacturing or processing of the materials into finished form ready for sale begins.” (Emphasis added.) In that case, there was no factual dispute as to whether processing had yet begun, and the emphasis was clearly placed upon whether a change in state or form had occurred.
+From the above analysis, we conclude that this court’s decision in Northwestern Ohio Poultry Assn. v. Schneider, supra (2 Ohio St. 2d 34), must be overruled. Although-we find no real distinction between the language of paragraph four of the syllabus in National Tube, supra, and that used in R. C. 5739.01 (S), we do find it necessary to make it clear that mere enhancement of value of a product, absent a change in “state or form” from that in which it originally existed, does not constitute “processing” for purposes of R. C. 5739.01(E)(2).
+The operation described herein evidences no change in the state or form of the eggs, regardless of the fact that they may have been enhanced in value. Those eggs which were unfit for consumption when received from the producer remained unfit for consumption; and those eggs which were fit for consumption when delivered to the retailer were fit for consumption at the time they were received.
+There having been no change in the state or form of the eggs brought about by the operation of appellees, such operation does not constitute “processing” for purposes of R. C. 5739.01(E) (2). Accordingly, we find that the decision of the Board of Tax Appeals was unreasonable and unlawful, and therefore must be reversed.
+Decision reversed.
+O’Neill, C. J. HeRbekt, Celebrezze and W. BROwn, JJ., concur.
+Corrigan and P. Brown, JJ., dissent.
+R. C. 5739.01(E)(2):
+“To incorporate the thing transferred as a material or a part, into tangible personal property to be produced for sale by manufacturing, assembling, processing, or refining * *
+The second case relied upon in Northwestern Poultry, supra, was Kroger Grocery & Baking Co. v. Glander, supra (149 Ohio St. 120). That case did not involve the issue of “processing.” Rather, it involved the issue of whether wrapping and packing materials used by Kroger in wrapping, packing or crating tangible personal property for conservation, etc., were subject to a sales or use tax exception. Accordingly, that decision oifers no help in determining whether the operation herein constitutes processing. It merely stands for the proposition that, having decided that the operation in Northwestern Poultry, supra, constituted “processing,” the taxpayer was entitled to an exception from taxation for the purchase and use of the egg cases, cardboard trays or filler-flats, etc., which were purchased and furnished to the poultry farmers free of charge.
+Jus tice Zimmerman acknowledged that there was a difference in this case and the factual situation in France Co., supra, but he in no way retreated from the dissent thereto.
+
+## Dissent (CorRigan, J.,)
+
+CorRigan, J.,
+dissenting. It is my conclusion that the decision of the Board of Tax Appeals is reasonable and lawful and should be affirmed. The question they decided seems to be free of complication, i. e.: Were the taxpayers engaged in processing, as that term is used in R. C. 5739.-01(E)(2) and in R. C. 5739.01(S), in their business of cleaning, grading and packaging eggs for sale to retailers f
+R. C. 5739.01 (S) reads:
+“ ‘Manufacturing’ or ‘processing’ means the transformation or conversion of material or things into a different state or form from that in which they originally existed and * * # includes the adjuncts used during and in, and necessary to carry on and continue, production to complete a product at the same location after such transforming or converting has commenced.”
+The word “state,” in one common sense, means “a mode or condition of being.” Webster’s Third New International Dictionary. The taxpayers buy the eggs at farms and transport them to their plant at Delphos, where the eggs are washed in an aqueous solution of soap, water softener, salt, chlorine and defoamer. A coating of mineral oil is then applied to each egg to replace a natural oil removed in the washing process. This process, therefore, transforms the dirty, unsanitary eggs into a state of cleanliness, to be maintained by prompt packaging. Such a method is explicitly “processing” under R. 0. 5739.01(S). The decision of the Board of Tax Appeals should be affirmed.
+P. Beown, J., concurs in the foregoing dissenting opinion.
