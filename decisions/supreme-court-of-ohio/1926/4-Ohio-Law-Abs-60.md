@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19530"
 decided: "1926-01-04"
-citations: ["4 Ohio Law Abs. 60", "4 Abs. 40", "4 Ohio Law Abs. 394", "4 Abs. 40; OA. 4 Abs. 108; OS. Pend. 4 Abs.60", "4 Ohio Law Abs. 40"]
+citations: ["4 Ohio Law Abs. 60", "4 Abs. 40"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
