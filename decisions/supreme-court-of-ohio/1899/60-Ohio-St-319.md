@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1899-05-09"
+citations: ["60 Ohio St. 319"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Malcom Jennings."]
+source_url: "https://static.case.law/ohio-st/60/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 944907
+cites_cases: ["113 U. S., 713", "12 Am. Dec., 487", "12 Iowa, 208", "123 U. S., 443", "15 Vt., 115", "17 Cin. L. Bull., 274", "24 N. Y., 74", "3 Cin. L. Bull., 739", "3 Ohio, 411", "37 Kan., 666", "38 Kan., 408", "39 Kan., 291", "50 Ohio St., 618", "67 Mo., 637", "7 Am. Dec., 673", "71 Cal., 238"]
+---
+
+# Ex parte Jennings
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+Authority to punish, as for a contempt, a witness who refuses to answer “when lawfully ordered” is conferred upon notaries public by sections 5252 and 5254 of the Revised Statutes. DeCamp v. Archibald, 50 Ohio St., 618. The denial here is not of the power of the officer, but of the lawfulness of the occasion for its exercise. The taking of testimony by depositions is authorized with much detail in the provisions of our statutes relating to civil procedure. The general provision is that “the testimony of witnesses may be taken” in this mpde. The purpose is to present to the court upon the trial of issues of fact the testimony of witnesses unavoidably absent as though they were present, and the power to punish those who refuse to appear or to testify is conferred to effectuate that purpose. The language of the section conferring authority upon the officer to punish a witness for refusing to answer “when lawfully ordered” implies that punishment cannot be imposed for every refusal.
+It is familiar that an objection to the competency of the evidence to be elicited, when interposed by a party to the action in which the deposition is taken, cannot be either sustained or overruled by the officer. In such case the question of competency is for the court. But it seems quite consistent with the purpose for which depositions are taken that a witness may refuse to make disclosures which would operate to his personal prejudice without aiding the court in determining the rights of the parties, by reflecting either upon the issues in the case or upon the credibility of the witness. Accordingly the settled law upon the subject is as stated in Church on Habeas Corpus, section 319: “The law has not invested such officers (notaries public) with arbitrary and omnipotent power to compel a witness to answer all questions however incompetent, irrelevant, immaterial or inadmissible. A refusal to answer such questions is not necessarily a contempt. To have power to commit for contempt, the notary must exercise his functions substantially in the manner and under the circumstances prescribed and contemplated by law. It has, therefore, been held that a witness will be discharged on habeas corpus where he has been committed for contempt by a notary public for failing or refusing to produce papers and testimony that are incompetent and inadmissible. ” Proffatt on Notaries, section 31; In re Beardsley, 37 Kas., 666; Ex parte Krieger, 7 Mo. App., p. 637.
+The conclusions stated must be sound, unless the officer, taking a deposition is released from limitations which the law imposes upon the authority of the judge before whom it is to be read, since a witness examined in court is not guilty of contempt in refusing to answer an incompetent question. Ex parte Zeehandelaar, 71 Cal., 238; People ex rel. v. Kelly, 24 N. Y., 74. In DeCamp v. Archibald, so confidently relied upon to justify this imprisonment, it was clearly pointed out in the opinion that the question which the witness refused to answer was competent. Indeed it does not seem to have been finally determined in any case that the personal liberty of the citizen is of so little importance that it should yield to a desire to gather food for idle gossip.
+Are the facts which the witness refused to furnish relevant to the issues in the ease in which the deposition is to be read? Is there reason to suppose that our minds so operate that, in determining whether the pipe line company has entered into an unlawful compact with other corporations to extort unreasonable prices for the products of petroleum, we can be aided to a conclusion by knowing whether this witness has entered into more or fewer contracts of the character indicated, or by having- the names of the papers which have entered into such contract relations with him? If we should attend to all that might be said in criticism of journalism which publishes advertising matter without distinguishing marks; or of the reprehensible practice of creating public sentiment, by either party, for its supposed influence in the judicial determination of causes, we should be no nearer to a conclusion upon the issue of fact. That can be reached only by a consideration of evidence tending to establish or refute the allegations of the state.
+With respect to the suggestion of the attorney general, that the evidence would tend to show that there has been a contempt of this court, it seems to be sufficient to say that the court should, ana will, take the responsibility of instituting such inquiries as it may deem necessary to the preser-' vation of its dignity and the orderly character of its proceedings. There can be no issue of that character until it is ordered by the court.
+We do not suppose that any interest which the witness may have in concealing the facts which the question propounded was designed to elicit would excuse him from answering, if the facts were relevant to the issues in the case on trial; nor that the sincerity of his belief that the facts are irrelevant would shield him from imprisonment if the court should be of the opinion that they are relevant. If he refuses to answer upon the ground that the answer is incompetent he does so at his own peril. It seems, however, entirely clear that in this case the opinion of the witness as to the irrelevancy of the question is correct.
+Petitioner discharged.
+
+## Dissent (Ml NS hall, J.,)
+
+Ml NS hall, J.,
+dissents from the proposition of the syllabus, but not from the discharge of the relator.
