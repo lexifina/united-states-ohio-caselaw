@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Ohio"
+docket: "87-2165"
+decided: "1988-12-14"
+citations: ["40 Ohio St. 3d 47"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Holmes, Douglas, Wright and H. Brown, JJ., concur.", "Locher, J., concurs in judgment only."]
+parties: ["The State, ex rel. Scott, Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/40/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1415472
+cites_cases: ["1 O.O. 2d 190", "139 N. E. 2d 41", "166 Ohio St. 47", "23 O. O. 3d 518", "29 OBR 162", "29 Ohio App. 3d 145", "31 OBR 70", "31 Ohio St. 3d 18", "34 Ohio St. 3d 42", "38 O.O. 356", "40 Ohio St. 3d 44", "433 N.E. 2d 586", "504 N.E. 2d 451", "508 N.E. 2d 936", "517 N.E. 2d 533", "531 N.E. 2d 678", "69 Ohio St. 2d 630", "81 N.E. 2d 615", "83 Ohio App. 247"]
+---
+
+# State ex rel. Scott v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The determination of disputed factual situations is within the final jurisdiction of the Industrial Commission. State, ex rel. Allied Wheel Products, Inc., v. Indus. Comm. (1956), 166 Ohio St. 47, 1 O.O. 2d 190, 139 N. E. 2d 41. So long as “some evidence” in the record supports the commission’s determination, there has been no abuse of discretion and mandamus will not lie. State, ex rel. Burley, v. Coil Packing, Inc. (1987), 31 Ohio St. 3d 18, 31 OBR 70, 508 N.E. 2d 936. The question before us is whether there is some evidence supporting the commission’s determination that appellant voluntarily retired. We find that there is.
+State, ex rel. Ramirez, v. Indus. Comm. (1982), 69 Ohio St. 2d 630, 23 O. O. 3d 518, 433 N.E. 2d 586, held that temporary total disability compensation is payable when a claimant’s industrial injury results in a temporary condition that prevents his returning to his former position of employment. Because a claimant who voluntarily retires is prevented, not by injury, but by his own action, from returning to work, voluntary retirement may preclude temporary total disability-compensation. State, ex rel. Jones & Laughlin Steel Corp., v. Indus. Comm. (1985), 29 Ohio App. 3d 145, 29 OBR 162, 504 N.E. 2d 451; State, ex rel. Ashcraft, v. Indus. Comm. (1987), 34 Ohio St. 3d 42, 517 N.E. 2d 533. We elaborated on this principle in State, ex rel. Rockwell Internatl., v. Indus. Comm. (1988), 40 Ohio St. 3d 44, 531 N.E. 2d 678, holding that an injury-induced retirement was not “voluntary” so as to preclude eligibility for temporary total disability compensation.
+In affirming the commission’s findings herein, the appellate court emphasized three factors: (1) an apparent absence of medical treatment for appellant for eighteen months, (2) appellant’s receipt of unemployment compensation benefits from June 23, 1984 through March 23, 1985, and, (3) appellant’s receipt of Social Security retirement benefits. The court stated that “taken together, * * * these factors collectively constituted some evidence supporting a finding by the Industrial Commission of a voluntary retirement by relator.” We agree.
+The period following appellant’s initial September 19, 1983 return to work can be broken into three segments: September 19,1983 to June 22, 1984; June 23,1984 to March 23,1985; and April 2,1985 to the present. As to the first, appellant had no work-prohibitive disability. The record contains no conclusive evidence of medical treatment, and appellant apparently functioned at his old job without problems.
+From June 23, 1984 through March 23, 1985, appellant drew unemployment compensation benefits. Per R.C. 4141.29(A)(4)(a), such receipt is predicated, in part, on an employee’s being “able to work and available for suitable work and * * * actively seeking suitable work. * * *” Moreover, an employee is not entitled to unemployment compensation benefits unless he or she is capable of employment in his or her usual trade or occupation or any other employment for which he or she is reasonably fitted. Craig v. Bureau of Unemp. Comp. (1948), 83 Ohio App. 247, 38 O.O. 356, 81 N.E. 2d 615. Apparently, appellant also continued without medical treatment during this time. Thus, it is reasonable to infer that he was not incapable of employment during this period.
+Finally, according to his affidavit, appellant began drawing Social Security retirement benefits at least as early as April 2, 1985. Appellant avers that he sought Social Security benefits “while * * * [his] workers’ compensation claim for benefits was pending” in order to avoid financial hardship. The record, however, reveals that at the time appellant began receiving Social Security retirement benefits, there was no pending request for temporary total disability compensation. Appellant did not apply for temporary total disability compensation until October 23, 1985, almost seven months after Social Security benefits commenced.
+The evidence indicates that at least through March 23, 1985, appellant, by accepting unemployment compensation, was attesting to an ability to work. He has not alleged any intervening circumstance, in the nine days between the expiration of unemployment compensation and his receipt of Social Security retirement benefits, that would have suddenly rendered him incapable of employment. Similarly, since appellant began receiving Social Security benefits at least as early as April 2, 1985, it is reasonable to infer that he applied for those benefits during an earlier period in which he either was working or was attesting to eligibility for unemployment compensation.
+Contrary to appellant’s arguments, the above factors are significant. Taken together, they can be interpreted to negate appellant’s contention that his industrial injury forced him to seek retirement benefits. With the disability aspect removed, the logical conclusion is that appellant did in fact voluntarily retire. Thus, there was “some evidence” in support of the commission’s determination.
+Appellant’s attempt to equate State, ex rel. Lynn, v. Indus. Comm. (July 15, 1986), Franklin App. No. 85AP-351, unreported, with the present case is not persuasive. In addition to the disparity and severity of injury — four percent permanent partiál impairment in the present case as opposed to ninety percent in Lynn — the case at bar contains several extraneous variables not mentioned in the Lynn decision, i.e., significant lack of medical treatment, the receipt of unemployment compensation and a successful initial return - to work. The court’s failure in Lynn to find a voluntary retirement is not significant here.
+Accordingly, the judgment of the court of appeals denying the writ is affirmed.
+Judgment affirmed.
+Moyer, C.J., Sweeney, Holmes, Douglas, Wright and H. Brown, JJ., concur.
+Locher, J., concurs in judgment only.
