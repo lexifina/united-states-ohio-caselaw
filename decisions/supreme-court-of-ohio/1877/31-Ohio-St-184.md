@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1877-12"
+citations: ["31 Ohio St. 184"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Calvin C. Gibson v. The City of Zanesville."]
+source_url: "https://static.case.law/ohio-st/31/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 899828
+---
+
+# Gibson v. City of Zanesville
+
+## Majority (Gilmore, J.)
+
+Gilmore, J.
+If the city of Zanesville is liable to its mayor for the costs sought to be recovered in this case, it must either be upon the ground (1) that there is some ordinance or law requiring the city to pay the same, or (2) that- the city has expressly or impliedly contracted or agreed to pay them out of its general revenues.
+As to the first: From a copy of an ordinance made part of the record by the bill of exceptions, it appears that the yearly salary of the mayor of the city is fixed at one thousand dollars. It is not shown or claimed that there is any other ordinance of the city providing that he is to be paid by the city any additional compensation or fees for any official duty or service performed by him; nor are we aware of the existence of any law requiring the city to pay him any compensation or fees, in addition to what may be fixed by ordinance.
+There is, therefore, no ordinance or law requiring the city to pay the plaintiff the costs for which the action below was brought.
+As to the second: It is not claimed by counsel for plaintiff in error that there is an express agreement existing between the parties, whereby the city hound itself to pay the demand of the plaintiff; but, in effect, the claim is that the city collected and appropriated to its own use costs belonging to the plaintiff, from which the law will imply a promise to repay the amount so collected to the plaintiff, on demand.
+It may be conceded that as between the mayor and the parties respectively prosecuted for violating the city ordinances, the mayor legally taxed the cost, including those taxed in ■ his own favor against them; and that if they had paid the costs, or the same had been made upon execution against them, the mayor could rightfully have retained his own costs. But from this it will not follow that the city is impliedly liable to the mayor for these costs because the parties fined were sentenced to hard labor in the city prison, until at a stipulated rate per diem the labor would equal the amount of the fine and costs in the cases respectively. Nor will such liability be implied from the further fact that the convicts in working out their sentences, broke stones which were taken and used by the city in the improvement of its streets. The prosecutions, sentences and labor were all had, imposed and performed in pursuance of law. None of the elements of contract were present in the proceedings—no parties—no consideration—no subject-matter of a contract. The sentence to the city prison at hard labor for violations of its ordinances, is a mode of punishment, and its continuance until at the stipulated rate per diem, it equals the amount of the fine and costs, is simply a mode of measuring or fixing the extent of the punishment, which it was within the power of the legislature of the state to propose, and the city council in its legislative discretion to accept and provide for ; and it was clearly the duty of the city council in accepting the proposition, to provide, as was done in this case, for making such labor either directly or indirectly beneficial to the city. But there being no obligation upon the city imposed by law, or created by contract, express or implied, to pay any portion of the value of such labor in liquidation of the costs of the mayor as claimed in this case, it follows that the city is not liable in this action, on the ground that it expressly or impliedly agreed to pay the mayor his costs in such cases.
+But in addition, the law has provided how the receipts for such labor shall be applied.
+The record shows that an ordinance was passed in 1874, by the city council, “ authorizing and establishing a workhouse ; ” and it is admitted on the record “ that within the limits of said city prison the defendant had provided a place where persons committed to said city pi’ison could be worked at breaking stone,” etc.; from which we assume without its being otherwise shown by the record, that the workhouse must have been established and conducted in pursuance of the provisions of chapter XX. of the municipal code, which was the only law then in force authorizing the establishment of workhouses. Section 280, which is a part of this chapter, provides as follows : The expense of maintaining and administering the affairs of said workhouse, over and above all receipts for the labor of persons confined therein, shall be audited and paid, from time to time, by the council of the corporation, and a tax for said expenses shall be levied and collected, as a part of the ordinary expenses of the corporation.” This is the only provision that the law makes for the disposition of the proceeds of such labor. It is, therefore, exclusive.
+The proceeds of all workhouse labor must be deducted from the expense of maintaining and administering it, and it is only the balance of the expense, after such deduction, that can be collected by taxation. The law makes no exception as to the costs due to the mayor in such cases, and the courts can not legislate.
+There is no ground upon which the plaintiff was entitled to recover in the court of common pleas, and the judgment in his favor in that court, was properly reversed in the district court.
+Motion overruled.
