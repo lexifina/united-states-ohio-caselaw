@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "83-1315"
+decided: "1984-06-06"
+citations: ["11 Ohio St. 3d 81"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, Locher, Holmes, C. Brown and Hoffman, JJ., concur.", "Hoffman, J., of the Fifth Appellate District, sitting for J.P. Celebrezze, J."]
+parties: ["Wolfe, Appellant, v. City of Avon, Appellee, et al."]
+source_url: "https://static.case.law/ohio-st-3d/11/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815671
+cites_cases: ["10 Ohio St. 2d 48", "136 Ohio St. 514", "140 Ohio St. 229", "17 O.O. 155", "18 Ohio St. 2d 149", "23 O.O. 434", "38 O.O.2d 94", "39 O.O.2d 42", "47 O.O.2d 313", "9 Ohio St. 2d 31"]
+---
+
+# Wolfe v. City of Avon
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The facts would support the conclusion that Wolfe had not properly filed his objections to the proposed assessments pursuant to R.C. 727.15, so therefore had waived this avenue of challenge to such assessments. See Wagner v. Messner (1940), 136 Ohio St. 514 [17 O.O. 155]. However, this untimeliness does not preclude a property owner from questioning the assessment on constitutional grounds. Domito v. Maumee (1942), 140 Ohio St. 229 [23 O.O. 434], paragraph two of the syllabus. This is the stance of the controversy before us. Appellant argues that when a special assessment is substantially equal to or greater than the value of the property after the improvement, the special assessment is unconstitutional under Section 19, Article I of the Ohio Constitution as a taking of private property for a public use without compensation.
+During proceedings concerning the motion for summary judgment, the city, in support of the validity of the assessment, supplied evidence showing that all statutory requisites relative to the assessing procedure had been followed. It should be noted that the procedural aspects of these assessments for this water main had been previously litigated in the case of State, ex rel. Schmetzer et al., v. City of Avon (June 29, 1978), Lorain C. P. No. 82399, unreported. There, the court found that the procedures for the assessment had been properly followed. Additionally, legislative determinations for such improvements and the procedures for such assessments may be presumed to be valid until a showing is made to the contrary. See Schiff v. Columbus (1967), 9 Ohio St. 2d 31 [38 O.O.2d 94].
+Relative to the issue of the benefits that accrued to Wolfe’s property by such water line improvement, the city presented evidence that the water main would supply the property with increased water pressure for fire protection and other needs. In order to rebut this evidence of enhanced value, appellant stated that he had a well which produced some one hundred thousand gallons of water per day aided by a twelve horsepower pump for all purposes of the greenhouse, truck farm and residence, and that such well had been used for this purpose for about forty years. Further, Wolfe testified to the effect that the city apparently felt that his well was quite adequate for fire protection purposes in that it had placed a firehose connection at his well. Appellant argued that he did not need any additional water supply, and that the construction of the water main did not benefit his property. He also stated there were a number of ponds on his acreage from which he would use water at certain times of the year because of the lower temperature of the pond water.
+Additionally, Wolfe submitted an affidavit of a consulting engineer, Robert E. Falardeau, who observed the well and its pumping facility, and submitted a report based on his observations. The report which was made part of the record stated that the pump was capable of producing one hundred gallons of water per minute and, therefore, would be capable of producing the one hundred thousand gallons per day as used for irrigation purposes on the land. It also stated that the well had never gone dry and there existed supplemental pond water which had been used for irrigation purposes over the years. Falardeau concluded his report by stating that, “[b]ased upon the foregoing, there is no reason to suspect that there will not be sufficient water available for both domestic and farm irrigation usage from these on-site sources for the foreseeable future.”
+Upon this evidence the trial court concluded, as a matter of law, that the appellee-city had properly discharged its duty as to the legal requirements for the special assessment. It also ruled that appellee had made such assessment based upon the benefit theory and that the city had demonstrated such benefits to appellant’s land. It further held that Wolfe had not satisfied his burden of proof that his property was not specifically benefited in an amount equal to the assessment.
+The standard to determine whether an assessment is constitutional was initially set forth in paragraph one of the syllabus of Domito, supra, which holds:
+“A purported assessment for a public improvement levied against private property, which is substantially equal to or greater than the value of the property after the improvement is made, constitutes the taking of property for public use without compensation, in contravention of Section 19, Article I of the Constitution of Ohio, and the owner may enjoin its collection in a court of equity upon the ground of invalidity.”
+The Domito test was subsequently refined in Schiff, supra. Paragraph five of the syllabus therein provides:
+“In order to be entitled to an injunction against any part of an assessment for the cost of a public improvement against a lot, the owner thereof has the burden of proving that the lot was not enhanced in value as a result of the improvement in an amount equal to the amount of the assessment.”
+This court has approved the refined test in Glass v. Dryden (1969), 18 Ohio St. 2d 149 [47 O.O.2d 313], and Gates Co. v. Housing Appeals Board (1967), 10 Ohio St. 2d 48 [39 O.O.2d 42].
+Under all such rules, the landowner must offer sufficient proof of the value of his property before and after the alleged improvement. If the evidence adduced does not sustain the property owner’s claim of no enhancement of value, then he fails in his bid for an injunction and the city may proceed to collect the assessment.
+Perhaps upon a hearing on the merits of this matter the appellant may not be able to prove that his property has not been enhanced in value through the installation of this water main; however, at the summary judgment stage of the proceeding he has at least raised some reasonable question as to such enhancement. The evidence submitted by the appellant must be given weight on the issue of enhanced value, although presumptions of reasonableness and enhancement to the property are in favor of the city. Viewing all such evidence in favor of the party against whom this motion had been directed brings us to the conclusion that the trial court should not have granted a summary judgment in this matter.
+Accordingly, the judgment of the court of appeals is reversed, and this cause is remanded to the court of common pleas for further proceedings in accordance herewith.
+Judgment reversed and cause remanded.
+Celebrezze, C.J., W. Brown, Sweeney, Locher, Holmes, C. Brown and Hoffman, JJ., concur.
+Hoffman, J., of the Fifth Appellate District, sitting for J.P. Celebrezze, J.
