@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1884-01"
+citations: ["41 Ohio St. 166"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Despatch Line v. Glenny & Co."]
+source_url: "https://static.case.law/ohio-st/41/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 919667
+cites_cases: ["10 Cush., 570", "16 Serg. & R., 264", "2 Ohio St., 131", "2 W. L. M., 388", "45 Cal., 515", "5 Cranch, 335", "8 Watts & Serg., 127"]
+---
+
+# Despatch Line v. Glenny & Co.
+
+## Majority (Granger, C. J.)
+
+Granger, C. J.
+In support of the ruling of the trial court it is urged that the answer is like the plea “ not guilty” in an action against a carrier for the negligent loss of goods delivered to him to be carried for hire, and that under it proof that the owner of the goods misrepresented them is inadmissible. But the reason of the holding referred to is clearly stated by Tindal, C. J., in Webb v. Page, 6 Scott N. R., 955, and same case in 6 Manning and Granger, 200. The words “ not guilty ” applied to the wrongful acts charged upon the defendant by the declaration, and only operated “as a denial of the loss and damage, and not of the receipt of the goods by the defendant as a carrier for hire, or of the purpose for which they were received.” This was under a rule. See Pleadings in Particular Actions, IV. Of course, then, no evidence to establish the contract, or the delivery, was required of the plaintiffs, and the defendant could not dispute those facts. But the answer here expressly denies the delivery, the receipt of, and the agreement to transport the goods described in the petition.
+Angelí on Carriers, 5th ed., sec. 265, says, the carrier “ ought either to plead the misrepresentation specially, or traverse the acceptance of the goods for the purpose of being carried.”
+The defense elected to make such traverse. Glenny & Co., although holding the bill of lading, which was the real contract, refused to exhibit it to the carrier when they demanded payment of the damage, and framed their petition upon a contract made by delivery and acceptance of goods. If the claimants, with the written contract in their hands, failed to declare upon it, they ought not to complain if the defendant declines the attempt to set out a contract of which he has been denied an inspection, and is content with a denial of the contract alleged in the petition.
+Glenny & Co. understood that they must prove the contract and delivery, and began to do so. The witness who shipped the case marked it “rough glass,” although he knew it contained plate glass; did not inform the carrier that it contained plate glass ; took the carrier’s blank receipt with its plain notification that “ the actual contents ” must' be stated “ on this receipt; ” filled in the words “ one case rough glass,” and obtained the assent of the carrier to such receipt.
+Said Baron Parke in Walker v. Jackson, 6 Mees. & Wels., 169: “ And I now take it to be perfectly well understood, according to the majority of opinions upon the subject, that if anything is delivered to a person to be carried * * it is the duty of the person who receives it to ask questions. If they are answered improperly, so as to deceive him, then there is no contract between the parties.”
+The printed notice in the receipt asked, “ What are the actual contents of this package ? ” Haughey’s handwriting on the receipt and his inark on the case answered, “ Rough glass.” That this materially deceived the carrier is made sure by the same deposition.
+The case was received “ subject to the conditions contained in the bills of lading of the Great Western Despatch.” Under those conditions the carrier’s pay for transporting plate glass would be larger than for rough glass; such a case, loaded in box cars, would be at “owner’s risk of breakage ” unless he could prove actual negligence by the carrier or its employees. The' carrier had a right to know the nature of the goods in order to determine the amount of care required to defeat any charge of negligence.
+The trial court permitted the witness to relate so much of what was said and done in the attempt to deliver as tended to support the petition, and- refused to allow the jury to hear the remainder of his history of that delivery. To complete a contract, or a delivery, something must be done by both sides. One party alone cannot complete either. If a shipper secretly places a package in a freight car and it is lost or destroyed, he cannot, on those facts alone, establish a contract liability on the part of the carrier. If he hands to a freight agent a box marked “ fifty pounds sugar,” and takes a bill of lading, or receipt, so describing the package, can he hold the carrier responsible on contract for diamonds concealed in the sugar, in case of loss ? It seems clear to us that at the trial below the defense had full right to show all that was said and done material to the questions, “Was there a delivery of plate glass?” — “Was plate glass received by the carrier?”— “ Did he undertake to transport plate glass ? ” Upon the state of facts shown by Haughey’s deposition these questions ought to have been answered in the negative. Although plate glass was actually in the carrier’s hands, it was there without his knowledge or consent. Hence the defendant did not “ receive ” it. Taking the evidence admitted and excluded together, it proved that no such contract as the one sued on was made by the carrier.
+We think the plaintiffs were not bound to read the whole of the deposition. Upon their declining so to do, it became the right of the defense to read all of it that was competent evidence, under the pleadings, in the usual order of procedure m a trial.
+It is unnecessary to say anything upon the charge to the jury, or upon 'the question, “Was the refusal of leave to amend the answer an abuse of judicial discretion?”
+Judgments below reversed, and cause remanded for a new trial.
