@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19320"
 decided: "1925-08-13"
-citations: ["3 Ohio Law Abs. 647", "3 Abs. 514", "4 Ohio Law Abs. 129", "OS. Pend. 3 Abs. 647", "OA. 3 Abs. 746"]
+citations: ["3 Ohio Law Abs. 647", "3 Abs. 514"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
