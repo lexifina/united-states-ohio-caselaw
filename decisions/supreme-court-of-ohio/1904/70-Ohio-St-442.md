@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+docket: "8060"
+decided: "1904-03-22"
+citations: ["70 Ohio St. 442"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spear, C. J., Davis, Shauck, Price, Crew and Summers, JJ., concur."]
+parties: ["The State of Ohio v. Sicking."]
+source_url: "https://static.case.law/ohio-st/70/cases/0442-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 963420
+cites_cases: ["67 Ohio St., 51", "69 Ohio St., 211"]
+---
+
+# State v. Sicking
+
+## Majority
+
+Exceptions sustained on . authority of The State v. Ehinger, 67 Ohio St., 51, and The State v. Arata, 69 Ohio St., 211. The sum of $25 is allowed as a fee to Edward M. Ballard, Esq., appointed to argue against the exceptions, to be paid from the treasury of Hamilton county.
+Spear, C. J., Davis, Shauck, Price, Crew and Summers, JJ., concur.
