@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "3925"
+decided: "1896-03-24"
+citations: ["54 Ohio St. 649"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Davey v. Miller, Admr."]
+source_url: "https://static.case.law/ohio-st/54/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 50935
+---
+
+# Davey v. Miller
+
+## Majority
+
+Judgment of the circuit court reversed and that of the common pleas affirmed.
