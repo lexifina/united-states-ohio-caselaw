@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "18786"
 decided: "1925-06-02"
-citations: ["113 Ohio St. 21", "3 Ohio Law Abs. 360"]
+citations: ["113 Ohio St. 21"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
