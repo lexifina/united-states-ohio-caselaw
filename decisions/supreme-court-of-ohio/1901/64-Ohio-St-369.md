@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1901-03-26"
+citations: ["64 Ohio St. 369"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Minshall, C. J., Williams, Davis and Shauck, JJ., concur."]
+parties: ["Law v. Law."]
+source_url: "https://static.case.law/ohio-st/64/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 952845
+cites_cases: ["1 Ohio St., 268", "1 Phil. 201", "10 Ga., 477", "10 Ohio St., 316", "101 U. S., 289", "104 Cal., 47", "104 N. Y., 643", "104 U. S., 767", "107 U. S., 3", "108 Pa. St., 245", "11 R., 1", "116 N. Y., 635", "118 Cal., 18", "12 Ohio St., 169", "125 Ill., 608", "13 Ohio St., 574", "14 N. Y., 288", "14 R. I., 216", "15 Ohio St., 427", "16 Ohio St., 163", "166 U. S., 263", "17 Ohio St., 563", "173 U. S., 636", "18 Ill., 39", "18 Ohio, 146", "19 Ohio St., 502", "2 B. Mon., 258", "2 Ohio St., 207", "2 Watts, 474", "20 Kan., 666", "21 Nev., 172", "22 Wis., 399", "23 Minn., 214", "24 N. J. Eq., 444", "25 Ohio St., 255", "25 Ohio St., 71", "27 Mo. App., 596", "28 Ohio St., 596", "3 Add., 276", "3 Wall., 687", "32 Iowa, 20", "33 Kan., 582", "34 W. Va., 524", "35 Ohio St., 107", "36 B., 322", "36 Ohio St., 590", "37 Ohio St., 10", "38 N. H., 188", "38 Neb., 571", "38 Ohio St., 370", "38 Ohio St., 558", "39 Ohio St., 54", "4 N. Y., 38", "41 Kan., 154", "42 Ohio St., 474", "43 Ohio St., 220", "43 Ohio St., 499", "44 Ohio St., 1", "44 Ohio St., 449", "44 Ohio St., 497", "45 Ala., 267", "45 Ohio St., 452", "46 Ill., 181", "47 Ill., 290", "47 Ohio St., 1", "49 Ohio St., 374", "5 Ohio St., 307", "50 Ohio St., 330", "50 Ohio St., 476", "51 Ohio St., 1", "52 Md., 553", "52 Ohio St., 229", "53 Ark., 514", "53 Ohio St., 12", "53 Ohio St., 361", "53 Ohio St., 621", "54 Ala., 354", "55 Ohio St., 323", "55 Ohio St., 478", "56 Ohio St., 675", "57 Ohio St., 101", "59 N. Y., 212", "59 N. Y., 215", "6 Baxter, 300", "6 Ired., 293", "60 Ill., 241", "60 Ohio St., 388", "62 Ohio St., 90", "66 Ill. App., 484", "71 Wis., 317", "73 Ala., 411", "74 Mo., 26", "77 Me., 373", "78 Va., 234", "84 Ind., 420", "84 Iowa, 272", "9 Ohio, 189", "96 N. Y., 456", "99 Wis., 395"]
+---
+
+# Law v. Law
+
+## Majority (Bx the Court :)
+
+Bx the Court :
+1. The view presented by counsel for the plaintiff in error is that the terms of the original decree, not being affected by fraud or mistake, were conclusive upon the subject of alimony and not subject to modification for any reason. Since no question was reserved by the decree for future consideration, that view receives strong support from Petersine v. Thomas, 28 Ohio St., 596, and from the general course of decisions upon the subject. Authority* for the subsequent modification of the decree is, however, said to be found in the later case of Olney v. Watts, 43 Ohio St., 499. In that case there had been a divorce because of the wife’s aggression, and the holding was that the decree as to alimony, so-called, might be modified upon the petition subsequently filed by the husband for that purpose. If it be assumed that the case was correctly decided, it affords no warrant for the present judgment, for it concedes that where the terms of a decree as to alimony are fixed by the court pursuant to an agreement of the parties they are not subject to modification.
+That the terms of the decree of August, 1889, as to alimony, were fixed by agreement of the parties is the proper inference from the testimony of counsel who were concerned in the case. It is rendered certain by the bond executed prior to the decree, whereby the husband bound himself to pay alimony according to the terms of the decree subsequently entered. It is made conclusive by the terms of the decree. The divorce in the present case was on account of the aggression of the husband, and it was therefore a case for alimony properly so called. The wife had not forfeited any of the rights which marriáge gave her in the property of her husband. The concluding terms of the decree against the wife, assented to by her, and precluding the further assertion by her of any interest in the husband’s estate are in law, as they purport to be, in consideration of the antecedent provision as to alimony. The provisions in her favor, being consideration for those which were adverse to her, must be final according to their terms.
+2. There is no merit in the contention that Mrs. Law’s acceptance of the amount awarded to her by the circuit court in lieu of the amount fixed by the decree of 1889, estops her from prosecuting this proceeding in error. She has taken nothing by the judgment of the circuit court. • By the terms of the decree of 1889 she became conclusively entitled to all she has received, and more. It can not be said that by accepting a portion of the sum due her by the terms of the original decree she has waived her right to insist upon, payment of the remainder.
+Judgment reversed and original petition dismissed.
+Minshall, C. J., Williams, Davis and Shauck, JJ., concur.
