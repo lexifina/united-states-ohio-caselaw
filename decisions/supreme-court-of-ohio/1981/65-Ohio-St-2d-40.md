@@ -1,0 +1,60 @@
+---
+court: "Supreme Court of Ohio"
+docket: "80-1249"
+decided: "1981-03-18"
+citations: ["65 Ohio St. 2d 40"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Locher and C. Brown, JJ., concur."]
+parties: ["The State, ex rel. Byrd, Appellant, v. Board of Elections of Summit County et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/65/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806525
+cites_cases: ["11 Ohio St. 2d 141", "110 U. S. 651", "146 U. S. 1", "148 Ohio St. 681", "157 Ohio St. 186", "167 Ohio St. 71", "169 Ohio St. 50", "171 Ohio St. 263", "178 U. S. 548", "228 N. E. 2d 631", "24 Ohio St. 2d 16", "262 N. E. 2d 859", "302 U. S. 277", "52 Ohio St. 2d 199", "52 Ohio St. 2d 81", "71 Ohio St. 151", "87 Ohio St. 12"]
+---
+
+# State ex rel. Byrd v. Board of Elections
+
+## Majority (Holmes, J.)
+
+Holmes, J.
+The judgment of the Court of Appeals must, upon the basis of the statutory law. as previously interpreted by this court, be affirmed.
+There are two basic remedies available to a candidate who claims error on the part of the board of elections in tabulating votes. The candidate may request a recount pursuant to the provisions of R. C. 3515.01 to 3515.071, inclusive, or he may contest the election pursuant to R. C. 3515.08 to 3515.16, inclusive.
+If a recount is sought, the application, per R. C. 3515.02, must be filed within five days after the day upon which the board of elections declares the results. If a contest of election is desired, it must, pursuant to R. C. 3515.09, be commenced by the defeated candidate filing a contest petition with the county clerk of courts within 15 days after the results have been ascertained and announced by the proper authority.
+Here, the appellant, Byrd, did not avail himself of either remedy, but chose to seek relief by way of the unusual remedies of quo warranto and mandamus, collaterally attacking the election results as previously certified.
+In State, ex rel. Shriver, v. Hayes (1947), 148 Ohio St. 681, this court pronounced the basic, and still prevailing, law that an election contest is the specific remedy provided by statute for the correction of all errors, frauds, and mistakes which may occur in an election. The specific pertinent law of such case is found in paragraphs one and two of the syllabus, as follows:
+“1. A certificate of election is conclusive as to the result of an election until set aside or vacated in some manner authorized by law, and is not subject to collateral attack; and, although not conclusive when directly attacked, such certificate is prima facie evidence of the matters therein certified.
+“2. An election contest is the specific remedy provided by statute for the corrections of all errors, frauds and mistakes which may occur in an election.”
+This court, in Shriver v. Hayes, at page 687, further pointed out that:
+“ * * * [Q\uo warranto will not lie to review and set aside the determination in an election contest * * * [nor] to set aside an election which has become final for the reason that no contest has been instituted.”
+More recently, this court addressed issues involving the same sections of law under consideration here. In State, ex rel. Daoust, v. Smith (1977), 52 Ohio St. 2d 199, this court, in a per curiam opinion, stated, at pages 200-201, that:
+“A certificate of election is conclusive as to the result of an election until set aside or vacated in some manner authorized by law, and is not subject to collateral attack. State, ex rel. Shriver, v. Hayes (1947), 148 Ohio St. 681.
+“Respondent’s raising election irregularities in this action constitutes an improper collateral attack.
+“An election contest is the specific remedy provided by R. C. 3515.08 et seq. for the correction of all errors, frauds and mistakes which may occur at an election. Hayes, supra. This remedy is specific and exclusive. State, ex rel. Commrs. of the Sinking Fund, v. Brown (1957), 167 Ohio St. 71, 75.
+“Respondent’s position is not as awkward as he alleges. R. C. 3515.09 provides that an election contest action must be filed ‘within fifteen days after the results * * * have been ascertained and announced by the' proper authority.’
+“The public interest in having election contests speedily determined requires promptitude. Jenkins v. Hughes (1952), 157 Ohio St. 186, 190. Compliance with the statutory limitation is a jurisdictional requirement, and a failure to file within that period sets up a bar to an election contest. See McCall v. Bd. of Education (1959), 169 Ohio St. 50; Jenkins v. Hughes, supra. ”
+The purpose of the specific time limitation within election statutes is to provide promptness and certainty in our elections in a reasonable manner. This generally results in serving the best interests of the public, and permits those in charge of carrying out our election laws to proceed with their ongoing duties.
+The well-accepted requisites to obtain the special writ of mandamus have been set forth by this court in a number of cases, e.g., in State, ex rel. National City Bank, v. Bd. of Education (1977), 52 Ohio St. 2d 81, at page 84, as follows:
+“In order to be entitled to a writ of mandamus, relators must show (1) that they have a clear legal right to the relief prayed for, (2) that respondents are under a clear legal duty to perform the acts, and (3) that relators have no plain and adequate remedy in the ordinary course of the law. See State, ex rel. Long, v. Bettman (1970), 24 Ohio St. 2d 16, 17, 262 N. E. 2d 859; State, ex rel. Pressley, v. Indus. Comm. (1967), 11 Ohio St. 2d 141, 228 N. E. 2d 631.”
+Here, the appellant argued to the Court of Appeals, and to this court, that the board of elections had a mandatory duty, pursuant to R. C. 3505.32, to correct the records of the election and place him in office by virtue of the hand recount. R. C. 3505.32 provides, in pertinent part, that:
+“Not later than the fifth day after a general or special election, the board of elections shall begin to canvass the election returns from the precincts in which electors were entitled to vote at such election. It shall continue such canvass daily until it is completed and the results of the voting in such election in each of such precincts are determined.
+“The board may make such changes in both of said sets of poll books, poll list, and tally sheets as it deems proper to correct errors or defects therein * * * .”
+The Court of Appeals examined the provisions of R. C. 3505.32 and quite properly concluded that:
+“When R. C. 3505.32 is read in its entirety, it becomes apparent that the board of elections has direct authority to correct errors it discovers while conducting the canvass, but there is nothing to suggest the board has the power to correct errors weeks after the canvass has been completed.”
+The Court of Appeals also correctly pointed out that any statutory or inherent power which the board of elections has to correct its own errors does not extend to the counting of ballots at any time after the election certification; and that the holding of this court in State, ex rel. Feighan, v. Green (1960), 171 Ohio St. 263, is inapposite to the facts in this case because “in Feighan all statutory deadlines were complied with, all actions were authorized by the board of elections, and all actions were taken prior to the issuance of any certificate of election.” The appellees have no clear legal duty to perform the acts requested by appellant.
+It is clear that another requisite element of mandamus, i.e., the absence of a plain and adequate remedy in the ordinary course of the law, is not present here. Subsequent to the election, Byrd could have either sought a recount or filed an election contest. Had Byrd reviewed the election results within 15 days after they were declared, rather than six weeks later, he could have been aroused as to the low vote count in his home precinct. Being put upon notice of this probable mistake, Byrd could have availed himself of the statutory remedy, and this could have then been officially investigated by the board of elections with due care being taken to comply with all statutory requirements and safeguards to be followed not only for Byrd’s benefit, .but also for the benefit of the winner as certified.
+By Byrd’s failure to act within the prescribed statutory periods provided by law, it must be concluded that he forfeited his right to relief. The Court of Appeals did not err in determining that the appellant was not entitled to relief by way of mandamus.
+In his second proposition of law, the appellant argues in essence that R. C. 3515.02 and 3515.09 are unconstitutional because they deny the candidate who has received the higher number of votes his right to due process as guaranteed by the Fourteenth Amendment to the United States Constitution; and further, because such statutes deny the voters in the district the equal protection of the laws as guaranteed by the Fourteenth Amendment and by Section 2 of Article I of the Ohio Constitution.
+It is fundamental that every state has the power to create public offices within its jurisdiction, and to prescribe the manner and method by which such officers are to be elected, and the manner in which such elections may be determined. In this regard, the Supreme Court of the United States, in Taylor v. Beckham (1900), 178 U. S. 548, stated, at pages 570-571, that:
+“It is obviously essential to the independence of the States, and to their peace and tranquility, that their power to prescribe the qualifications of their own officers, the tenure of their offices, the manner of their election, and the grounds on which, the tribunals before which, and the mode in which, such elections may be contested, should be exclusive, and free from external interference, except so far as plainly provided by the constitution of the United States.”
+The court, in Taylor v. Beckham, also pointed out that there is no entitlement to an elected public office which would constitute a property right. The court stated, at page 577:
+“The decisions are numerous to the effect that public offices are mere agencies or trusts, and not property as such. Nor are the salary and emoluments property, secured by contract, but compensation for services actually rendered. * * *”
+The United States Supreme Court, in Breedlove v. Suttles (1937), 302 U. S. 277, held that voting is a privilege derived not from the United States, but from the state, the latter of which may impose such conditions as it deems appropriate, subject only to the limitations of the Fifteenth and Nineteenth Amendments and other provisions of the federal Constitution. The court, in support of this proposition, cites Ex parte Yarbrough (1884), 110 U. S. 651, and McPherson v. Blacker (1892), 146 U. S. 1.
+The General Assembly has been given by Constitution the power to regulate the nature and manner of the conduct of elections. Section 21 of Article II of the Ohio Constitution provides that:
+“The General Assembly shall determine by law before what authority and in what manner the trial of contested elections shall be conducted.”
+It is necessary that any such election laws be reasonable, impartial and uniform in their application in order to be constitutional. Gentsch v. State, ex rel. McGorray (1904), 71 Ohio St. 151; State, ex rel. Weinberger, v. Miller (1912), 87 Ohio St. 12.
+The public interest requires that elections be resolved with promptness and certainty. By imposing the time restraints contained in R. C. 3515.02 and 3515.09 on the right to challenge election results, the General Assembly has implemented the public interest in a reasonable manner. Therefore, we hold R. C. 3515.02 and 3515.09 to be constitutional in this respect.
+Based on all the foregoing, the judgment of the Court of Appeals is affirmed.
+Judgment affirmed.
+Celebrezze, C. J., W. Brown, P. Brown, Sweeney, Locher and C. Brown, JJ., concur.
