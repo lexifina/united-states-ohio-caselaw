@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19458"
 decided: "1925-12-07"
-citations: ["4 Ohio Law Abs. 28", "3 Abs. 720", "4 Ohio Law Abs. 275", "OA. 3 Abs. 748", "3 Abs. 762", "4 Ohio Law Abs. 820"]
+citations: ["4 Ohio Law Abs. 28", "3 Abs. 720"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
