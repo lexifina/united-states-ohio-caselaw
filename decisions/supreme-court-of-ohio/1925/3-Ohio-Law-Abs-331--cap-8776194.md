@@ -2,7 +2,8 @@
 court: "Supreme Court of Ohio"
 docket: "18750"
 decided: "1925"
-citations: ["3 Ohio Law Abs. 331", "3 Ohio Law Abs. 165"]
+decided_precision: "year"
+citations: ["3 Ohio Law Abs. 331"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
