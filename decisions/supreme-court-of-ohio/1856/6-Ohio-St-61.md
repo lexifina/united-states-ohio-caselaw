@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1856-12"
+citations: ["6 Ohio St. 61"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swan, Brinkerhorr, Bowen, and Scott, JJ., concurred."]
+parties: ["The United States, on the complaint of J. W. Fitch, U. S. Marshal, v. James Collier."]
+source_url: "https://static.case.law/ohio-st/6/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 510545
+---
+
+# United States, on the complaint of Fitch v. Collier
+
+## Majority (*J3 artley, C. J.)
+
+*J3 artley, C. J.
+The original proceeding was a writ of habeas [62 corpus, under which a judge of the court of cpmmon pleas in Jefferson county, discharged James Collier from arrest under a warrant issued by the U. S. district judge for the district of Ohio. The attorney for the United States sought to reverse this proceeding of the state judge, by a writ of certiorari issued, after the code of civil procedure in this state had taken effect, whereby the writ of certiorari was abolished. This court having dismissed the proceeding in certiorari for want of jurisdiction, the attorney for the United States now asks leave to amend, by substituting a petition in error for the proceeding in certiorari.
+The stretch of power and enlarged exercise of discretion under the statutes of jeofails and amendment, asked in this case, are justified only by the urgency and magnitude of the subject-matter in regard to which they are invoked. The learned attorney for the United States has been frank enough to inform us, that if the amendment be allowed to be made, he will be content to have the case decided against the United States; his object being simply to-have a judgment in this court, which he can use as a basis for an appeal to the Supreme Court of the United States, with a view of having that tribunal settle the law of this country, for the instruction and guidance of the judicial officers of the state, in the exercise-of their powers under the writ of habeas corpus, in cases of arrests-on jDrocess issued by the authority of the federal <- courts. It is thought, that such a decision from the central judicial power of the Union, would have a very salutary regulating influence, in producing uniformity of decision, and preventing conflict of authority.. We are not insensible to the importance of uniformity of decision, and an overruling, regulating power to produce harmony in the exercise of authority by the federal and the state courts. But. 63] while some of us have some scruples, *and others even more than scruples, about the supervisory power of the federal courts over the state courts, wo are none of us enabled to perceive how it would tend to the furtherance of justice, to allow a party to amend a proceeding in this court, with a simple view of placing himself in a condition to invoke the exorcise of an alledged supervisory power, in the Supreme Court of the United States, over this court. Amendments at common law rested in the discretion of the court, and were allowed only in furtherance of justice. And under the code of civil procedure, we do not find any authority extending this discretion so far as to enable a party, after he has failed in his action, and judgment has been entered against him, to amend by substituting a form of proceeding, under the code, for a form of proceeding not instituted under the authority of the code. And if any warrant could be found for' such a stretch of authority, certain it is, it would never be exercised except in a very clear and strong case, demanding it in the furtherance of justice.
+■ Whatever may have been the merits of the original proceeding in the federal court, under which Collier was arrested, we have been unable to perceive in this proceeding in error anything calling for any unusual exercise of discretion by this court in the furtherance of justice. But the consideration upon which the plaintiff in error acts, goes far beyond this case, and seeks a decision by the supreme federal tribunal, for the government and instruction of state judges- and state courts, in the exercise of their authority under the writ of habeas corpus generally. This may be a matter of very great importance. But it is unnecessary here to consider the extent of the great conservative and supervisory power of the supreme judicial power of the United States over the state tribunals. As there is nothing in this case requiring it, wo feel no disposition SO' far to enlarge our views in furtherance of justice, as to exercise an ^unusual discretion of at least questionable authority,' for the [64 mere purpose of furnishing an occasion to invoke the interposition of the judicial power of the United States.
+Motion overruled.
+Swan, Brinkerhorr, Bowen, and Scott, JJ., concurred.
