@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1898-03-01"
+citations: ["58 Ohio St. 67"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Village of Ashland v. Greiner et al."]
+source_url: "https://static.case.law/ohio-st/58/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 940923
+cites_cases: ["1 Ohio St., 478", "10 Pick., 310", "11 Mich., 232", "115 N. Y., 361", "115 N. Y., 371", "12 Am. St. Rep., 809", "15 Ohio, 196", "15 Wend., 564", "16 Fed. Rep., 5241", "17 Or., 423", "17 Wend., 136", "18 Ohio St., 221", "19 Ohio St., 546", "19 Pick., 250", "2 N. Y., 394", "2 Ohio St., 363", "2 Ohio,- 114", "22 Pick., 480", "23 Mich., 418", "26 Ohio St., 120", "29 Mo., 356", "29 N. J. Eq., 615", "29 W. L. B., 284", "3 Am. St. Rep., 142", "3 Cush., (Mass.) 290", "35 N. Y., 167", "36 W. L. B., 206", "37 Ohio St., 262", "38 Minn., 122", "38 N. J. L., 47", "39 Conn., 509", "42 Ohio St., 180", "43 Pa. St., 495", "49 Mo., 165", "5 Am. St. Rep., 680", "5 C. C., 347", "5 Ohio, 388", "52 O. S., 637", "53 N. Y., 85", "55 Ohio St., 47", "56 Ohio St., 148", "61 Mo., 33", "66 Mich., 668", "7 Ind., 641", "7 Ohio St., 37", "73 Iowa, 328", "73 Md., 326", "74 N. Y., 196", "8 Ind., 378", "9 Ohio St., 340"]
+---
+
+# Village of Ashland v. Greiner
+
+## Majority (Burket, J.)
+
+Burket, J.
+The deed of conveyance in question, j was for the consideration of twenty dollars, the I fair value of the half acre at the time of the making band delivery of the deed. The legal effect of a / deed, upon such consideration, is different from that of a deed where there is no consideration, other than the purposes for which the conveyance was made. In the one case the grantee acquires the estate for value paid therefor, and in the other it comes to him without price, and in both there may be a stipulation that the estate is to be used only for particular purposes.
+When value is paid for the estate, such stipulation is construed to be a covenant running with the land, in the nature of a trust, for the uses and purposes expressed in the deed of conveyance, and in case of a breach of the trust, a court of equity will in a proper action, decree the performance of the trust by confining the uses of the estate to the uses and purposes expressed in the deed. In such cases the restricted use of the estate becomes a part of the consideration, and is consented to by the grantee, and it is no hardship on him and his assigns, to be compelled to observe the covenants contained in the deed. But in such cases a breach of the covenant restricting the uses and purposes to which the estate is to. be devoted, does not have the legal effect to forfeit the estate and reinvest the title in the grantor, his heirs or assigns. To have such legal effect, there must be words of forfeiture or re-entry in the deed. Watterson v. Ury, 5 C. C. R., 347; 3 C. D., 171, and cases cited. That case was affirmed by this court, 52 O. S., 637, Washburn on Real Property, Vol. 2, of 5th Ed., page 5.
+Whether a stipulation in a deed of gift, or in a will, restricting the uses to which the estate is to be devoted, is only a covenant, or, is a condition subsequent, is not involved in this case, and is not here decided.
+It is clear that the deed in question conveyed away all the title to the premises which the grantors had, and that the grantees received all such title, (which was the fee) for the uses and purposes expressed in the deed; and as there are no words of forfeiture or re-entry i>n the deed, no title whatever vested in the heirs of the grantor, upon breach of the covenant as to the uses and purposes to which the estate was to be devoted.
+/' The plaintiffs below therefore had no title to the I strip of land upon which the street was located, I and could maintain no action for its recovery, nor I for the recovery of the value thereof. The consideration paid by the village for the strip of land upon which the street is located, belongs to the owners of the half acre of land conveyed by the deed in question, and this is so whether the village acquired the strip of land by purchase, or by proceedings in appropriation under the statute. Cincinnati v. Babb, 29 W. L. B., 284; 36 W. L. B., 206; 4 Dec., 464.
+The plaintiff below having no title to the strip of land in question, and no right to the value thereof, cannot maintain the action, and the demurrer to the petition should have been sustained; but as that was not done, a judgment should have been rendered in favor of the village upon the pleadings. That not having been done, the common pleas on the trial very properly rendered judgment in favor of the village, and the circuit court erred in reversing that judgment.
+The deed of 1838 was admitted by both parties, and there was no effort in the pleadings or testimony to set aside or reform it for fraud or mistake. On the contrary,, it was conceded by both parties to be in full force, and both claimed title under it. It was also conceded by all, that the village was, and had been for a long time, in possession of the strip of land using it as a public street, and had paid therefor the sum of five hundred dollars. These facts are controlling, and being conceded in the pleadings, the court of common pleas should have refused to hear any testimony. The testimony which it did hear was immaterial, and did not tend to disprove the conceded facts. The circuit court erred in applying the law to those conceded facts, and in its construction of the deed.
+Its judgment must therefore be reversed and that of the common pleas affirmed. Minnear v. Holloway, 56 Ohio St., 148.
+Judgment reversed.
