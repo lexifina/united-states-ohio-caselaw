@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "97-137"
 decided: "1998-05-06"
-citations: ["81 Ohio St. 3d 559", "82 Ohio St. 3d 539"]
+citations: ["81 Ohio St. 3d 559"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Buckeye Community Hope Foundation et al., Appellants, v. City of Cuya
 source_url: "https://static.case.law/ohio-st-3d/81/cases/0559-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 111662
-cites_cases: ["103 N.E. 512", "107 Ohio App. 71", "107 Ohio St. 117", "108 Ohio St. 245", "110 N.E. 937", "117 Ohio St. 258", "120 N.E. 313", "124 N.E. 212", "13 Ohio St.2d 1", "13 Ohio St.2d 63", "140 N.E. 595", "140 Ohio St. 368", "141 N.E. 27", "15 Ohio St.2d 195", "150 Ohio St. 203", "151 N.E.2d 722", "152 N.E.2d 311", "155 Ohio St. 529", "158 N.E. 606", "16 O.O.3d 365", "162 Neb. 319", "168 Ohio St. 191", "210 U.S. 373", "233 N.E.2d 500", "233 N.E.2d 864", "239 N.E.2d 80", "239 U.S. 441", "24 O.O. 297", "24 Ohio St.2d 147", "265 N.E.2d 273", "27 Ohio St.2d 11", "271 N.E.2d 864", "324 N.E.2d 740", "33 O.O. 519", "337 N.E.2d 766", "346 N.E.2d 764", "37 O.O. 474", "393 U.S. 385", "402 U.S. 137", "405 N.E.2d 1026", "41 Ohio St.2d 187", "410 U.S. 224", "42 O.O.2d 1", "42 O.O.2d 137", "426 U.S. 668", "44 N.E.2d 459", "44 O.O. 489", "44 O.O.2d 160", "44 Ohio St.2d 62", "46 Ohio St.2d 207", "5 O.O.2d 481", "53 O.O.2d 348", "55 Ohio St.3d 101", "56 O.O.2d 6", "564 N.E.2d 425", "577 N.E.2d 645", "62 Ohio St.2d 322", "62 Ohio St.3d 17", "621 N.E.2d 696", "644 N.E.2d 369", "651 N.E.2d 995", "655 N.E.2d 177", "662 N.E.2d 339", "67 Ohio St.3d 579", "69 N.E.2d 634", "692 N.E.2d 997", "7 O.O.2d 402", "70 O.O.2d 384", "71 Ohio St.3d 513", "72 Ohio St.3d 581", "73 O.O.2d 285", "74 Ohio St.3d 1201", "75 O.O.2d 241", "75 Ohio St.3d 381", "78 Ohio App. 194", "80 N.E.2d 769", "81 Ohio St.3d 559", "88 Ohio St. 338", "92 Ohio St. 375", "98 Ohio St. 83", "99 N.E.2d 659", "99 Ohio St. 376"]
+cites_cases: ["103 N.E. 512", "107 Ohio App. 71", "107 Ohio St. 117", "108 Ohio St. 245", "110 N.E. 937", "117 Ohio St. 258", "120 N.E. 313", "124 N.E. 212", "13 Ohio St.2d 1", "13 Ohio St.2d 63", "140 N.E. 595", "140 Ohio St. 368", "141 N.E. 27", "15 Ohio St.2d 195", "150 Ohio St. 203", "151 N.E.2d 722", "152 N.E.2d 311", "155 Ohio St. 529", "158 N.E. 606", "16 O.O.3d 365", "168 Ohio St. 191", "210 U.S. 373", "233 N.E.2d 500", "233 N.E.2d 864", "239 N.E.2d 80", "239 U.S. 441", "24 O.O. 297", "24 Ohio St.2d 147", "265 N.E.2d 273", "27 Ohio St.2d 11", "271 N.E.2d 864", "324 N.E.2d 740", "33 O.O. 519", "337 N.E.2d 766", "346 N.E.2d 764", "37 O.O. 474", "393 U.S. 385", "402 U.S. 137", "405 N.E.2d 1026", "41 Ohio St.2d 187", "410 U.S. 224", "42 O.O.2d 1", "42 O.O.2d 137", "426 U.S. 668", "44 N.E.2d 459", "44 O.O. 489", "44 O.O.2d 160", "44 Ohio St.2d 62", "46 Ohio St.2d 207", "5 O.O.2d 481", "53 O.O.2d 348", "55 Ohio St.3d 101", "56 O.O.2d 6", "564 N.E.2d 425", "577 N.E.2d 645", "62 Ohio St.2d 322", "62 Ohio St.3d 17", "621 N.E.2d 696", "644 N.E.2d 369", "651 N.E.2d 995", "655 N.E.2d 177", "67 Ohio St.3d 579", "69 N.E.2d 634", "7 O.O.2d 402", "70 O.O.2d 384", "71 Ohio St.3d 513", "72 Ohio St.3d 581", "74 Ohio St.3d 1201", "75 O.O.2d 241", "78 Ohio App. 194", "80 N.E.2d 769", "88 Ohio St. 338", "92 Ohio St. 375", "98 Ohio St. 83", "99 N.E.2d 659", "99 Ohio St. 376"]
 ---
 
 # Buckeye Community Hope Foundation v. City of Cuyahoga Falls
