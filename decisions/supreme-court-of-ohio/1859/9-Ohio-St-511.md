@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1859-12"
+citations: ["9 Ohio St. 511"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Scott, Suture, Peck, and Gholson, JJ., concurred."]
+parties: ["Celia Huntington and others v. Lucy Rogers and others."]
+source_url: "https://static.case.law/ohio-st/9/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 514743
+cites_cases: ["11 Ohio, 31", "2 Ohio St. 327", "3 Barb. 50", "3 H. & McH. 326", "6 Ohio, 383", "8 Ohio, 21"]
+---
+
+# Huntington v. Rogers
+
+## Majority (Brinkerhoff, C. J.)
+
+Brinkerhoff, C. J.
+The problem presented by this case, when Yeduced to its simple elements, is this:
+The vendor of real estate (here represented by Eogers), retaining in himself the legal title, and the purchase money being unpaid, recovers judgment at law for the purchase money against the vendee in possession (Huntington), and under an execution issued on the judgment, sells-the land, himself becomes the purchaser ior an amount less than the whole purchase money, takes a deed from the sheriff, and goes into possession. The original vendee (defendant in the judgment) then tenders the amount duo upon the original contract of sale, after deducting the amount ostensibly made by the sheriff’s sale, and files *his petition to compel a conveyance of the land to him as a specific performance of the original contract of sale.
+On this state of case, ought a specific performance to be decreed ?
+It has boon held in this state that a mere possession of land is a species of title, and such an interest as may be sold by process of execution at law. Scott v. Douglass, 7 Ohio (pt. 1), 227; Baird v. Kirtland, 8 Ohio, 21. This doctrine, though much questioned as one of universal application, has never been overruled ; and thereupon has been often mooted the further question, whether the purchaser under such execution takes the naked possession of the judgment debtors merely, or, in addition to that, the equities also under which the possession may have been obtained and held. Counsel, in argument, seem to suppose that these questions necessarily arise in this case, and that the case depends on their solution. "We do not think so.
+Counsel admit, and indeed it is very clear, that if it were to be held that such a sale carries with the possession all the equities of the judgment debtor, then the complainants can have no standing in this court; for their equities passed with the sale on execution, and are gone.
+But suppose we adopt the contrary alternative, and hold that nothing but the naked possession, disconnected from all the equities under which it was acquired and held, passed by the sale on execution — the question then arises, has the complainant, on that hypothesis made out a case for the enforcement of a specific performance ? Let it be granted, as matter of argument, that the court would not now interfere, and would not at any time heretofore have interfered, at the instance of these defendants, to avoid this sale on execution, still it by no means follows that a specific performance will be decreed in favor of the opposite party. Matthews v. Terwilliger, 3 Barb. 50; State v. Baum’s Heirs, 6 Ohio, 383; Watkins v. Collins, 11 Ohio, 31; Kirby v. Harrison, 2 Ohio St. 327.
+*A specific performance of a contract of sale rests in ‘the sound legal discretion of the court, in view of all the circumstances of the case. It is not a matter of right, but of grace; and the defendant will succeed in procuring the dismissal of the bill, if he can convince the court that the exercise of their jurisdiction will be inequitable under the circumstances. 2 Leading Cases in Eq. (pt. 1), 547, and cases there cited. “ There are few eases in which equity will insist on the maxim, that he who seeks equity must do it, with more rigor than in those of suits for specific performance.” Ib. 550. And it makes no difference whether the circumstances which render the claim for specific performance, when made, inequitable, arose prior or subsequent to the date of the contract sought to he enforced. Perkins v. Wright, 3 H. & McH. 326. In either case, a court of equity will leave the parlies to their remedies at law.
+On this hypothesis, then, how stands the case? The defendant bought the land at sheriff’s sale at two-thirds of its appraised value, considered as an estate in fee simple; the plaintiff insists that he thereby acquired but a naked possession merely, and yet asks this court to decree to.them an absolute conveyance of the premises on the tender by them of the balance due under the original contract, after deducting the amount for which the land ostensibly and nominally sold at sheriff’s sale. If there be any equity in this demand, we are unable to see it. It is asking us to accept of shadow for substance, and to make that shadow the foundation of a decree.
+But it may be said, that the possession, both in law and in fact,, did pass by the sheriff's sale; and that, peradventurc, that possession may have been fully equal in value to the amount at which the land was bid off. This is certainly a supposable case; but all ordinary presumption is against it, and nothing of the kind is-either alleged in the petition or pretended in argument. If the plaintiff had averred in his petition an offer and a continued willingness *to pay the full amount of the purchase money due 'upon the original contract without reference to the sheriff’s sale, after deducting therefrom the value of rents, issues, and profits of the land, over and above the taxes paid and the value of permanent improvements made thereon, while held by the defendants, the question would be a different one from that now before us, and one which we are not now called on to decide. And now, if he desires to amend, he can have leave to do so within a reasonable time to be named in the order ; if not, the petition will bo dismissed.
+Scott, Suture, Peck, and Gholson, JJ., concurred.
