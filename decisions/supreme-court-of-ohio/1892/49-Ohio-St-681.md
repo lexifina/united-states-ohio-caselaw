@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1892-12-23"
+citations: ["49 Ohio St. 681"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Railway Co. v. Construction Co."]
+source_url: "https://static.case.law/ohio-st/49/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8841952
+---
+
+# Railway Co. v. Construction Co.
+
+## Majority (By the; Court.)
+
+By the; Court.
+As no bill of exceptions was taken, setting forth the facts upon which the court acted in overruling the motion to dismiss the action on the ground that the interrogatories had not been answered as required, the ruling of the court upon the motion cannot be reviewed. The order as made could not execute itself. Whether the interrogatories had been answered, or whether the'plaintiff had been prevented' by unavoidable accident from complying with it in the time named, were questions that might have arisen on the motion, and would be for the consideration of the court before acting on it. If either was true the motion was properly overruled. Therefore, in the-absence of any showing in the record as to what the facts were, we are bound to presume that they were. sufficient to warrant the court in refusing to dismiss the action. This disposes of the second as -well as the first assignment. The record does not show that the action was dismissed, hence we cannot assume that the court committed the error assigned, that is to say, that it rendered judgment after the action had been dismissed.
+Did the court err in trying the issues, instead of submitting them to a jury? We think it did not. Though the right of trial by jury is declared by our constitution to be inviolate, still it may be waived, and it is therefore competent to the legislature to provide the mode in which it- may be done, as if may regulate the exercise of any other right. Thus a trial may be had in a civil action before a justice of the peace without a constitutional jury, because the defeated party may obtain a jury by taking an appeal to the common pleas; and so the compensation of an owner for property taken for the use of a public road, may be assessed in the proceedings before the county commissioners, because, if not satisfied with the allowance made by the viewers, he may have his compensation assessed by a jury by taking an appeal to the probate court. In none of these and similar cases, has the right been regarded as impaired, though it can be secured only by taking an appeal. The inconvenience of being compelled to take an appeal has not been regarded as impairing the right, Section 5204, Revised Statutes, provides that in actions arising on contract, trial by jury may be waived, “ By the consent of the party appearing, when the other party fails to appear at the trial, by himself or attornéy.” All persons are presumed to know the law. The defendant is therefore presumed to have known, that by failing to appear, the plaintiff could, if it saw fit, waive the calling of a jury to try the .issues and submit them to the court, and to have consented that if it saw fit, it might do so. The requirement that it should attend and demand a jury if it required it, placed the defendant under no greater inconvenience than a party is placed who is required to take an appeal to secure a jury; in the latter case a bond is required.
+Such has been the construction placed on the law from the time it was incorporated in the code in 1853; and we have no knowledge of this construction, or of the constitutionality of the statute, having been called in question prior to this time. The hardship suggested of a party being pre-rmnted by unavoidable accident from attending and demanding a trial by jury, is without weight; as, in such case, he would have the right to have the finding and judgment set aside and a new trial granted, whether the trial had been had before the'court or a jury.
+The question as to the validity of the agreement between the plaintiff and the defendant, for the breach of which the suit below was commenced, was not presented or considered in the common pleas nor in the circuit court; nor, in this court, until a short time before the case was reached for oral argument; and, also, after the plaintiff in error had obtained an order for an abridgment of the printing of the record to such parts of it as raised the questions already considered. In view of these facts, and the established rule of the Court-not to consider questions unless assigned for error in the courts below, we decline to consider the question as to the validity of this contract; and express no opinion upon it.
+Judgme'rit affirmed.
