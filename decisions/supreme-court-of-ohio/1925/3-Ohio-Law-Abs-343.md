@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "19070"
 decided: "1925-04-24"
-citations: ["3 Ohio Law Abs. 343", "3 Abs. 249; 3 Abs. 279", "3 Ohio Law Abs. 279"]
+citations: ["3 Ohio Law Abs. 343", "3 Abs. 249; 3 Abs. 279"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
