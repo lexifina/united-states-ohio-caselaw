@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "91-1932"
+decided: "1991-10-22"
+citations: ["62 Ohio St. 3d 167"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Resnick, JJ., concur.", "Holmes, J., dissents."]
+parties: ["The State, ex rel. Citizens for a Better Beachwood et al., v. Cuyahoga County Board of Elections et al."]
+source_url: "https://static.case.law/ohio-st-3d/62/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1711346
+cites_cases: ["161 N.E.2d 488", "17 O.O.3d 418", "170 Ohio St. 1", "215 N.E.2d 592", "35 O.O.2d 1", "367 N.E.2d 879", "377 N.E.2d 507", "410 N.E.2d 1253", "5 O.O.3d 381", "51 Ohio St.2d 173", "51 Ohio St.3d 79", "54 Ohio St.2d 416", "554 N.E.2d 1284", "580 N.E.2d 1068", "6 Ohio St.2d 1", "62 Ohio St.3d 174", "63 Ohio St.2d 333", "8 O.O.3d 412", "9 O.O.2d 304"]
+---
+
+# State ex rel. Citizens for a Better Beachwood v. Cuyahoga County Board of Elections
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+For a writ of mandamus to issue in this case, we must find that the board of elections clearly disregarded applicable legal provisions in invalidating the CBB petition and, therefore, that the board has a duty to hold the instant referendum election. See State, ex rel. Beck, v. Casey (1990), 51 Ohio St.3d 79, 80, 554 N.E.2d 1284, 1285, citing State, ex rel. Senn, v. Bd. of Elections (1977), 51 Ohio St.2d 173, 175, 5 O.O.3d 381, 382, 367 N.E.2d 879, 880. For reasons that follow, we find that the board properly applied R.C. 731.32. Thus, we deny the writ.
+To establish the duty alleged, CBB mainly argues that R.C. 731.41 renders former R.C. 731.32 inapplicable to the Beachwood referendum process. R.C. 731.41 provides:
+“Sections 731.28 to 731.41, inclusive, of the Revised Code do not apply to any municipal corporation which adopts its own charter containing an initiative and referendum provision for its own ordinances and other legislative measures.”
+The Beachwood City Charter has no specific provision, like R.C. 731.32, that requires filing with the city auditor a copy of an ordinance to be referred; the charter requires in Section 4, Article IV only that each part-petition contain “a full and correct copy of the title and text of the * * * referred ordinance. * * * ” Article I of the charter, however, provides in pertinent part:
+“The powers of this Municipality may be exercised in the manner prescribed in this Charter, or, to the extent that the manner is not prescribed herein, in such manner as the Council may prescribe by ordinance. The powers of this Municipality may also be exercised, except as a contrary intent appears in this Charter or in the enactments of the Council conformable hereto, in such manner as may now or hereafter be provided by the general law of Ohio.”
+The applicability of R.C. 731.41 becomes problematic where, as here, a charter contains specific referendum procedures but also contains a provision, such as the above-quoted Article I, adopting the law of Ohio except where it conflicts with the charter. However, we resolved this tension in State, ex rel. Nimon, v. Springdale (1966), 6 Ohio St.2d 1, 35 O.O.2d 1, 215 N.E.2d 592. In Nimon, at paragraph five of the syllabus, we held:
+“Where the charter of a municipal corporation provides for certain features of the initiative and referendum differing from the statutory provisions with relation thereto, and provides further that ‘all other matters relating to the question of the exercise of the power of referendum shall be regulated by the provisions of the Revised Code of Ohio relating to referendum petitions,’ but is silent with respect to * * * filing * * * [a referendum] petition with a village official prior to its circulation, * * * [the matter is] controlled by Section [ ] 731.32 * * * of the Revised Code, and Section 731.41, Revised Code, is inapplicable.”
+CBB argues that Nimon is not controlling because the charter referendum provisions in this case do not expressly incorporate state law. The gravamen of this argument seems to be that the language in Article I of the charter does not apply because it does not appear in or specifically refer to Article IV, which governs the city initiative, referendum and recall process. However, to distinguish Nimon on this basis implies that each article of the Beachwood Charter must repeat the statement already made in Article I, or that Article I would have to specify that it applies to every other article. We reject this distinction because it would render Article I meaningless.
+CBB also cites State, ex rel. Ohio Natl. Bank, v. Lancione (1978), 54 Ohio St.2d 416, 8 O.O.3d 412, 377 N.E.2d 507, in which we refused to prevent placement of a municipal referendum issue on the ballot where the petition allegedly did not conform to state law. There, relying on R.C. 731.41, which we acknowledged to be “a codification of the ‘home-rule’ provision of the Ohio Constitution (Article XVIII),” we held that since the city’s charter contained “comprehensive provisions relating to referendum procedures,” the petition need not comply with any state statutes dealing with referenda. Id. at 417-418, 8 O.O.3d at 413-414, 377 N.E.2d at 508-509. CBB argues on this authority that it need not comply with R.C. 731.32.
+Like the charter referendum provisions in Ohio Natl. Bank, the referendum provisions in Article IV of the Beachwood Charter are “comprehensive” in that they establish a detailed referendum procedure. However, we consider this case to be closer to Nimon, supra, which also involved detailed charter referendum procedures. Nimon accounted for a charter provision that Ohio Natl. Bank did not — a provision adopting consistent state law.
+Absent Article I of the Beachwood Charter, R.C. 731.41 and Ohio Natl. Bank would exempt the referendum procedure in Article IV from the operation of state law on municipal referenda. However, like the charter provision in Nimon, Article I here expressly requires application of any state statute, “except as a contrary intent appears” in the local law of Beachwood. CBB has not presented any ordinance or resolution which conflicts with R.C. 731.32; the charter itself is silent on the requirement of R.C. 731.32 that copies of ordinances be filed with the city auditor. Thus, following Nimon, we conclude that CBB must comply with R.C. 731.32, the provisions of which are mandatory. State, ex rel. Mika, v. Lemon (1959), 170 Ohio St. 1, 9 O.O.2d 304, 161 N.E.2d 488, paragraph two of the syllabus; State, ex rel. Hirshler, v. Frazier (1980), 63 Ohio St.2d 333, 17 O.O.3d 418, 410 N.E.2d 1253; State, ex rel. Shaw, v. Lynch (1991), 62 Ohio St.3d 174, 580 N.E.2d 1068.
+Accordingly, we find that the board of elections properly applied R.C. 731.32 in invalidating the CBB petition. Thus, we hold that the board did not disregard the law and that it has no duty to place the instant zoning ordinance on the ballot. The requested writ of mandamus, therefore, is denied.
+Writ denied.
+Moyer, C.J., Sweeney, Douglas, Wright, H. Brown and Resnick, JJ., concur.
+Holmes, J., dissents.
