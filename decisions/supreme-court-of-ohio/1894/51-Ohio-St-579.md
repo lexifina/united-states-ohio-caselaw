@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Ohio"
+docket: "3716"
+decided: "1894-02-01"
+citations: ["51 Ohio St. 579"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Toledo Electric Company v. Gosline."]
+source_url: "https://static.case.law/ohio-st/51/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 932957
+---
+
+# Toledo Electric Co. v. Gosline
+
+## Majority
+
+Judgment affirmed.
