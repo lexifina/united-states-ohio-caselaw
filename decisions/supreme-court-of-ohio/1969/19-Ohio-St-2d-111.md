@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Ohio"
+docket: "69-17"
+decided: "1969-07-09"
+citations: ["19 Ohio St. 2d 111"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Matthias, O’Neill, Schneider, Herbert and Duncan, JJ., concur."]
+parties: ["In re Guardianship of Love: Love, Appellee, v. Tupman, Gdn., Appellant."]
+source_url: "https://static.case.law/ohio-st-2d/19/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6690639
+cites_cases: ["112 N. E. 948", "128 Mass. 592", "140 Ohio St. 160", "145 Ohio St. 82", "173 Ohio St. 542", "182 A. 2d 884", "224 Mass. 145", "229 Md. 393"]
+---
+
+# Love v. Tupman
+
+## Majority (Corrigan, J.)
+
+Corrigan, J.
+(Because of the inability, “by reason of illness,” of Justice Charles B. Zimmerman “to hear, consider and decide” this cause, Judge Corrigan of the Eighth Appellate District was, pursuant to Section 2 of Article IV of the Constitution of Ohio, duly directed by the Chief Justice “to sit with the justices of the Supreme Court in the place and stead of” Justice Zimmerman, and Judge Corrigan did so and heard and considered this cause prior to the decease of Justice Zimmerman on June 5, 1969.) The exclusive question presented in this appeal is whether a guardian of the person and estate of an incompetent has a right to appeal from an order of the Probate Court which appointed her, and which order finds the ward to have regained his mental competency and terminates the guardianship, in a situation where no interest adverse to the ward is involved in such order of termination.
+Thus, the complaint of the guardian in this appeal is that she is not permitted to continue in control of the person and estate of Jesse M. Love, even though the Probate Court found, after hearing, that the former ward was restored to reason.
+The application to terminate the guardianship was filed in the Probate Court under favor of Section 2111.47, Revised Code.
+The decisions in three cases decided by this court seem to be pertinent to a determination of the issue before us.
+First, in the case of In re Clendenning (1945), 145 Ohio St. 82, this court held that the Probate Court has plenary, exclusive and original jurisdiction in the matter of the appointment and removal of guardians, and that such proceedings are not inter partes or adversary in character, but are proceedings in rem.
+Second, in the case of In re Guardianship of Breece (1962), 173 Ohio St. 542, paragraph two of the syllabus reads:
+“The sole issue before the court in a proceeding to terminate the guardianship of an incompetent is whether the ward has presented ‘satisfactory proof that the necessity for the guardianship no longer exists,’ and, where such ‘satisfactory proof’ is presented, the court is under a mandatory duty to terminate the guardianship.”
+Third, it is well established in Ohio that an appeal lies only on behalf of a party aggrieved. Such party must be able to show that he has a present interest in the subject matter of the litigation and that he has been prejudiced by the judgment of the lower court. Ohio Contract Carriers Assn., Inc., v. Pub. Util. Comm. (1942), 140 Ohio St. 160; 2 Ohio Jurisprudence 2d 765, Appellate Review, Section 161.
+In the light of those eases, two conclusions follow. In the first place, it is clear that the proceedings in the Probate Court were nonadversary in nature and involved no one but the court and Mr. Love. Therefore, cases cited by appellant, involving actions for removal for cause of guardians and other fiduciaries, are distinguishable from this case. Secondly, it is evident that the guardian, Mary Tupman, had no true interest in the subject matter of - the instant proceeding, nor was she prejudiced by the ruling of the Probate Court. The sole issue facing that court concerned the mental condition and the interests of the ward, Jesse M. Love.
+At this point, we also note with approval the reasoning of the Supreme Judicial Court of Massachusetts in the case of Ensign v. Faxon (1916), 224 Mass. 145, 112 N. E. 948. In that case, a guardian sued for expenses incurred during an appeal from an order of the Probate Court, in which appeal he had contested the termination of a guardianship when the court found that the ward was no longer insane. The court said, at pages 149-150:
+“A guardian of an insane ward has no right to appeal from a decree of the Probate Court discharging him from his trust as guardian on the ground that his ward is no longer insane. The guardian is not ‘a person who is aggrieved’ by such a decree within the meaning of those words in R. L. c. 162, Section 9. It was said respecting this statute by Mr. Justice Colt in Lawless v. Reagan, 128 Mass. 592, 593, ‘In order to give a right of appeal * * * it must appear that the party appealing has some pecuniary interest, or some personal right, which is immediately or remotely affected or concluded by the decree appealed from.’ The guardian of an insane person fails in every respect of meeting this test as applied to a decree to the effect that his ward is sane. Manifestly he has no personal right. A quite different issue is presented when he is removed for misconduct, where his right to appeal has been recognized without question. * !i * In such a case his reputation for discretion, capacity, sound judgment, or even honesty, may be involved. But he has no pecuniary interest in any right sense in being continued as guardian, when the Probate Court has adjudged that his ward has become sane. He is simply a trustee and can have no interest in this regard adverse to the recovery of sanity by the ward. * * *
+“It is not perceived that harm can come from refusal to recognize a guardian as a person aggrieved by such a decree. The Probate Court may be presumed to be impartial, and no such decree would be entered without full investigation. It may be assumed that one fair hearing always will be had on the subject. Perhaps heirs presumptive of the insane person have a right of appeal. * * * The statute as to appointment of guardians now affords such flexibility of procedure that a mistake in declaring a guardianship ended when it ought to be continued can be corrected readily by a new appointment without delay. # * # J J
+See, also, Hundley v. Hundley (1962), 229 Md. 393, 182 A. 2d 884.
+In this case, the effort of the guardian, who is a creature and agent of the Probate Court, in seeking to reverse her principal, seems to us anomalous. We recognize that the law favors and protects the right of appeal and that Section 1.11, Revised Code, requires a liberal construction of the provisions of the Appellate Procedure Act (Chapter 2505, Revised Code) which are remedial in character, in order to promote the objects of such Act and to assist the parties in obtaining justice. However, here, the guardian is not an interested party whose rights are affected by the decision of the Probate Court, nor is she an aggrieved party under such order. She complains because she is not permitted to continue in control of the person and estate of Jesse M. Love, even though the Probate Court has found that the former ward was restored to reason.
+We reject this complaint, and hold that, in this case, the guardian has no right to appeal from the order of the Probate Court, from which she received her appointment, which removed her as the guardian of the ward who was found to be restored to competency, inasmuch as the record fails to show any interest of the guardian adverse to the ward in the order of termination, and also fails to show that the guardian has been aggrieved in any manner by the order.
+The judgment of the Court of Appeals is, therefore, affirmed.
+Judgment affirmed.
+Taft, C. J., Matthias, O’Neill, Schneider, Herbert and Duncan, JJ., concur.
