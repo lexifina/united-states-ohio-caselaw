@@ -1,0 +1,51 @@
+---
+court: "Supreme Court of Ohio"
+docket: "84-441"
+decided: "1984-04-10"
+citations: ["10 Ohio St. 3d 171"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, C. Brown and J. P. Celebrezze, JJ., concur.", "Locher and Holmes, JJ., dissent."]
+parties: ["The State, ex rel. Jurcisin et al., v. Cotner, Council Clerk, et al."]
+source_url: "https://static.case.law/ohio-st-3d/10/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815417
+cites_cases: ["108 N.H. 58", "116 N.J. Super. 143", "158 Va. 693", "164 S.E. 541", "226 A.2d 865", "228 S.E. 2d 490", "240 Ark. 197", "248 A.2d 336", "251 Md. 612", "281 A.2d 284", "282 N.E.2d 614", "30 N.Y.2d 252", "31 N.C. App. 104", "357 Mo. 770", "36 Ohio St. 326", "409 U.S. 849", "6 Ohio St. 3d 167"]
+---
+
+# State ex rel. Jurcisin v. Cotner
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The duties of respondents with regard to initiative petitions proposing charter amendments are set forth in Section 200 of the Cleveland City Charter which provides, in relevant part:
+“Proposed amendments to this Charter may be submitted to the electors of the City, * * * and upon petition signed by ten percent of the electors of the City, setting forth any such proposed amendment, prepared and filed with the Council, through its Clerk in the manner and form prescribed in this Charter for the preparation and filing with the Clerk of an initiative petition for an ordinance, such proposed amendment shall be submitted to the electors of the City by the Council. * * * The ordinance providing for the submission of any such proposed amendment shall require that such proposed amendment be submitted to the electors at the next regular Municipal election if one shall occur not less than sixty days nor more than one hundred and twenty days after its passage; otherwise it shall provide for the submission of the proposed amendment at a special election to be called and held within the time aforesaid. When ten (10) days and two regular meetings of the Council have passed after the filing of a petition fulfilling the requirements of this section, then the Council shall forthwith provide the ordinance for the submission to the electors of the proposed amendment to this Charter. * * *” (Emphasis added.)
+Relators argue that this charter provision required respondents to enact the ordinance on March 8, 1984, the tenth day after the petitions were filed, regardless of whether a council meeting was regularly scheduled for that day. Two council meetings had passed since the petition was filed — one on February 27,1984 and the other on March 5,1984. Had respondents acted on March 8, 1984, an ordinance could have been enacted to place the issue on the ballot for May 8, 1984.
+Respondents, however, waited until the next regularly scheduled council meeting on March 12, 1984, to enact the ordinance. By that time, the May 8, 1984 election was less than sixty days away and outside the time required by the charter. Relators allege this delay jwas intentionally created to prevent the issue from being placed on the ballot at a regularly scheduled election.
+We agree. Council was aware of the sixty-day provision in the charter and knew that waiting until March 12, 1984 to enact the ordinance would prevent the issue from being placed on the ballot on May 8,1984. The charter requires that the ordinance be enacted “forthwith,” vesting some discretion in council to determine the time for compliance. In the case at bar, council’s action in waiting to enact the ordinance until the next regularly scheduled meeting, thereby creating the additional expense and hardship of having a second election within six weeks of one already scheduled, constitutes an abuse of that discretion.
+Accordingly, the writ is allowed and respondents are hereby ordered to take all steps necessary to submit the issue to the voters of the city of Cleveland at the election to be held May 8, 1984.
+This order shall be self-executing. The Clerk of the Ohio Supreme Court shall immediately certify this judgment to the Secretary of State and, in the event of respondents’ noncompliance, the Secretary of State is directed upon the force of this order to utilize such portion of this order as is necessary to place the issue on the ballot on May 8, 1984.
+Writ allowed.
+Celebrezze, C.J., W. Brown, Sweeney, C. Brown and J. P. Celebrezze, JJ., concur.
+Locher and Holmes, JJ., dissent.
+Although the May 8, 1984 election is not a “[r]egular municipal election” which occurs in an odd-numbered year (R.C. 3501.01[B]), it could have been a special election for purposes of this issue. (R.C. 3501.01[D].)
+
+## Dissent (Locher, J.,)
+
+Locher, J.,
+dissenting. I must dissent from the position taken by the majority for the reason that there has been no showing that council delayed to intentionally avoid the May 8, 1984 election and therefore T would deny the writ.
+The charter, rather than imposing a specific time limit for enacting the ordinance in question, requires only that it be accomplished “forthwith” after the passage of ten days and two regular council meetings. Numerous jurisdictions have adopted a definition of “forthwith” which recognizes that whatever must occur “forthwith” must occur within a reasonable time — not immediately, as the majority would suggest. North Carolina v. Ward (1976), 31 N.C. App. 104, 106-107, 228 S.E. 2d 490; People v. Glen (1972), 30 N.Y.2d 252, 260, 282 N.E.2d 614, certiorari denied sub nom. Baker v. New York (1972), 409 U.S. 849; In re Application of the Atty. Gen. of New Jersey (1971), 116 N.J. Super. 143, 147, 281 A.2d 284; Hinse v. Burns (1967), 108 N.H. 58, 60, 226 A.2d 865; Ervin v. Beland (1968), 251 Md. 612, 617, 248 A.2d 336; Jenkins v. Hill (1966), 240 Ark. 197, 202-203, 398 S.W.2d 679; Atl. Natl. Bank of Jacksonville v. St. L. Union Tr. Co. (1948), 357 Mo. 770, 779, 211 S.W.2d 2; Omohundro v. Palmer (1932), 158 Va. 693, 696, 164 S.E. 541. The passage of the ordinance at the next regularly scheduled council meeting, which occurred less than a week after certification, was timely and within a reasonable period of time pursuant to the charter provision. While we sympathize with relators’ concern that a separate election must now be conducted, creating additional expense and delay, we cannot find that respondents acted unlawfully or abused their discretion as required to justify the issuance of a writ of mandamus.
+
+## Dissent (Holmes, J.,)
+
+Holmes, J.,
+dissenting. I am in agreement with the commentary of Justice Locher in his foregoing dissent, but believe it necessary to particularize the facts of this case upon which I rely in disagreeing with the majority. It would seem to me in reviewing the language of the charter provisions of the city of Cleveland pertinent here, i.e., Sections 51 and 200, that the city council had timely performed all of the duties required in order to place this initiative petition upon the ballot.
+Section 200 of the Cleveland City Charter states, in pertinent part:
+“When ten (10) days and two regular meetings of the Council have passed after the filing of a petition fulfilling the requirements of this section, then the Council shall forthwith provide the ordinance for the submission to the electors of the proposed amendment to this Charter.”
+Assuming an interpretation of the time frame established above most advantageous to relators’ position, March 9,1984 was the first date that council could have passed the required ordinance, i.e., council must allow the passage of ten days and the occurrence of two regular meetings after the filing of the petition before it can act. Assuming the regular meeting of council held Monday, February 27, 1984, the date the petition was filed, qualifies as one of the two required regular meetings of council, the two-meeting requirement was fulfilled by March 6, 1984, because council held a regular meeting on Monday, March 5, 1984. However, the requirement that ten days must pass after filing of the petition waá not met until March 8, 1984. The first day after filing the petition was February 28, 1984, and the tenth day having passed after filing would bring us to March 9,1984. Accordingly, March 9,1984 was, at best, the first day that council could have passed the ordinance.
+Regular meetings of council, other than during the months of July and August, are held every Monday evening. Rules 3 and 4 of the Rules of Order Governing the Council of the City of Cleveland. The first regular meeting of council, after the running of the time frame discussed above, occurred on March 12, 1984. At that meeting, Ordinance No. 541-84, submitting the proposed charter amendment to the electors, was introduced and passed. It seems clear that council acted forthwith in providing for the submission of the proposed charter amendment to the electors.
+The relators seek a writ of mandamus in this action, and it is the well-recognized law of this state that such a writ will not be granted in the absence of a showing that there has been a clear default by the public official or officers in carrying out their mandated public duties. State, ex rel. H. P. Clough & Co., v. Commrs. (1881), 36 Ohio St. 326, 331; State, ex rel. Willis, v. Sheboy (1983), 6 Ohio St. 3d 167, paragraph two of the syllabus.
+Relators seek to compel respondents to submit the proposed amendment to Section 116 of the charter to the electors on May 8, 1984, rather than on June 26, 1984. Relators claim that this duty flows from the fact that relators filed an initiative petition with the clerk of council on February 27, 1984.
+However, as discussed above, respondents have timely and fully performed all present existing duties resulting from the filing of relators’ petition. There has been no showing that the respondents have not acted timely in submitting the proposal to the electorate. This being so, there is no clear right for the issuance of the writ. For this court to do so again impermissibly vaults the judiciary into legislative, or councilmanic, affairs, a position into which this court should not launch itself.
+Accordingly, I would deny the writ.
