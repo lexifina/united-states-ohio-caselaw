@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Ohio"
+docket: "99-2246"
+decided: "2001-01-03"
+citations: ["90 Ohio St. 3d 513"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney and Cook, JJ., concur.", "Pfeifer and Lundberg Stratton, JJ., dissent.", "Lundberg Stratton, J., concurs in the foregoing dissenting opinion."]
+parties: ["The State of Ohio, Appellant, v. Santana, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/90/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1121576
+cites_cases: ["119 Ohio App.3d 694", "392 U.S. 1", "42 Ohio St.3d 136", "466 U.S. 668", "51 Ohio St.3d 160", "538 N.E.2d 373", "555 N.E.2d 293", "696 N.E.2d 240", "720 N.E.2d 507", "87 Ohio St.3d 295"]
+---
+
+# State v. Santana
+
+## Majority
+
+The judgment of the court of appeals is reversed, and the cause is remanded on the authority of State v. Lott (1990), 51 Ohio St.3d 160, 174-176, 555 N.E.2d 293, 307-309.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney and Cook, JJ., concur.
+Pfeifer and Lundberg Stratton, JJ., dissent.
+
+## Dissent (Pfeifer, J.,)
+
+Pfeifer, J.,
+dissenting. On March 5, 1998, at approximately 8:00 p.m., according to employees, a man with a gun in his hand entered BB’s Mini Mart in Ashtabula and demanded money from the cashier, threatening to “blow [her] brains out.” The cashier gave the assailant all the money from the cash register and triggered the store’s silent alarm. The perpetrator then left the store, heading west on Center Street, on foot.
+Patrolman Dennis Dibble of the Ashtabula Police Department received a call from dispatch that an armed robbery had just occurred at BB’s Mini Mart and that the white male suspect was heading west on Center Street toward State Route 20. Patrolman Dibble was less than a minute from the location, so he responded immediately to the call. As he drove east on Center Street from State Route 20 towards BB’s Mini Mart, he observed three persons walking south on Jefferson Avenue, just south of Center Street.
+The appellee, Jose Santana, was walking with two other persons, one male and one female. Dibble drove by the three once, then came back and stopped them. About seven minutes had passed since he had received the dispatch. Dibble advised the three that there had been a robbery in the area and that he was going to “check all three of them out.” Dibble had them place their hands on his car as he frisked them. He patted down Santana first. In Santana’s coat pocket Dibble found a large wad of cash and some loose food stamps. At that point, Dibble believed he had collared the perpetrator and called for back-up assistance.
+Once they were inside the patrol car, Dibble read Santana his rights and asked him whether he had had a gun while he was in the store. Santana responded affirmatively and indicated that the weapon was in the inside pocket of the coat that Dibble had taken from him. Dibble checked the coat and found a .22 caliber Beretta pistol inside. Santana was transported to the police station, where he signed a Miranda rights form and then gave a written confession.
+On April 8, 1998, appellant was indicted on one count of aggravated robbery with a firearm specification and one count of carrying a concealed weapon. The case proceeded to a jury trial on June 24,1998. Santana’s counsel filed no motion to suppress. On June 25, a jury found Santana guilty on all charges.
+Santana’s appeal centered on his counsel’s failure to file a motion to suppress evidence derived from a possibly unlawful arrest. The court of appeals found that Santana had been prejudiced by deficient representation and that a motion to suppress his arrest and all subsequent statements should have been filed because the initial stop and frisk by Dibble was “problematical.”
+However, the appellate court adopted an incorrect standard in arriving at its conclusion. The court correctly stated that to establish a claim of ineffective assistance of counsel, a defendant must establish both that his counsel’s performance was deficient and that he was prejudiced by the deficient representation. Regarding the specific issue of failure to file a motion to suppress, the court erred. It held that the standard to determine whether counsel was deficient in not filing a motion to suppress is “whether there is evidence in the record to support the conclusion that the motion to suppress ‘could possibly have been granted.’ (Emphasis added.) State v. Payton (1997), 119 Ohio App.3d 694, 704-705 [696 N.E.2d 240, 247] * * *.”
+The state correctly points out that the appellate court should have applied the standard from State v. Bradley (1989), 42 Ohio St.3d 136, 538 N.E.2d 373, at paragraph three of the syllabus:
+“To show that a defendant has been prejudiced by counsel’s deficient performance, the defendant must prove that there exists a reasonable probability that, were it not for counsel’s errors, the result of the trial would have been different.”
+Thus, the appellate court applied a “possibility” standard to the success of a hypothetical motion to suppress when it should have applied a “reasonable probability” standard. While the two standards do differ, we should not confuse “reasonable probability” with “probable.” “Reasonable probability” is synonymous with “reasonable likelihood,” while “probable” connotes having a greater likelihood of occurring than not occurring. In Bradley, this court defined “reasonable probability” as “ ‘a probability sufficient to undermine confidence in the outcome.’ ” 42 Ohio St.3d at 142, 538 N.E.2d at 380, quoting Strickland v. Washington (1984), 466 U.S. 668, 694, 104 S.Ct. 2052, 2068, 80 L.Ed.2d 674, 698. While “reasonable probability” is a higher standard to achieve than “possibility,” it is not an appreciable difference in this case. I would find under either standard that Santana’s proved his claim of ineffective assistance of counsel.
+Part of the Bradley standard is that “counsel’s performance is proved to have fallen below an objective standard of reasonable representation.” 42 Ohio St.3d at 142, 538 N.E.2d at 380. Certainly, that was the case here. The vast majority of the state’s evidence was the fruit of Dibble’s stop of Santana. Any reasonably effective counsel would have filed a motion to suppress that evidence based upon the circumstances of the stop. Counsel should have filed a pretrial motion to determine whether this stop and frisk complied with Terry v. Ohio (1968), 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889. The state suggests that counsel’s decision not to file a motion to suppress could have been a part of an overall trial strategy. While plans that are “so crazy they just might work” are a staple in motion pictures, they have no place in the defense of a person who faces the loss of his personal liberty. The state should concede counsel’s error and concentrate its efforts on defending the legality of the stop.
+Thomas L. Sartini Ashtabula County Prosecuting Attorney, Ariana E. Tarighati and Angela M. Scott, Assistant Prosecuting Attorneys, for appellant.
+Virginia K. Miller, for appellee.
+If counsel’s performance is deficient, the next step is to determine whether the defendant was prejudiced. We do that by determining whether there is a reasonable probability that the trial would have been different without counsel’s error. Central to that question in this case is whether the evidence produced by Dibble’s stop would have been admissible at trial.
+The trial court would have been called upon to apply the facts of this case to Terry. Pursuant to Terry, “[t]o justify a particular intrusion, the officer must demonstrate ‘specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion.’ ” Maumee v. Weisner (1999), 87 Ohio St.3d 295, 299, 720 N.E.2d 507, 512, quoting Terry, 392 U.S. at 21, 88 S.Ct. at 1880, 20 L.Ed.2d at 906.
+Here, Dibble was responding to a dispatch reporting that a lone, white, male gunman had held up BB’s Mini Mart on Center Street. The dispatch did not include a description of the perpetrator’s clothing. When Dibble saw him, Santana was walking in the general neighborhood of BB’s, but not on Center Street, with two companions. He was not walking quickly or furtively. It seems that little but intuition guided Dibble in his stop of Santana. The “specific and articulable facts” required by Terry appear to be lacking, and a motion to suppress evidence produced by the stop would likely have been successful.
+While there was evidence against Santana not associated with Dibble’s stop, including some eyewitness testimony and a store videotape, I still would hold that there exists a reasonable probability that the result of the trial would have been different without the evidence generated by the stop. Therefore, I would accordingly order a new trial.
+Lundberg Stratton, J., concurs in the foregoing dissenting opinion.
