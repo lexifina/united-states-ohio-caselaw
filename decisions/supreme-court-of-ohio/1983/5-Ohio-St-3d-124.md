@@ -1,0 +1,47 @@
+---
+court: "Supreme Court of Ohio"
+docket: "82-1345"
+decided: "1983-06-08"
+citations: ["5 Ohio St. 3d 124"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney, Locher, Holmes, C. Brown and J.P. Celebrezze, JJ., concur."]
+parties: ["The State, ex rel. Montrie Nursing Home, Inc., et al., Appellees and Cross-Appellants, v. Creasy, Dir., et al., Appellants and Cross-Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/5/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812727
+cites_cases: ["138 Ohio St. 508", "14 O.O.3d 269", "21 O.O. 386", "21 O.O.3d 215", "21 O.O.3d 228", "3 O.O.3d 360", "36 Ohio St. 409", "38 A.L.R. 3d 1384", "49 Ohio St. 2d 219", "60 Ohio St. 2d 66", "67 Ohio St. 2d 342", "67 Ohio St. 2d 363"]
+---
+
+# State ex rel. Montrie Nursing Home, Inc. v. Creasy
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondents initially raise the question of whether the court of appeals properly used the interest on the amount deposited by respondents to pay attorney’s fees to relators’ attorneys. Respondents argue that any prejudgment interest belongs to the state, while relators maintain that the state admitted liability when it deposited the sum with the court and the interest which subsequently accrues inures to the relators, the prevailing party. We find respondents’ argument well-taken and reverse the decision of the court of appeals to distribute the interest as attorney’s fees.
+This court faced nearly the same issue in State, ex rel. Home Care Pharmacy, Inc., v. Creasy (1981), 67 Ohio St. 2d 342 [21 O.O.3d 215]. There, certain pharmaceutical retailers sought a writ of mandamus to compel the payment of Medicaid reimbursements from the ODPW which had been delayed due to.-a state fiscal crisis. In addition, relators sought to compel the state to pay interest on the delayed reimbursements. We unanimously denied the writ and stated at page 344:
+i<* * * < <<pjn ^ absence of a statute requiring it * * * interest cannot be adjudged against the state for delay in the payment of money.” ’ Lewis v. Benson (1979), 60 Ohio St. 2d 66, 67 [14 O.O.3d 269], quoting from the fourth paragraph of the syllabus in State, ex rel. Parrott, v. Board of Public Works (1881), 36 Ohio St. 409.”
+While R.C. 2743.18(A) does allow prejudgment interest to be assessed against the state, we have limited R.C. 2743.18(A) to cases arising in the Court of Claims:
+“* * * This statute [R.C. 2743.18(A)] is part of the Court of Claims Act and is applicable only to actions brought in the Court of Claims.” Id.
+As a result, relators’ argument that the state is not entitled to retain the prejudgment interest is without merit. For the foregoing reasons, the judgment of the court of appeals awarding the prejudgment interest to relators’ attorneys as attorney’s fees is reversed.
+The next issue is whether the award of attorney’s fees was proper in this case. In Smith v. Kroeger (1941), 138 Ohio St. 508 [21 O.O. 386], this court stated at paragraph three of the syllabus:
+“In such case [class action], a court exercising equitable jurisdiction may allow, in addition to costs between party and party, reasonable attorney fees, technically known as costs between solicitor and client, to be paid out of the fund under the control of the court.”
+The court in Smith v. Kroeger, supra, at 515, further stated that the attorney who is eligible for attorney’s fees is one “ ‘who, at his own expense, has maintained a successful suit for the preservation, protection, and increase of a common fund or common property, or who has created at his own expense, or brought into court a fund in which others may share with him.’ ”
+In other words, where a fund has been created or preserved for the benefit of a class at the expense of one class member or a few class members, all members of the class may be required to share proportionately in the counsel fees incurred thereby. Thus, the court below had discretion whether to grant attorney’s fees. However, any attorney’s fees must come from the fund itself and may not be assessed against respondents in the absence of some exceptional conduct on respondents’ part which would justify the imposition of attorney’s fees as costs or damages.
+The facts of the case at bar mandate a remand to the court of appeals for a consideration of the propriety of awarding attorney’s fees from the fund created in this case. On remand, should the court of appeals determine that relators’ counsel are entitled to a portion of the fund as attorney’s fees, the court shall not award simply a percentage of the fund as attorney’s fees, but shall award any attorney’s fees solely upon a determination of the amount of reasonable compensation for the legal services rendered by counsel for relators.
+Several questions must be answered by the court of appeals. The court below shall first consider the effect of the fact that the costs of this litigation were advanced to relators’ counsel by the Ohio Health Care Association. Specifically, it must be determined whether the members of the class have in fact already financed this litigation through membership fees or dues in this organization.
+If the court below ultimately finds that attorney’s fees are proper under these circumstances, the court will consider the following factors in arriving at the amount of allowable fees: (1) the time and labor involved in maintaining this litigation, (2) the novelty, complexity, and difficulty of the questions involved, (3) the professional skill required to perform the necessary legal services, (4) the experience, reputation, and ability of the attorneys, and (5) the miscellaneous expenses of this litigation.
+Finally, we address the court of appeal’s construction of Am. Sub. H.B. Nos. 155 and 1546,111th General Assembly. That bill provided the method to compute the reasonable costs incurred by nursing homes in providing Medicaid services. The nursing homes were then reimbursed for these costs by the ODPW-administered Medicaid program. In part, the bill stated:
+“(B) * * * Reimbursement for a cost of property and equipment * * * shall be on a reasonable cost basis, as follows: Facilities * * * constructed prior to and subsequently originally licensed prior to 1958 — $2.50 per available bed per day. Facilities * * * constructed and subsequently originally licensed after 1957 but prior to 1968 — $3.50 per available bed per day. Facilities * * * constructed and subsequently originally licensed January 1, 1968 and. after, $4.50 per available bed per day.”
+The court below interpreted the phrase “per available bed per day” to refer to those beds occupied by Medicaid patients only. Additionally, the court construed the phrase “constructed and subsequently originally licensed” to refer to the date of original licensure, not the licensure to a subsequent purchaser of the facility. We agree with both these interpretations.
+We find no merit to relators’ assertion that the phrase “per available bed per day” means the number of beds, regardless of their occupancy by a Medicaid patient. If that were true, the state would be required to reimburse nursing homes with Medicaid money even if no services were rendered to a Medicaid patient. Contrary to relators’ position, we find that the General Assembly intended that Am. Sub. H.B. Nos. 155 and 1546 only apply to beds used to render services to Medicaid patients. Accordingly, the court of appeal’s interpretation was correct and no error was committed in calculating respondents’ liability.
+Relators also contend that the phrase “constructed and subsequently originally licensed” should be construed to refer to the date a subsequent purchaser of the nursing home acquires a license to operate the facility. To the contrary, the bill specifically refers to original licensure, not any subsequent licensure. Thus it is clear that the General Assembly intended that the date of original licensure control for purposes of computing reimbursement under the Medicaid program. Ergo, the court of appeals properly construed Am. Sub. H.B. Nos. 155 and 1546 to be limited to the original licensure and not to extend to a subsequent licensure of the nursing home.
+Accordingly, for the reasons expressed in this opinion, the judgment of the court of appeals is reversed in part and affirmed in part, and the cause is remanded for further proceedings not inconsistent with this opinion.
+Judgment accordingly.
+Celebrezze, C.J., W. Brown, Sweeney, Locher, Holmes, C. Brown and J.P. Celebrezze, JJ., concur.
+R.C. 2743.18(A) states:
+“Prejudgment interest shall be allowed with respect to any civil action on which a judgment or determination is rendered against the state for the same period of time and at the same rate as allowed between private parties to a suit.
+“The court of claims, in its discretion, may deny prejudgment interest for any period of undue delay between the commencement of the civil action and the rendition of a judgment or determination against the state, for which it finds the claimant to have been responsible.”
+See, e.g., State, ex rel. Crockett, v. Robinson (1981), 67 Ohio St. 2d 363 [21 O.O.3d 228] (bad faith), and State, ex rel. Fraternal Order of Police, v. Dayton (1977), 49 Ohio St. 2d 219 [3 O.O.3d 360] (civil contempt).
+See, generally, Annotation, Attorney’s Pees in Class Actions (1971), 38 A.L.R. 3d 1384.
