@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-2625"
+decided: "1997-02-05"
+citations: ["77 Ohio St. 3d 402"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Strongsville Board of Education et al., Appellants, v. Cuyahoga County Board of Revision; Schurmer Investment Company, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/77/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751900
+cites_cases: ["11 OBR 523", "11 Ohio St.3d 205", "19 Ohio St.2d 137", "249 N.E.2d 892", "336 N.E.2d 433", "38 Ohio St.3d 198", "44 Ohio St.2d 13", "465 N.E.2d 50", "48 O.O.2d 169", "50 Ohio St.3d 55", "527 N.E.2d 874", "552 N.E.2d 892", "573 N.E.2d 661", "61 Ohio St.3d 155", "613 N.E.2d 1037", "66 Ohio St.3d 602", "664 N.E.2d 922", "665 N.E.2d 194", "73 O.O.2d 83", "75 Ohio St.3d 552", "75 Ohio St.3d 601"]
+---
+
+# Strongsville Board of Education v. Cuyahoga County Board of Revision
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Strongsville, first, argues that the BTA should have valued the two main shopping buildings as individual shopping centers. It claims that each building is an economic unit and that the BTA should have sought the highest possible value for the complex. We disagree.
+In Park Ridge Co. v. Franklin Cty. Bd. of Revision, supra, paragraph two of the syllabus, we stated:
+“The true value for real property may well depend on its potential use as an economic unit. That unit may include multiple parcels, or it may be a part of a larger parcel, on the auditor’s records. The boundaries of that unit may change with time and circumstances. Thus, a separate tract for valuation purposes need not correspond with a numbered parcel. For tax valuation purposes, property with a single owner, for which the highest and best use is a single unit, constitutes a tract, lot, or parcel.”
+Park Ridge concluded that “whether the property serves its highest and best use as a single unit or as multiple units is generally a factual issue.” Id. at 16, 29 OBR at 234, 504 N.E.2d at 1120. Park Ridge continued to state that these factual questions rest within the sound discretion of the BTA. However, we have since clarified the BTA’s role as to its findings and our appellate review of such findings. In Witt Co. v. Hamilton Cty. Bd. of Revision (1991), 61 Ohio St.3d 155, 157, 573 N.E.2d 661, 662-663, we stated:
+“This court has consistently held that ‘[t]he BTA need not adopt any expert’s valuation. It has wide discretion to determine the weight given to evidence and the credibility of witnesses before it. Its true value decision is a question of fact which will be disturbed by this court only when it affirmatively appears from the record that such decision is unreasonable or unlawful. * * * ’ (Citation omitted.) R.R.Z. Assoc. v. Cuyahoga Cty. Bd. of Revision (1988), 38 Ohio St.3d 198, 201, 527 N.E.2d 874, 877. See, also, Cardinal Federal S. & L. Assn. v. Cuyahoga Cty. Bd. of Revision (1975), 44 Ohio St.2d 13, 73 O.O.2d 83, 336 N.E.2d 433, at paragraphs three and four of the syllabus; Crow v. Cuyahoga Cty. Bd. of Revision (1990), 50 Ohio St.3d 55, 57, 552 N.E.2d 892, 893-894. Moreover, this court ‘will not overrule BTA findings of fact that are based upon sufficient probative evidence.’ R.R.Z. Assoc., supra, 38 Ohio St.3d at 201, 527 N.E.2d at 877.”
+We will reverse BTA decisions on ultimate factual conclusions because these conclusions are legal in nature. SFZ Transp., Inc. v. Limbach (1993), 66 Ohio St.3d 602, 613 N.E.2d 1037; Olmsted Falls Village Assn. v. Cuyahoga Cty. Bd. of Revision (1996), 75 Ohio St.3d 552, 664 N.E.2d 922.
+Consequently, we affirm the BTA’s basic factual findings if sufficient, probative evidence of record supports these findings. We also affirm the BTA’s rulings on credibility of witnesses and weight attributed to evidence if the BTA has exercised sound discretion in rendering these rulings. Finally, we affirm the BTA’s findings on ultimate facts, i.e., factual conclusions derived from given basic facts, Ace Steel Baling, Inc. v. Porterfield (1969), 19 Ohio St.2d 137, 142, 48 O.O.2d 169, 171-172, 249 N.E.2d 892, 895-896, if the evidence the BTA relies on meets these above conditions, and our analysis of the evidence and reading of the statutes and case law confirm its conclusion. After meeting all these prerequisites, the BTA’s decision would, thus, be reasonable and lawful, pursuant to R.C. 5717.04.
+After our analysis of the evidence here, we agree with the BTA’s finding that the two main buildings are one economic unit, which is an ultimate fact. Baker appraised the two buildings as one economic unit. He testified that the type of buildings and tenants and the cash flow the buildings generated caused them to be one unit. Thus, sufficient, probative evidence supports the basic facts. Further, we agree with the BTA’s logic in reaching its finding on this ultimate fact. Schurmer operates the main buddings as a balance for each other because the drugstore, anchor tenant in one building, complements the grocery, anchor tenant in the other. The parking lot and driveway areas serve both buildings, which are connected by a crosswalk. Further, we note a single owner operates the two buildings conjunctively. Thus, the BTA correctly decided this fact.
+Next, Strongsville argues that the rents the BTA adopted were not market rents because they were the actual rents paid under out-of-date leases. Again, we disagree with Strongsville.
+Baker had employed actual rents as market rents to process his income approach. He concluded that Towne Centre was a properly managed shopping center receiving market rents, and the BTA approved of this. The record supports the BTA’s conclusion. Baker, an expert real estate appraiser, testified that, despite the leases having some age, the step increases rendered the actual rents to be economic rents. This reliable and probative evidence supports the BTA’s finding of basic facts, and logic supports the ultimate fact that the rents this properly managed shopping center received were market rents.
+Finally, Strongsville claims that the BTA’s decision is not based upon probative and credible evidence. It then recites a litany of errors it alleges the BTA committed.
+What we said in Wolf v. Cuyahoga Cty. Bd. of Revision (1984), 11 Ohio St.3d 205, 207,11 OBR 523, 524, 465 N.E.2d 50, 52, applies equally here:
+“A great deal of appellants’ argument is devoted to the rebuttal of appellees’ expert’s testimony. Ultimately they conclude that none of his conclusions is credible enough to be relied on by the BTA. However, such a determination is precisely the kind of factual matter to be decided by the BTA. It is clear from the record that the BTA’s final determination represented a compromise between the conflicting positions of the two experts. * * * There is no indication on the face of the record of any abuse of discretion, nor have appellants proven any violation by the BTA, which would render the decision unreasonable or unlawful.” See, also, Fawn Lake Apts. v. Cuyahoga Cty. Bd. of Revision (1996), 75 Ohio St.3d 601, 603, 665 N.E.2d 194, 196.
+Accordingly, we affirm the BTA’s decision because it is reasonable and lawful.
+Decision affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
