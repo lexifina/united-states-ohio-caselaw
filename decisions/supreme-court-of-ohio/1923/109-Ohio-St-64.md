@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "17961"
 decided: "1923-12-04"
-citations: ["109 Ohio St. 64", "1 Ohio Law Abs. 861", "1 Ohio Law Abs. 859"]
+citations: ["109 Ohio St. 64"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
