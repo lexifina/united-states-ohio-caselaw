@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Ohio"
+docket: "34701"
+decided: "1956-03-07"
+citations: ["165 Ohio St. 75"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Matthias, Hart, Zimmerman, Stewart and Bell, JJ., concur.", "Taft, J., dissents."]
+parties: ["Courtney, Appellant, v. City of Cleveland et al., Appellees."]
+source_url: "https://static.case.law/ohio-st/165/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722434
+---
+
+# Courtney v. City of Cleveland
+
+## Majority
+
+It is ordered and adjudged that this appeal as of right be, and the same hereby is, dismissed for the reason that no debatable constitutional question is involved.
+Appeal dismissed.
+Weygandt, C. J., Matthias, Hart, Zimmerman, Stewart and Bell, JJ., concur.
+Taft, J., dissents.
