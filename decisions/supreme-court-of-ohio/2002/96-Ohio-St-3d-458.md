@@ -1,0 +1,46 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2002-0313"
+decided: "2002-10-02"
+citations: ["96 Ohio St. 3d 458"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., F.E. Sweeney, Pfeifer and Lundberg Stratton, JJ., concur.", "Douglas, J., concurs in judgment only.", "Cook, J., dissents.", "Resnick, J., not participating."]
+parties: ["Office of Disciplinary Counsel v. Conese."]
+source_url: "https://static.case.law/ohio-st-3d/96/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071410
+cites_cases: ["2002-Ohio-4797", "707 N.E.2d 852", "769 N.E.2d 816", "85 Ohio St.3d 169", "95 Ohio St.3d 490", "Registration No. 0032804,"]
+---
+
+# Office of Disciplinary Counsel v. Conese
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} This case requires us to decide the sanction for an attorney who failed to deposit in a trust account funds earmarked to pay his client’s child support arrearages and then did not honestly account for these funds. We must also decide whether procedural delay compromised the attorney’s right to a fair hearing. The Board of Commissioners on Grievances and Discipline found that respondent, Michael Conese of Hamilton, Ohio, Attorney Registration No. 0032804, engaged in this misconduct and thereby violated DR 9-102(A) (failing to deposit client funds in an identifiable trust account), (B)(3) (failing to keep records and appropriately account for client’s funds), 1-102(A)(4) (conduct involving dishonesty, fraud, deceit, or misrepresentation), and (5) (conduct prejudicial to the administration of justice). The board did not find any prejudicial delay and recommended that respondent be suspended from the practice of law in Ohio for one year with six months of this sanction stayed. We agree with the board’s findings and recommendation.
+{¶ 2} On February 24, 1997, a client retained respondent to defend him against a felony charge of failure to pay child support. On that day, respondent and the client met before his arraignment, and they signed an agreement for a total fee of $3,500, payable in two installments. The first installment of $2,000 was to be paid immediately, and $1,500 was to be paid on March 26, 1997. The client gave respondent a check for $2,000 pursuant to the agreement, but the check was returned for insufficient funds, and he paid nothing on March 26, 1997. The client later met respondent on April 23, 1997, the date the client appeared in court to enter a guilty plea, and gave him a bank check for $4,000 payable to respondent. Respondent thereafter deposited the entire $4,000 in his office bank account.
+{¶ 3} At least two different explanations exist for what happened between respondent and his client on the day the client tendered this $4,000 check. Respondent submits that he and his client changed their initial fee arrangement because respondent had spent so much time on the case and that both orally agreed to a revised $4,000 fee. The client, however, recalled that respondent promised to apply $1,000 to reduce the arrearage in his child support payment, and the client assumed that respondent would keep the remaining $3,000 as his fee.
+{¶ 4} An assistant prosecutor in charge of enforcing the client’s child support obligation corroborated the client’s recollection. The prosecutor recalled discussing with respondent his fee arrangement with his client on two separate occasions. On the first occasion, which was either on February 24 or April 23, 1997, she recalled respondent’s saying that he had placed $1,000 in his trust account and intended to apply the amount to the client’s child support arrearage. But at a sentencing hearing on July 23, 1997, at which the client failed to appear, the prosecutor recalled respondent’s saying that his client had given him money only to pay his legal fees.
+{¶ 5} The prosecutor did not suspect until more than a year later that respondent had kept more of his client’s money than he should have. In the meantime, the client was charged for his failure to appear on July 23, 1997, and had retained a new attorney. At a plea hearing in August 1998 on the charge of failure to appear, the prpsecutor learned from the client and his new attorney that the client had paid respondent $4,000 so that $3,000 would be used for respondent’s legal fees and $1,000 would be used for owed child support. The prosecutor also learned that the $1,000 had not been applied to the arrearage.
+{¶ 6} On October 16, 1998, the prosecutor reported to the Butler County Bar Association the possibility that respondent had retained his client’s money without authority. A representative of the bar association began to investigate and sent a letter, dated March 2, 1999, to the client inquiring about his relationship with respondent. Thereafter, the bar association transferred the cause to relator, Disciplinary Counsel, to complete the investigation.
+{¶ 7} During the investigation, relator asked respondent to explain what happened to the $4,000 his client gave him on February 24, 1997. Respondent had no office accounting records of the transaction, and in his written response, he never mentioned any agreement to revise the contract for his professional services. He instead represented that his client had signed the bank check over to him, that they went to a bank and cashed the check, and that respondent kept $3,000 while his client, who was there with his parents, kept the balance.
+{¶ 8} Relator filed a complaint on June 5, 2000, charging respondent with various violations of the Code of Professional Responsibility. After respondent’s motion to dismiss due to investigative delay was overruled, a panel of the board found the facts as stated. The panel concluded that respondent violated DR 9-102(A) and (B)(3) by keeping $1,000 of his client’s money and then failing to properly account for the client’s funds. The panel also found violations of DR 1-102(A)(4) and (5).
+{¶ 9} In recommending a sanction for this misconduct, the panel considered as mitigating the fact that respondent had “never been in any difficulty with the law” and had served honorably as municipal court judge in Butler County. In aggravation, the panel considered that respondent had lied during the investigation of his misconduct because respondent falsely represented that he had returned the $1,000 in dispute to his client. The panel “then accepted the sanction suggested by relator and recommended that respondent be suspended from the practice of law for one year, with six months of this sanction stayed on the condition that he commit no further misconduct. The board adopted the panel’s findings of fact, conclusions of law, and recommendation.
+{¶ 10} We concur in the board’s decision. Moreover, while the investigation in this case took approximately one year and eight months, which is prima facie evidence of unreasonable delay under Gov.Bar R. V(4)(D)(3) (investigation should be concluded in one year from date grievance is filed), we see no prejudice to respondent. Respondent’s only complaint in this regard is that he had difficulty recalling what had happened to the money his client had given him because those events happened in 1997. But as relator argues, respondent’s inability to explain his actions resulted not from the passage of time but from his failure to maintain the required records of his client’s funds.
+{¶ 11} Accordingly, for his violations of DR 9-102(A) and (B)(3) and 1-102(A)(4) and (5), respondent is hereby suspended from the practice of law in Ohio for one year; however, six months of this sanction are stayed on the condition that he commit no further misconduct. Costs are taxed to respondent.
+Judgment accordingly.
+Moyer, C.J., F.E. Sweeney, Pfeifer and Lundberg Stratton, JJ., concur.
+Douglas, J., concurs in judgment only.
+Cook, J., dissents.
+Resnick, J., not participating.
+Jonathan Coughlan, Disciplinary Counsel, and Kevin L. Williams, Assistant Disciplinary Counsel, for relator.
+George M. Parker, for respondent.
+
+## Dissent (Cook, J.,)
+
+Cook, J.,
+dissenting.
+{¶ 12} Although the majority opinion does not expressly say so, this case involves the misappropriation of client funds. In such cases, we must begin our consideration with the presumptive sanction of disbarment. Cleveland Bar Assn. v. Dixon, 95 Ohio St.3d 490, 2002-0hio-2490, 769 N.E.2d 816, at ¶ 15. On some occasions, however, we have given weight to a board’s recommendation of a lesser sanction because of mitigating circumstances. See, e.g., Disciplinary Counsel v. Wise (1999), 85 Ohio St.3d 169, 171, 707 N.E.2d 852.
+{¶ 13} It is true that the record shows some mitigating circumstances in this case. But the record also reveals a significant aggravating circumstance: the respondent lied during the relator’s investigation of his misconduct. Given the respondent’s conduct and the serious aggravating circumstance involved here, I cannot join the majority’s significant downward departure from the presumptive sanction of disbarment. The respondent should be indefinitely suspended from the practice of law in Ohio. See, e.g., Wise, 85 Ohio St.3d at 171, 707 N.E.2d 852. I therefore respectfully dissent.
