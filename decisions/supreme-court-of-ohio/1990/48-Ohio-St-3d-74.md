@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Ohio"
+docket: "88-1597"
+decided: "1990-01-24"
+citations: ["48 Ohio St. 3d 74"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur."]
+parties: ["Richard T. Kiko Agency, Inc. et al., Appellees, v. Ohio Department of Commerce, Division of Real Estate, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/48/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1421731
+cites_cases: ["104 Ohio App. 316", "137 N.E. 2d 777", "153 Ohio St. 335", "17 Ohio St. 2d 69", "2 OBR 524", "2 Ohio App. 3d 430", "246 N.E. 2d 549", "26 OBR 366", "26 Ohio App. 3d 149", "4 O.O. 2d 479", "41 O.O. 334", "442 N.E. 2d 771", "456 N.E. 2d 573", "46 O.O, 2d 402", "498 N.E. 2d 1382", "8 OBR 136", "8 Ohio App. 3d 102", "91 N.E. 2d 686"]
+---
+
+# Richard T. Kiko Agency, Inc. v. Ohio Department of Commerce
+
+## Majority (Moyer, C.J.)
+
+Moyer, C.J.
+The question presented by this appeal is whether the Ohio Real Estate Commission had sufficient reliable, probative, and substantial evidence upon which to order Kiko’s real estate broker’s license suspended for fifteen days, and whether the order was contrary to law. We hold that the order was properly made.
+At the time this complaint was filed by the Buricks, R.C. 4735.18 provided, in relevant part:
+“The superintendent of real estate may, upon his own motion, investigate the conduct of any licensee. The Ohio real estate commission shall suspend or revoke the license of any licensee who, in his capacity as a real estate broker or salesman, or limited real estate broker or salesman, or in handling his own property, is found guilty of:
+* *
+“(F) Dishonest or illegal dealing, gross negligence, incompetency, or misconduct, including, without in any way limiting the foregoing, a conviction of a felony or a crime involving moral turpitude;
+* *
+“(Z) Failure to maintain at all times a special or trust bank account, noninterest-bearing, separate and distinct from any personal or other account of the broker and to which account must be deposited all escrow funds, security deposits, and other moneys received by the broker in a fiduciary capacity. * * *” (Emphasis added.)
+Real estate brokers, like attorneys or physicians, are subject to government regulation. The state has a valid interest in promoting the character, honesty and intellectual competence of real estate brokers, and the right to engage in the real estate business is in the nature of a privilege granted by the state. See Quinn v. Bd. of Real Estate Examiners (1956), 104 Ohio App. 316, 4 O.O. 2d 479, 137 N.E. 2d 777; Coldwell-Banker Residential Real Estate Serv., Inc. v. Bishop (1985), 26 Ohio App. 3d 149, 26 OBR 366, 498 N.E. 2d 1382. To this end, the General Assembly established the Ohio Real Estate Commission, comprised of experts with the responsibility of regulating the industry and adopting canons of ethics. R.C. 4735.03. Like other professionals, a person holding a real estate license is held to a higher standard of competency and fairness than is a lay member of the public in the marketplace. See Alban v. Ohio Real Estate Comm. (1981), 2 Ohio App. 3d 430, 434-435, 2 OBR 524, 529, 442 N.E. 2d 771, 776.
+Pursuant to R.C. 4735.18, the Superintendent of Real Estate may investigate the conduct of any real estate licensee, and the Ohio Real Estate Commission is empowered to determine whether the acts of a broker constitute “misconduct” within the meaning of R.C. 4735.18(F).
+R.C. 4735.18(Z) expressly requires that the broker deposit in a non-interest-bearing account and maintain any funds given to him pending the sale of real estate. Article 7 of the Canons of Ethics for the Real Estate Industry states the requirement thus: “The licensee should keep in a special bank account, separated from his own funds, monies coming into his hands in trust for other persons * * The broker in this transaction is in a fiduciary relationship with all parties and has an obligation of good faith and fair dealing. Kiko’s failure to inform or obtain consent from the parties before placing the escrowed funds in an interest-bearing account breaches both the direct language of the statute and his fiduciary duty to the parties. See Phillips Metro. Colored Methodist Episcopal Church v. Wahn-Evans & Co. (1950), 153 Ohio St. 335, 41 O.O. 334, 91 N.E. 2d 686.
+Appellees argue, and the court of appeals agreed, that Kiko’s conduct was .not misconduct because he was not willfully dishonest, and because he acted in good faith. Appellees maintain that because the term “misconduct” is not defined in R.C. Chapter 4735, it must be given its ordinary meaning. Black’s Law Dictionary (5 Ed. 1979) 901, defines “misconduct” as “[a] transgression of some established rule of action, a forbidden act, a dereliction from duty, unlawful behavior, willful in character, improper or wrong behavior; its synonyms are misdemeanor, misdeed, misbehavior, delinquency, impropriety, mismanagement, offense, but not negligence or carelessness. * * *” Webster’s New World Dictionary Third College Edition (1988) 866, defines “misconduct” as “unlawful, bad, or dishonest management,” or “willfully improper behavior.” We agree with appellant that, under these definitions, misconduct does not necessarily mean dishonesty. R. C. 4735.18(F) does not use the words “willful” or “wanton” to define misconduct. “Misconduct” under R.C. 4735.18(F) includes unprofessional conduct or that conduct involving any breach of duty which is prohibited under professional codes of ethics, or conduct which is contrary to law. Willfulness, good intentions or actual harm to a party are not necessarily controlling factors in such license suspension proceedings.
+In Vradenburg v. Ohio Real Estate Comm. (1982), 8 Ohio App. 3d 102, 8 OBR 136, 456 N.E. 2d 573, the court of appeals considered the legal meaning of the term “gross negligence,” in R.C. 4735.18(F), and whether the Ohio Real Estate Commission, in applying its expertise in the field of licensing and disciplining real estate sales people, reached a conclusion that was supported by reliable, probative and substantial evidence and in accordance with law. The court found that under the stipulated facts, the commission did not err as a matter of law in ruling that Vradenburg’s conduct constituted gross negligence.
+The standard of appellate review in an administrative agency ruling is to ascertain only if the agency’s action is supported by reliable, probative and substantial evidence, and is not contrary to law. See Dept. of Liquor Control v. Santucci (1969), 17 Ohio St. 2d 69, 46 O.O, 2d 402, 246 N.E. 2d 549.
+The undisputed facts of this case show that Kiko violated R.C. 4735.18(Z) by placing the funds given the agency into an interest-bearing account. He also disbursed the funds without the consent of both parties to the real estate transaction, thereby breaching his fiduciary obligation as expressed in Article 7 of the Canons of Ethics. The Ohio Real Estate Commission, therefore, had sufficient evidence to conclude that Kiko’s acts constituted “misconduct” within the meaning of R.C. 4735.18(F).
+The judgment of the court of appeals is reversed and the order of the Ohio Real Estate Commission is reinstated.
+Judgment reversed.
+Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.
+Canons of Ethics for the Real Estate Industry:
+Article 1: “Licensing as a real estate broker or salesman indicates to the public at large that the individual so designated has special expertise in real estate matters and is subject to high standards of conduct in his business and personal affairs. The licensee should endeavor to maintain and establish high standards of professional conduct and integrity in his dealings with members of the public as well as with fellow licensees and, further, seek to avoid even the appearance of impropriety in his activities as a licensee.”
+Article 3.1: “The licensee should be knowledgeable of the laws of Ohio pertinent to the conduct of his affairs in real estate and should keep informed of changes in the statutes of Ohio affecting his duties and responsibilities as a licensee.”
+Article 7: “The licensee should keep in a special bank account, separated from his own funds, monies coming into his hands in trust for other persons, such as escrows, trust funds, client’s monies and other like items.”
