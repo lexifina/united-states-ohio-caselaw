@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "19028"
+decided: "1925-03-18"
+citations: ["4 Ohio Law Abs. 142", "3 Abs. 198"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marshall, CJ., Matthias, Day, Allen, Kinkade, and Robinson, JJ., concur."]
+parties: ["City of Cleveland v. Amedeo Ferrando;"]
+source_url: "https://static.case.law/ohio-law-abs/4/cases/0142-09.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1637337
+---
+
+# City of Cleveland v. Ferrando
+
+## Majority
+
+error to the Cuyahoga Appeals. Judgment affirmed.
+Marshall, CJ., Matthias, Day, Allen, Kinkade, and Robinson, JJ., concur.
