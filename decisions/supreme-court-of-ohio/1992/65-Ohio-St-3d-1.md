@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "92-1343"
 decided: "1992-07-29"
-citations: ["65 Ohio St. 3d 1", "64 Ohio St. 3d 1435"]
+citations: ["65 Ohio St. 3d 1"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
