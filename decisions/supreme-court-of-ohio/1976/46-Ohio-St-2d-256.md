@@ -1,0 +1,62 @@
+---
+court: "Supreme Court of Ohio"
+docket: "75-535, 75-536 and 75-537"
+decided: "1976-05-19"
+citations: ["46 Ohio St. 2d 256"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, Corrigan, Stern, W. Brown and P. Brown, JJ., 'concur."]
+parties: ["City of Amherst et al., Appellants, v. Public Utilities Commission et al., Appellees. City of Canal Fulton et al., Appellants, v. Public Utilities Commission et al., Appellees. Armco Steel Corporation et al., Appellants, v. Public Utilities Commission et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-2d/46/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1797725
+cites_cases: ["126 Ohio St., 91", "149 Ohio St. 570", "80 N. E. 2d 150"]
+---
+
+# City of Amherst v. Public Utilities Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The principal question raised by this appeal is whether the Public Utilities Commission had the authority in case No. 75-536 to exercise the emergency powers granted to it in R. C. 4909.16.
+R. C. 4909.16 (former Gr. C. 614-32) grants to the Public Utilities Commission “* * * extraordinary and special powers in the event jt determines that an emergency exists.” Cincinnati v. Pub. Util. Comm. (1948), 149 Ohio St. 570, 575, 80 N. E. 2d 150.
+R. C. 4909.16 states:
+“When the Public Utilities Commission deems it necessary to prevent injury to the business or interests of the public or of any public utility of this state in ease of any emergency to be judged by the commission, it may temporarily alter, amend, or, with the consent of the public utility concerned, suspend any existing rates, schedules, or order relating to or affecting any public utility or part of any public utility in this state. Rates so made by the commission shall apply to one or more of the public utilities in this state, or to any portion thereof, as is directed by the commission, and shall take effect at such time and remain in force for such length of time as the commission prescribes.”
+In the present case, the record amply supports the decision of the commission that an emergency existed and that the rates charged to that portion of Ohio-Edison’s customers involved in these three appeals should be temporarily increased to prevent the emergency then facing the utility.
+However, appellants in case No. 75-536 urge that R. C. 4909.40 precludes the commission from exercising the emergency powers where the municipalities have passed rate-fixing ordinances. This court disagrees. The same argument was presented to this court in Cincinnati v. Pub. Util. Comm., supra (149 Ohio St. 570). The syllabus of that decision states:
+“During an appeal to the Public Utilities Commission by a public utility from a rate-fixing ordinance, where there is at the time no contract between the municipality and utility as to the furnishing of utility services or products, the commission has jurisdiction and power under Section 614-32, General Code [now R. C. 4909.16], if it finds an emergency exists, to establish and enforce interim rates to prevent injury to the public or utility, pending determination of such appeal. (City of Cleveland v Public Utilities Commission, 126 Ohio St., 91, overruled.)”
+The only essential difference between the present appeal and Cincinnati is that here the utility elected to charge the ordinance rate pursuant to R. C. 4909.38, but in Cincinnati, the utility elected to charge the pre-existing rate pursuant to G. C. 614-45 (now R. C. 4909.38).' That difference does not, however, change the result reached in Cincinnati'. Whichever election the utility makes pursuant to R. C. 4909.38, the resulting rate pending appeal is one ordained by statute and not one set by the ordinance itself.
+Therefore, R. C. 4909.40 has no application in either case. Of course, where the utility accepts the ordinance, an ordinance contract is formed and the prohibition of R. C. 4909.40 squarely applies.
+With regard to the other errors assigned by appellants, the court finds that the order of the commission was not unreasonable or unlawful, particularly in light of the broad powers conferred on the commission under R. C. 4909.16 once it has determined that an emergency exists.
+For the foregoing reasons, the order of the commission is. affirmed.
+Order affirmed.
+O’Neill, C. J., Herbert, Corrigan, Stern, W. Brown and P. Brown, JJ., 'concur.
+
+## Dissent (Celebrezze, J.,)
+
+Celebrezze, J.,
+dissenting. I respectfully dissent for the reason that, in my opinion, the majority misconstrues B. C. 4909.38 and 4909.40, and misreads the holding of this court in Cincinnati v. Pub. Util. Comm. (1948), 149 Ohio St. 570.
+On October 10,1974, Ohio Edison Company filed applications for emergency rate relief, pursuant to R. C. 4909.16, with the Public Utilities Commission, in three permanent rate relief cases then pending with the commission. During the pendency of these applications, appellant municipalities passed ordinances fixing rates pursuant to R. C. 743.26. The Ohio Edison Company appealed each such ordinance to the commission pursuant to R. C. 4909.34, but elected to charge the rate set by each ordinance in the interim period.
+The statutes relevant to this appeal are as follows:
+B. C. 4909.16, provides:
+“When the Public Utilities Commission deems it necessary to prevent injury to the business or interests of the public or of any public utility of this state in case of any emergency to be judged by the commission, it may temporarily alter, amend, or, with the consent of the public utility concerned, suspend any existing rates, schedules, or order relating to or affecting, any public utility or part of any public utility in this state. Bates so made by the commission shall apply to one or more of the public utilities in this state, or to any portion thereof, as is directed by the commission, and shall take effect at such time and remain in force for such length of time as the commission prescribes.”
+R. C. 4909.34 provides, in pertinent part:
+“Any municipal corporation in which any public utility is established may, by ordinance, at any time within one year before the expiration of any contract entered into under Sections 715.34, 743.26, and 734.28 of the Revised Code between the municipal corporation and such public utility with respect to the rate,- price, charge, toll, or rental to be made, charged, demanded, collected, or exacted, for any commodity, utility, or service by such public utility, or at any other time authorized by law, proceed to fix the price, rate, charge, toll, or rental that such public utility may charge, demand, exact, or collect for such commodity, utility, or service for an ensuing period as provided in such sections.”
+R. C. 4909.38 provides, in pertinent part:
+“No complaint or appeal to the public utilities commission under Sections 4909.34 to 4909.-36, inclusive, of the Revised Code, shall suspend, vacate, or set aside the rate, price, charge, toll, or rental fixed by ordinance unless the public utility elects to charge the rate, price, charge, toll, or rental in force immediately prior to the talcing effect of the regulation complained of and appealed from, and gives an undertaking in such an amount as the commission determines. * * * Such complaint or appeal to the commission shall suspend, vacate, and set aside all the provisions of the ordinance complained of and appealed from excepting the rate, price, charge, toll, or rental fixed by such ordinance.” (Emphasis added.)
+R. C. 4909.40 provides:
+“Chapters 4901, 4903, 4905, 4907, 4909, 4921, 4923, and 4925 of the Revised Code do not apply to any rate, fare, or regulation prescribed by any municipal corporation granting a right, permission, authority, or franchise to use its streets, alleys, avenues, or public places for street railway purposes, or to any prices so fixed under Sections 715.-34, 743.26, and 743.28 of the Revised Code, except as provided in Sections 4909.34, 4909.35, 4909.36, 4909.38, and 4909.39 of the Revised Code.”
+R. C. 743.26 provides, in pertinent part:
+“The legislative authority of a municipal corporation in which electric lighting companies * * # are established, or into which,their wires * * * are conducted, may regulate the price which such companies may charge for electric light * # * furnished by such companies to the citizens, or to the public grounds, buildings, streets, lanes, alleys, avenues, wharves, and landing places, or for fire protection.
+Appellants maintain that R. C. 4909.40 prohibits' the commission from exerting emergency jurisdiction pursuant to R. C. 4909.16 when a utility is collecting rates pursuant to an existing ordinance established by a municipality via R. C. 4909.34 and 743.26.1 agree.
+R. C. 4909.40 expressly states that Chapter 4909 shall not apply to rates prescribed by any municipal corporation pursuant to R. C. 743.26, “except as provided in Sections 4909.34, 4909.35, 4909.36, 4909.38, and 4909.39 of the Revised Code.” Thus, R. C. 4909.16, a part of Chapter 4909, has. no application in the instant cause, unless construction of R. C. 4909.34 through 4909.39 requires its application pursuant to the last clause contained within R. C. 4909.40.
+R. C. 4909.38, however, provides that a rate fixed by ordinance shall not be altered pending appeal of such ordinance rate by the utility involved to the commission, “unless the public utility elects to charge the rate * * * in force immediately prior to the taking effect of the regulation complained of and appealed from. ’ ’
+In my view the relevant statutes set forth herein, supra, provide the utility with an option in circumstances' similar to those presented in the cause at bar: Either (1) charge pre-ordinance rates pursuant to R. C. 4909.38, in which case the ordinance rates are suspended by operation of law, and seek emergency relief pursuant to R. C. 4909.16 ;• or (2) charge the ordinance rates, and pursue a determination of the reasonableness of same through appeal to the commission. The majority opinion permits, the utility to combine these options and, in so doing, effectively repeals R. C. 4909.40.
+Close analysis of the holding in Cincinnati v. Pub. Util. Comm., supra, does not abrogate the above reasoning.
+The syllabus in Cincinnati states:
+“During an appeal to the Public Utilities Commission by a public utility from a rate-fixing ordinance, where there is at the time no contract between the municipality cmd utility as to the furnishing of utility services or products, the commission has jurisdiction and power under Section 614-32, General Code [R. C. 4909.16], if it finds an emergency exists-, to establish and enforce interim rates to prevent injury to-the public or utility, pending determination of. Such appeal.- (City of Cleveland v. Public Utilities Commission, 126 Ohio St., 91, overruled.)” (Emphasis added.)
+Judge Zimmerman, in writing for the court in Cincinnati, supra, at 574, held:
+“After a consideration and analysis -, of the -several statutes involved, we have come to the conclusion that Section: 614-47, -General Code [R. C. 4909.40]-,.. prevails and precludes - the commission from exercising-. jurisdiction where there is. a valid and operative ordinance, under which a.utility is furnishing its products or services, to- users within a municipality, but that where a utility has appealed to the commission from a rate ordinance unacceptable- to such utility,- the rates prescribed by such ordinance are suspended or abated; and that where, under Section .614-45, General Code [R. C. 4909.38], the utility elects.to charge the rate which previously existed, it is not charging .a rate fixed by any subsisting ordinance, but one which is ordained by statute pending the outcome of an appeal, In such circumstances, therefore, Section 614-47, General Code, does not operate to deny the commission jurisdiction.”
+The' court, in Cincinnati, was faced with a factual context wherein the utility, .pursuant to. what is now R. C. 4909.38,' elected, to charge the pre-ordinance rafe. In the cause at bar, however, Ohio Edison elected to charge the ordinance rates. Therefore, Cincinnati is distinguishable upon, its facts,, and does not support the.-result reached by the majority of this court in the instant cause. ■
+For the foregoing reasons, I respectfully dissent.
