@@ -1,0 +1,54 @@
+---
+court: "Supreme Court of Ohio"
+docket: "86-967"
+decided: "1987-07-01"
+citations: ["31 Ohio St. 3d 145"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney, Locher, Douglas and H. Brown, JJ., concur.", "Resnick and Wright, JJ., concur in part and dissent in part.", "Alice Robie Resnick, J., of the Sixth Appellate District, sitting for Holmes, J.", "Resnick, J., concurs in the foregoing opinion."]
+parties: ["Liqui*Lawn Corporation, Appellee, v. The Andersons, Appellant."]
+source_url: "https://static.case.law/ohio-st-3d/31/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1827182
+cites_cases: ["330 N.E. 2d 425", "42 Ohio St. 2d 524", "707 S.W. 2d 539", "71 O.O. 2d 513"]
+---
+
+# Liqui*Lawn Corp. v. Andersons
+
+## Majority (Moyer, C. J.)
+
+Moyer, C. J.
+The issue presented by this appeal is whether The Andersons may assert a licensor’s unpaid debt as a setoff against its liability arising under a licensing agreement which has been sold by the licensor’s creditor.
+The Andersons first contend that Liqui*Lawn is an assignee of Heritage House. It bases this contention on the claim that Midwest Bank, in disposing of its collateral after default, is acting as the selling agent for the debtor. Therefore, the person who ultimately owns the collateral has acquired his interest from a secured party acting as an agent for the debtor. The purchaser then is actually acquiring its interest from the debtor. Consequently, the purchaser of collateral is an assignee of the debtor. If Liqui*Lawn is deemed to be an assignee of Heritage House, then R.C. 1309.37(A) provides that the account debtor (The Andersons) may raise any defenses or claims against the assignee (Liqui*Lawn) that it could raise against the assignor (Heritage House). Thus, it is argued, The Andersons may raise the right to set off Heritage House’s prior debt, evidenced by the promissory note, against Liqui*Lawn’s claim to license fees.
+We disagree with the contention that a secured party is an agent of its debtor. A secured party that takes collateral and sells or retains the collateral in order to satisfy the debt for which the collateral is given is a purchaser in its own right. It takes title to the goods and can pass this title in a sale to a good faith purchaser for value. The secured party does not act as an agent for the debtor.
+“Purchase” and “purchaser” are defined in R.C. 1301.01 as follows:
+“(FF) ‘Purchase’ includes taking by sale, discount, negotiation, mortgage, pledge, lien, issue or reissue, gift, or any other voluntary transaction creating an interest in property.
+“(GG) ‘Purchaser’ means a person who takes by purchase.”
+It is generally accepted that the definition of “purchaser” includes a secured party who has acquired an interest in the property of the debtor by a voluntary transaction; the voluntary transaction being the agreement to enter into the debtor-creditor relationship. (White & Summers, Uniform Commercial Code [1980] 973, Section 23-18.)
+It follows that when Liqui*Lawn purchased the collateral from Midwest Bank, it was buying the property from a purchaser and not an agent. Liqui*Lawn is not merely an assignee of Heritage House; it is a purchaser of the assets. By virtue of the purchase, Liqui*Lawn received the assets of Heritage House, including the product licensing agreement, but it did not thereby assume the liabilities of Heritage House. Liqui*Lawn also meets the requirement of good faith purchaser for value, there being no allegation of bad faith or lack of consideration. R.C. 1309.47(D) provides:
+“When collateral is disposed of by a secured party after default, the disposition transfers to a purchaser for value all of the debtor’s rights therein, discharges the security interest under which it is made and any security interest or lien subordinate thereto. The purchaser takes free of aU such rights and interests even though the secured party fails to comply with the requirements of sections 1309.44 to 1309.50 of the Revised Code or of any judicial proceedings.” (Emphasis added.)
+Thus, a foreclosing creditor under R.C. 1309.47(D) passes to a purchaser for value unencumbered title to the collateral. R.C. 1309.47(D) operates to extinguish all of The Andersons’ rights in the collateral and transfers those rights to Liqui*Lawn, as a purchaser for value. Auton’s Fine Jewelry & Bridal Center, Inc. v. Beckner’s, Inc. (Tenn. App. 1986), 707 S.W. 2d 539.
+To give to The Andersons a right to set off the unpaid debt owed by Heritage House would, in effect, elevate its claim as an unsecured general creditor above that of a perfected secured party. Midwest apparently perfected its security interest by filing financing statements as required, by R.C. 1309.21. The security agreement in favor of Midwest covered all intangible items, which included the Heritage House product name and the good will associated with that name. Accordingly, when The Andersons executed the product licensing agreement with Heritage House, it was given the right to sell Heritage House products. But The Andersons assumed that right subject to Midwest’s previously perfected security interest. This right was a general intangible pursuant to R.C. 1309.01(A)(16). In order to perfect a security interest in a general intangible, R.C. 1309.21 requires the filing of a financing statement. The Andersons apparently failed to file and thus failed to perfect a security interest in the product licensing agreement. The Andersons was, therefore, merely an unsecured creditor of Heritage House. Midwest, as the perfected secured party, had priority over The Andersons’ claim. R.C. 1309.12. R.C. 1309.47(D), as discussed above, operates to prevent The Andersons from asserting its claim against Liqui*Lawn, the purchaser of the collateral.
+The Andersons urge, in the alternative, that the two agreements are so intertwined as to be inseparable so that Liqui*Lawn cannot claim the benefit of the product licensing agreement without also assuming the liabilities of the promissory note. It contends it is therefore entitled to an equitable setoff. As this court stated in Walter v. National City Bank (1975), 42 Ohio St. 2d 524, 71 O.O. 2d 513, 330 N.E. 2d 425, in paragraph one of the syllabus:
+“Setoff is not strictly limited by statute, and the courts can allow setoff upon equitable principles where necessary to prevent clear injustice.”
+The Andersons’ claim of a right to equitable setoff requires a finding that the licensing fee transaction was entered into as a means of satisfying the debt obligation between The Andersons and Heritage House evidenced by the promissory note. It is argued that the two documents must be viewed as a single transaction so that it would be inequitable not to allow the setoff.
+The trial court found that the evidence did not support such a finding. Although these two documents were executed on the same day, certain other factors support Liqui*Lawn’s contention that these two transactions were independent of each other.
+The promissory note refers to the licensing agreement, but the licensing agreement makes no reference to the promissory note. Secondly, only a partial setoff by the license fees is provided for in the promissory note. The term of the note was four years while the license agreement terminated in eighteen months, subject to renewal. Therefore, there was no certainty that the license agreement would be in effect when the note came due. Furthermore, the note provided for installment payments rather than credits for licensing fees only “[i]n the event no licensing fees are generated in any year prior to June 30,1985.” The note permitted The Andersons to charge only one-third of the license fees against installment payments. Finally, the equities of the case suggest that The Andersons will not be substantially prejudiced by disallowing its setoff. By not securing its interest with collateral, The Andersons had a claim which could be wholly defeated by the security interest of Midwest Bank. The licensing agreement improved The Andersons’ position by providing for a method of payment but did not transform it into a secured creditor. To deny the setoff merely returns The Andersons to its position as it relates to the secured claimants against Heritage House. Accordingly, we agree with the trial court’s finding that, although these transactions were related, they were not so closely connected as to be viewed as a single transaction entitling The Andersons to the setoff.
+For the foregoing reasons, we hold that The Andersons had no right to a setoff against the license fees owed to Liqui*Lawn.
+The judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Sweeney, Locher, Douglas and H. Brown, JJ., concur.
+Resnick and Wright, JJ., concur in part and dissent in part.
+Alice Robie Resnick, J., of the Sixth Appellate District, sitting for Holmes, J.
+R.C. 1309.37 provides:
+“ (A) Unless an account debtor has made an enforceable agreement not to assert defenses or claims arising out of a sale as provided in section 1309.17 of the Revised Code, the rights of an assignee are subject to:
+“(1) all the terms of the contract between the account debtor and assignor and any defense or claim arising therefrom; and
+“(2) any other defense or claim of the account debtor against the assignor which accrues before the account debtor receives notification of the assignment.”
+
+## Concurrence (Wright, J.,)
+
+Wright, J.,
+concurring in part and dissenting in part. I have no quarrel with the syllabus law as announced by the majority in this case. However, I disagree with the determination that the product licensing agreement and the promissory note were transactions independent of each other as this result conflicts with facts that are undisputed in the record. Consequently, I respectfully dissent to the portion of the opinion denying The Andersons an equitable setoff.
+The promissory note and the product licensing agreement were drafted together by The Andersons and were executed concurrently therewith on January 12, 1981. The product licensing agreement is specifically mentioned in the body of the promissory note and the documents were discussed jointly in correspondence preceding their signing. As Judge Markus stated in his opinion in the court of appeals, “the evidence unequivocally showed that the note and the licensing agreement were part of a single transaction. The note simply replaced the licensor’s antecedent debt when the licensor executed the license agreement to assist it in satisfying that debt.” Accordingly, I would find that these two documents were both part of one transaction and, thus, an equitable setoff would not be precluded.
+Resnick, J., concurs in the foregoing opinion.
