@@ -1,7 +1,7 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1898-12-13"
-citations: ["59 Ohio St. 350", "59 Ohio St. 278"]
+citations: ["59 Ohio St. 350"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["May Smith v. The State of Ohio."]
 source_url: "https://static.case.law/ohio-st/59/cases/0350-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 942661
-cites_cases: ["1 Mass., 115", "1 Mass., 116", "100 Mass., 1", "101 Mass., 1", "103 Mass., 440", "104 Ill, 565", "104 Ill., 544", "104 Mass., 1", "104 Mass., 552", "109 Ill., 565", "11 Fed. Rep., 52", "123 Mass., 430", "126 Mass., 46", "128 Ind., 160", "132 Ind., 427", "132 Mass., 263", "134 Mass., 201", "137 Ill., 189", "14 Iowa, 479", "14 Neb., 1", "14 Wis, 1", "151 N. Y., 408", "16 N. Y., 344", "17 Iowa, 149", "17 S. E. Rep., 799", "19 Iowa, 144", "2 Mass., 14", "2 Mich., 422", "21 Me., 14", "23 Ohio St., 130", "23 Ohio St., 339", "27 Ohio St., 563", "28 Ohio St., 643", "29 Me., 329", "3 Gray, 434", "30 Ohio St., 265", "30 Ohio St., 486", "31 Ohio St., 219", "34 Ohio St., 541", "36 Am. Rep., 106", "37 Am. Dec., 179", "39 S. C., 17", "39 S. C., 343", "4 C. C., 570", "42 Vt., 536", "43 Ill., 397", "45 Ia., 698", "48 Ohio St., 220", "48 Ohio St., 236", "49 Ind., 248", "5 Met., 532", "50 Iowa, 372", "51 Ind., 14", "52 Ind., 379", "53 Ohio St., 189", "57 Me., 334", "58 Ohio St., 722", "62 Wis., 49", "63 Ind., 376", "69 N. C., 72", "71 Mass., 101", "77 Mich., 615", "78 Ky., 180", "78 Ky., 185", "81 Iowa, 597", "82 N. Y., 231", "85 Ind., 209", "85 Iowa, 659", "9 Gray, 7", "9 Iowa, 53", "9 Mo. App., 298"]
+cites_cases: ["1 Mass., 115", "1 Mass., 116", "100 Mass., 1", "101 Mass., 1", "103 Mass., 440", "104 Ill, 565", "104 Ill., 544", "104 Mass., 1", "104 Mass., 552", "109 Ill., 565", "11 Fed. Rep., 52", "123 Mass., 430", "126 Mass., 46", "128 Ind., 160", "132 Ind., 427", "132 Mass., 263", "134 Mass., 201", "137 Ill., 189", "14 Iowa, 479", "14 Neb., 1", "14 Wis, 1", "151 N. Y., 408", "16 N. Y., 344", "17 Iowa, 149", "17 S. E. Rep., 799", "19 Iowa, 144", "2 Mass., 14", "2 Mich., 422", "21 Me., 14", "23 Ohio St., 130", "23 Ohio St., 339", "27 Ohio St., 563", "29 Me., 329", "3 Gray, 434", "30 Ohio St., 265", "30 Ohio St., 486", "31 Ohio St., 219", "36 Am. Rep., 106", "37 Am. Dec., 179", "39 S. C., 17", "39 S. C., 343", "4 C. C., 570", "42 Vt., 536", "43 Ill., 397", "45 Ia., 698", "48 Ohio St., 220", "48 Ohio St., 236", "49 Ind., 248", "5 Met., 532", "50 Iowa, 372", "51 Ind., 14", "52 Ind., 379", "57 Me., 334", "58 Ohio St., 722", "62 Wis., 49", "63 Ind., 376", "69 N. C., 72", "71 Mass., 101", "77 Mich., 615", "78 Ky., 180", "78 Ky., 185", "81 Iowa, 597", "82 N. Y., 231", "85 Ind., 209", "85 Iowa, 659", "9 Gray, 7", "9 Iowa, 53", "9 Mo. App., 298"]
 ---
 
 # Smith v. State
