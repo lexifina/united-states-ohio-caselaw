@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "18868"
 decided: "1925-02-10"
-citations: ["3 Ohio Law Abs. 98", "3 Ohio Law Abs. 99"]
+citations: ["3 Ohio Law Abs. 98"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
