@@ -1,0 +1,44 @@
+---
+court: "Supreme Court of Ohio"
+docket: "71-595"
+decided: "1971-10-07"
+citations: ["28 Ohio St. 2d 7"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur."]
+parties: ["The State, ex rel. Leis, v. Board of Elections of Hamilton County et al."]
+source_url: "https://static.case.law/ohio-st-2d/28/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791217
+---
+
+# State ex rel. Leis v. Board of Elections
+
+## Majority (Schneider, J.)
+
+Schneider, J.
+Relator, the prosecuting attorney of Hamilton County, seeks to prevent the respondent board of elections from “placing the names of any candidate on the ballot at the general election to be held on November 2, 1971, for the office of Chief Justice and/or Judges for . . . four additional judgeships” on the Hamilton County Municipal Court.
+In providing for the election of the additional judges and a chief justice, the board followed instructions from the respondent Secretary of State that due to the population increase in Hamilton County between 1960 and 1970, as established by the 1970 federal decennial census, eight full term judges should be elected in the November 1971 election instead of four as indicated by R. C. 1901.08; and that, since this increase would result in a total of thirteen judges on the court, one of the eight would be elected as Chief Justice. (R. C. 1901.09.)
+Both in his brief and in argument relator “concedes” that the four additional judges have been created because of the increased population of the territory, but asserts that they should be elected in 1973 instead of 1971.
+In view of our determination that the applicable statutes authorize only one additional judgeship to be considered created by reason of the 1970 census, the “concession” must be considered an incorrect conclusion of law, and therefore, not binding upon us as it might be if it were essentially a stipulation of fact.
+Reference to the background of the Hamilton County Municipal Court will assist in understanding both the problems and their resolution. The court presently has nine judges. Five were elected in 1967 (two additional as a result of a statutory amendment in that year), with terms expiring in 1973. Four were elected in 1965 and without question, those offices are again to be filled by election in 1971.
+Since January 1, 1968, the territory of the court has been coterminus with the borders of Hamilton County and has carried its present name. Prior to that time it was the Cincinnati Municipal Court, with territory limited to the confines of that city.
+The 1960 population of the present territory (Hamilton County) was 864,121. The 1970 census revealed that territory’s population to be 924,018.
+The first two paragraphs of E. C. 1901.05 lead, with little difficulty and by simple mathematics, to the conclusion that the court would have twelve judges if measured by the 1960 census of Hamilton County and thirteen judges if measured by the 1970 population.
+The language of the third paragraph of E. C. 1901.05,2 applicable to additional judges “as a result of a new decennial federal census,” leads, with even less difficulty and simpler mathematics, to the conclusion that but one additional judge for the court is warranted as a result of the 1970 census.
+Thus, respondents’ contention, as a “fact,” and relator’s concession of the “fact,” that four additional judges are warranted as a result of a new census is reminiscent of the familiar dictum that getting the right answer depends upon putting the right question. The first right question on this record should have been how many additional judges are warranted as a result of a new census, to which our answer is one. The first paragraph of our syllabus fully expresses our view on this proposition of law.
+The second question is whether E. C. 1901.08, by prescribing that ‘ ‘ four judges shall be elected in 1971 ’ ’ to that court, contradicts E. C. 1901.05, and by such contradiction, prevails over the latter statute so that only four rather than five shall be elected in November 1971. Onr answer is, no, because the two statutes are equally specific and not inconsistent. In fixing the time for election of judges of the court, R. C. 1901.08 contains no words of limitation or restriction. Compare its provisions concerning the Cleveland and Youngstown Municipal Courts. The times for election and the beginning of terms for judges of those courts are, in each case, preceded by the words, “Notwithstanding section 1901.05 of the Revised Code.”
+On the other hand, R. C. 1901.05 fixes the time for election of the one additional judge “at the next regular election,” and R. C. 1901.08 fixes the beginning of his term, as well as that of the four judges not here in dispute, by this all-inclusive sentence: “All terms of judges of the Hamilton County Municipal Court shall commence on the first day of January next after the election.”
+The third question remaining is the fate of the three other disputed judgeships which, as our analysis by now should have made painfully clear, would have been warranted and created, if at all, “by acquisition of territory,” which is the first criteria in R. C. 1901.05 for additional judges—not “as a result of” a new census, which is the second criteria in that statute.
+As previously noted, the only acquisition of territory by this court occurred on January 1, 1968, as a result of the enactment in May 1967, of Amended House Bill 354 by the 107th General Assembly (132 Ohio Laws, Part II-IH, 2596), which changed its name and enlarged its territory by amending R. C. 1901.02 as of January 1, 1968 (132 Ohio Laws, Part I, 805 et seq.).
+We have already noted the 1960 census for Hamilton County as being 864,121. The 1960 census for Cincinnati was 502, 550. By the population formula in the second paragraph of R. C. 1901.05, the court, in 1967, had seven judges, but would have been entitled to twelve judges in 1968. Consequently, five additional judges would have been warranted and created “by acquisition of territory,” the first criteria for additional judges in the third paragraph of that section.
+However, the same Act also amended E. 0.1901.08 (132 Ohio Laws 855) to provide, not that eight judges shall be elected in 1967, as would have been required by E. C. 1901.05, but that five judges shall be elected in that year, instead of the three previously fixed for election at that time. The four judges to be elected in 1971 remained unchanged. The result was that a total of nine judges were, and are now, mentioned in E. C. 1901.08, not the seven previously mentioned, nor the twelve which would have been warranted by the untrammelled effect of R. O. 1901.05.
+By the application of the familiar rule that a special provision overrides a general provision, we arrive at the conclusion expressed in the second paragraph of the syllabus. That conclusion is fortified by the fact that the same 1967 Act also amended E. C. 1901.07 (132 Ohio Laws, Part I, 841 et seq.) with reference to nominating petitions of any additional judge provided by E. C. 1901.05 in the election of 1967, as well as to provide that the phrase, “the territory within the jurisdiction of the court” was to mean the territory as it would be on January 1, 1968.
+In other words, the General Assembly made clear that the Hamilton County Municipal Court was to be a countywide court as of the first day of 1968, but that the judges thereof to be elected in 1967, including the additional judges which the General Assembly considered to be warranted by the additional territory and not by the general provisions of R. C. 1901.05, were to be nominated for election and elected by the electors of the whole territory which they were to serve commencing in 1968.
+The writ of prohibition will issue only to the extent of prohibiting more than one judge to be elected in 1971, in addition to the four prescribed by E. C. 1901.08 and to the extent of prohibiting an election of a chief justice.
+Judgment accordingly..
+O’Neill, C. J., Herbert, Duncan, Corrigan, Stern and Leach, JJ., concur.
+“In each municipal court there shall be one or more judges according to the population of the territory.
+. “Each court shall have one judge for any portion of the first one hundred thousand inhabitants, and one additional judge for each additional seventy thousand inhabitants or part thereof, and such offices of judge are hereby created.” (Emphasis supplied.)
+' “‘Whenever the population of a territory warrants an additional- judge by acquisition of territory, or as a result of a new decennial. federal census, such office is hereby created and an election therefor shall be held at the next regular municipal election. : . .” •
