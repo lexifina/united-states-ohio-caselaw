@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+docket: "95-2453"
+decided: "1997-02-05"
+citations: ["77 Ohio St. 3d 393"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Pfeifer, Cook and Lundberg Stratton, JJ., concur.", "Douglas, Resnick and F.E. Sweeney, JJ., dissent.", "Resnick and F.E. Sweeney, JJ., concur in the foregoing dissenting opinion."]
+parties: ["Olmsted Falls Board of Education, Appellant, v. Tracy, Tax Commr., et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/77/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751969
+cites_cases: ["12 O.O.3d 197", "139 Ohio St. 554", "139 Ohio St. 622", "141 Ohio St. 467", "151 Ohio St. 404", "214 N.E.2d 222", "23 O.O. 117", "23 O.O. 35", "26 O.O. 29", "296 N.E.2d 542", "311 N.E.2d 862", "34 O.O.2d 251", "34 Ohio St.2d 157", "38 Ohio St.2d 199", "389 N.E.2d 847", "39 O.O. 236", "41 N.E.2d 242", "41 N.E.2d 710", "49 N.E.2d 52", "5 Ohio St.2d 117", "58 Ohio St.2d 199", "613 N.E.2d 1037", "63 O.O.2d 242", "644 N.E.2d 284", "66 Ohio St.3d 602", "67 O.O.2d 224", "71 Ohio St.3d 405", "86 N.E.2d 467"]
+---
+
+# Olmsted Falls Board of Education v. Tracy
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We reverse the BTA’s ultimate factual conclusion that Donauschwaben is a charitable institution. SFZ Transp., Inc. v. Limbach (1993), 66 Ohio St.3d 602, 604-605, 613 N.E.2d 1037, 1039-1040. We hold, instead, that Donauschwaben is not a charitable institution. It is, as the BOE argues, a fraternal, social organization. Furthermore, we hold that Donauschwaben does not use this property exclusively for charitable purposes.
+R.C. 5709.12(B) states:
+“ * * * Real * * * property belonging to institutions that is used exclusively for charitable purposes shall be exempt from taxation.”
+Former R.C. 5709.121, during the 1992 tax year, stated:
+“Real property * * * belonging to a charitable * * * institution * * * shall be considered as used exclusively for charitable or public purposes by such institution, the state, or political subdivision, if it is * * *
+U % * *
+“(B) Otherwise made available under the direction or control of such institution, the state, or political subdivision for use in furtherance of or incidental to its charitable, educational, or public purposes and not with the view to profit.” (133 Ohio Laws, Part III, 2646.)
+The BOE argues that Donauschwaben is a fraternal club that conducts social, recreational, and athletic activities. Thus, it argues, Donauschwaben is not a charitable organization. The BOE, next, conceding arguendo Donauschwaben to be a charitable institution, maintains that Donauschwaben operates with a view to generating profit and, thus, does not qualify under R.C. 5709.121. Donauschwaben, to the contrary, contends that it is a charitable institution, operating a community center, and that it qualifies for exemption under R.C. 5709.121.
+In Episcopal Parish v. Kinney (1979), 58 Ohio St.2d 199, 200-201, 12 O.O.3d 197, 198, 389 N.E.2d 847, 848, we approved of the concurring opinion of Justice Stem in White Cross Hosp. Assn. v. Bd. of Tax Appeals (1974), 38 Ohio St.2d 199, 203, 67 O.O.2d 224, 226, 311 N.E.2d 862, 864:
+“ ‘Initially, it is important to observe that, although R.C. 5709.121 purports to define the words used exclusively for “charitable” or “public” purposes, as those words are used in R.C. 5709.12, the definition is not all encompassing. R.C. 5709.12 states “ * * * Real and tangible personal property belonging to institutions that is used exclusively for charitable purposes shall be exempt from taxation.” Thus, any institution, irrespective of its charitable or noncharitable character, may take advantage of a tax exemption if it is making exclusive charitable use of its property. See Wehrle Foundation v. Evatt (1943), 141 Ohio St. 467 [26 O.O. 29], 49 N.E.2d 52. The legislative definition of exclusive charitable use found in R.C. 5709.121, however, applies only to property “belonging to,” i.e., owned by, a charitable or educational institution, or the state or a political subdivision. The net effect of this is that R.C. 5709.121 has no application to noncharitable institutions seeking tax exemption under R.C. 5709.12. Hence, the first inquiry must be directed to the nature of the institution applying for an exemption. * * * ’ ” (Emphasis sic.)
+According to this reasoning, any institution, whether charitable or noncharitable, may receive exemption for its property if it uses the property exclusively for charitable purposes. See, e.g., Highland Park Owners, Inc. v. Tracy (1994), 71 Ohio St.3d 405, 644 N.E.2d 284. Further, property belonging to a charitable or educational institution, or the state or a political subdivision, may be exempt if it is used as set forth in R.C. 5709.121.
+Thus, in deciding whether property is exempt under the charitable use provisions of R.C. 5709.12 and 5709.121, tax authorities must first determine whether the institution seeking exemption is a charitable or noncharitable institution. If the institution is noncharitable, its property may be exempt if it uses the property exclusively for charitable purposes. If the institution is charitable, its property may be exempt if it uses the property exclusively for charitable purposes or it uses the property under the terms set forth in R.C. 5709.121.
+In answering these questions, we turn first to Planned Parenthood Assn. v. Tax Commr. (1966), 5 Ohio St.2d 117, 34 O.O.2d 251, 214 N.E.2d 222, paragraph one of the syllabus, which states:
+“In the absence of a legislative definition, ‘charity,’ in the legal sense, is the attempt in good faith, spiritually, physically, intellectually, socially and economically to advance and benefit mankind in general, or those in need of advancement and benefit in particular, without regard to their ability to supply that need from other sources, and without hope or expectation, if not with positive abnegation, of gain or profit by the donor or by the instrumentality of the charity.”
+In Socialer Turnverein v. Bd. of Tax Appeals (1942), 139 Ohio St. 622, 23 O.O. 117, 41 N.E.2d 710, the court denied exemption for property very similar in function and operation to Donauschwaben’s because its social activities fell “ * * * far short of meeting the plain requirements of [the predecessor to R.C. 5709.12].” Id. at 623, 23 O.O. at 117, 41 N.E.2d at 710. The building there contained a kitchen, rathskeller, dining room, locker rooms, auditorium, small rooms, pool and billiard room, bowling alleys, and a large gymnasium. Its members paid dues to it, and some children who could not afford to join could participate in the gymnasium classes. The court denied exemption despite the open-membership policies of the society.
+Moreover, we reject Donauschwaben’s criticism of Socialer Tumverein. Donauschwaben claims that, under Galvin v. Masonic Toledo Trust (1973), 34 Ohio St.2d 157, 160, 63 O.O.2d 242, 244, 296 N.E.2d 542, 544, Socialer Tumverein is inconsistent with R.C. 5709.121 and must yield. However, as we have earlier concluded in following Justice Stern’s words in White Cross Hosp. Assn., the terms of R.C. 5709.121 are “not all encompassing.” This statute sets forth terms to exempt property belonging to charitable institutions, which uses may not have qualified for exemption under earlier decisions interpreting R.C. 5709.12. “ * * * R.C. 5709.121 has no application to noncharitable institutions seeking tax exemption under R.C. 5709.12.” White Cross Hosp. Assn., 38 Ohio St.2d at 203, 67 O.O.2d at 226, 311 N.E.2d at 864. That is, R.C. 5709.121 does not, nor does it purport to, exempt property belonging to noncharitable institutions claiming exemption for such property as used exclusively for charitable purposes.
+According to the evidence in this case, Donauschwaben does not advance or benefit mankind in general or those in need of advancement or benefit in particular; it benefits its members. Participation in Donauschwaben’s activities requires one to be a dues-paying member. Isolated cases may exist where nonmembers participate in the activities; however, these instances were rare. Just as we did in Socialer Turnverein v. Bd. of Tax Appeals; E. Cleveland Post No. 1500 v. Bd. of Tax Appeals (1942), 139 Ohio St. 554, 23 O.O. 35, 41 N.E.2d 242; and In re Application of the Am. Legion (1949), 151 Ohio St. 404, 39 O.O. 236, 86 N.E.2d 467, we commend Donauschwaben for some of its charitable and civic activities that it undertakes on the property. Nevertheless, these activities do not transform this social and fraternal organization into a charitable institution.
+Second, reviewing the activities calendar, we see social and fraternal events, such as dinners and dances, fish fries, carnivals, Oktoberfests, and balls. Since Donauschwaben chiefly conducts its social and fraternal activities on the property, it does not use the property exclusively for charitable purposes. Thus, Donauschwaben does not satisfy R.C. 5709.12, and we need not review R.C. 5709.121.
+Accordingly, we reverse the decision of the BTA as to its finding that Donauschwaben is a charitable institution and that the property qualifies for exemption under R.C. 5709.121. We hold, instead, that Donauschwaben is not a charitable institution and that it does not use the property exclusively for charitable purposes. We affirm that portion of the decision that found the bar and beer garden to be taxable.
+Decision affirmed in part and reversed in part.
+Moyer, C.J., Pfeifer, Cook and Lundberg Stratton, JJ., concur.
+Douglas, Resnick and F.E. Sweeney, JJ., dissent.
+
+## Dissent (Douglas, J.,)
+
+Douglas, J.,
+dissenting. I respectfully dissent. I would affirm the decision of the BTA in its entirety.
+Resnick and F.E. Sweeney, JJ., concur in the foregoing dissenting opinion.
