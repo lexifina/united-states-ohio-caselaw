@@ -1,0 +1,59 @@
+---
+court: "Supreme Court of Ohio"
+docket: "99-2152"
+decided: "2001-08-22"
+citations: ["92 Ohio St. 3d 559"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, F.E. Sweeney and Pfeifer, JJ., concur.", "Resnick, J., concurs in judgment only.", "Cook, J., dissents.", "Lundberg Stratton, J., dissents."]
+parties: ["The State ex rel. McKnabb, Appellee, v. Industrial Commission of Ohio, Appellant, et al."]
+source_url: "https://static.case.law/ohio-st-3d/92/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1287134
+cites_cases: ["34 Ohio St.3d 42", "517 N.E.2d 533", "623 N.E.2d 1202", "650 N.E.2d 469", "667 N.E.2d 1217", "68 Ohio St.3d 118", "72 Ohio St.3d 401", "732 N.E.2d 355", "76 Ohio St.3d 408", "89 Ohio St.3d 376"]
+---
+
+# State ex rel. McKnabb v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellee-claimant, Michael E. McKnabb, began working as a car audio installer for appellant C.C.A.E., Inc., d.b.a. Columbus Car Audio (“CCA”), in 1992. On July 30, 1994, claimant injured his lower back at work, and a workers’ compensation claim was allowed. Surgery followed that December. Claimant eventually returned to work but was fired in June 1996, allegedly for tardiness. CCA at that time had no written employment or disciplinary policy.
+Claimant successfully obtained another job but left it because of his back condition. Temporary total disability compensation (“TTC”) followed. CCA eventually requested that the award be vacated, claiming, among other things, that claimant’s tardiness and subsequent termination constituted a voluntary abandonment of the workforce and therefore precluded TTC. Appellant Industrial Commission of Ohio agreed and granted that motion, writing:
+“[T]he prior finding that the claimant abandoned his former job and was consequently precluded from obtaining temporary total benefits is affirmed.
+“The applicable case on point for this issue is State ex rel. Louisiana-Pacific Corporation v. Industrial Commission of Ohio (1995), 72 Ohio St.3d 401 [650 N.E.2d 469]. The case held that voluntary abandonment from employment precludes the payment of temporary total disability and such voluntary abandonment is established when the facts support that the following three factors have been satisfied: (1) violation of a written work rule or policy that clearly defined the prohibited conduct; (2) had been previously identified by the employer as a dischargeable offense; and (3) was known or should have been known to the employee. * * *
+“The first criterion] of this test is met because the employer’s representative testified at hearing that the employer had a strict company policy that all employees must report for work on time and if they were going to be late or be absent from work, that they must call in to let the employer know of their lateness or inability to come into work.
+“The employer’s representative went on to explain that over a six month period, the claimant had been late fifteen to twenty times and had not called in to report his lateness. Further, for the two days prior to claimant’s actual dismissal, the employer stated that the claimant didn’t show up for work at all and did not call in to report his absences for those days. On the third day, the claimant finally did show up for work and was dismissed at that point for a pattern of lateness and absences.
+“The second part of the test is satisfied because the employer made it clear at the hearing that when claimant was hired, it was explained to him that the policy regarding being late or absent from work would be strictly enforced and repeated violations of this policy could result in termination of employment.
+“The employer’s representative indicated at hearing that because of claimant’s chronic lateness and absences from work that the claimant was counseled about his violation of this company policy by his supervisor in that continued violations could result in termination of employment. In fact, the claimant did lose one day of work prior to his termination for his ongoing violation of this company policy.
+“Lastly, the third part of the test has also been satisfied because as explained previously, the claimant knew of this company policy regarding lateness for work or being absent from work, and he knew of the consequences (i.e. termination) for violation of this policy.”
+Claimant filed a complaint in mandamus in the Court of Appeals for Franklin County, alleging that the commission abused its discretion in vacating his TTC. The court of appeals agreed, ruling that under State ex rel. Louisiana-Pacific Corp. v. Indus. Comm. (1995), 72 Ohio St.3d 401, 650 N.E.2d 469, TTC is barred only where the claimant is discharged for violation of a written work rule. The writ was accordingly granted. This cause is now before this court as of right.
+Voluntary abandonment of the former position of employment can, in some instances, bar TTC. State ex rel. Baker v. Indus. Comm. (2000), 89 Ohio St.3d 376, 378, 732 N.E.2d 355, 357. Firing “can constitute a voluntary abandonment of the former position of employment * * * [when it is] a consequence of behavior that the claimant willingly undertook.” State ex rel. Watts v. Schottenstein Stores Corp. (1993), 68 Ohio St.3d 118, 121, 623 N.E.2d 1202, 1204. That is because a person is deemed to “tacitly accept the consequences of [one’s] voluntary acts.” State ex rel. Ashcraft v. Indus. Comm. (1987), 34 Ohio St.3d 42, 44, 517 N.E.2d 533, 535.
+We have, however, recognized “the great potential for abuse in allowing a simple allegation of misconduct to preclude temporary total disability compensation.” State ex rel. Smith v. Superior’s Brand Meats, Inc. (1996), 76 Ohio St.3d 408, 411, 667 N.E.2d 1217, 1219. Our litigants support this premise but disagree over what is required.
+In Louisianar-Pacific, the claimant failed to report for work on three consecutive days without calling. He was dismissed pursuant to plant policy. When asked to characterize, for TTC purposes, the departure as voluntary or involuntary, we wrote:
+“Examining the present facts, we find it difficult to characterize as ‘involuntary’ a termination generated by the claimant’s violation of a written work rule or policy that (1) clearly defined the prohibited conduct, (2) had been previously identified by the employer as a dischargeable offense, and (3) was known or should have been known to the employee. Defining such an employment separation as voluntary comports with Ashcraft and Watts — i.e., that an employee must be presumed to intend the consequences of his or her voluntary acts.” Id. at 403, 650 N.E.2d at 471.
+Now' at issue is Louisiana-Pacific’s reference to a written rule or policy. Claimant considers a written policy to be an absolute prerequisite to precluding TTC. The commission disagrees, characterizing Louisiana-Pacific’s language as merely illustrative of a TTC-preclusive firing. We favor claimant’s position.
+The commission believes that there are common-sense infractions that need not be reduced to writing in order to foreclose TTC if violation triggers termination. This argument, however, contemplates only some of the considerations. Written rules do more than just define prohibited conduct. They set forth a standard of enforcement as well. Verbal rules can be selectively enforced. Written policies help prevent arbitrary sanctions and are particularly important when dealing with employment terminations that may block eligibility for certain benefits.
+This case is a good example. The commission speaks of a “strict” employer policy on tardiness and absenteeism. It was apparently not that strict, however, since the claimant, according to the commission, was late “fifteen to twenty” times during an unspecified six-month period. This scenario raises more questions than it answers: how CCA defined “late” and whether it was the same for all employees; whether the claimant was routinely only a minute late or substantially later; and when the six-month period of tardiness occurred, e.g., whether the accusations of tardiness were suddenly resurrected to justify termination, becoming an issue only after claimant filed a workers’ compensation claim.
+The commission refers to claimant’s “knowledge” of CCA’s tardiness policy and the “warning” issued to him concerning chronic tardiness. But the timing of the warning is relevant: was it after the first infraction or the seventeenth? If after the first and the employer continued to ignore late arrival, the validity of the policy may have been diminished in claimant’s mind, calling into question claimant’s actual knowledge of it. Also relevant is the nature of the warning. These are just some of the areas that verbal policies leave ambiguous.
+CCA may well have acted properly. Again, however, because of the potential for abuse, a postinjury firing must be carefully scrutinized. Written termination criteria aid this inquiry and are why Louisianar-Pacific requires them.
+The judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, F.E. Sweeney and Pfeifer, JJ., concur.
+Resnick, J., concurs in judgment only.
+Cook, J., dissents.
+Lundberg Stratton, J., dissents.
+
+## Dissent (Lundberg Stratton, J.,)
+
+Lundberg Stratton, J.,
+dissenting. I dissent and would reverse the judgment of the court of appeals. Although the rule was not a written rule, claimant clearly violated a work policy — “don’t be late for work.” We all understand that rule; we hardly need it in writing. All the concerns raised by the majority involve enforcement of the rule. This concern could apply to a written or unwritten policy. An employer may establish a written policy and then very strictly enforce it or not enforce it at all.
+Here, claimant was given many chances to comply, given warnings, given more opportunities to comply. He admits he knew of the company policy. To require a policy to be-in writing before a firing for its violation can be considered a “voluntary abandonment” makes no sense. This opinion appears to require that only firing as a result of a written rule constitutes “voluntary abandonment.” Does the employer now have to put into writing “thou shalt not steal, rob, or murder” before a firing for one of these reasons can be considered voluntary abandonment?
+The court of appeals simply substituted its judgment for the company’s finding of when “enough is enough.” The claimant had plenty of chances. He was late once too many times. He was fired.
+Law Offices of James R. Nein, Matthew R. Copp and James R. Nein, for appellee.
+Betty D. Montgomery, Attorney General, and Dennis L. Hufstader, Assistant Attorney General, for appellant.
+Philip J. Fulton & Associates, Philip J. Fulton and Jonathan H. Goodman, urging affirmance for amicus curiae Ohio Academy of Trial Lawyers.
+Stewart R. Jaffy & Associates Co., L.P.A., Stewart R. Jaffy and Marc J. Jaffy, urging affirmance for amicus curiae Ohio AFL-CIO.
+The commission did not abuse its discretion in agreeing with the company’s actions. We should not reverse just because we and the court of appeals disagree with the factual conclusions reached from the evidence. As the majority states: “Firing ‘can constitute a voluntary abandonment of the former position of employment * * * [when it is] a consequence of behavior that the claimant willingly undertook.’ State ex rel. Watts v. Schottenstein Stores Corp. (1993), 68 Ohio St.3d 118, 121, 623 N.E.2d 1202, 1204. That is because a person is deemed to ‘tacitly accept the consequences of [one’s] voluntary acts.’ State ex rel. Ashcraft v. Indus. Comm. (1987), 34 Ohio St.3d 42, 44, 517 N.E.2d 533, 535.”
+Therefore, I respectfully dissent and would reverse the judgment of the court of appeals. I would reinstate the order of the commission.
