@@ -1,0 +1,48 @@
+---
+court: "Supreme Court of Ohio"
+docket: "00-2317"
+decided: "2002-04-24"
+citations: ["95 Ohio St. 3d 97"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["The State ex rel. Royal, Appellee, v. Industrial Commission of Ohio et al., Appellants."]
+source_url: "https://static.case.law/ohio-st-3d/95/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 125714
+cites_cases: ["692 N.E.2d 188", "707 N.E.2d 1122", "81 Ohio St.3d 454", "85 Ohio St.3d 320"]
+---
+
+# State ex rel. Royal v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+All agree that appellee-claimant Gerald Royal’s two industrial injuries have left his right arm barely functional. In 1996, he moved appellant Industrial Commission of Ohio for compensation for permanent total disability (“PTD”). A year later, a staff hearing officer (“SHO”) granted that application.
+Appellant-employer Wheeling-Pittsburgh Steel Corporation timely sought reconsideration, alleging that the SHO had (1) misread certain medical and vocational reports and (2) equated loss of use in one arm with statutory PTD. Reconsideration was denied on October 28, 1997, because the request did not meet the criteria of commission resolution No. R95-1-09.
+Wheeling-Pittsburgh responded with a motion for reconsideration of the denial of the first motion for reconsideration. Restating its earlier position, Wheeling-Pittsburgh claimed that its first motion satisfied R95-l-09(D)(l)(a).
+On December 8, 1997, the commission granted reconsideration “based on the possibility of an error in the previous Industrial Commission order.” It vacated the earlier denial of reconsideration and set the matter for hearing on the merits of the PTD claim. Claimant, in turn, moved to vacate the grant of reconsideration.
+A bifurcated hearing on March 3, 1998, addressed both the propriety of reconsideration and the merits of the PTD claim. Two identically dated orders emerged from those proceedings. In the first order, the commission affirmed the grant of reconsideration based on the presence of a mistake of law or fact, citing R95-l-09(D)(l)(d). It identified the mistakes as (1) the SHO’s misrepresentation of a particular vocational report and (2) the absence of an analysis of nonmedical disability factors.
+That decision was not unanimous. A dissenting commissioner felt that the December 8, 1997 reconsideration order did not satisfy State ex rel. Nicholls v. Indus. Comm. (1998), 81 Ohio St.3d 454, 692 N.E.2d 188, or State ex rel. Foster v. Indus. Comm. (1999), 85 Ohio St.3d 320, 707 N.E.2d 1122. He criticized the order’s reliance on the mere “possibility of an error,” objecting that “[t]here was no indication what the error was or even which Commission order contained an error, the 10/28/97 order or the 9/24/97 order.”
+The denial of PTD and a declaration of overpayment in the second order prompted claimant to file a complaint in mandamus in the'Court of Appeals for Franklin County. The magistrate found that reconsideration had been proper, but the appeals court disagreed. The former recommended a holding that Wheeling-Pittsburgh’s motions had adequately apprised claimant of the issues on which reconsideration was sought. The court of appeals, on the other hand, focused on the Nicholls/Foster prohibition against such vague language as “possibility of an error.” It found no “clear error” within the employer’s motions so as to permit the commission to later rehabilitate its original deficient order. Mandamus was accordingly granted. This cause is now before this court upon an appeal as of right.
+Reconsideration jurisdiction derives from the commission’s general grant of continuing jurisdiction under R.C. 4123.52. Because neither R.C. 4123.52 nor commission resolution R95-1-09 prohibits multiple requests for reconsideration, controversy hinges on the justification for its exercise — here, the nebulous “possibility of an error.”
+Continuing jurisdiction cannot be exercised indiscriminately. We have previously enumerated several acceptable bases for its exercise. We have also expressly ruled that “possibility of error” is not one of them. Nicholls; Foster, supra. Appellants concede this, but offer two responses: (1) identification of the error in a later order cures the defect, and (2) even if not, Wheeling-Pittsburgh’s motions adequately apprised the claimant of the bases on which reconsideration was sought. Both arguments fail.
+Nicholls and Foster recognized that a reference to the possibility of unspecified error was meaningless and prevented both effective rebuttal and judicial review. As we observed in Nicholls:
+“Continuing jurisdiction is not unlimited. Its prerequisites are (1) new and changed circumstances, (2) fraud, (3) clear mistake of fact, (4) clear mistake of law, or (5) error by inferior tribunal.
+“None of these prerequisites exists here. Again, there has been no allegation of new and changed circumstances or fraud. There is also no clear error of any kind. The reconsideration order cites only the possibility of error, and an unspecified error at that.
+“Our approval of the staff hearing officers’ order on reconsideration would effectively give the commission unrestricted jurisdiction. Error is always possible, and its existence cannot be refuted when the commission is not made to reveal what the perceived error is. We find, therefore, that the mere possibility of unspecified error cannot sustain the invocation of continuing jurisdiction.” (Emphasis sic; citations omitted.) Nicholls, supra, 81 Ohio St.3d at 458-459, 692 N.E.2d 188.
+Foster went further:
+“In this case, the commission abandoned conjecture and found that there was error. But, again, it does not identify the error. Thus, despite any ‘improvement’ in the order’s language, it still defies the spirit of Nicholls. Nicholls recognized that the propriety of continuing jurisdiction cannot be evaluated if the commission does not reveal, in a meaningful way, why it was exercised. In this instance, as in Nicholls, claimant cannot refute the allegation of error without knowing what the alleged mistake is. Saying that an error is ‘real’ as opposed to ‘possible’ is equally hollow if there is no way to test the legitimacy of the assertion.” Foster, supra, 85 Ohio St.3d at 322, 707 N.E.2d 1122.
+Identification of error after reconsideration does allow a reviewing court to adjudicate the propriety of the commission’s invocation of continuing jurisdiction. It does little to help the party opposing the motion, since it comes too late to allow a meaningful challenge to reconsideration at the administrative level. Accordingly, appellants’ rehabilitation theory is rejected.
+Appellants next argue that given the notification intent of Foster and Nicholls, so long as the nonmovant is timely advised of the basis on which reconsideration is sought — or, as here, a specific error is alleged — it does not matter whether notice is provided through the movant’s motion or by commission order. Appellants maintain that Wheeling-Pittsburgh’s detailed narrative motion adequately apprised claimant of the alleged errors on which Wheeling-Pittsburgh hoped to obtain reconsideration.
+The instant facts render this argument tenuous. Wheeling-Pittsburgh alleged two main errors — one of fact and one of law. The error of law found by the commission, however, was unrelated to the one alleged by Wheeling-Pittsburgh, which means that claimant lacked an opportunity to prepare a defense in advance.
+The reliance on “mistake of fact” is equally untenable. When the initial PTD order and disputed reports are read closely, the perceived error is not so much mistake as a difference in evidentiary interpretation. The report of vocational consultant Roger Livingston is confusing and can be interpreted several ways. The commission and appellant-employer took the narrow interpretation, looking exclusively at the academic and vocational conclusions. The SHO, on the other hand, read these things in conjunction with the unfavorable medical prognosis that Livingston repeatedly stressed, and concluded that regardless of an affirmative vocational profile, claimant could not overcome the obstacles imposed by the loss of his right arm.
+This is significant because a legitimate disagreement as to the evidentiary interpretation does not mean that one of the interpretations is wrong. Thus, any assertion of a clear error of fact is questionable. Moreover, one must again remember that this “error,” too, was before the commission when reconsideration was initially denied. This also renders debatable the prerequisite of clarity, as apparently no one felt that a clear error existed the first time around based on the same material.
+Ward, Kaps, Bainbridge, Maurer & Melvin and Thomas H. Bainbridge, for appellee.
+Betty D. Montgomery, Attorney General, and Stephen D. Plymale, Assistant Attorney General, for appellant Industrial Commission of Ohio.
+Vorys, Sater, Seymour & Pease, L.L.P., Bradley K. Sinnott and Corrine S. Carman, for appellant Wheeling-Pittsburgh Steel Corporation.
+We find, therefore, that the prerequisites necessary to the proper exercise of continuing jurisdiction — either as a general grant or as reconsideration — were not met.
+Accordingly, the judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
