@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1886-01"
+citations: ["44 Ohio St. 253"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Meiss v. Gill."]
+source_url: "https://static.case.law/ohio-st/44/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 923212
+cites_cases: ["1 Duer, 79", "101 U. S. 638", "11 Allen, 370", "12 Barb. 168", "12 Ohio St. 11", "12 Vt. 692", "13 Ohio St. 284", "13 Ohio, 450", "14 Mass. 241", "15 Pick. 276", "16 Cal. 100", "2 Blackf. 465", "2 Dana, 395", "2 John. 382", "20 La. Ann. 276", "23 Pa. St. 99", "24 N. Y. 325", "25 Ind. 458", "25 Ohio St. 82", "27 Ohio St. 233", "27 Tex. 421", "28 Ohio St. 596", "3 Cow. 120", "3 Denio, 238", "31 Ohio St. 87", "32 N. J. Law, 476", "34 Barb. 116", "37 Ohio St. 344", "4 How. 497", "4 N. Y. 71", "41 Ohio St. 587", "42 Ohio St. 113", "48 N. Y. 676", "5 Denio, 545", "5 Duer, 493", "5 Sandf. 135", "60 Mo. 25", "67 Pa. St. 153", "7 Ohio St. 157", "7 Ohio St. 163", "7 Wall. 619", "7 Wall. 82", "86 N. Y. 443", "9 Cush. 348", "9 Wall. 409", "91 U. S. 533", "94 U. S. 351", "94 U. S. 423", "94 U. S. 428"]
+---
+
+# Meiss v. Gill
+
+## Majority (Follett, J.)
+
+Follett, J.
+It does not appear that either party objected to the form or substance of the pleadings. The only exceptions noted were to the reading of the record “as incompetent and irrelevant,” and to the admission of the testimony of Gill, and the objection to such admission was “ on the ground that the same was not competent to contradict the record offered in evidence by the plaintiff.” The record was not in issue, and no former adjudication of the same matter was set up as an estoppel. Meiss claimed a personal judgment for the unpaid amount of the promissory note in suit against Gill as a joint maker of the note. Gill answered, denying that he was a joint maker of the note, and averring “that he signed said note as indorser only.” To this averment Meiss could have replied as an estoppel any former adjudication between them of that fact.
+This court has decided that question, and also has held: “If the plaintiff relies on a record of a former adjudication of the same matter set up in an answer, as an estoppel, he should plead such former judgment.” Fanning v. Insurance Co., 37 Ohio St. 344. And in that case the court held: “It (the record) is not admissible in evidence under a general or special denial of the new matter contained in the answer.” The record is not admissible in evidence as conclusive of the truth of the facts put in issue, nor as an estoppel.
+This court said, in Lockwood v. Wildman, 13 Ohio, 450: “A former decree to be a bar, even when well pleaded, or set up by way of answer, must be such as shows that the rights of complainants, now set up, have been already conclusively determined.” And this court held, in Grant v. Ramsey, 7 Ohio St. 157: “Where a question of fact has once been tried and adjudicated by a court of competent jurisdiction, it can not be re-opened in a subsequent suit between the same parties. They are concluded by the former judgment.” But such trial and adjudication should be pleaded, if the same can be pleaded, to conclude the parties. • When a judgment is pleaded in bar, there must be determined whether or not the fact set up has been thus adjudicated between the parties. Lockwood v. Wildman supra, and Gilbert v. Thompson, 9 Cush. 348, and Davis v. Brown, 94 U. S. 423. And when a judgment is not pleaded, and could have been pleaded, “in evidence,” such a judg4 ment is not conclusive to estop a party from proving the truth of a fact in dispute. To this extent the rule laid down in the case of the Duchess of Kingston, 20 Howell’s State Trials, 355, has been modified.
+In the year 1819, the Court of King’s Bench, in Vooght v. Winch, 2 Barn. & Ald. 662, held: “A verdict obtained by the defendant in a former action, and which, if pleaded •in bar, would be an estoppel, when given in evidence under the general issue, is not conclusive against the plaintiff, but only evidence to go to the jury.”
+And Abbott, C. J., said, on page 668: “I am of opinion that the verdict and judgment obtained for the defendant in the former action wás not conclusive evidence against the plaintiff upon the plea of not guilty. . . . But the defendant has pleaded not guilty, and has thereby elected to submit his case to a jury, . . . and they are to give their verdict upon the whole evidence then submitted to them: . . . for the very first thing I learnt in the study of the law was that a judgment recovered must be pleaded.” The other judges, in separate opinions, concurred. See also Jones v. Reynolds, 7 Car. & P. 335.
+In Howard v. Mitchell, 14 Mass. 241, the court held: “When the matter, to which the estoppel applies, is distinctly averred or denied by one party, and the other takes issue on the fact, instead of pleading the estoppel, he waives the estoppel, and' the jury are at liberty to find the truth.” See Eastman v. Cooper, 15 Pick. 276.
+In Picquet v. McKay, 2 Blackf. 465, the supreme court of Indiana held: “ To render a former recovery an estoppel to a subsequent suit, embracing the same matter in controversy with the first, the judgment must be specially pleaded as an estoppel. If it be not so pleaded, and the defendant rely on the general issue, the former judgment is admissible in evidence, but it is not a conclusive bar to the action; the jury may still find for the plaintiff, if they think him entitled to recover.”
+¥e need not consider the effect of a judgment on default, nor whether that record presented an adjudication of any matter that .would have been a bar to any defense 'set up by Gill if the judgment had been well pleaded.
+Each case must be determined by its special facts explained by legal principles. See Davis v. Brown, 94 U. S. 428.
+On the trial of this original case the issue between Meiss and Gill on the pleadings was, whether or not Gill signed that note as a maker. On that issue he was a competent witness to testify in his own behalf.
+And as the court allowed the record of the former case to be read as testimony, it was not error to permit Gill to testify as to the execution of the notes and mortgage and how he came to sign his name on the back of this note.
+The court did not err to the prejudice of the plaintiff in error.
+Judgment affirmed.
