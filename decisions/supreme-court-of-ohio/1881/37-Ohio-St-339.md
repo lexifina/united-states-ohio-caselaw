@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Ohio"
 decided: "1881-01"
-citations: ["37 Ohio St. 339", "37 Ohio St. 344"]
+decided_precision: "month"
+citations: ["37 Ohio St. 339"]
 reporter: "ohio-st"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Fanning v. Insurance Company."]
 source_url: "https://static.case.law/ohio-st/37/cases/0339-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 910702
-cites_cases: ["1 Sandf. 170", "1 Sandf. Ch. 179", "11 Mass. 113", "12 N. Y. 9", "13 Ohio, 430", "14 Wend. 20", "16 Mass. 94", "16 N. Y. 451", "17 Vt. 419", "21 Ill. 96", "22 Iowa, 334", "29 N. J. Eq. 188", "29 Pa. St. 146", "32 Pa. St. 340", "32 Pa. St. 348", "37 Iowa, 229", "4 Mass. 138", "4 Mass. 292", "47 Cal. 21", "5 Ala. 787"]
+cites_cases: ["1 Sandf. 170", "1 Sandf. Ch. 179", "11 Mass. 113", "14 Wend. 20", "16 Mass. 94", "16 N. Y. 451", "21 Ill. 96", "29 N. J. Eq. 188", "29 Pa. St. 146", "32 Pa. St. 340", "32 Pa. St. 348", "4 Mass. 138", "4 Mass. 292", "5 Ala. 787"]
 ---
 
 # Fanning v. Insurance
