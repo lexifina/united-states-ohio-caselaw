@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+docket: "8655"
+decided: "1904-04-26"
+citations: ["70 Ohio St. 166"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shatjck, Price, Crew and Summers, JJ., concur."]
+parties: ["The Cleveland, Lorain & Wheeling Railway Co. v. Shanower."]
+source_url: "https://static.case.law/ohio-st/70/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 963348
+cites_cases: ["13 O. D., 107", "13 O. D., 280", "152 Ind., 1", "175 U. S., 348", "20 Ohio, 415", "23 O. C. C., 208", "24 O. C. C., 359", "37 Ohio St., 665", "38 Ohio St., 389", "50 Ohio St., 137", "51 Ohio St., 130", "56 Ohio St., 743", "58 Ohio St., 426", "58 Ohio St., 599", "63 Ohio St., 236", "66 Ohio St., 249", "8 Ohio St., 249", "83 U. S., 130", "83 U. S., 36"]
+---
+
+# Cleveland, Lorain & Wheeling Railway Co. v. Shanower
+
+## Majority (Davis, J.)
+
+Davis, J.
+This case is not controlled by the' decision in Railway Co. v. Margrat, 51 Ohio St., 130. The facts of that case were held to justify the application of the statutory rule provided in the last clause of section 3365-22, Revised Statutes. Inasmuch as the engineer and the injured brakeman were engaged in distinctly separate enterprises, that is, the operation of separate trains, it was held that the engineer was a person “having charge or control of employes in any separate branch or department” and therefore the superior and not the fellow servant of the brakeman on another train who had “no power to direct or control in the branch' or department” in which he was employed. There may be reasons for doubting the soundness of that interpretation of the words “separate branch or department,” but that question does not necessarily arise here.
+The statute is in derogation of the common law, and therefore it cannot be enlarged beyond its terms. It declares that it is intended to add to the liability already recognized by law. It does this in two particulars : First, it makes obligatory upon the courts of this state the superior servant rule, which was first announced in this court in Little Miami Railroad Co. v. Stevens, 20 Ohio, 415, and which was afterwards approved and followed in a number of other cases in this and other states, although it has been repudiated in many others. Second, it creates by force of the statute a relation of superior and subordinate where none exists in fact, and brings it within the operation of the rule mentioned. The contention in this case is to bring the engineer and brakeman within the second particular; for it does not seem to be seriously contended that the brakeman was actually under the direction or control of the engineer. There is in evidence a rule of the railway company which contains this sentence: “"When there is no conductor, or he is disabled, the engineman will have charge of the train, and will be governed by the rules prescribed for conductors.” But there was a conductor on this train, and he was not disabled. Shall we assume that the mere breaking of a link or a coupling pin dethroned him, and delegated from the master to the engineer authority to control the brakeman? The rules which are in evidence disclose no such provision, and we discover no foundation in fact or in reason, for making such an assumption. Upon cogent reasoning this court held in Railway Co. v. Ranney, 37 Ohio St., 665, that the relation of superior and subordinate, as between an engineer and a brakeman, is not created by a rule which requires the engineer to give certain signals, and which also requires brakemen to work the brakes in response to the signals. And much less could such a relation be implied from, or created by, the brakeman signalling to the engineer the information that the train had parted, and by the answering signal of the engineer.
+It is conceded that the fireman is subordinate to the engineer; but in.order that this ease may be controlled by the last clause of section 3365-22, Revised ■Statutes, it is necessary that the engineer and the brakeman should be in different branches or departments of service. Whatever may be the exact definition of the words “branch or department,” as used in the statute, it seems clear to us that ■ the engineer and the brakeman were associated in a common employment and in the same branch or department, viz.: that of operating the same train of cars. It does not appear that as between them there was any relation of superior and subordinate, either in fact or in law. Therefore, if there was negligence on the part of the engineer which produced the injury complained of, it was the negligence of a fellow servant. It follows that the plaintiff has neither alleged nor proven a cause of action against the defendant.
+It is insisted by counsel that this conclusion involves an injustice to somebody. For example, if we may suppose that the same act of negligence by the engineer, which caused the injury to the plaintiff, also caused an injury to another brakeman on another train; yet the latter may recover under Railway Co. v. Margrat, while the former may not. This is true, and assuming that Railway Co. v. Margrat correctly construes the statute, the result is attributable to the statute itself. While attempting to modify the common law, it has not entirely abrogated it.
+The court of common pleas erred in refusing to direct a verdict for the defendant below, and also erred in the charge. The judgment of the circuit court affirming that of the court of common pleas, and the judgment of the court of common pleas are both
+Reversed and judgment rendered for plaintiff in error. •
+Shatjck, Price, Crew and Summers, JJ., concur.
