@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1850-12"
+citations: ["19 Ohio St. 2d 362"]
+reporter: "ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Bowrell v. Samuel Zigler."]
+source_url: "https://static.case.law/ohio/19/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 498833
+---
+
+# Bowrell v. Zigler
+
+## Majority (Hitchcock, C. J.)
+
+Hitchcock, C. J.
+This case, so far as my experience is concerned, is somewhat novel in its character. The record shows that a judgment was rendered, by a justice of the peace, in favor of the defendant in certiorari, against the plaintiff, on the 6th June, 1848, and this judgment was rendered on con fession. There is no complaint that this judgment was erroneous, but still it is now sought to reverse it, because, as is claimed, the justice refused to quash certain executions subsequently issued upon it, and enter satisfaction upon the judgment. The errors assigned, are all alleged to have intervened subsequent to the judgment. Eor such error the judgment itself cannot be impeached.
+It is, to say the least of it, extremely doubtful whether this plaintiff, admitting that he has been injured as alleged, could have redress by certiorari. The use of this writ in removing cases from a justice of the peace to the court of common pleas, is regulated by statute, and seems to be intended for those cases alone, where there is error in the proceedings and rendition of the judgment. It is used to remove cases from a justice’s court to the court of common pleas, in the same manner that a writ of error is used for removing cases from the court of common pleas to this court. The 61st section of the justice act, provides that if the judgment be affirmed, the case may be remanded to the justice for execution, “ or such court,” that is, .the court' of common pleas, “ may award execution, to carry into effect the judgment of such justice, in the same manner as if said judgment had been rendered in the court of common pleas. And the 62d section provides that if the judgment of the justice is reversed, “ the cause shall be retained for trial and final judgment, as in cases of appeal.” (Swan’s Stat. 616.)
+But aside from these considerations, what are the pretended grounds of complaint ? The record shows that the judgment was rendered on the 6th day of June, 1848. On the same day execution was issued, and on the 10th day of the month returned not satisfied.
+On the 3d of July, 1848, upon the oath of Zigler, the creditor, another execution was issued and delivered to the constable, and was by him returned the same day, indorsed by the constable that the debtor had not sufficient goods and chattels ; that for want thereof he “ took his body and tendered the same at the jail of Butler county, to the person in charge thereof, who said he was authorized by the jailor to receive and confine persons, who refused to receive the same until he should be paid a fee of three dollars, and there being no one present, on behalf of the plaintiff, to pay the same, after waiting a reasonable time,” he left the prisoner at large.
+Now the question arises, was this such an imprisonment of the debtor as in law satisfies the debt. This is the principal point in controversy between these parties. We suppose where a creditor causes his debtor to be imprisoned on execution, while the imprisonment continues, it is a satisfaction. Or if the debtor is discharged with the assent of the creditor, it will operate as a satisfaction. But if the debtor escapes, or if he is discharged without the assent of the creditor, there is no satisfaction. In the case now under consideration, there was no assent on the part of the creditor. The constable having the debtor in custody, upon the refusal of the jailor to receive him into the jail, permitted him to go at large. He was never committed to prison. It was an escape.
+If we are correct in this, it disposes of the case as to all the objections raised except this one, that the execution oi the 10th of July, was issued without any sufficient affidavit. Whether it were so or not the court of common pleas could not know, nor can this court know, from any thing apparent upon the record. It was an objection made by the attorney of the judgment debtor. The objection. was overruled by the justice. Upon this point there must have been evidence. The affidavit of the party and of the witnesses, must have been before the justice. Upon the evidence before the justice he must have decided. But no part of this evidence,was introduced into the transcript. No part of it was before the court of common pleas, nor is it before this court. How then could the court of common pleas say, or how can this court say, that the justice erred in the decision by. him made ?
+Upon examination of the whole case, we cannot discover any error in the action of the court of common pleas, and the judgment of that court is affirmed with costs.
