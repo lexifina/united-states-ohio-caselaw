@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Ohio"
+docket: "D.D. 88-9"
+decided: "1988-11-02"
+citations: ["39 Ohio St. 3d 604"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur."]
+parties: ["Office of Disciplinary Counsel v. Billson."]
+source_url: "https://static.case.law/ohio-st-3d/39/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1414221
+---
+
+# Office of Disciplinary Counsel v. Billson
+
+## Majority
+
+T. Michael Billson is publicly reprimanded.
+Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.
