@@ -1,0 +1,69 @@
+---
+court: "Supreme Court of Ohio"
+docket: "82-1438"
+decided: "1983-08-31"
+citations: ["6 Ohio St. 3d 324"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., W. Brown, Sweeney and Locher, JJ., concur.", "Holmes and Hendrickson, JJ., dissent.", "O’Neill, J., of the Seventh Appellate District, sitting for C. Brown, J.", "Hendrickson, J., of the Twelfth Appellate District, sitting for J. P. Celebrezze, J.", "Hendrickson, J., concurs in the foregoing dissenting opinion."]
+parties: ["Crawford, Appellant, v. Board of Education, Barberton City Schools, Appellee."]
+source_url: "https://static.case.law/ohio-st-3d/6/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813091
+cites_cases: ["38 Ohio St. 18", "42 Ohio St. 2d 53", "71 O.O.2d 35"]
+---
+
+# Crawford v. Board of Education
+
+## Majority (O’Neill, J.)
+
+O’Neill, J.
+All teachers employed by boards of education are employed pursuant to contract.
+“The board of education of each city, exempted village, local and joint vocational school district shall enter into written contracts for the employment and re-employment of all teachers. * * *” R.C. 3319.08.
+The appellant and the Akron Board of Education did not execute a written contract. However, it was stipulated before the trial court that she “was employed as a substitute teacher for the Akron Public Schools during the school year 1970-71 * * The absence of a written contract is of no effect. R.C. 3319.08 reads, in part, as follows:
+“If a board of education adopts a motion or resolution to employ a teacher under a limited or continuing contract and the teacher accepts such employment, the failure of such parties to execute a written contract shall not void such employment contract.”
+It is presumed that the Akron Board of Education adopted a motion or resolution to employ the appellant. Teachers may be employed only by action of a board of education. This mandate is clearly set forth in R.C. 3319.07, which reads as follows:
+“The board of education of each city, exempted village, and local school district shall employ the teachers of the public schools of their respective districts. In making appointments teachers in the employ of the board shall be considered before new teachers are chosen in their stead. In city and exempted village districts no teacher or principal shall be employed unless such person is nominated by the superintendent of schools of such district. Such board of education, by a three-fourths vote of its full membership may reemploy any teacher whom the superintendent refuses to appoint. In local school districts, no teacher shall be employed unless nominated by the superintendent of schools of the county school district of which such local school district is a part; by a majority vote of the full membership of such board, the board of education of any local school district may, after considering two nominations for any position made by the county superintendent, reemploy a person not so nominated for such position.”
+See, also, paragraph one of the syllabus in Justus v. Brown (1975), 42 Ohio St. 2d 53 [71 O.O.2d 35]:
+“The ultimate responsibility for employing teachers rests on the board of education under R.C. 3319.07 and 3319.11.”
+It having been stipulated that appellant was employed by the Akron Public Schools, we must presume that she was “nominated by the superintendent of schools of such district” and that the board of education, by the adoption of a motion or resolution, employed her.
+“No doctrine is better established than that the acts of an officer, within the scope of his powers and authority, are presumed to be rightly and legally performed until the contrary appears.” Steubenville v. Culp (1882), 38 Ohio St. 18, 22-23.
+Employment contracts for teachers shall be of two types — limited contracts and continuing contracts. (R.C. 3319.08.) A limited contract for a teacher is a contract “for a term not to exceed five years.” (R.C. 3319.08 [C]). The employment of substitute teachers is controlled by R.C. 3319.10, which reads as follows:
+“Teachers may be employed as substitute teachers for terms not to exceed one year for assignment as services are needed to take the place of regular teachers absent on account of illness or on leaves of absence or to fill temporarily positions created by emergencies; such assignment to be subject to termination when such services no longer are needed.
+“A teacher employed as a substitute with an assignment to one specific teaching position shall after sixty days of service be granted sick leave, visiting days, and other local privileges granted to regular teachers including a salary not less than the minimum salary on the current adopted salary schedule.
+“A teacher employed as a substitute for one hundred twenty days or more during a school year and re-employed for or assigned to a specific teaching position for the succeeding year shall receive a contract as a regular teacher if he meets the local educational requirements for the employment of regular teachers.
+“Teachers employed as substitutes on a casual or day-to-day basis shall not be entitled to the notice of nonre-employment prescribed in section 3319.11 of the Revised Code, but boards of education may grant such teachers sick leave and other local privileges and cumulate such service in determining seniority.”
+The contract of a substitute teacher is not a contract in addition to a continuing or limited contract. Having a term of less than five years, it is a limited contract. We conclude that appellant was employed by the Akron Board of Education under a limited contract during the school year 1970-71 and worked a total of one hundred thirty-five days of teaching entitling her to credit for one year of service.
+“(B) ‘Year’ as applied to term of service means actual service of not less than one hundred twenty days within a school year; * * *” R.C. 3319.09.
+R.C. 3317.13 (A)(1) defines “years of service” similarly, as follows:
+“(A) As used in this section, ‘years of service’ includes the following:
+“(1) All years of teaching service in the same school district, regardless of training level, with each year consisting of at least one hundred twenty days under a teacher’s contract;”
+The appellee has proposed that a substitute teacher may accrue “years of service” only if the board of education decides to afford such credit. The basis for this contention is the last paragraph of R.C. 3319.10, which states as follows:
+“Teachers employed as substitutes on a casual or day-to-day basis shall not be entitled to the notice of nonre-employment prescribed in section 3319.11 of the Revised Code, but boards of education may grant such teachers sick leave and other local privileges and cumulate such service in determining seniority.”
+“Seniority” is a matter totally separate from “years of service.” Seniority of service is a local matter to be determined not upon total years of teaching, but only upon time spent teaching in a specific school district. Seniority of teachers is relevant only when it becomes necessary to reduce the number of teachers in a district.
+“When by reason of decreased enrollment of pupils, return to duty of regular teachers after leaves of absence, or by reason of suspension of schools or territorial changes affecting the district, a board of education decides that it will be necessary to reduce the number of teachers, it may make a reasonable reduction. In making such reduction, the board shall proceed to suspend contracts in accordance with the recommendation of the superintendent of schools who shall, within each teaching field affected, give preference to teachers on continuing contracts and to teachers who have greater seniority. Teachers, whose continuing contracts are suspended, shall have the right of restoration to continuing service status in the order of seniority of service in the district if and when teaching positions become vacant or are created for which any of such teachers are or become qualified.” R.C. 3319.17.
+In summary, we hold that a substitute teacher, who is employed by a school district and has taught in that school district for more than one hundred twenty days, in any given school year, is entitled to a year of service credit under R.C. 3317.13.
+The judgment of the court of appeals is reversed.
+Judgment reversed.
+Celebrezze, C.J., W. Brown, Sweeney and Locher, JJ., concur.
+Holmes and Hendrickson, JJ., dissent.
+O’Neill, J., of the Seventh Appellate District, sitting for C. Brown, J.
+Hendrickson, J., of the Twelfth Appellate District, sitting for J. P. Celebrezze, J.
+
+## Dissent (Holmes, J.,)
+
+Holmes, J.,
+dissenting. In order to constitute a year of service, a teacher, pursuant to the pertinent statutes, must have at least one hundred twenty days of teaching under a teacher’s contract. There is absolutely no evidence here that Donnis Crawford had a teacher’s contract with the Akron public school system. To the contrary, the only evidence before the trial court was that Crawford’s substitute teaching in the Akron Public Schools was under a temporary certificate which is not considered for pay or longevity purposes as being a contractual teaching status.
+The majority here has not correctly analyzed the pertinent statutes. R.C. 3317.13 clearly provides that for a teacher to be eligible for a year of service credit, it must be established that teaching services were performed under a teacher’s contract. R.C. 3319.08, which deals with teacher employment and reemployment contracts, provides that teachers’ contracts may only be of two types, “limited” and “continuing,” both of which must be in writing. However, this section does provide for the recognition of an employment contract even though there is no written agreement, “[i]f a board of education adopts a motion or resolution to employ a teacher under a limited or continuing contract and the teacher accepts such employment * * In this case, there was no evidence that the board of education had adopted such a resolution or motion to employ Crawford as required by the statute. Therefore, there has been no proof that these substitute teaching services were performed under a teacher’s contract pursuant to R.C. 3317.13.
+It must also be pointed out that other sections of the Revised Code specifically differentiate between the teaching services of a regular full-time teacher and a substitute part-time teacher. In R.C. 3319.10, which relates to employment and status of substitute teachers, it is provided, in pertinent part, that:
+“A teacher employed as a substitute for one hundred twenty days or more during a school year and re-employed for or assigned to a specific-teaching position for the succeeding year shall receive a contract as a regular teacher if he meets the local educational requirements for the employment of regular teachers.”
+Accordingly, even if a substitute teacher were to teach for one hundred twenty, days or more during a school year, unless he were also reemployed for or assigned to a specific teaching position for the succeeding year, he is not entitled to receive a contract as a “regular teacher.” Moreover, R.C. 3319.10 further provides, in part:
+“A teacher employed as a substitute with an assignment to one specific teaching position shall after sixty days of service be granted sick leave, visiting days, and other local privileges granted to regular teachers including a salary not less than the minimum salary on the current adopted salary schedule.”
+A substitute teacher, therefore, who is not assigned to a specific teaching position is not, regardless of the number of days which he teaches, entitled to such “privileges” as a salary not less than the minimum on the current adopted salary schedule.
+The trial court found that, since there was no evidence of an oral or written contract between Crawford and the Board of Education of the Akron Public Schools, she was employed by the Akron Public Schools as a substitute on a casual day-to-day basis. As such, the trial court applied the provisions of R.C. 3319.10, which provide:
+“Teachers employed as substitutes on a casual or day-to-day basis shall not be entitled to the notice of nonre-employment prescribed in section 3319.11 of the Revised Code, but boards of education may grant such teachers sick leave and other local privileges and cumulate such service in determining seniority.”
+In urging that the trial court did not properly apply the foregoing provision of R.C. 3319.10, Crawford argues that boards of education do not have discretion as to whether they will recognize years of service credits and that the provisions of R.C. 3317.13 and 3317.14 are mandatory. However, the specific provisions of R.C. 3319.10 prevail over the general provisions of R.C. 3317.13 and 3317.14. Even though a board of education is not required to grant substitute teachers “local privileges” or to “cumulate such service in determining seniority,” they are authorized, at their discretion, to do so.
+Crawford also argues that the provisions of R.C. 3319.10 apply to rights and privileges other than those specified in R.C. 3317.13. On the contrary, R.C. 3319.10 refers to “local privileges * * * including a salary not less than the minimum salary on the current adopted salary schedule.” Therefore, I conclude that the privileges specifically addressed by R.C. 3319.10 encompass those embodied in R.C. 3317.13.
+Accordingly, appellant Crawford’s substitute teaching service for the Akron Public Schools does not constitute a year of service under R.C. 3317.13, and the board was not required to recognize such service for salary schedule purposes. The judgment of the court of appeals should be affirmed.
+Hendrickson, J., concurs in the foregoing dissenting opinion.
