@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1898-12-13"
+citations: ["59 Ohio St. 342"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Goodman v. Hailes."]
+source_url: "https://static.case.law/ohio-st/59/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 942641
+cites_cases: ["21 Ohio St., 488", "23 Ohio St., 619", "25 Ohio St., 352", "26 Ohio St., 372", "26 Ohio St., 644", "27 Ohio St., 669", "31 Ohio St., 555", "33 Ohio St., 236", "39 Ohio St., 150", "49 Ohio St., 450", "49 Ohio St., 459", "49 Ohio St., 461", "56 Ohio St., 257"]
+---
+
+# Goodman v. Hailes
+
+## Majority (By the Court:)
+
+By the Court:
+The action against Umbrecht was prosecuted under section 4357 of the Revised Statutes, which gives a wife who is injured in her means of support in consequence of the intoxication of her husband, a right of action for. damages against the seller of the liquor which caused the intoxication in whole or in part. The action against Goodman was brought under section 4364, which contains the provision that: “If a person rent or lease to another, any building or premises to be used or occupied in whole, or in part, for the sale of intoxicating liquors, or permits the same to be so used or occupied, in whole or in part, such building or premises so leased, used, or occupied shall be held liable for, and may be sold to pay, all fines, costs, and damages assessed against any person occupying the same;” and that section authorizes proceedings to subject the building or premises to the payment of judgments for such damages recovered against the seller. In an action under this last section, the judgment recovered against • the seller of the liquor, when not impeached for fraud or collusion, is conclusive against the owner of the premises upon all questions involved in, and facts essential to its recovery. These are, (1) that the sales of the liquor which caused the plaintiff’s ■ injury were made by the defendant in the judgment; (2) that the sales so made were in violation of law; and (3) that the plaintiff, in consequence of such sales sustained damages to the amount of the judgment; and neither of these facts, nor questions concerning them, are open to dispute by the owner Of the premises in the action brought against him. The place, however, where the liquors were sold, is not material to the recovery of the judgment, nor involved in its recovery. Neither is the nature of the seller’s occupancy of the premises, nor the owner’s agreement with him or permission, for the occupancy. Averments of these facts properly appear for the first time in the action to subject the premises to the payment of the judgment rendered against the seller, and may then be controverted by the owner. Mullen v. Peck, 49 Ohio St., 450, 460, 461. The averments are accordingly contained in the petition against Goodman, and the question here is whether his answer raises a material issue. It is clear the second defense does not; for it was not necessary that he should be a party to the action against Umbrecht. The third defense has no other effect than to call in question the fact that the sales of the liquors which caused the plaintiff’s injury and damage were made by Umbrecht; which, as has been seen, was adjudicated in the case against him, and cannot be questioned in this case. The fourth defense pleads no' fact, but is in the nature of a demurrer to the petition. It is therefore clear that the demurrers to these three defenses were properly sustained.
+With respect to the first defense, it will be .observed the defendant does not deny, and therefore admits, the allegation in the petition, that Goodman was the owner of the premises in question, and leased the same to Umbrecht “for the purpose of selling intoxicating liquors therein;” nor does it deny the recovery of the judgment as alleged, against Umbrecht,. The only, other issuable fact in the case was whether the liquors were sold by Umbrecht on the premises. The denial is, that he unlawfully sold the liquors in the building leased to him by Goodman. This does not deny the liquors were in fact sold on the premises, but tenders an issue only as to the illegal character of the sales; and that, we have seen, was involved in, and conclusively settled by the judgment against Umbrecht, as were all the other matters to which the denials in the first defense are directed.
+Judgment affirmed.
