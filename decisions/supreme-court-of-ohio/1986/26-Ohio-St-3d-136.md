@@ -1,0 +1,56 @@
+---
+court: "Supreme Court of Ohio"
+docket: "85-1664"
+decided: "1986-08-25"
+citations: ["26 Ohio St. 3d 136"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Celebrezze, C.J., Sweeney and C. Brown, JJ., concur.", "Locher and Douglas, JJ., concur in judgment only.", "Holmes and Wright, JJ., dissent.", "Douglas, J., concurs in the foregoing opinion.", "Holmes, J., concurs in the foregoing dissenting opinion."]
+parties: ["The State, ex rel. A-F Industries, ACME-FAB Division, Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/26/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824086
+cites_cases: ["1 O.O.2d 190", "11 Ohio St. 2d 141", "12 Ohio St. 3d 152", "157 Ohio St. 32", "166 Ohio St. 47", "19 Ohio St. 3d 76", "22 O.O.3d 400", "29 Ohio St. 2d 15", "40 O.O.2d 141", "47 O.O. 31", "58 O.O.2d 70", "68 Ohio St. 2d 165"]
+---
+
+# State ex rel. A-F Industries v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The VSSR award in this cause was granted upon the Industrial Commission’s finding that appellant violated IC-5-03.07(A), which provided in pertinent part:
+“(A) DISENGAGING FROM POWER SUPPLY.
+“Means shall be provided at each machine, within easy reach of the operator, for disengaging it from its power supply. * * *”
+The dispositive question we must determine is whether there was reliable, probative and substantial evidence to support the Industrial Commission’s finding that the violation of the specific safety requirement resulted in the injury in question.
+Our review of the abundant precedent pertinent to this cause reveals several standards of law that are applicable to our determination. The Industrial Commission has broad discretion in the performance of its duties, and its actions are presumed to be valid and performed in good faith and sound judgment. State, ex rel. Gerspacher, v. Coffinberry (1952), 157 Ohio St. 32 [47 O.O. 31], paragraph two of the syllabus. Also, it is well-established that the resolution of disputed factual situations is within the sound discretion of the Industrial Commission. State, ex rel. Allied Wheel Products, Inc., v. Indus. Comm. (1956), 166 Ohio St. 47, 50 [1 O.O.2d 190].
+With respect to a request for a writ of mandamus, it has been held that such an extraordinary writ may issue only where the Industrial Commission has abused its discretion. See, e.g., State, ex rel. Teece, v. Indus. Comm. (1981), 68 Ohio St. 2d 165, 167 [22 O.O.3d 400]. It is also clear that the party seeking the writ of mandamus must establish a clear legal right to the writ. State, ex rel. Pressley, v. Indus. Comm. (1967), 11 Ohio St. 2d 141 [40 O.O.2d 141].
+The appellant contends basically that there is a want of evidence supporting the Industrial Commission’s finding that the absence of a power switch caused the severe injuries sustained by appellee. Appellant asserts that the only evidence supporting the finding that the VSSR caused appellee’s injury is appellee’s “self-serving” affidavit wherein he stated that:
+“The undersigned, Richard A. Phillips, * * * states that had the Power Source been within his reach at the time of the injury the severity of his injury would have been lessened.”
+Appellant’s argument in this vein is unpersuasive because it ignores the findings rendered by the hearing officer and investigator that determined causation based upon the overall circumstances surrounding appellee’s injury. Contrary to appellant’s assertions, we believe that appellee’s affidavit is reliable and probative with respect to the question of whether the presence of a power safety switch “within easy reach” would have lessened the injury sustained by appellee. Certainly appellee was in the best position to reflect on whether a stop mechanism “within easy reach” would have lessened his injuries, since there were no other witnesses to the accident. While it is unnecessary for this court to establish a per se rule concerning the number of feet that falls under the “within easy reach” standard, we believe that it is abundantly clear that the commission had little choice but to find that the distance between the position of appellee at the time of the accident and the stop mechanism does not fall within the ambit of the required standard under the facts of this cause.
+Appellant also contends that since appellee was not performing an “everyday operation” on the lathe at the time of the injury, the VS SR award should have never been granted. This argument is totally devoid of merit. If anything, the unfortunate accident suffered by appellee underscores the necessity for safety controls “within easy reach,” especially in view of the facts that the filing of the shaft on the lathe was a necessary operation that had been done by appellee and others previously, and that appellant directed appellee to perform the task at the position he was in at the time of the accident. There is no question, based on the record, that appellee was in a “position in which the operator is normally situated.” State, ex rel. Harris, v. Indus. Comm. (1984), 12 Ohio St. 3d 152, 154. Additionally, appellant’s arguments totally disregard those references in the record which indicate that a foot pedal stop mechanism was installed by appellant subsequent to the accident in question. The hearing officer could have legitimately concluded that such a foot pedal would have been within easy reach and would most likely have lessened appellee’s injuries.
+In assessing all of the arguments raised by appellant in this cause, we find that they can be reduced to the underlying premise that this court should allow appellant another opportunity to prove or rebut that which it failed to do at the commission level. Contrary to appellant’s invitation to this court to reweigh the evidence, this court does not sit as a super trier of fact that will blithely ignore the commission’s findings in order to allow the losing party another chance to rectify its failures before the commission. In sum, appellant’s position is this case would, if adopted, allow employers to ignore safety requirements with unfettered impunity, unless a specific and causal connection was exhaustively elaborated in each and every case. We vigorously decline to embrace such an unnecessary and ill-advised procedure. The fact remains that appellant has failed to show that it has a clear legal right to the writ of mandamus it has requested.
+In conclusion, we reaffirm our prior holding where we stated that "[t]he question of whether an injury * * * ‘resulted because of such failure by the employer’ is a question of fact to be decided by the Industrial Commission, subject only to the ‘abuse of discretion’ test.” (Emphasis sic.) State, ex rel. Haines, v. Indus. Comm. (1972), 29 Ohio St. 2d 15, 17 [58 O.O.2d 70].
+Under the standard of law enunciated in State, ex rel. Thompson, v. Fenix & Scisson, Inc. (1985), 19 Ohio St. 3d 76, we hold that there is reliable, probative and substantial evidence to support the commission’s finding that appellant violated the safety requirement in that the lathe upon which appellee was working did not have within easy reach a proper safety device to disengage the machine. Based upon a careful and meticulous review of the record, we find that the granting of the VSSR award in the cause sub judice was a proper exercise of the commission’s discretion.
+Based upon the foregoing, the judgment of the court of appeals denying the issuance of the writ of mandamus is hereby affirmed.
+Judgment affirmed.
+Celebrezze, C.J., Sweeney and C. Brown, JJ., concur.
+Locher and Douglas, JJ., concur in judgment only.
+Holmes and Wright, JJ., dissent.
+
+## Concurrence (Locher, J.,)
+
+Locher, J.,
+concurring. I concur in judgment only because there was some evidence to support the commission’s determination.
+Douglas, J., concurs in the foregoing opinion.
+
+## Dissent (Wright, J.,)
+
+Wright, J.,
+dissenting. I must dissent from the majority opinion because the Industrial Commission never properly considered whether Phillips’ injury resulted because of A-F Industries’ violation of a specific safety requirement. The majority’s focus on the extent of the evidence regarding causation begs the question of whether the commission ever considered the causation issue at all.
+An additional award should not be made without a finding of a causal connection between the safety violation and Phillips’ injury. This court has previously recognized the necessity of establishing a causal connection between the violation and the injury. State, ex rel. Haines, v. Indus. Comm. (1972), 29 Ohio St. 2d 15, 17 [58 O.O.2d 70]. Section 35, Article II of the Ohio Constitution, which is the Industrial Commission’s authority to make such additional awards, sets forth the causation requirement:
+“* * * Such board shall have full power and authority to hear and determine whether or not an injury, disease or death resulted because of the failure of the employer to comply with any specific requirement for the protection of the lives, health or safety of employes, enacted by the General Assembly or in the form of an order adopted by such board, and its decision shall be final; * * *. When it is found, upon hearing, that an injury, disease or death resulted because of such failure by the employer, such amount as shall be found to be just, * * * shall be added by the board, to the amount of the compensation that may be awarded on account of such injury * * (Emphasis added.)
+In the case at bar, an informal hearing was held, pursuant to R.C. 4121.06, before staff hearing officer Jayne Beachler. Beachler’s order was subsequently affirmed by the commission. Beachler’s inter-office communication (“IOC”) to the commission was summarized by her finding that “claimant’s Application for Violation of a Specific Safety Requirement filed 12-11-81 be granted for the reason that the employer has violated IC-5-03.07(A).” Beachler did not discuss and made absolutely no findings in the IOC concerning the issue of causation. Despite Beachler’s failure to consider the causation issue, the commission affirmed an order which provided that it was the “finding of the Hearing Officer that the claimant’s injury was the result of the employer’s * * * [violation of IC-5-03.07(A)].” Because it simply failed to consider whether Phillips’ injury resulted because of the safety violation, the commission obviously abused its discretion in ordering an additional award.
+In the case at bar, I do not take the position that the commission erred in its assessment of the evidence. I believe that the commission failed to consider an essential element of proof, i.e., causation. I would remand for a determination of whether a causal connection existed between the safety violation and Phillips’ injury.
+Holmes, J., concurs in the foregoing dissenting opinion.
+Although I recognize that IC-5-03.07(A) must be complied with whether the operator assigned to work the machine is in the normal position or in other than the normal position, as here, the causal relationship between the safety violation and the injury must appear in the record and as a fact-finding of the commission.
