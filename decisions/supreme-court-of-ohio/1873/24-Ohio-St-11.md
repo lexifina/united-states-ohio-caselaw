@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1873-12"
+citations: ["24 Ohio St. 11"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hat, C. J., MoIlvainb, Stone, and White, JJ., concurred."]
+parties: ["James S. Huston v. Asa H. Cone."]
+source_url: "https://static.case.law/ohio-st/24/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888401
+cites_cases: ["1 Binn. 565", "1 Bland, 130", "1 Pet. S. C. 1", "1 Sandf. 324", "10 Ohio St. 544", "10 Ohio, 371", "10 Ohio, 85", "11 Ohio, 343", "11 Ohio, 480", "12 Pick. 149", "14 Ohio St. 157", "14 Ohio, 646", "15 Ohio, 366", "17 Pick. 308", "17 Serg. & R. 16", "18 Me. 42", "18 Ohio St. 73", "18 Ohio, 247", "2 Denio, 430", "2 Johns. Ch. 451", "2 Rich. Eq. 1", "20 Ohio, 518", "21 Penn. St. 407", "22 Vt. 262", "25 Penn. St. 468", "28 Barb. 454", "3 Harrington, 464", "3 Johns. Ch. 523", "3 Ohio St. 376", "3 Rawle, 393", "3 Rich Eq. 281", "34 Me. 443", "4 Barb. 20", "4 Dana, 160", "5 Hill, 206", "5 Ohio, 65", "6 Johns. Ch. 169", "6 N. H. 333", "9 Barb. 456", "9 Ohio St. 383"]
+---
+
+# Huston v. Cone
+
+## Majority (Welch, J.)
+
+Welch, J.
+It is a well-settled principle of equity, that where a will assumes to give to one of its beneficiaries property belonging to another person, for whom provision is likewise made in the will, the latter is bound to elect whether he will claim the property so disposed of, or take the provision made for him in the will; and that he can not have both.
+It is equally well settled that equity will take jurisdiction to compel this election, when the party refuses to make it, and that when it has been once fairly and understandingly made, equity will compel him to abide by the election.
+These propositions being conceded, as we think they must be, the questions raised and argued in the case are reduced to three: 3. Does the will make a beneficial provision for defendant? 2. Does it assume to dispose of his life estate in the land devised ? 3. Has defendant made his election? We answer the first and second of these questions in the affirmative, and the third one in the negative. We think the provision made in the will for defendant is beneficial, and that it was manifestly the purpose of the testatrix to dispose of his life estate; but we do not think he has made any election by which he ought to be bound.
+The question whether the will makes a beneficial provision for the defendant, is simply the question whether he was equitably indebted to his wife at the time of her death, in the amount of his notes given to her. We think he was. He borrowed the money of his wife, and at the time it first came into his hands, promised to repay it to her. This constituted him in equity a trustee, to hold the money for her use, and he is bound as such trustee to account foi it to her estate. The fiction of the law, that the husband and wife are one person, and the dotrine that she is incapable of making a- valid contract with her husband, are, in such cases, disregarded in equity, so far as may be necessary to carry into effect the real intentions of the parties. Eor such a purpose they may be regarded as separate persons, and the husband considered as sustaining the character of trustee, as well as that of husband.
+As to the second question, namely, whether the will assumes to dispose of the life estate, I need perhaps say but little. A bare reading of its several provisions, we think, will show that it admits of no other construction than the one indicated. It is true, as counsel claim, that if it will reasonably admit of a construction not involving a disposition of the life estate, that construction must prevail. This is the rule of the common law, and it is only as to the widow’s right to dower that the reverse rule has been established in Ohio. Under our statute the will is to be regarded as assuming to dispose of the dower estate, unless the contrary clearly appears. In the present case the common law rule prevails, that is, we are bound to hold that the life estate is not disposed of, unless the contrary clearly appeal’s. Without going into details of its provisions, suffice it to say, that, in our judgment, the contrary, here does clearly appear, and that no reasonable or admissible construction can be put upon this will, which does not make it intend a disposition of a present estate in the lands devised. The authorities cited by counsel are inapplicable. They relate mainly to cases of dower and annuities. Were it a dower interest, or an annuity, that was in controversy here, it might be saved to the owner without defeating the plain objects of the will. A right of dower, or an annuity, is a mere incumbrance, and necessarily implies a present estate in another person than the widow or annuitant. The repugnancy here is in the fact that the testratrix assumes to dispose of a present subsisting estate, when she owns only a reversion.
+The claim that the defendant has made his election is utterly without foundation. The assumption is that he elected to take under the will. There is just as. much ground for saying that he elected not to take under the will. An election by him implies the taking of one thing and the rejection of the other. The defendant has “ elected ” to take both. To be binding on a party in such case, the election must be made understandingly — that is, with a knowledge both of the facts and of his rights under the will. No such election has been made by the defendant, and he yet has the right, and is bound to make such election.
+Decree accordingly.
+Hat, C. J., MoIlvainb, Stone, and White, JJ., concurred.
