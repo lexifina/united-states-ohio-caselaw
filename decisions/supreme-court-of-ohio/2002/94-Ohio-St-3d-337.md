@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "01-1859"
+decided: "2002-02-27"
+citations: ["94 Ohio St. 3d 337"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur."]
+parties: ["Office of Disciplinary Counsel et al. v. Goldberg."]
+source_url: "https://static.case.law/ohio-st-3d/94/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 382718
+cites_cases: ["563 Pa. 127", "716 N.E.2d 213", "727 N.E.2d 926", "758 A.2d 655", "86 Ohio St.3d 1480", "88 Ohio St.3d 1504", "Registration No. 0005748,"]
+---
+
+# Office of Disciplinary Counsel v. Goldberg
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent, Richard D. Goldberg, Attorney Registration No. 0005748, is now in the Federal Correctional Institute in Morgantown, West Virginia. On September 10, 1999, during the pendency of certain criminal actions against respondent, we suspended his license to practice law in Ohio for an indefinite period. In re Goldberg (1999), 86 Ohio St.3d 1480, 716 N.E.2d 213. As a part of that order we required respondent to refund any unearned fees and account for any trust fund money in his control.
+On May 2, 2000, we denied respondent’s motion to resign from the practice of law in Ohio. In re Resignation of Goldberg (2000), 88 Ohio St.3d 1504, 727 N.E.2d 926. Respondent then offered to resign from the Bar of Pennsylvania, where he was also admitted to practice, and on August 1, 2000, the Supreme Court of Pennsylvania entered an order of “Disbarred on Consent” in Disciplinary Counsel v. Goldberg (2000), 563 Pa. 127, 758 A.2d 655.
+On December 29, 2000, relators, Office of Disciplinary Counsel, Mahoning County Bar Association, and Trumbull County Bar Association, filed an amended three-count complaint charging respondent with several violations of the Code of Professional Responsibility. After respondent answered, the matter was referred to a panel of the Board of Commissioners on Grievances and Discipline (“board”).
+Based on stipulations and exhibits, the panel found that in November 1996, respondent, as attorney for the estate of Paul D. Fraelich, received checks payable to the executor of the estate totaling $742,630 from various defendants in a wrongful death case that he had brought on behalf of the estate. Respondent did not notify any person connected with the estate that he had received the funds, did not distribute the funds, and, in fact, wrote to a beneficiary of the estate stating that the case was on appeal. Respondent forged the signature of the executor of the estate on the checks he received and created false documents, including a false “satisfaction of judgment,” on which he also forged the signature of the executor, and a false “brief in opposition” purportedly prepared by one of the defendants.
+The panel also found that respondent defrauded the estate of Rachel Sloan of $400,000 during the time he represented that estate in a medical malpractice action. In addition, the panel found that in 1991 and 1992, and in 1996 and 1997, respondent instructed his staff to forge his clients’ signatures on other settlement checks, which respondent then deposited in his own account.
+The panel found that as a result of these and other defalcations, respondent was charged on June 8, 1999, with seven counts of mail fraud and three counts of bank fraud in the United States District Court for the Northern District of Ohio, Eastern Division. On August 27, 1999, respondent pled guilty to the seven counts of mail fraud and one count of bank fraud, and the government agreed to dismiss two counts of bank fraud. On November 8, 1999, respondent was directed to deposit the sum of $4,474,451 to the registry of the court to provide restitution for twenty-three former clients who were victims of his fraud. On November 16, 1999, he was sentenced by the United States District Court to forty-one months in prison followed by three years of supervised release.
+Respondent requested a delay from the district court of the commencement of his incarceration until January 9, 2000. , On February 11, 2000, the United States District Court held respondent in contempt and imposed an additional six months in prison for obtaining permission to travel to his godchild’s wedding when, in fact, he used the opportunity also to attend a New Year’s Eve party. Then, in April 2000, respondent was resentenced for a total of fifty-seven months after pleading guilty to attempted tax evasion.
+Respondent then falsely represented to the district court that he was unable to deposit the entire sum needed for restitution, and he provided that court with an incomplete list of persons from whom he had taken funds. The claims against the Client Security Fund of the Supreme Court of Ohio by forty claimants totaled more than $7,000,000. As of September 7, 2001, respondent had made restitution to some, but'not all, of the victims of his crimes.
+The panel concluded that the conduct of respondent violated DR 1 — 102(A)(2) (a lawyer shall not circumvent a Disciplinary Rule through the actions of another), 1-102(A)(3) (a lawyer shall not engage in illegal conduct involving moral turpitude), 1-102(A)(4) (a lawyer shall not engage in conduct involving dishonesty, fraud, deceit, or misrepresentation), 1-102(A)(5) (a lawyer shall not engage in conduct prejudicial to the administration of justice), 1-102(A)(6) (a lawyer shall not engage in conduct adversely reflecting on the lawyer’s fitness to practice law), 7-102(A)(3) (in representing a client, a lawyer shall not conceal or knowingly fail to disclose that which he is required by law to reveal), 7-102(A)(4) (in representing a client, a lawyer shall not knowingly use perjured testimony or false evidence), 7-102(A)(5) (in representing a client, a lawyer shall not knowingly make a false statement of law or fact), 9-102(B)(l) (a lawyer shall promptly notify a client of the receipt of funds), and 9-102(B)(4)(a lawyer shall promptly deliver to the client funds or property to which the client is entitled).
+The panel recommended that respondent be disbarred. The board adopted the findings, conclusions, and recommendation of the panel, and further recommended that the Supreme Court notify all state and federal courts of its final disciplinary order.
+Having reviewed the record, we adopt the findings, conclusions, and recommendation of the board. Respondent is hereby disbarred from the practice of law in Ohio. Inasmuch as this order will be published in the Ohio Official Reports, we find it unnecessary to separately notify all state and federal courts of this discipline. Costs are taxed to respondent.
+Judgment accordingly.
+Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.
+Jonathan E. Coughlan, Disciplinary Counsel, and Lori J. Brown, First Assistant Disciplinary Counsel, for relator. Office of Disciplinary Counsel; Daniel Keating, for relator Trumbull County Bar Association; and Robert S. Bouffard, for relator Mahoning County Bar Association.
+Charles L. Richards, for respondent, and Richard D. Goldberg, pro se.
