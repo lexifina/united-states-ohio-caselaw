@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1884-01"
+citations: ["42 Ohio St. 295"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JohNSON, C. J., took no part in the decision of the case."]
+parties: ["Blandy v. Benedict."]
+source_url: "https://static.case.law/ohio-st/42/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8841478
+cites_cases: ["25 Ohio St. 549", "31 Ohio St. 551", "31 Ohio St. 651", "36 Ohio St. 1", "37 Ohio St. 378"]
+---
+
+# Blandy v. Benedict
+
+## Majority (McIlvaine, J.)
+
+McIlvaine, J.
+Two questions are presented in this case: 1. In tbe administration of the assigned estate did tbe mortgages of Blandy have priority over tbe claims of other creditors ? 2. If not, did the exception of liens in tbe deed of assignment give precedence to Blandy over tbe other creditors ?
+1. At tbe time these mortgages were executed it was provided by statute that every mortgage of goods and chattels shall be absolutely void, as against tbe creditors of tbe mortgagor, unless the mortgagee, his agent or attorney, “ in case tbe said instrument shall have been given to indemnify tbe mortgagee against a liability as surety for tbe mortgagor, shall enter' thereon a true statement of such liability and that said instrument was taken in good faith to indemnify against any loss that may result therefrom,” &c. S. & C. p. 475, section 1, and 66 Ohio Laws, 345, section 2.
+In Hanes v. Tiffany, 25 Ohio St. 549, it was held that the omission to enter upon a chattel mortgage tbe statement required by tbe statute renders tbe mortgage void as against tbe creditors of the mortgagor, and that a mortgage void as to creditors is void as against the assignee for tbe benefit of creditors. But in Gardiner v. Parmalee, 31 Ohio St. 551, it was held where the affidavit (statement) refers to matters contained . in the mortgage, the matters thus referred to are to be regarded as part of the affidavit (statement). These cases are referred to and approved in Nesbit, v. Wortz, 37 Ohio St. 378, and we think are conclusive on the question now under consideration. These mortgages of Blandy were given to indemnify him against a liability as surety for the mortgagor. This fact is stated in the mortgages, but such statement is not entered on the mortgage nor verified by the affidavit of the mortgagee, nor is it referred to in the affidavit. The statement in the affidavit simply is that the mortgagor is indebted to the mortgagee in a sum named; that the said claim is just and unpaid; and that to secure the payment of the same the within mortgage has been executed to him in good faith. This is not a true statement of the liability as surety against which the mortgage purports to be indemnity, and no reference is made in the affidavit to any matter that can supply the omission.
+"We admit that a substantial compliance with the requirement of the statute is sufficient. What does the statute require ? That the mortgagee shall state, under oath, what the liability is for which he is bound as surety, and the mortgage was given in good faith to indemnify him against loss as surety from such liability. The affidavit states the mortgagor is indebted to the affiant, and that the mortgage was given in good faith to secure the payment of such debt. No reference is made to the contents of the mortgage, and for that reason we think the mortgage is void as against the creditors of the mortgagor.
+2. As to the next question. The deed of assignment “ excepts from the operation of the assignment .all existing liens, which are not to be affected hereby.” By no fair interpretation of this clause can it be said that the assignor intended to except from the operation of the assignment his equity of redemption in the mortgaged property. The assigned estate was administered on the theory that the equity of redemption passed to the assignee for the benefit of creditors. What then was the purpose of this clause ? We think there can be no doubt that the intention was to secure the mortgagees the full amount of their liens to the extent that such liens were valid as against the assignor. Can such purpose be accomplished by such means? We think not. Undoubtedly these mortgages were valid as against the assignor, but void as against his creditors. By the assignment, the rights of creditors passed to the as-signee as matter of law. The possession of the assignee was the possession of creditors. The right of creditors to seize the property in the hands of the assignee did not exist, but the assignee was bound, in law, to administer the trust for their benefit. Every right which the creditors might have asserted against the property before the assignment, the assignee is bound to secure for their benefit after the assignment. Liens invalid as against creditors at the time of assignment remain invalid. These mortgages were void as against creditors at the time of the assignment, unless they were made valid by the clause of the deed of assignment now under consideration. The validity or invalidity of an alleged lien is a question of law. It does not depend on the will of the grantor in an alleged mortgage. This clause neither validated nor invalidated the mortgages in any respect; nor did it except or assume to except from the operation of the assignment the mortgaged property.
+, The property was assigned subject to the liens upon it, and it is the law, not the dictation or convention of the parties, Which determines the validity of the liens, and against whom they exist.
+Judgment affirmed.
+JohNSON, C. J., took no part in the decision of the case.
