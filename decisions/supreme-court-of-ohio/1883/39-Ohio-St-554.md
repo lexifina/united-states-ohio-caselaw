@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1883-01"
+citations: ["39 Ohio St. 554"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris v. Williams."]
+source_url: "https://static.case.law/ohio-st/39/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 914185
+cites_cases: ["1 Bush, 62", "1 Mass. 45", "1 Pick. 81", "1 Rawle, 285", "1 Sup. Ct. 429", "10 Wheat. 192", "11 Ohio St. 331", "11 Ohio St. 641", "12 Bush. 429", "12 Ohio St. 553", "12 Ohio St. 619", "13 Ohio St. 21", "19 Ill. 44", "19 Ind. 53", "19 Ohio St. 260", "2 Cold. 13", "2 Dev. &. B. L. 177", "2 Gil. 628", "2 Hill S. C. 319", "2 Ohio, 129", "20 Ohio, 1", "22 Ohio St. 273", "24 Ala. 719", "25 La. Ann. 617", "30 Mo. 89", "30 Tex. 115", "31 Mich. 126", "36 Md. 447", "37 Ala. 198", "4 Des. 266", "4 Des. 267", "4 Des. 640", "40 Mo. 595", "44 Ala. 633", "45 Md. 146", "45 Mo. 495", "5 H. & J. 190", "5 Ind. 94", "56 Ala. 519", "6 Bin. 206", "6 Humph. 299", "6 Jones L. 235", "6 Mass. 374", "6 Ohio St. 622", "6 Ohio St. 656", "6 Wheat. 597", "66 Mo. 392", "70 Pa. St 392", "9 Ala. 990", "9 G. & J. 19", "9 Wheat. 566", "92 U. S. 27", "96 U. S. 76"]
+---
+
+# Morris v. Williams
+
+## Majority (Okey, J.)
+
+Okey, J.
+The property in.question is réal estate, and descended according to the lex rei sites; but as Thomas Williams ■was domiciled here, at the time of his death, the law of Ohio would likewise have governed, if the property had 'been personal. The question, however, is, as stated, as to' the statutes of Ohio regulating the descent of real property ; and undoubtedly, in Ohio, the legitimate children of a man dying intestaté inherit his real estate. If the marriage of Thomas Williams and Katie was in all respects valid, Edmund Williams is the heir; and it will be seen that the same result follows if the marriage was invalid. The act of 1805 (Chase, 515), “ regulating the course of descents and distribution of personal property,” provided in section 13, borrowing from the civil law, “that where a man having by a woman one or more children, shall afterwards intermarry with such woman, such child or children, if recognized by him, shall be thereby legitimated. The issue, also, in marriages deemed null in law, shall nevertheless be legitimate.” And that provision has remained in force, in substantially the same form,' to the present time. Chase, 906, 1314, 1790; 3 Curwen, 2273 ; 2 Swan & Cr. 504 § 16 ; Rev. Stats. § 4175.
+We need not determine as to the precise effect of the Virginia marriage. If we assume it even to have been void,, the case is controlled by the provision quoted. If it was voidable, the case is still controlled by the statute, if, indeed, any such provision as to a voidable marriage was necessary. And clearly it is immaterial whether the marriage, “null in law,” took place in this state or elsewhere. For the purpose of determining to whom the real property in question descended, Edmund Williams is, by force of this statute, which, for the present purpose, we assume controls the case, to be regarded ■ as the legitimate son of Thomas Williams. True, acts were passed in 1804 and 1807 (Chase, 393, 555), in aid of the fugitive slave law, and imposing onerous disabilities on colored persons, and these blots upon our legislation were suffered to remain until 1849 (2 Curwen, 1466). Because of our policy toward colored' persons, thus indicated in our legislation, and because of the alleged incapacity of slaves to form any sort of contract, it is urged that the issue of slave marriages could not have been .contemplated when it was provided that the issue of marriages, null in law, shall be legitimate. But we are un willing to place any such limitation on the words of the statute. It is a familiar rule in the construction of statutes, that the language, where clear and comprehensive, is not to be limited in view of the particular instances which may be supposed to have led to its adoption, but the act should be held to embrace all cases fairly coming within its terms, if they are also within its reason and spirit. Goshorn v. Purcell, 11 Ohio St. 641, 649. Our conclusion that Edmund Williams inherited the property is supported by Wright v. Lore, 12 Ohio St. 619. ■ The heirs of La vina hold the property in trust for Edmund, and the court made the proper order as to the terms lipón, and manner in which he might obtain possession.
+Judgment affirmed.
