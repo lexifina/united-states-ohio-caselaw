@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "23997"
+decided: "1933-06-14"
+citations: ["127 Ohio St. 22"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Day, Allen, Stephenson and Jones, JJ., concur.", "Bevis, J., not participating."]
+parties: ["The New York, Chicago & St. Louis Rd. Co. et al. v. Grodek et al."]
+source_url: "https://static.case.law/ohio-st/127/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1005570
+cites_cases: ["28 L. R. A. (N. S.), 761", "81 Ohio St., 204", "90 N. E., 154"]
+---
+
+# New York, Chicago & St. Louis Rd. Co. v. Grodek
+
+## Majority (Matthias, J.)
+
+Matthias, J.
+This case comes into this court from the Court of Appeals, of Cuyahoga county, where it was heard on appeal. The only question presented to this court is the validity of the portion of the judgment awarded the plaintiffs below, Stanislaw Grodek and wife, which covers fees for their attorney in that action. The snit was one in injunction and sought an order restraining the interference with plaintiffs’ access to their premises, and also a mandatory order requiring the restoration of the street to its former condition.
+The record discloses that during the progress of the proceedings before the council of the city of Cleveland for the vacation of a street in that city known as Kurtz court, and prior to the passage of the ordinance declaring such vacation, the railroad company proceeded to excavate a portion of Kurtz court adjoining its property and to construct thereon a switch track as a substitute for one abandoned by reason of a grade crossing elimination.
+The Court of Appeals found against the contention of the railroad company that the construction of the proposed switch track on Kurtz court, as vacated, was a part of the grade crossing elimination program. The court specifically found that the excavations in said street were made under a claim of right under the decree of court in such grade crossing elimination proceeding, and, further, under a claim of right as an owner of land abutting upon the vacated street. The court found, however, that the railroad company had no right as the owner of property upon one side of Kurtz court to place any obstruction therein that would result in leaving inadequate access by the plaintiffs to their property on the opposite side of Kurtz court, which the court had specifically found resulted from the action of the railroad company. The court found also that with a slight rearrangement of the tracks a practically complete restoration of Kurtz court could be made, and ordered that the city and the railroad company proceed to make such restoration. The separate findings of fact and the conclusions of law announced by the Court of Appeals bring within a very narrow compass the question presented to this court.
+As heretofore stated the only question before us arises from the order of the Court of Appeals upon the question of damages. That court ordered the restoration of the surface of said street within thirty days after the injunction became effective, and in order to afford the railroad company an opportunity to acquire the rights of the plaintiffs postponed the effective date of its decree sixty days. The court then found “that such damages as plaintiffs will suffer during ninety days following the entry of decree herein can be adequately compensated herein and that substantial public inconvenience will result if an injunction herein be made immediately effective. ’ ’ The court further found that “the plaintiffs are entitled to damages to date hereof in the sum of Eight Hundred ($800.00) Dollars; Two Hundred ($200.00) Dollars as injury to the land, and Six Hundred ($600.00) Dollars for attorney fees of this action.”
+Plaintiffs in error do not challenge the finding and judgment entered by the court in the sum of $200 as compensation to the defendants in error for injury to their premises, but do challenge the validity of that portion of the finding and judgment covering attorney fees. The only theory upon which attorney fees could be assessed as damages against the plaintiff in error is that the acts against which injunction was sought constituted a deliberate, willful and wanton invasion of the property rights of the defendants in error, involving the element of actual malice, such as would warrant the award of punitive or exemplary damages in a tort action. Defendants in error seek to apply the same rule of damages here.
+There is a wide divergence of opinion among courts of last resort upon the question of the allowance of attorney fees in tort actions. It is stated by Sedgwick on Damages (9th Ed.), vol. 1, 470, that “by the better opinion, no inquiry into counsel fees should be allowed, even in those actions of tort in which the jury may give exemplary damages.” This court, however, has heretofore adopted and applied the rule approved by courts of last resort of several other states that facts which justify the infliction of exemplary damages will also justify the jury in adding the amount of counsel fees to the verdict, not as a part of exemplary damages, but as compensatory damages. The rule applicable in such actions is well stated in 13 Ohio Jurisprudence, 187, Sections 102 and 103, and in 17 Corpus Juris, 808, where cases are cited supporting the text. The last case in which it was announced and applied by this court is United Power Co. v. Matheny, 81 Ohio St., 204, 90 N. E., 154, 28 L. R. A. (N. S.), 761.
+Certainly, if applied in actions in injunction, whether the order sought and granted is restraining or mandatory in character, the elements of fact justifying its application must clearly appear. In the facts found by the court and set forth separately and specifically there is no finding of malice or wantonness, or other elements warranting an award of punitive or exemplary damages. Indeed there was no claim for such damages asserted, and the finding of damages by the court was specifically limited in terms to “injury to the land,” and then attorney fees were specifically allowed and added to the actual damage to the property theretofore found.
+We are of the opinion, therefore, that the award of $600 attorney fees -was not warranted by the facts found and that in such respect the judgment must be modified.
+Judgment modified and affirmed.
+Weygandt, C. J., Day, Allen, Stephenson and Jones, JJ., concur.
+Bevis, J., not participating.
