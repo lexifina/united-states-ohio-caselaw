@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Ohio"
+docket: "89-703"
+decided: "1990-06-27"
+citations: ["52 Ohio St. 3d 90"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Holmes, Douglas, H. Brown and Resnick, JJ., concur.", "Wright, J., concurs in judgment only."]
+parties: ["Gambill, Appellee, et al., v. Bonded Oil Company, Appellant, et al."]
+source_url: "https://static.case.law/ohio-st-3d/52/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1424595
+cites_cases: ["10 O.O. 3d 384", "290 N.E. 2d 181", "32 Ohio St. 2d 48", "36 Ohio St. 3d 100", "36 Ohio St. 3d 135", "383 N.E. 2d 601", "43 Ohio St. 3d 156", "522 N.E. 2d 477", "522 N.E. 2d 489", "539 N.E. 2d 627", "56 Ohio St. 2d 234", "61 O.O. 2d 295"]
+---
+
+# Gambill v. Bonded Oil Co.
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+Bonded argues that when applying a new statute of limitations which would shorten the period of limitation of a particular cause of action, it is the enactment date and not the effective date from which the reasonableness of the time period to. enforce one’s existing substantive rights should and must be measured. Defendant submits that under the instant factual context, since the injured plaintiff had one hundred seventy-five days from the enactment date and eighty-five days from the effective date of R.C. 4121.80(A) to institute this action, she was afforded a reasonable amount of time to assert her rights as a matter of law, and that R.C. 4121.80(A) bars her claim since the claim was filed more than one year after her injury was sustained. In support of this argument, defendant cites Gregory v. Flowers (1972), 32 Ohio St. 2d 48, 61 O.O. 2d 295, 290 N.E. 2d 181. Defendant further contends that any reliance on Hunter, supra, is misplaced since that case involved an action where application of R.C. 4121.80(A) would have destroyed an accrued substantive right without affording a reasonable time, or indeed any time, to enforce that right.
+While defendant’s arguments may appear to present a credible distinction that would permit application of R.C. 4121.80 to the instant facts under Gregory, supra, and other like precedents, we reject such arguments completely, and therefore affirm the decision of the court of appeals below.
+With respect to defendant’s argument that this court should measure the time period with which to file an action by using the enactment date instead of the effective date, it is plain that this court has already determined that the effective date of R.C. 4121.80 is the date which will determine all questions revolving around the interpretation, application and constitutionality of the statute. See Van Fossen v. Babcock & Wilcox Co. (1988), 36 Ohio St. 3d 100, 522 N.E. 2d 489, and Hunter, supra. Therefore, we reject defendant’s argument that the enactment date is the date from which the reasonableness of applying the new statute of limitations set forth at R.C. 4121.80 must be measured.
+In Hunter, supra, this court held in the syllabus:
+“Unless the circumstances of an action clearly indicate a battery or any other enumerated intentional tort in the Revised Code, a cause of action alleging bodily injury as a result of an intentional tort by an employer arising prior to the effective date of R.C. 4121.80 will be governed by the two-year statute of limitations established in R.C. 2805.10.” (Emphasis added.)
+With regard to the instant case, it is readily apparent that the cause of action arose prior to the effective date of R.C. 4121.80. In addition, it is clear that the definition of “intentional tort” in R.C. 4121.80 cannot constitutionally apply retroactively to causes of action arising prior to August 22, 1986, the effective date of the statute. Van Fossen, supra, and Kunkler v. Goodyear Tire & Rubber Co. (1988), 36 Ohio St. 3d 135, 522 N.E. 2d 477.
+As this court held in the fourth paragraph of the syllabus in Van Fossen, supra, subsection (G) of R.C. 4121.80 imposes a new, more difficult standard for actions alleging intentional torts committed by an employer and, therefore, it runs afoul of the proscription against retroactive laws established in Section 28, Article II of the Ohio Constitution. While defendant argues that subsection (A) of R.C. 4121.80 was not held to be unconstitutionally retroactive in Van Fossen, we find that subsection (A) is so inextricably interwoven with the substantive portions of the statute that it too would violate Section 28, Article II if it were applied retrospectively to the cause sub judice.
+Even assuming, arguendo, that application of R.C. 4121.80 to this cause would not violate Section 28, Article II, we find that the eighty-seven day period that plaintiffs would have had to commence this action would not be a reasonable period of time within which to file their complaint. We reach this conclusion because the shortened statute of limitations would, given the complexities of an employer-intentional tort cause of action, in effect destroy the substantive rights accrued by virtue of Blankenship, supra, and Jones, supra. See Cook v. Matvejs (1978), 56 Ohio St. 2d 234, 10 O.O. 3d 384, 383 N.E. 2d 601; and Gregory, supra.
+In addition to the foregoing, we believe application of R.C. 4121.80(A) to the instant case would be inappropriate, inasmuch as its limitation of actions applies to “[a]ny action pursuant to this section,” and the plaintiffs never attempted to bring their complaint pursuant to this statute. While it is true that plaintiffs’ complaint does not refer to Blankenship, supra, or Jones, supra, by name, it is equally true that the complaint was not brought pursuant to R.C. 4121.80, with its new definition of “intentional tort,” either.
+In any event, this court recently had the opportunity to consider virtually the same arguments raised herein in the case of Walker v. Cincinnati Electronics Corp. (1989), 43 Ohio St. 3d 156, 539 N.E. 2d 627. However, this court summarily rejected such arguments by relying solely on our prior decision in Hunter, supra. Given our rejection of defendant’s arguments in the instant cause, we necessarily find the court of appeals’ decision in Miracle v. Fujitech America, Inc. (May 8, 1989), Warren App. No. CA88-10-075, unreported, to be clearly erroneous as a matter of law.
+Accordingly, we reaffirm our prior decision in Hunter, supra, and hold that except where circumstances clearly indicate a battery or other intentional tort specifically enumerated in the Revised Code, any cause of action alleging bodily injury as a result of an intentional tort by an employer which arose prior to the effective date of R.C. 4121.80 is governed by the two-year statute of limitations codified at R.C. 2305.10.
+Therefore, the judgment of the court of appeals is hereby affirmed.
+Judgment affirmed.
+Moyer, C.J., Holmes, Douglas, H. Brown and Resnick, JJ., concur.
+Wright, J., concurs in judgment only.
+R.C. 4121.80(A) was filed with the Secretary of State on May 23, 1986 and became effective on August 22, 1986. The intervals between these dates and November 15, 1986 (one year after the injury) are one hundred seventy-six (not one hundred seventy-five) days and eighty-five days. As the final day was a Saturday, plaintiff would actually have had until the following Monday to file suit, allowing her one hundred seventy-eight and eighty-seven days. Civ. R. 6.
+In Miracle, the court of appeals held that R.C. 4121.80(A) could be retroactively applied to intentional tort causes of action which arose prior to the effective date of R.C. 4121.80. Moreover, the court in Miracle erroneously held that Hunter, supra, was not controlling.
