@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Ohio"
+docket: "70-577"
+decided: "1971-06-23"
+citations: ["26 Ohio St. 2d 237"]
+reporter: "ohio-st-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Schneider, Duncan and Leach, JJ., concur.", "0 ’Neill, C. J., Corrigan and Stern, JJ., dissent."]
+parties: ["Burge et al., Appellants, v. Pepsi-Cola Bottling Co. of Cincinnati, Appellee."]
+source_url: "https://static.case.law/ohio-st-2d/26/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2338994
+cites_cases: ["104 So. 2d 3", "110 S. W. 364", "118 Ohio St. 154", "122 Ohio St. 258", "127 Ohio St. 469", "129 Ky. 60", "142 N. W. 400", "144 N. E. 2d 104", "147 Ohio St. 293", "148 N. E. 2d 687", "15 Ohio St. 2d 224", "152 Ohio St. 477", "155 Ohio St. 149", "160 N. E. 679", "162 Iowa 414", "166 Ohio St. 529", "167 Ohio St. 353", "169 Ky. 94", "171 N. E. 312", "183 S. W. 252", "189 N. E. 246", "209 N. E. 2d 442", "239 N. E. 2d 37", "240 Iowa 973", "255 Iowa 834", "3 Ohio St. 2d 96", "33 Ohio St. 246", "44 N. E. 236", "54 Ohio St. 529", "70 N. E. 2d 898", "73 Ohio St. 242", "76 N. E. 617", "90 N. E. 2d 145", "98 N. E. 2d 39"]
+---
+
+# Burge v. Pepsi-Cola Bottling Co.
+
+## Majority (Herbert, J.)
+
+Herbert, J.
+The issue presented in this appeal is whether reasonable minds might disagree upon the question of whether appellant Violet Burge was eontributorily negligent.
+Appellant’s principal contention is that, even if her failure to observe the hazard otherwise constitutes contributory negligence, her concern over the activity of her grandchild distracted her attention and excused her failure to see the toolbox lid. In support of her argument that the element of distracted attention required submission of the question of contributory negligence to the jury, appellant relies upon paragraph three of the syllabus in Gross- nickle v. Germantown (1965), 3 Ohio St. 2d 96, 209 N. E. 2d 442, which reads:
+“Whether the care and attention ordinarily required of a pedestrian using a public sidewalk and approaching an intersection are diverted by weather conditions, traffic hazards and the apparently safe condition of the surface of the walk so as to excuse her from observing a hazard, which she otherwise would have the duty to see and the potential danger of which she had prior knowledge, is a question of fact for a jury.”
+Appellee, however, contends that Grossnickle limits the applicability of the doctrine of distracted attention to situations where the alleged distraction relates solely to the personal safety of the plaintiff. Such an interpretation of that case is too narrow.
+Evidence tending to show multiple distractions, touching upon the personal safety of a plaintiff, might be accorded greater probative force by the triers of fact than evidence tending to show a single distraction of a more tangential nature. However, in Grossnickle, at page 103, Justice Schneider stated the general principle of law underlying the issue of contributory negligence:
+“ ‘The authorities generally are to the effect that one whose attention is diverted is not to be held to the same closeness of observation as he would otherwise be; and where his act, but for such diverted attention, would have been negligent, upon proof tending to show conditions throwing him off his guard, the question of his negligence is one for the jury.’ Wheeler v. Sioux Paving Brick Co., 162 Iowa 414, 142 N. W. 400 (attention diverted from dangerous machinery by the approach of a car). See Flattery v. Goode, 240 Iowa 973, 38 N. W. 2d 668 (attention diverted from starting of machinery by sticking of tailgate of truck); Bartels v. Cair-Dem, Inc., 255 Iowa 834, 124 N. W. 2d 514 (attention diverted by display counter); Deane v. Johnston (Fla.), 104 So. 2d 3 (attention diverted by employer calling name of plaintiff); Merchants Ice & Cold Storage Co. v. Bargholt, 129 Ky. 60, 110 S. W. 364 (attention diverted to a building which was under discussion); City of Dayton v. Lory, 169 Ky. 94, 183 S. W. 252 (attention diverted by observation of daughter’s activities). See also 25 American Jurisprudence 760, Highways, Section 468; 38 American Jurisprudence 864, Negligence, Section 187; 27 Ohio Jurisprudence 2d 426, Highways and Streets, Section 310.”
+The trial court here, in ruling upon appellee’s motion for a directed verdict, was required to construe the evidence most strongly in favor of appellant. E.g., Hamden Lodge v. Ohio Fuel Gas Co. (1934), 127 Ohio St. 469, 189 N. E. 246; Tanzi v. New York Central Rd. Co. (1951), 155 Ohio St. 149, 98 N. E. 2d 39; Hood v. New York, Chicago & St. Louis Rd. Co. (1957), 166 Ohio St. 529, 144 N. E. 2d 104. Applying that standard to the instant record, while it cannot be said that appellant either had prior knowledge of the hazardous condition, or reason to anticipate potential danger, there was uncontroverted evidence that the protruding lid was visible. See Conneaut v. Naef (1896), 54 Ohio St. 529, 44 N. E. 236; cf. Highway Construction Co. v. Sorna (1930), 122 Ohio St. 258, 171 N. E. 312. However, there also was evidence of circumstances, not caused by her, which interfered with appellant’s normal vigilance toward the sidewalk in front of her. As stated in Gross-nickle, supra, at page 104:
+“ ‘If visibility alone settled contributory negligence every case of * * * encountering any stationary object would automatically be a case of non-liability for in all of these cases the condition which caused the harm was visible. The question always is whether the plaintiff used due care for his own safety, taking into account all of the circumstances, of which the visibility of the object encountered is an important one, but still only one of the circumstances.’ ” (Emphasis added.)
+As we view the record in this case, the degree of visibility of the toolbox lid and the character and extent of the circumstances which distracted the appellant combine to raise a jury question on the issue of her contributory negligence. Where the care and attention ordinarily required of a pedestrian using a public sidewalk were diverted by circumstances not caused by him, the question of whether such diversion excused his failure to discern and avoid a visible hazard is one of fact for the jury so long as the degree of visibility of the hazard was such that it could not be said as a matter of law that a reasonably prudent person under the same or similar circumstances would have seen it in time to avoid injury.
+It was error for the trial court to grant appellee’s motion for a directed verdict, the judgment of the Court of Appeals is reversed and the cause is remanded for a new trial.
+Judgment reversed.
+Schneider, Duncan and Leach, JJ., concur.
+0 ’Neill, C. J., Corrigan and Stern, JJ., dissent.
+Compare, e. g., Schaefler v. Sandusky (1877), 33 Ohio St. 246; Norwalk v. Tuttle (1906), 73 Ohio St. 242, 76 N. E. 617; Masters V. New York Central Rd. Co. (1947), 147 Ohio St. 293, 70 N. E. 2d 898; Fogle v. Shaffer (1958), 167 Ohio St. 353, 148 N. E. 2d 687.
+Compare, e. g., Flury v. Central Publishing House (1928), 118 Ohio St. 154, 160 N. E. 679; Johnson v. Citizens National Bank (1950), 152 Ohio St. 477, 90 N. E. 2d 145; Jeswald v. Hutt (1968), 15 Ohio St. 2d 224, 239 N. E. 2d 37.
