@@ -1,0 +1,57 @@
+---
+court: "Supreme Court of Ohio"
+docket: "85-147"
+decided: "1986-02-12"
+citations: ["22 Ohio St. 3d 94"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Holmes, C. Brown and Wright, JJ., concur.", "Celebrezze, C.J., and Wise, J., concur in judgment only.", "Sweeney and Douglas, JJ., dissent.", "Wise, J., of the Fifth Appellate District, sitting for Locher, J.", "Wise, J., concurs in the foregoing opinion.", "Sweeney, J., concurs in the foregoing dissenting opinion."]
+parties: ["Humphry et al., Appellees, v. Riverside Methodist Hospital, Appellant, et al."]
+source_url: "https://static.case.law/ohio-st-3d/22/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1821054
+cites_cases: ["11 Ohio St. 3d 32", "12 Ohio St. 3d 114", "13 Ohio St. 2d 85", "147 Ohio St. 416", "15 Ohio St. 3d 37", "16 O.O.3d 461", "17 Ohio St. 3d 88", "21 O.O.3d 158", "21 Ohio St. 3d 98", "34 O.O. 350", "38 Ohio St. 2d 85", "42 O.O.2d 283", "62 Ohio St. 2d 445", "67 O.O.2d 90", "67 Ohio St. 2d 253"]
+---
+
+# Humphry v. Riverside Methodist Hospital
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The precise question presented here is whether a decision by a trial court compelling disclosure of information concerning hospital-patient confidentiality and statutory privilege is a final appealable order.
+Section 3(B)(2), Article IV of the Ohio Constitution provides:
+“Courts of appeals shall have such jurisdiction as may be provided by law to review and affirm, modify, or reverse judgments or final orders of the courts of record inferior to the court of appeals within the district * * * it
+In accord, Ohio statutory law, by way of R.C. 2505.02, provides in pertinent part:
+“An order affecting a substantial right in an action which in effect determines the action and prevents a judgment, an order affecting a substantial right made in a special proceeding or upon a summary application in an action after judgment, or an order vacating or setting aside a judgment and ordering a new trial is a final order which may be reviewed, affirmed, modified, or reversed, with or without retrial.”
+A number of cases emanating from this court have defined and set forth the basic circumstances under which an order of a trial court is immediately reviewable as a final order. Guccione v. Hustler Magazine, Inc. (1985), 17 Ohio St. 3d 88; Russell v. Mercy Hospital (1984), 15 Ohio St. 3d 37; State v. Port Clinton Fisheries, Inc. (1984), 12 Ohio St. 3d 114; and BancOhio Natl. Bank v. Rubicon Cadillac, Inc. (1984), 11 Ohio St. 3d 32.
+All of the foregoing cases establish the two-pronged test that must be met in order to establish the finality of such questioned order. The party seeking immediate review must show that a substantial right has been affected and that the order was made in a special proceeding.
+This court has previously set forth some of the prime factors in the determination of whether there are substantial rights to be affected in a special proceeding. In Amato v. General Motors Corp. (1981), 67 Ohio St. 2d 253 [21 O.O.3d 158], we stated at 258 that the court must weigh “the harm to the ‘prompt and orderly disposition of litigation,’ and the consequent waste of judicial resources, resulting from the allowance of an appeal, with the need for immediate review because appeal after final judgment is not practicable.”
+The rights being affected here are the non-party patients’ rights to privacy and to protection of confidential information. The well-established policy of encouraging honest communications between doctors and patients is embodied in R.C. 2317.02(B), which prohibits physicians from testifying as to their patients’ communications. This statutory privilege extends to hospital records which contain any diagnosis of the patient. Weis v. Weis (1947), 147 Ohio St. 416, 429-430 [34 O.O. 350], This court has recognized that a substantial right is affected where a request for disclosure of sensitive information is involved, when that information was initially given upon a promise of anonymity. State v. Port Clinton Fisheries, Inc., supra. We hold that these non-party patients have a substantial right to keep private the fact that they had Legionnaires’ Disease.
+In accord with Amato, supra, we must determine whether the order to compel disclosure involves a “special proceeding.” This entails the weighing of the waste of judicial resources resulting from this type of interlocutory appeal and the general desire to obtain prompt and orderly disposition of litigation, against “the need for immediate review because appeal after judgment is not practicable.” Id. at 258. The precise query is whether there is an appreciable need for immediate review, and only when this is answered in the affirmative will the ordinary course of a proceeding to final adjudication be interrupted.
+Discovery proceedings generally are not considered to be special proceedings because any harm from erroneous discovery has been held to be correctable upon appeal. Kennedy v. Chalfin (1974), 38 Ohio St. 2d 85 [67 O.O.2d 90]. However, where the harm caused by the order cannot be corrected upon appeal, there can be an exception to the general rule. A request for disclosure of identity of a confidential informant gave rise to such irremediable harm in Port Clinton, supra, that this court found the trial court’s order requiring disclosure involved a “special proceeding.”
+In the present case, the disruption of the proceedings caused by immediate review of the trial court’s decision must be weighed against the substantial and irreparable injustice which will inure to innocent patients, not parties to the lawsuit, if the decision ordering disclosure of patients’ names is not immediately reviewed. Denial of immediate review will result in disclosure of names of patients who were treated at Riverside Methodist Hospital who believed that their communications to their physicians were protected by law and would be kept in confidence. Betrayal of that trust by disclosure of the privileged information subjects these innocent patients to irreparable harm. Once the information is divulged, the damage is done, and cannot be remedied by subsequent review of the decision after the final judgment is entered.
+The rationale adopted by this court in Port Clinton, supra, is reasonably applicable to this case. If Riverside Methodist Hospital is required to reveal the names of patients treated at the hospital, irreparable damage will inure to the hospital, the patients, and the public. An appeal after final judgment cannot rectify the damage which will have occurred. The non-party patients entering Riverside Methodist Hospital had a right to expect that the details or nature of their sickness, or the manner or details of their case, would remain private and confidential.
+Accordingly, the order of the trial court was a final appealable order, and the court of appeals erred in dismissing the appeal and cross-appeal. We therefore reverse the judgment of the court of appeals and remand the cause to that court for further proceedings.
+Judgment reversed and cause remanded.
+Holmes, C. Brown and Wright, JJ., concur.
+Celebrezze, C.J., and Wise, J., concur in judgment only.
+Sweeney and Douglas, JJ., dissent.
+Wise, J., of the Fifth Appellate District, sitting for Locher, J.
+
+## Concurrence (Celebrezze, C.J.,)
+
+Celebrezze, C.J.,
+concurring in judgment only. I concur with the majority’s conclusion that in this narrow instance the trial court’s discovery order is a final appealable order pursuant to R.C. 2505.02. The delay caused by appellate review of this order is substantially outweighed by the alleged impact on third-party patients who are not parties to the action. Whether the claimed harm will actually ensue and whether the damage can be cured by appellate review following final judgment are questions which should have been ascertained by the reviewing appellate court. Cf. Bernbaum v. Silverstein (1980), 62 Ohio St. 2d 445, 447 [16 O.O.3d 461].
+However, I share Justice Douglas’ concern that the majority opinion has improperly considered the merits of this action. We are not called upon to determine whether the requested information is privileged. Rather, the single narrow issue at bar is whether the trial court’s order compelling production of hospital records claimed to be privileged constitutes a final appealable order. Whether construed as an advisory opinion, dicta, or in-termeddling in the name of guidance, the majority has overstepped its scope of review by ruling on an issue other than the procedural question before it. See Kocisko v. Charles Shutrump & Sons Co. (1986), 21 Ohio St. 3d 98, 99-100.
+Wise, J., concurs in the foregoing opinion.
+
+## Dissent (Douglas, J.,)
+
+Douglas, J.,
+dissenting. I respectfully dissent from the majority opinion. In doing so, my concerns are twofold. First, I find that the question to be decided in this case is far more narrow than the one framed by the majority. Here, appellees requested the trial court to grant a discovery request. The trial court granted appellees’ motion to compel a response and appellant appealed the order. The court of appeals dismissed the appeal on the basis that the judgment of the trial court was not a final appealable order. Thus, the sole issue in this case is whether an order of a trial court compelling a response to a discovery request is a final appealable order. The matter before us really has nothing to do with the question of physician-patient privilege.
+R.C. 2505.02 sets forth which orders are to be considered final. The discovery order granted by the trial court herein certainly does not affect “a substantial right in an action which in effect determines the action and prevents a judgment.” Likewise, the matter between these parties is not a “special proceeding.” A special proceeding is a civil remedy which does not fall within the category of ordinary civil actions. Appellees base their complaint in negligence, which clearly falls within the ambit of an ordinary civil action.
+Thus, the order complained of herein is not a final order as defined in R.C. 2505.02. Furthermore, this court has held that a discovery order is not a final appealable order. Klein v. Bendix-Westinghouse Co. (1968), 13 Ohio St. 2d 85, 86 [42 O.O.2d 283], While this court has recently made some exceptions to the general rule that interlocutory orders are not immediately appealable, the exceptions have been narrow and none involve discovery orders. To expand the rule further and grant parties the right to immediately appeal an adverse ruling on a discovery matter invites, in my judgment, every party so aggrieved to seek appellate review thereby causing interminable delay and a further crowding of court dockets. The oft-expressed floodgate theory will have a practical application with today’s majority decision.
+My second concern is just as pronounced. The majority opinion makes a final judgment on the ultimate issue of alleged damage to appellees, which appellees contend emanates from the trial court’s order, without any facts, proof or record upon which to make this merit decision. This seems strange to me when the only issue before us is a procedural one, to wit: Is the order appealed from a final order?
+For the foregoing reasons, I must respectfully dissent.
+Sweeney, J., concurs in the foregoing dissenting opinion.
