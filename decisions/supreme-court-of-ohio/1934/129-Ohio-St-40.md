@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Ohio"
+docket: "24822"
+decided: "1934-11-27"
+citations: ["129 Ohio St. 40"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Weygandt, C. J., Stephenson, Jones, Matthias and Zimmerman, JJ., concur."]
+parties: ["Industrial Commission of Ohio v. McWhorter."]
+source_url: "https://static.case.law/ohio-st/129/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1009829
+---
+
+# Industrial Commission v. McWhorter
+
+## Majority (Wilkin, J.)
+
+Wilkin, J.
+The provisions of Section 1465-61, General Code, which specify the persons to whom state industrial insurance shall apply, are very broad:
+“The term ‘employee’, ‘workman’ and ‘operative’ as used in this act, shall be construed to mean:
+“(1) Every person in the service of the state, or of any county, city, township, incorporated village or school district therein, including regular members of lawfully constituted police and fire departments of cities and villages, under any appointment or contract of hire, express or implied, oral or written, except any official of the state, or of any county, city, township, incorporated village or school district therein * * V’
+It seems to this court that such language is "broad enough to cover an indigent workman Who applies to a city for relief and is required to perform labor to the value of the relief afforded, under the direction of the city authority having charge of such labor, and who is credited for such labor at the same rate allowed other laborers, even though he is carried as a “relief worker” on a separate payroll and paid out of a special fund created by “bonds for relief of poor”, as provided in Sections [2294-1] to [2294-13], General Code (114 Ohio Laws, pt. 2, 17).
+The question is not answered by technical legal principles. The problem raises hair-line distinctions and cannot be solved by an arbitrary interpretation of words and phrases. It must be considered in the light of the public policy which prompted the legislation involved.
+The question has been raised in other jurisdictions and this court has given careful consideration to the citations furnished by plaintiff in error, as well as to the very thorough opinion of the Attorney General. The cases that hold against the extension of industrial insurance to relief workers, it seems, are based upon facts which differ from those presented here, or on terminology not quite so broad as that contained in the Workmen’s Compensation Act of this state. In some of those cases the workmen were under the direction of purely charitable institutions, such as the Red Cross, or were serving with no definite arrangement for pay. The Attorney General’s opinion was given before the enactment of the relief legislation referred to above, when conditions were different from those that exist today. It seems clear that the purpose of the recent relief legislation was to broaden the authority of municipalities and other political subdivisions so that aid might be extended to the indigent by way of employment. And in the light of such legislation, relief workers may be distinguished from paupers and indigent persons as defined by the former poor laws, Section 3476 et seq., General Code.
+Emphasis is laid upon the fact that the claimant was an object of the city’s bounty, a ward, a charge. It is contended that the relationship between the workman and the city was due to circumstances and not the result of free, mutual contract. It is stated that there is no distinction between those who receive work relief and those who receive direct relief. It . seems much more reasonable, however, to distinguish between those who work for their support and those who do not work for their support, than to distinguish between laborers engaged in the same work, paid at the same rate, some of whom are employed directly by the city and some indirectly through the relief agency. All those who labor at the same work should receive the same wages and the same benefits. The city received the services upon its promise to pay at a definite rate. It had the right to reject the services, to discontinue the work. It directed where and how the work should be performed. The urgency of the times may be fully conceded and still there is sufficient contractual relationship between the city and the workman to give rise to the relationship of employer and employee.
+It is urged that to impose upon the city the burden of furnishing insurance in addition to the burden of furnishing relief is an additional expense not within the purview of the relief law or the Workmen’s Compensation Act, and that such an additional burden would discourage cities from offering relief work. On the other hand, it may be stated that to treat relief workers as public wards would weaken the incentive to accept work when it is offered. The purpose of the law is to keep men occupied in gainful occupations so that they may not become idle paupers. Moreover, the additional expense occasioned by the extension of insurance to relief workers is probably not much greater than the expense of caring for injured relief workers directly.
+It seems to this court more in harmony with the spirit of work-relief legislation to hold the claimant to be an employee than to hold him to be a pauper or ward. A sound public policy prompts the efforts of the state to preserve the self-reliance of its citizens, even if at extra expense. It is as important to preserve the character as to preserve the lives of its citizens. “Ill fares the land * * * where wealth accumulates and men decay.” The state recognizes that many of its citizens are indigent, but it still wishes them to be independent. The relief legislation was enacted with that purpose in view. The Legislature might have excepted relief workers from the benefits of industrial insurance in the relief legislation if it had cared to do so, or it might have modified the comprehensive phraseology by which it defines “employee” in the Workmen’s Compensation Act. This court will not create an exception where the Legislature has not made one. The evolution of public welfare has been from public “charity” toward social justice. Courts should facilitate such development by an enlightened and liberal interpretation of all welfare laws.
+The judgment of the Court of Appeals will therefore be affirmed.
+Judgment affirmed.
+Weygandt, C. J., Stephenson, Jones, Matthias and Zimmerman, JJ., concur.
