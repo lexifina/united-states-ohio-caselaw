@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Ohio"
+decided: "1883-01"
+citations: ["39 Ohio St. 145"]
+reporter: "ohio-st"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Norton v. Blinn."]
+source_url: "https://static.case.law/ohio-st/39/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 914170
+cites_cases: ["12 C. B. 468", "2 Wall. 70", "21 Ohio St. 488", "32 Ohio St. 388", "39 Barb. 140", "39 Mich. 337", "39 Mich. 339", "46 Verm. 402", "52 Wis. 593", "65 Me. 570", "7 Biss. 338", "7 Heisk. (Tenn.) 137", "79 Ill. 328", "83 Ill. 33", "89 Pa. St. 89", "97 Pa. St. 202"]
+---
+
+# Norton v. Blinn
+
+## Majority (McIlvaine, J.)
+
+McIlvaine, J.
+While it has ever been the policy of the law to leave the parties to an illegal transaction where it finds them by refusing relief to either in respect thereto, it has, oii the other hand, never regarded property or money employed therein or produced thereby as common plunder to be seized or retained by others in no way interested in such business.
+The question, however, in this case, arising on the refusal of the court of common pleas to charge the' jury as requested by the plaintift is : May an agent who has transacted illegal business for his principal and has received money belonging to his principal and accruing from such business, defend himself, in a court of law, against liability to account therefor, by showing such unlawful business and his connection therewith as such agent ?
+If tlie agent receiving such money had not been employed in conducting such business, it would seem to be quite plain, upon principles of purest morality, that-he should account to his principal therefor; but where the sole employment of the agent was to manage and conduct the unlawful transactions, it seems to me, a much more difficult question arises. In the latter case the agent is a partioeps eriminis. In offenses against trade, and the like, the law, regulating the administration of penal justice, does not recognize the relation of principal and agent, unless the agent be an innocent instrument merely. In such cases the guilty offenders against the law are all principals; hence, as between such, with some show of reason it might be said, that the law will afford no redress by civil remedies.
+The rulings upon this question, however, have been so uniformly the other way, it becomes our duty to follow them, unless we find them totally repugnant to public policy and and morality. Upon a careful examination of the authorities, we find no such repugnancy — indeed they commend themselves to our judgment.
+In the first place the rulé which denies civil remedies in such cases applies only to the parties to the illegal transaction. Public policy does not require that one engaged in an unlawful enterprise should, by pleading it, shield himself from liability for the wages of his employees, agents or servants. It is enough that the rule should be enforced as between those who have some interest in the enterprise as principals.
+In the second place, it is contrary to public policy and good morals, to permit employees, agents or servants to seize or retain the property of their principal, although 'it may be employed in illegal business and under their control. No consideration of public policy can justify a lowering of the standard of moral honesty required of persons in these relations.
+And again, if parties to an illegal contract, waive the illegality, and honestly account as between themselves, no other person can be heard to complain of such accounting. Hence, we think, that if in making such' settlement one of the guilty parties should deliver property or money to an agent of another to be delivered by the agent to his principal, such agent is bound to account therefor to his principal.
+A leading case on this question is Tenant v. Elliott, 1 Bos. and Pul. 2, where the defendant, a broker, affected an illegal insurance for the plaintiff on a ship, and after a loss the underwriters paid 'the amount of the insurance to the defendant, who refused to pay the same over to plaintiff, on the ground that the insurance contract was illegal. Judgment for the plaintiff. Eyre, C. J., said : “ The defendant is not like a stockholder. Whether he who has received money to another’s use on an illegal contract, can be allowed to retain it, and that not even at the desire of those who paid it to him ? I think he cannot.”
+In Brooks v. Martin, 2 Wall. 70, it was held by the supreme court of the United States, that “ After a partnership contract confessedly against public,policy has been carried out, and money contributed by one of the partners was passed into other forms — the results of the contemplated operation completed, a partner in whose hands the ¡profits are, cannot refuse to account for and divide them 'on the ground of the illegal character of the original contract.”
+In Baldwin v. Potter, 46 Vermont, 402, it was held that “ an agent is bound to account to his principal for money received in the course of his agency, for goods sold by his principal on orders obtained by him as such ageut on commission, although such sales as between the principal and purchaser be illegal and void.”
+In Evans v. Trenton, 4 Zab. 764, it was held “ The mere agent of a party to an illegal transaction cannot set up the illegality of the transaction in a suit by his principal to recover money that has been paid to such agent for his principal on account of the illegal transaction. This defense can be set up only by a party to the illegal transaction.” In this case the illegal transaction was accomplished through the agent.
+See also Wood on Master and Servant, section 202, where it is said:
+“ While the courts will not enforce an illegal contract, yet, if a servant or agent of another has, in the prosecution of an illegal enterprise for his master, received money or other property belonging to the master, lie is bound to turn it over to him, and cannot shield himself from liability therefor upon the ground of the illegality of the original transaction.”
+The doctrine of these authorities, and many others which might be cited is recognized, applied and enforced in German, &c. Church v. Stegner, 21 Ohio St. 488, wherein it is held: “ While a protniss'ory note given to and discounted by a corporation for a loan of money in the course of an unauthorized banking business will not be enforced, yet where the treasurer of such corporation has taken and appropriated to his prívate use moneys deposited with it contrary to the statute against unauthorized banking, and being unable when called on to refund the.same, secures it by his promissory note, such note will not be held to have been given in the course and furtherance of an illegitimate business, and an action will lie thereon.”
+Ludgmetit of district court affirmed.
