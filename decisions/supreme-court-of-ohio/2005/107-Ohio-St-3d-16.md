@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2004-1366"
+decided: "2005-11-16"
+citations: ["107 Ohio St. 3d 16"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O’Connor and O’Donnell, JJ., concur.", "Lanzinger, J., concurs separately."]
+parties: ["The State ex rel. Advantage Tank Lines, Appellant, v. Industrial Commission of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-st-3d/107/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 566799
+cites_cases: ["2005-Ohio-5829", "23 O.O.3d 518", "328 N.E.2d 387", "42 Ohio St.2d 278", "433 N.E.2d 586", "575 N.E.2d 177", "591 N.E.2d 235", "61 Ohio St.3d 424", "63 Ohio St.3d 743", "665 N.E.2d 1123", "69 Ohio St.2d 630", "71 O.O.2d 255", "76 Ohio St.3d 44"]
+---
+
+# State ex rel. Advantage Tank Lines v. Industrial Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Appellee-claimant, Daniel Marshall, was industrially injured on February 22, 2001, and he filed a workers’ compensation claim for physical and psychological conditions related to his accident. Approximately one year later, he applied for and was awarded permanent partial disability compensation (“PPC”) based on his physical and psychological conditions. In December 2002, he moved appellee Industrial Commission of Ohio for temporary total disability compensation (“TTC”) for his psychological condition.
+{¶ 2} The commission granted TTC and backdated the award, making it effective for part of the period during which claimant had been paid PPC. Appellant-employer, Advantage Tank Lines (“ATL”), objected to the TTC award administratively but was unsuccessful.
+{¶ 3} ATL also did not prevail in its appeal to the Court of Appeals for Franklin County.. Citing State ex rel. Kaska v. Indus. Comm. (1992), 63 Ohio St.3d 743, 591 N.E.2d 235, the court of appeals held that awarding contemporaneous TTC and PPC was not an abuse of discretion and, therefore, denied ATL a writ of mandamus.
+{¶ 4} This cause is now before this court on an appeal as of right.
+{¶ 5} A single issue is presented: May a claimant receive PPC and TTC for the same condition over the same period? Specifically, ATL questions whether a condition underlying a permanent partial disability can at the same time be the basis for a temporary total disability.
+{¶ 6} R.C.'Chapter 4123 sets forth compensable disability in terms of “temporary” or “permanent” and “total” or “partial.” These terms have been problematic at times because they are workers’ compensation-specific terms of art rather than terms to which standard meanings apply. Thus, to simply look at the everyday meanings of these words and apply logic to deem the terms mutually exclusive is inappropriate.
+{¶ 7} ATL implicitly recognizes that it can prevail only if “permanency” has the same meaning for purposes of temporary total disability as it has for permanent partial disability. It further acknowledges that in Kasha, we stated that the definition of “permanency” is not the same for temporary total and permanent partial disability. ATL, however, contends that Kasha is not on point, because that case did not deal with contemporaneous payment of TTC and PPC. We disagree.
+{¶ 8} TTC awards are based exclusively on a claimant’s ability to return to his or her former position of employment. R.C. 4123.56; State ex rel. Ramirez v. Indus. Comm. (1982), 69 Ohio St.2d 630, 23 O.O.3d 518, 433 N.E.2d 586. In this context, a determination that a disability is permanent means that the condition will never improve to the point where the claimant can resume his or her former job. Thus, when this determination is made, the disability is no longer considered temporary, so TTC is terminated.
+{¶ 9} PPC, on the other hand, is completely unrelated to a claimant’s ability to return to his or her former position. It is instead akin to a damages award. State ex rel. Gen. Motors Corp. v. Indus. Comm. (1975), 42 Ohio St.2d 278, 282, 71 O.O.2d 255, 328 N.E.2d 387. In this context, “permanent” means the permanent physical or mental diminution of the whole person caused by the industrial injury. It is a baseline, but it does not necessarily imply a static condition. While in the PPC context, “permanency” always represents a level above which a claimant’s condition will never improve, it also represents the level to which a claimant’s condition can improve, should the condition temporarily worsen. State ex rel. Bing v. Indus. Comm. (1991), 61 Ohio St.3d 424, 575 N.E.2d 177; Kaska.
+{¶ 10} A claimant’s condition, therefore, may be permanent in the sense that there will always be some degree of impairment and at the same time be temporary in the sense that the condition may not always prevent a return to the former position of employment. Consequently, a claimant’s receiving overlapping awards of PPC and TTC for the same injury is not necessarily an error.
+{¶ 11} To define “permanent” uniformly for permanent partial disability and temporary total disability purposes, as ATL advocates, would have a potentially chilling effect on those entitled to PPC, as we first recognized in Kasha:
+{¶ 12} “Permanent partial disability compensation is intended to compensate injured claimants who can still work. New working claimants, however, can predict whether or not their injury will later worsen and prevent their working at their former job. A working claimant might be discouraged from seeking permanent partial disability compensation to which he would be otherwise entitled if receipt of such benefits would preclude later receipt of temporary total disability compensation should his condition worsen. We find this result unacceptable.” Kaska, 63 Ohio St.3d at 746, 591 N.E.2d 235.
+{¶ 13} The judgment of the court of appeals is affirmed.
+Judgment affirmed.
+Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O’Connor and O’Donnell, JJ., concur.
+Lanzinger, J., concurs separately.
+
+## Concurrence (Lanzinger, J.,)
+
+Lanzinger, J.,
+concurring.
+{¶ 14} I write separately to clarify that Advantage Tank Lines (“Advantage”) misses the point when it argues that the permanency of permanent partial disability compensation is incongruent with the temporariness of temporary total disability compensation. The purpose of each type of compensation differs, and it is conceivable that a claimant may be eligible for both simultaneously.
+{¶ 15} Ohio workers’ compensation statutes authorize different types of benefits to eligible claimants: R.C. 4123.56 (temporary total disability compensation); R.C. 4123.57 (partial disability compensation, which includes permanent partial); R.C. 4123.58 (permanent total disability compensation); and R.C. 4123.59 (death benefits). We previously determined that a claimant can receive temporary total disability compensation after receiving permanent partial disability compensation, despite the silence of the statutes on the timing of benefits. State ex rel. Kaska v. Indus. Comm. (1992), 63 Ohio St.3d 743, 745, 591 N.E.2d 235. In Kaska> we rejected the same argument that Advantage now makes, that the permanency of a claimant’s impairment somehow prevents a finding that the claimant is temporarily and totally disabled as a result of the same allowed conditions. Id. In my view, rather than focusing on the duration of a condition, i.e., whether a claimant is temporarily or permanently disabled, to decide the benefit award, one should look at the award sought and then determine eligibility.
+{¶ 16} Marshall first received a 41 percent award of permanent partial disability compensation pursuant to R.C. 4123.57 for his physical and psychological conditions related to his industrial accident. As the majority notes, this compensation is similar to a damages award because in the permanent-partial-disability context, “permanent” refers to a claimant’s lasting physical or mental impairment caused by the industrial injury. See, generally, State ex rel. Holman v. Longfellow Restaurant (1996), 76 Ohio St.3d 44, 665 N.E.2d 1123. Permanent partial disability compensation is intended to compensate injured claimants who can still work. Kaska, 63 Ohio St.3d at 746, 591 N.E.2d 235.
+{¶ 17} Temporary total disability compensation pursuant to R.C. 4123.56, on the other hand, is based exclusively on a claimant’s inability to return to his or her former position of employment and is intended to compensate for an ongoing loss of earnings. State ex rel. Ramirez v. Indus. Comm. (1982), 69 Ohio St.2d 630, 23 O.O.3d 518, 433 N.E.2d 586. After a claimant has received 200 weeks of temporary total disability benefits, the Bureau of Workers’ Compensation will evaluate the claimant to determine whether his or her condition has become permanent. R.C. 4123.56(A). If so, the disability is no longer considered temporary, and temporary total disability benefits terminate. Of course, temporary total disability benefits also cease before 200 weeks have elapsed if the condition improves to the point that the claimant can return to work. Id.
+Buckingham, Doolittle & Burroughs, L.L.P., and Tod T. Morrow, for appellant.
+Jim Petro, Attorney General, and Dennis Behm, Assistant Attorney General, for appellee Industrial Commission.
+{¶ 18} Thus, as the majority concludes, overlapping awards are possible. In this case, Marshall’s temporary total disability compensation (wage assistance) was effective for part of the time that he received permanent partial disability compensation (for damages). The payments were made for different reasons. I do not find it illogical to have contemporaneous awards of permanent partial disability compensation and temporary total disability compensation for the same condition, and therefore I concur in the majority opinion.
