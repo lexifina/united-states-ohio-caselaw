@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2006-0061"
+decided: "2006-07-19"
+citations: ["110 Ohio St. 3d 38"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O’Connor, O’Donnell and Lanzinger, JJ., concur."]
+parties: ["Cincinnati Bar Association v. Kenney."]
+source_url: "https://static.case.law/ohio-st-3d/110/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5590956
+cites_cases: ["2006-Ohio-3458", "658 N.E.2d 237", "666 N.E.2d 1087", "678 N.E.2d 930", "74 Ohio St.3d 187", "76 Ohio St.3d 93", "78 Ohio St.3d 476", "Registration No. 0023854,"]
+---
+
+# Cincinnati Bar Ass'n v. Kenney
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Respondent, James P. Kenney of Cincinnati, Ohio, Attorney Registration No. 0023854, was admitted to the practice of law in Ohio in 1975.
+{¶ 2} On April 18, 2005, relator, Cincinnati Bar Association, charged that respondent had been convicted of a sex crime and had thereby violated DR 1-102(A)(3) (prohibiting illegal conduct involving moral turpitude). Relator also charged that by lying to law-enforcement officers during the investigation of this criminal activity, respondent had violated DR 1-102(A)(4) (prohibiting conduct involving fraud, deceit, dishonesty, or misrepresentation). A panel of the Board of Commissioners on Grievances and Discipline heard the cause, including the parties’ comprehensive stipulations, and made findings of misconduct and a recommendation, all of which the board adopted.
+Misconduct
+{¶ 3} Respondent, a former Hamilton County Municipal Court judge, was employed as an assistant Hamilton County prosecutor during the underlying events. On August 31, 2004, respondent was charged by information with and pleaded guilty to sexual imposition in violation of R.C. 2907.06, a misdemeanor of the third degree. He was sentenced to 60 days in the county jail, with 50 days suspended, and two years of probation during which he was to submit to psychological therapy and complete an outpatient drug program. Respondent was initially classified as a sexually oriented offender, but that designation was removed on appeal.
+{¶ 4} Respondent admitted the violation of DR 1-102(A)(3) but denied that he had violated DR 1-102(A)(4) in responding to questions of officers in the Delhi Police Department. The board found both violations based on the parties’ stipulations, their exhibits, and respondent’s testimony before the hearing panel.
+{¶ 5} Evidence established that a Delhi police detective questioned respondent on March 7, 2004, after a 21-year-old male accused respondent of having unlawful sexual contact with him. During the interview, respondent made statements without invoking his Miranda rights and denied that he had done anything improper to the victim. In a later interview with sheriffs officers, respondent confessed that he had touched the victim’s stomach while the victim slept on a sofa in respondent’s home.
+{¶ 6} At the panel hearing, respondent reluctantly explained that he had first denied all contact with the victim, hoping to close the investigation of the Delhi police and avoid all responsibility for his crime. When the sheriffs officers also investigated the allegations, however, respondent confessed part of the truth about what had happened and conceded that he had not disclosed these facts during the Delhi police interview. The panel found that respondent had thereby attempted to mislead law-enforcement authorities, in violation of DR 1-102(A)(4).
+Recommended Sanction
+{¶ 7} In recommending a sanction for this misconduct, the panel and board weighed the aggravating and mitigating factors of respondent’s case. See Section 10 of the Rules and Regulations Governing Procedure on Complaints and Hearings Before the Board of Commissioners on Grievances and Discipline (“BCGD Proc.Reg.”). The board also took into account that respondent had lost his job as an assistant prosecutor in March 2004 and has not practiced law since then, except for one small probate matter. The board additionally considered respondent’s claim that he has not had any alcohol since August or September 2004, approximately six months after the incident that led to these proceedings.
+{¶ 8} In mitigation, the board found that respondent had no prior record of professional discipline and that by pleading guilty and obtaining counseling, he also had taken steps to rectify the consequences of his wrongdoing. BCGD Proc.Reg. 10(B)(2)(a) and (c). The board additionally found mitigating that respondent had already been sentenced for his crime, served the ten days in jail as ordered, and participated in alcohol-abuse counseling and behavior-modification counseling. BCGD Proc.Reg. 10(B)(2)(f). The board further found that respondent had cooperated in the disciplinary proceedings, and the board considered numerous letters in support of respondent’s otherwise good character. BCGD Proc.Reg. 10(B)(2)(d) and (e).
+{¶ 9} As an aggravating circumstance, the board found that respondent had acted selfishly and dishonestly and had harmed a vulnerable victim. BCGD Proc.Reg. 10(B)(1)(b) and (h). Moreover, respondent had committed his crime after a night of overindulging in alcohol and had attributed his wrongdoing to the effect of alcohol. Notwithstanding this, respondent had failed to acknowledge that he likely required ongoing treatment for alcohol abuse. The board considered that failure an additional aggravating factor.
+{¶ 10} Relator proposed that respondent receive a sanction of a one-year suspension from the practice of law. Respondent argued for a conditional stay of any suspension imposed.
+{¶ 11} The board adopted the panel’s recommendation for a two-year suspension with 18 months stayed on conditions and a two-year probation on the same conditions that respondent (1) enter into a treatment contract with the Ohio Lawyers Assistance Program, (2) abstain from consumption of alcohol, (3) submit to random urinalysis testing, and (4) attend a minimum of two Alcoholics Anonymous meetings per week. Neither- relator nor respondent objects to this recommendation.
+Review
+{¶ 12} We agree that respondent’s conviction and conduct during the criminal investigation constitute violations of DR 1 — 102(A)(3) and (4) as found by the board. Respondent stipulated to the first violation, and we have found a violation of DR 1-102(A)(4) before when a lawyer lied to an investigating officer about a sexual encounter. See Richland Cty. Bar Assn. v. Wolf (1997), 78 Ohio St.3d 476, 678 N.E.2d 930 (six-month stayed suspension imposed). Moreover, as the board found, the recommended sanction is appropriate given the gravity of respondent’s misconduct, the aggravating factors, and the mitigation evidence. See Disciplinary Counsel v. Fowerbaugh (1995), 74 Ohio St.3d 187, 658 N.E.2d 237, syllabus, (actual suspension from the practice of law is warranted for acts of dishonesty and deceit), and Disciplinary Counsel v. Norris (1996), 76 Ohio St.3d 93, 666 N.E.2d 1087 (prosecuting attorney suspended for two years, with one year stayed, based on his conviction of a misdemeanor cocaine-possession charge).
+{¶ 13} Respondent is therefore suspended from the practice of law in Ohio for two years; however, 18 months of the suspension are stayed on the conditions that respondent (1) enter into a treatment contract with the Ohio Lawyers Assistance Program, (2) abstain from consumption of alcohol, (3) submit to random urinalysis testing, and (4) attend a minimum of two Alcoholics Anonymous meetings per week. Upon reinstatement, respondent shall be placed on probation pursuant to Gov.Bar R. V(9) on the same conditions for a period of two years. If respondent fails to comply with these conditions, the stay or probation, as it may apply, shall be terminated, and respondent shall serve the entire two-year suspension. Costs are taxed to respondent.
+Judgment accordingly.
+Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O’Connor, O’Donnell and Lanzinger, JJ., concur.
+Jennifer L. Branch, Dimity V. Orlet, and Peter Rosenwald, for relator.
+H. Fred Hoefle, for respondent.
