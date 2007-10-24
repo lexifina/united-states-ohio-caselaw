@@ -1,0 +1,49 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2006-1263"
+decided: "2007-10-24"
+citations: ["116 Ohio St. 3d 85"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., and Pfeifer, Lundberg Stratton, O’Connor, O’Donnell, and Lanzinger, JJ., concur."]
+parties: ["Manley, Appellee, v. Marsico, Appellant, et al."]
+source_url: "https://static.case.law/ohio-st-3d/116/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5575061
+cites_cases: ["111 Ohio St.3d 1410", "112 Ohio St.3d 1496", "134 Ohio App.3d 321", "2006 WL 726911", "2006-Ohio-1353", "2006-Ohio-5083", "2007-Ohio-5543", "2007-Ohio-816", "368 N.E.2d 1267", "52 Ohio App.2d 183", "6 O.O.3d 171", "730 N.E.2d 1079", "746 N.E.2d 1092", "854 N.E.2d 1090", "862 N.E.2d 121", "91 Ohio St.3d 440"]
+---
+
+# Manley v. Marsico
+
+## Majority (Cupp, J.)
+
+Cupp, J.
+{¶ 1} In this discretionary appeal, we consider whether a trial court’s denial of a motion to dismiss because a plaintiff failed to file an affidavit of merit contemporaneously with the complaint as required by Civ.R. 10(D)(2) is an appealable provisional remedy under R.C. 2505.02(A)(3) and (B)(4). For the reasons that follow, we hold that it is not.
+I. Background and Case Procedure
+{¶ 2} In January 2006, appellee, Mary Manley, filed a medical-malpractice suit against appellant, Nicholas P. Marsico, M.D., and Eye Specialists, Inc. In the complaint Manley alleged that Marsico performed her eye surgery negligently, which resulted in permanent injuries. Marsico is employed by Eye Specialists.
+{¶ 3} In July 2005, this court adopted Civ.R. 10(D)(2). This rule requires that all medical-malpractice complaints filed in Ohio courts include an affidavit of merit signed by a qualified expert attesting that there is sufficient medical evidence supporting the plaintiffs claim. Civ.R. 10(D)(2)(a).
+{¶ 4} Manley did not include the affidavit with her complaint. In response, Marsico filed a motion to dismiss the complaint. Manley asserted that she was unable to file the affidavit contemporaneously with her complaint because she had been unable to contact her retained expert, despite repeated attempts. Just over a month after Manley filed her complaint, Manley reestablished contact with her expert, and within a week she secured and filed the affidavit. Thereafter, Marsico filed a motion to strike the affidavit as untimely. The order issued by the trial court denied Marsico’s motions to strike and dismiss and accepted the affidavit filed by Manley.
+{¶ 5} Marsico appealed the order. The Twelfth District Court of Appeals dismissed the appeal, however, on the basis that outstanding issues remained, there was no Civ.R. 54(B) language in the order appealed from, and, therefore, the. order was not final and appealable. Thereafter, we accepted jurisdiction. Manley v. Marsico, 111 Ohio St.3d 1410, 2006-Ohio-5083, 854 N.E.2d 1090.
+II. Analysis
+{¶ 6} Marsico argues that an order denying a motion to dismiss for failure to comply with the affidavit-of-merit requirement of Civ.R. 10(D)(2) is an appealable order as defined by R.C. 2505.02. Specifically, Marsico claims that such an order denies a provisional remedy that meets the requirements of R.C. 2505.02(B)(4) and thereby permits an immediate appellate review. We do not agree.
+{¶ 7} Civ.R. 10(D)(2)(a) provides:
+{¶ 8} “Except as provided in division (D)(2)(b) of this rule, a complaint that contains a medical claim * * * shall include one or more affidavits of merit relative to each defendant named in the complaint for whom expert testimony is necessary to establish liability. Affidavits of merit shall be provided by an expert witness * *
+{¶ 9} A provisional remedy, as defined in R.C. 2505.02(A)(3), is “a proceeding ancillary to an action, including, but not limited to, a proceeding for a preliminary injunction, attachment, discovery of privileged matter, suppression of evidence, a prima-facie showing pursuant to section 2307.85 or 2307.86 of the Revised Code, a prima-facie showing pursuant to section 2307.92 of the Revised Code, or a finding made pursuant to division (A)(3) of section 2307.93 of the Revised Code.”
+{¶ 10} Provisional remedies are not limited to those specifically identified in R.C. 2505.02(A)(3). See State v. Muncie (2001), 91 Ohio St.3d 440, 448, 746 N.E.2d 1092 (the phrase “including, but not limited to” precedes a nonexhaustive list of examples). Nonetheless, a provisional remedy is an order that is ancillary, meaning it is “ ‘attendant upon or aids another proceeding.’ ” Muncie, 91 Ohio St.3d at 449, 746 N.E.2d 1092, quoting Bishop v. Dresser Industries, Inc. (1999), 134 Ohio App.3d 321, 324, 730 N.E.2d 1079.
+{¶ 11} In this case, the order addresses the pleading requirement of Civ.R. 10(D)(2)(a). Such an order does not meet the substantive definition of a provisional remedy contained in R.C. 2505.02(A)(3). The order does not relate to any prehminary injunction, attachment, discovery of privileged matter, or suppression of evidence. The order does not address any prima facie showings or findings pursuant to R.C. 2307.85, 2307.86, 2307.92, or 2307.93(A)(3). The order likewise does not pertain to matters that meet the definition of “ancillary” in Muncie, supra.
+{¶ 12} Instead, the order arises from Manley’s pleading error. In this regard, we find guidance in the principles applicable to Civ.R. 10(D)(1), which governs attachments to the pleadings. Under that rule, a copy of an account or other written instrument is to be attached to a pleading when a claim or defense is based on the account or instrument. If the account or instrument is not so attached, the reason for the omission must be provided. Id. In the event a party does not attach a copy of the required document and does not provide a reason for its omission, appellate courts have routinely held that the defect in procedure may be cured by a less drastic means than dismissal of the complaint. Castle Hill Holdings, L.L.C. v. Al Hut, Inc., Cuyahoga App. No. 86442, 2006-Ohio-1353, 2006 WL 726911, ¶ 25; Point Rental Co. v. Posani (1976), 52 Ohio App.2d 183, 6 O.O.3d 171, 368 N.E.2d 1267.
+{¶ 13} We believe that the situation presented here under Civ.R. 10(D)(2), while not identical, is analogous. Marsico presented a procedural challenge to the timing of the affidavit’s filing. Despite Manley’s failure to file the affidavit contemporaneously with her complaint as required by Civ.R. 10(D)(2), and although Civ.R. 10(D)(2)(b) contemplates a motion for additional time to be filed contemporaneously with the complaint, Manley eventually provided the reason for the affidavit’s omission and the affidavit itself. The trial court allowed Manley’s actions to cure the pleading defect in her complaint in a way that did not require the automatic dismissal of the complaint. This conclusion is similar to the typical resolution of Civ.R. 10(D)(1) deficiencies. Castle Hill Holdings, L.L.C. v. Al Hut, Inc., 2006-Ohio-1353, 2006 WL 726911, ¶ 25.
+Baker Fister, L.L.C., Wilburn L. Baker, and Anna S. Fister, for appellee.
+Reminger & Reminger Co., L.P.A., G. Michael Romanello, and Amy S. Thomas, for appellant.
+Bricker & Eckler, L.L.P., Catherine Ballard, Anne Marie Sierra, and Daniel C. Gibson, urging reversal for amici curiae, Ohio Hospital Association, Ohio State Medical Association, and Ohio Osteopathic Association.
+{¶ 14} Because the pleading deficiency can be cured without automatic dismissal of a complaint, we conclude that an order denying a motion to dismiss for the procedural pleading error of not filing an affidavit of merit contemporaneously with a complaint as required by Civ.R. 10(D)(2) does not arise from an ancillary proceeding, does not deny a provisional remedy pursuant to R.C. 2505.02(A)(3), and is not final and appealable under R.C. 2505.02(B)(4).
+{¶ 15} The judgment of the court of appeals, therefore, is affirmed.
+Judgment affirmed.
+Moyer, C.J., and Pfeifer, Lundberg Stratton, O’Connor, O’Donnell, and Lanzinger, JJ., concur.
+. {¶ a} Civ.R. 10(D) was amended on July 1, 2005, to include subsection (2). According to a 2005 Staff Note:
+{¶ b} “Civ.R. 10 is amended in response to a request from the General Assembly contained in Section 3 of Sub. H.B. 215 of the 125th General Assembly, effective September 13, 2004.”
+. Eye Specialists also filed motions to dismiss the complaint and to strike the affidavit Manley filed, which the trial court denied. Similarly, Eye Specialists appealed from the trial court’s order. Eye Specialists did not, however, perfect its appeal to this court. See Manley v. Marsico, 112 Ohio St.3d 1496, 2007-Ohio-816, 862 N.E.2d 121.
+. R.C. 2307.85 addresses the minimum requirements for silicosis claims; R.C. 2307.86 concerns claims for mixed-dust disease; R.C. 2307.92 applies to asbestos claims; and R.C. 2307.93(A)(3) applies to court decisions in which the asbestos legislation is held unconstitutionally retroactive.
+. In fact, the trial court also appears to have recognized that Manley’s situation regarding the timing of the affidavit’s filing falls within a situation anticipated by the Civil Rule drafters. The 2007 Staff Notes to Civ.R. 10 state that a court must grant a plaintiff additional time to file an affidavit of merit when good cause is shown. An example of “good cause” is a situation in which the limitations period is ending and plaintiffs counsel has had insufficient time to “identify a qualified health care provider to conduct the necessary review of applicable medical records and prepare an affidavit.” Id.
+. Because we hold that the trial court’s order is not a final order, the issue of whether the trial court properly exercised its discretion in granting Manley the additional time in which to file her affidavit is not before us.
