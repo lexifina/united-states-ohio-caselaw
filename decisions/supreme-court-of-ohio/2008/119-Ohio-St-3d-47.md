@@ -1,0 +1,58 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2007-2380"
+decided: "2008-07-08"
+citations: ["119 Ohio St. 3d 47"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pfeifer, Lundberg Stratton, O’Connor, O’Donnell, Lanzinger, and Cupp, JJ., concur.", "Moyer, C.J., dissents."]
+parties: ["Disciplinary Counsel v. Walker."]
+source_url: "https://static.case.law/ohio-st-3d/119/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3839232
+cites_cases: ["103 Ohio St.3d 204", "105 Ohio St.3d 188", "110 Ohio St.3d 64", "15 OBR 70", "15 Ohio St.3d 31", "2004-Ohio-4704", "2005-Ohio-1143", "2006-Ohio-3564", "2008-Ohio-3321", "322 N.E.2d 665", "41 Ohio St.2d 97", "472 N.E.2d 334", "658 N.E.2d 237", "697 N.E.2d 597", "70 O.O.2d 175", "74 Ohio St.3d 187", "815 N.E.2d 286", "824 N.E.2d 78", "83 Ohio St.3d 7", "850 N.E.2d 702", "Registration No. 0033764,"]
+---
+
+# Disciplinary Counsel v. Walker
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Respondent, Donald L. Walker of Akron, Ohio, Attorney Registration No. 0033764, was admitted to the Ohio bar in 1977. On December 26, 1984, we suspended respondent from the practice of law for one year for failing to promptly return a client’s money, neglecting an entrusted legal matter, and engaging in conduct prejudicial to the administration of justice. Akron Bar Assn. v. Walker (1984), 15 Ohio St.3d 31, 15 OBR 70, 472 N.E.2d 334.
+{¶ 2} On January 31, 2007, relator, Disciplinary Counsel, filed a two-count amended complaint charging respondent with violations of the Code of Professional Responsibility. Respondent stipulated to the violations set forth in count one of the complaint. A panel of the Board of Commissioners on Grievances and Discipline held a hearing and, based on the stipulations and other evidence, made findings of fact, conclusions of law, and a recommendation, which the board adopted.
+{¶ 3} The board recommends that we suspend respondent from the practice of law for two years, with the second year stayed on conditions. We adopt the board’s findings of misconduct and recommended sanction.
+Misconduct
+Count I
+{¶4} Respondent was a long-time acquaintance of John C. Cannady, and respondent also represented Cannady in various legal matters. Cannady died in 2002. During the administration of the estate, Cannady’s son, Donald C. Cannady, objected to the presentation of a deed dated January 9, 2001. According to the deed, Donald Cannady had transferred certain property to his father and had retained a life estate. Donald Cannady, however, was not in Summit County at the time the deed was executed and had not signed his name to the deed.
+{¶ 5} Respondent met with Donald Cannady and his attorney to discuss the matter. At that time, respondent admitted that he had never met Donald Cannady and had not prepared the deed on Donald’s behalf. Instead, respondent claimed that the decedent, John Cannady, had retained his services with respect to the deed and had introduced him to a person who claimed to be Donald Cannady. Respondent also acknowledged notarizing the deed.
+{¶ 6} Relator received a grievance concerning respondent’s involvement with the deed. In his response to the letter of inquiry, respondent admitted that he had drafted and notarized the deed, but denied doing anything fraudulent. He repeated his story that when the deed was signed, John Cannady had introduced one person as Donald Cannady and two other people who served as witnesses.
+{¶ 7} Relator decided to retain a handwriting expert and requested that respondent provide handwriting samples. Respondent then admitted to having signed Donald Cannady’s name to the deed and the names of the witnesses and then notarizing the signatures.
+{¶ 8} Respondent admitted these facts, and the board found that respondent’s actions amounted to violations of DR 1-102(A)(3) (prohibiting illegal conduct involving moral turpitude), 1-102(A)(4) (prohibiting conduct involving dishonesty, fraud, deceit, or misrepresentation), 1-102(A)(5) (prohibiting conduct that is prejudicial to the administration of justice), and 1-102(A)(6) (prohibiting conduct adversely reflecting on the lawyer’s fitness to practice law).
+Count II
+{¶ 9} On September 22, 2006, the panel held a hearing on the disciplinary charges in Count I. During respondent’s testimony, he pledged to this court that he would never have another drink and would never again use marijuana or cocaine. Six days later, respondent was arrested for possession of cocaine. Respondent also admitted that prior to his arrest, he had consumed several alcoholic beverages.
+{¶ 10} Respondent was indicted for possession of cocaine, a fifth-degree felony. In November 2006, respondent pleaded guilty to the charge and was sentenced to treatment in lieu of conviction.
+{¶ 11} The board found that respondent’s cocaine-possession charge constituted a violation of DR 1-102(A)(6).
+Recommended Sanction
+{¶ 12} In recommending a sanction, the board considered the aggravating and mitigating factors listed in Section 10 of the Rules and Regulations Governing Procedure on Complaints and Hearings Before the Board of Commissioners on Grievances and Discipline (“BCGD Proc.Reg.”).
+{¶ 13} As aggravating factors, the parties stipulated that respondent has a prior disciplinary conviction and that he had made a false statement during the disciplinary process when he initially denied forging the signatures of Donald Cannady and the witnesses to the deed. BCGD Proc.Reg. 10(B)(1)(a) and (f).
+{¶ 14} In mitigation, the parties stipulated that respondent had paid all monies he owed to Donald Cannady pursuant to an agreement settling a civil lawsuit related to the forged signature. BCGD Proc.Reg. 10(B)(2)(c). The board found that respondent did not act selfishly or with a profit motive, BCGD Proc.Reg. 10(B)(2)(b), and that respondent had basically cooperated during the disciplinary process because he had corrected his false statement to relator, admitted his misconduct, and apologized and expressed remorse for his actions. BCGD Proc.Reg. 10(B)(2)(d). In addition, the board found that respondent’s substance abuse and alcoholism contributed to his misconduct and that at the time of his second hearing, respondent was in compliance with his Ohio Lawyers Assistance Program (“OLAP”) contract and the terms of his sentence of treatment in lieu of conviction. BCGD Proc.Reg. 10(B)(2)(g) and (f).
+{¶ 15} The panel recommended that respondent be suspended from the practice of law for two years, with the second year of the suspension stayed on the conditions that respondent (1) comply with all terms and conditions of his OLAP contract, (2) upon his return to the practice of law, submit to the appointment of a substance-abuse monitor and a law-practice monitor, (3) commit no further violations during the stay period, and (4) pay all costs of the proceedings. The board adopted the panel’s recommendation.
+Review
+{¶ 16} Respondent does not challenge the board’s findings of misconduct or the recommended sanction. We have reviewed the board’s record and its report, and we agree that respondent violated DR 1-102(A)(3), 1-102(A)(4), 1-102(A)(5), and 1-102(A)(6).
+{¶ 17} We also agree that the board’s recommended sanction is appropriate. A violation of DR 1-102(A)(4) ordinarily calls for an actual suspension from the practice of law. Disciplinary Counsel v. Beeler, 105 Ohio St.3d 188, 2005-Ohio-1143, 824 N.E.2d 78, ¶ 44; Disciplinary Counsel v. Fowerbaugh (1995), 74 Ohio St.3d 187, 190, 658 N.E.2d 237. We find that the board’s recommended sanction is consistent with sanctions imposed for comparable misconduct.
+{¶ 18} In Disciplinary Counsel v. Maxwell (1998), 83 Ohio St.3d 7, 697 N.E.2d 597, we imposed a two-year suspension on an attorney who had forged signatures and notarized the forgeries. We stayed the second year of the suspension on conditions, including that the attorney continue his treatment for substance abuse. And in Beeler, 105 Ohio St.3d 188, 2005-Ohio-1143, 824 N.E.2d 78, we imposed a two-year suspension, with 18 months stayed, on an attorney with a history of substance abuse who had directed his secretaries to sign deeds and wills as witnesses although they had not witnessed the signings or acknowledgements of the signings. See also Mahoning Cty. Bar Assn. v. Olivito, 110 Ohio St.3d 64, 2006-Ohio-3564, 850 N.E.2d 702 (two-year suspension with one year conditionally stayed imposed on an attorney who forged clients’ signatures on a bankruptcy petition).
+{¶ 19} Accordingly, respondent is suspepded from the practice of law for two years, with the second year stayed on the conditions set forth in the board’s report. Costs are taxed to respondent.
+Judgment accordingly.
+Pfeifer, Lundberg Stratton, O’Connor, O’Donnell, Lanzinger, and Cupp, JJ., concur.
+Moyer, C.J., dissents.
+
+## Dissent (Moyer, C.J.,)
+
+Moyer, C.J.,
+dissenting.
+{¶ 20} Respondent committed multiple ethical rule violations by (1) forging various signatures on a deed during a drinking binge, (2) lying about these actions during the disciplinary process, and (3) being arrested for and pleading guilty to possession of cocaine, a fifth-degree felony. I agree with the majority that these violations warrant an actual suspension from the practice of law. See Disciplinary Counsel v. Beeler, 105 Ohio St.3d 188, 2005-Ohio-1143, 824 N.E.2d 78, ¶ 44. However, I respectfully dissent from the majority’s decision to suspend respondent for two years, with one year stayed on conditions.
+{¶ 21} Respondent exhibits a troubling tendency toward recidivism. In 1984, we suspended respondent from the practice of law for one year for failing to promptly return a client’s money, neglecting a legal matter entrusted to him, and engaging in conduct prejudicial to the administration of justice (including not participating in disciplinary proceedings). Akron Bar Assn. v. Walker (1984), 15 Ohio St.3d 31, 15 OBR 70, 472 N.E.2d 334. He appears not to have learned from this experience. In the present case, he made false statements during the disciplinary process and denied all wrongdoing until the relator was forced to retain a handwriting expert to disprove respondent’s claims. During the disciplinary proceedings, respondent testified that he would never have another drink, never again consume marijuana, and never again consume cocaine, and yet he was arrested six days later for cocaine possession. Respondent’s actions reveal that he lacks regard for his ethical duties and that he is unable to control his behavior.
+{1122} While I acknowledge that we have imposed partially stayed suspensions for forgery-related misconduct in previous cases, respondent’s troubling pattern of misconduct warrants a stricter sanction. “[T]he primary purpose of disciplinary sanctions is not to punish the offender, but to protect the public.” Disciplinary Counsel v. O’Neill, 103 Ohio St.3d 204, 2004-Ohio-4704, 815 N.E.2d 286, ¶ 53, citing Ohio State Bar Assn. v. Weaver (1975), 41 Ohio St.2d 97, 100, 70 O.O.2d 175, 322 N.E.2d 665. In view of respondent’s pattern of misconduct, I am not convinced that he will be fit to practice law in the near future. I would therefore impose an indefinite suspension from the practice of law, with reinstatement conditioned on complete and sustained compliance with the conditions set forth in the board’s report.
+Jonathan E. Coughlan, Disciplinary Counsel, and Carol A. Costa, Assistant Disciplinary Counsel, for relator.
+Edward L. Gilbert Co., L.P.A., Edward L. Gilbert, and Michael J. Wright, for respondent.
