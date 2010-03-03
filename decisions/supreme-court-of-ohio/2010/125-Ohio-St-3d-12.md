@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Ohio"
+docket: "2009-1548"
+decided: "2010-03-03"
+citations: ["125 Ohio St. 3d 12"]
+reporter: "ohio-st-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer, C.J., and Pfeifer, Lundberg Stratton, O’Connor, Lanzinger, and Cupp, JJ., concur.", "O’Donnell, J., dissents and would publicly reprimand respondent."]
+parties: ["Disciplinary Counsel v. Vivyan."]
+source_url: "https://static.case.law/ohio-st-3d/125/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4100885
+cites_cases: ["115 Ohio St.3d 473", "118 Ohio St.3d 244", "119 Ohio St.3d 351", "119 Ohio St.3d 55", "121 Ohio St.3d 403", "122 Ohio St.3d 390", "2002-Ohio-4743", "2007-Ohio-5251", "2008-Ohio-2237", "2008-Ohio-3333", "2008-Ohio-4492", "2009-Ohio-1432", "2009-Ohio-3480", "2010-Ohio-650", "775 N.E.2d 818", "875 N.E.2d 935", "887 N.E.2d 1183", "891 N.E.2d 746", "894 N.E.2d 50", "904 N.E.2d 892", "911 N.E.2d 897", "96 Ohio St.3d 424", "Registration No. 0028977,"]
+---
+
+# Disciplinary Counsel v. Vivyan
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Respondent, Thomas Fairchild Vivyan of Pataskala, Ohio, Attorney Registration No. 0028977, was admitted to the practice of law in Ohio in 1971. The Board of Commissioners on Grievances and Discipline recommends that we publicly reprimand respondent, based on findings that he withdrew for his personal use settlement proceeds held in trust for a client. We agree that respondent violated ethical standards by withdrawing unearned funds from his client trust account; however, we find a six-month suspension of his license to practice, all stayed on condition of no further misconduct, to be the appropriate sanction.
+{¶ 2} Relator, Disciplinary Counsel, charged respondent in one count with multiple violations of the Rules of Professional Conduct, including Prof.Cond.R. 1.15(a) (requiring a lawyer to hold property of clients separate from the lawyer’s own property), 1.15(b) (allowing a lawyer to deposit personal funds in a trust account only to pay or waive bank charges), and 1.15(c) (requiring a lawyer to deposit into a client trust account advances to be withdrawn only when earned). The parties waived a hearing, and a panel of three board members heard the case on the parties’ agreed stipulations of fact and law. Based on respondent’s admissions and other evidence of record, the panel found the cited misconduct and recommended a public reprimand. The board adopted the panel’s findings of misconduct and recommendation.
+Misconduct
+{¶ 3} Respondent, a sole practitioner, maintained both an Interest on Lawyer Trust Account (“IOLTA”) and a business account at Huntington National Bank. In December 2007, he settled a personal-injury claim on behalf of three clients for $7,700. Respondent agreed to reduce his contingent fee from one-third to an amount equal to the amount received by each client. He also obtained one doctor’s consent to reduce a medical bill by 20 per cent but agreed with his clients to keep the remaining settlement proceeds in trust as he continued to negotiate with the doctor.
+{¶ 4} In the following months, respondent distributed $910 in settlement proceeds to each of the three clients from his IOLTA account. But from mid-January to mid-February 2008, respondent withdrew $1,535 in unearned proceeds from this account by drawing eight checks payable to cash. Respondent used these funds for personal expenses.
+{¶ 5} Respondent admitted that by withdrawing unearned funds from a bank account dedicated to safekeeping entrusted client funds, he violated Prof.Cond.R. 1.15(a), (b), and (c). We accept his admissions and find that he has breached these ethical duties.
+Sanction
+{¶ 6} When imposing sanctions for attorney misconduct, we consider relevant factors, including the ethical duties that the lawyer violated and the sanctions imposed in similar cases. Stark Cty. Bar Assn. v. Buttacavoli, 96 Ohio St.3d 424, 2002-Ohio-4743, 775 N.E.2d 818, ¶ 16. In making a final determination, we also weigh evidence of the aggravating and mitigating factors listed in Rules and Regulations Governing Procedure on Complaints and Hearings Before the Board of Commissioners on Grievances and Discipline (“BCGD Proc.Reg.”) 10(B). Disciplinary Counsel v. Broeren, 115 Ohio St.3d 473, 2007-Ohio-5251, 875 N.E.2d 935, ¶ 21. Because each disciplinary case is unique, we are not limited to the factors specified in the rule but may take into account “all relevant factors” in determining what sanction to impose. BCGD Proc.Reg. 10(B).
+{¶ 7} In comparing respondent’s case to others in which lawyers misused client trust accounts, the board noted dispositions ranging from a one-year suspension, all stayed on conditions, to a six-month conditionally stayed suspension, to a public reprimand. Though the board resolved that respondent’s long and previously unblemished career weighed in favor of a public reprimand, the board acknowledged that we ordinarily impose a conditionally stayed suspension of six months for this misconduct. Examples cited by the board included:
+{¶ 8} “In Disciplinary Counsel v. Fletcher, [122 Ohio St.3d 390, 2009-Ohio-3480, 911 N.E.2d 897], respondent did not have an operating account from 2002 to 2007, paid his personal and business expenses from the IOLTA account, wrote at least 150 checks from 2005 to 2007 and received a 6 month stayed suspension.”
+{¶ 9} “In Disciplinary Counsel v. Johnston, 121 Ohio St.3d 403, 2009-Ohio-1432 [904 N.E.2d 892], respondent received a one year suspension, all stayed. He used his IOLTA account for operating and personal expenses for two years, commingling his own funds with his clients.”
+Jonathan E. Coughlan, Disciplinary Counsel, and Stacy Solochek Beckman, Assistant Disciplinary Counsel, for relator.
+{¶ 10} “In Cuyahoga Cty. Bar Assn. v. Nance, 119 Ohio St.3d 55, 2008-Ohio-3333 [891 N.E.2d 746], respondent admitted that he had violated [ethical standards prohibiting conduct that adversely reflects on a lawyer’s fitness to practice law and requiring a lawyer to maintain client funds in an identifiable bank account separate from his own] by misusing his client trust account. He received a six month stayed suspension with conditions.”
+{¶ 11} “In Columbus Bar Assn. v. Peden, 118 Ohio St.3d 244, 2008-Ohio-2237 [887 N.E.2d 1183], respondent received a six month suspension, all stayed, where he had no IOLTA account and also violated Gov.Bar V(4)(G).”
+{¶ 12} “In Disciplinary Counsel v. Newcomer, 119 Ohio St.3d 351, 2008-Ohio-4492, [894 N.E.2d 50], respondent received a six month suspension, stayed. Respondent’s personal account was closed by his bank and he then used the IOLTA account for personal expenses.”
+{¶ 13} That respondent has practiced nearly 40 years without incident weighs in his favor. See BCGD Proc.Reg. 10(B)(2)(a). Also mitigating are respondent’s cooperation and honesty during the disciplinary process and his good character and reputation apart from the underlying misconduct. BCGD Proc.Reg. 10(B)(2)(d) and (e). The board found that respondent had made timely and good-faith restitution in that he replenished the IOLTA account upon notice that it was overdrawn. See BCGD Proc.Reg. 10(B)(2)(c).
+{¶ 14} While the board found that respondent may not have specifically intended to misuse his client trust account, we conclude that he knew that he had withdrawn client funds to which he was not entitled, and that conduct calls for our standard disposition. Respondent is therefore suspended from the practice of law in Ohio for six months; however, the suspension is stayed on condition of no further misconduct. If respondent violates this condition, the stay will be lifted, and respondent’s license to practice will be suspended for the full six months.
+{¶ 15} Costs are taxed to respondent.
+Judgment accordingly.
+Moyer, C.J., and Pfeifer, Lundberg Stratton, O’Connor, Lanzinger, and Cupp, JJ., concur.
+O’Donnell, J., dissents and would publicly reprimand respondent.
+Thomas F. Vivyan, pro se.
