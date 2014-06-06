@@ -2,7 +2,7 @@
 court: "Supreme Court of Ohio"
 docket: "2008-0822"
 decided: "2014-06-06"
-citations: ["142 Ohio St. 3d 56", "139 Ohio St. 3d 1413"]
+citations: ["142 Ohio St. 3d 56"]
 reporter: "ohio-st-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Columbus Bar Association v. DiAlbert."]
 source_url: "https://static.case.law/ohio-st-3d/142/cases/0056-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4201495
-cites_cases: ["2014-Ohio-2389", "2014-Ohio-2424", "Registration No. 0030101", "Registration No. 0030101,"]
+cites_cases: ["2014-Ohio-2389", "Registration No. 0030101,"]
 ---
 
 # Columbus Bar Ass'n v. DiAlbert
